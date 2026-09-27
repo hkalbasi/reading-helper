@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+"""Mechanical verification: column-1 verbatim text must exactly match source (ch7 + ch8)."""
+import json, hashlib, pathlib, sys
+
+ROOT = pathlib.Path(__file__).resolve().parents[1]
+
+CHAPTERS = {
+    "ch7": ("data/ch7_source.json", "data/ch7.json"),
+    "ch8": ("data/ch8_source.json", "data/ch8.json"),
+}
+
+failed = False
+for name, (src_file, data_file) in CHAPTERS.items():
+    src = json.loads((ROOT / src_file).read_text(encoding="utf-8"))
+    data = json.loads((ROOT / data_file).read_text(encoding="utf-8"))
+
+    srcmap = {r["n"]: r["html"] for r in src}
+    total = 0
+    bad = []
+    for sec in data:
+        for pn, vh in zip(sec["paras"], sec["verbatim_html"]):
+            total += 1
+            if srcmap.get(pn) != vh:
+                bad.append((sec["id"], pn))
+
+    covered = sorted(p for s in data for p in s["paras"])
+    missing = [n for n in srcmap if n not in covered]
+    extra = [n for n in covered if n not in srcmap]
+
+    concat = "".join(vh for s in sorted(data, key=lambda x: x["id"]) for vh in s["verbatim_html"])
+    sha = hashlib.sha256(concat.encode("utf-8")).hexdigest()
+
+    print(f"[{name}] sections: {len(data)}, table_paragraphs: {total}, source_paragraphs: {len(srcmap)}")
+    print(f"[{name}] sha256(verbatim_concat): {sha}")
+    if bad or missing or extra or total != len(srcmap):
+        print(f"[{name}] FAIL: bad={bad[:5]} missing={missing[:10]} extra={extra[:10]}")
+        failed = True
+    else:
+        print(f"[{name}] OK: {total}/{len(srcmap)} paragraphs exact match")
+
+sys.exit(1 if failed else 0)

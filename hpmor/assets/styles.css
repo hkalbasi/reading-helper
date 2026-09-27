@@ -1,0 +1,59 @@
+:root {
+  --bg: #fafafa;
+  --fg: #1a1a1a;
+  --border: #ddd;
+  --header-bg: #1f2937;
+  --header-fg: #fff;
+  --accent: #2563eb;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Tahoma, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  line-height: 1.7;
+}
+header.site {
+  background: var(--header-bg);
+  color: var(--header-fg);
+  padding: 1.5rem 1rem;
+}
+header.site .wrap, main.wrap, footer.wrap { max-width: 1600px; margin: 0 auto; padding: 0 1rem; }
+header.site a { color: #bfdbfe; }
+h1 { margin: 0 0 0.4rem 0; font-size: 1.6rem; }
+.subtitle { opacity: 0.85; margin: 0; }
+.badge {
+  display: inline-block; background: #065f46; color: #fff;
+  padding: 0.15rem 0.6rem; border-radius: 999px; font-size: 0.85rem; margin-top: 0.6rem;
+}
+.toolbar {
+  position: sticky; top: 0; z-index: 5;
+  background: #fff; border-bottom: 1px solid var(--border);
+  padding: 0.5rem 1rem; display: flex; gap: 1rem; flex-wrap: wrap; align-items: center;
+}
+table.parallel { border-collapse: collapse; width: 100%; table-layout: fixed; background: #fff; }
+table.parallel th, table.parallel td {
+  border: 1px solid var(--border); vertical-align: top; padding: 0.7rem;
+}
+table.parallel thead th {
+  background: var(--header-bg); color: var(--header-fg);
+  position: sticky; top: 52px; z-index: 4;
+}
+col.c-sec { width: 64px; }
+col.c-en { width: 27%; }
+col.c-sum { width: 20%; }
+col.c-fa { width: 27%; }
+col.c-fasum { width: 22%; }
+td[dir="rtl"], th[dir="rtl"] { text-align: right; font-family: "Vazirmatn", Tahoma, sans-serif; }
+.verbatim p, .trans p { margin: 0 0 0.6em 0; }
+.verbatim p:last-child, .trans p:last-child { margin-bottom: 0; }
+.sec-id { font-weight: 700; color: var(--accent); }
+.para-nums { font-size: 0.8rem; color: #666; }
+footer { padding: 2rem 1rem; color: #555; font-size: 0.9rem; }
+@media (max-width: 1100px) {
+  table.parallel, table.parallel tbody, table.parallel tr, table.parallel td { display: block; width: 100%; }
+  table.parallel thead { display: none; }
+  table.parallel tr { border: 2px solid var(--border); margin: 1rem 0; }
+  td::before { content: attr(data-label); display: block; font-weight: 700; color: #555; margin-bottom: 0.4rem; }
+}
