@@ -12,9 +12,9 @@ Rationality* by Eliezer Yudkowsky:
 3. Persian translation, as close to verbatim as possible
 4. Persian summarization
 
-Chapters so far: **7. Reciprocation**, **8. Positive Bias**.
+Chapters so far: **7. Reciprocation**, **8. Positive Bias**, **9. Title Redacted, Part I**, **10. Self Awareness, Part II**.
 
 Verify locally: `cd hpmor && python3 scripts/verify.py`
-Rebuild pages: `cd hpmor && python3 scripts/build_chapter7.py && python3 scripts/build_chapter8.py`
+Rebuild pages: `cd hpmor && python3 scripts/build_chapter7.py && python3 scripts/build_chapter8.py && python3 scripts/build_chapter9.py && python3 scripts/build_chapter10.py`
 
 Live site: <https://hkalbasi.github.io/reading-helper/hpmor/>

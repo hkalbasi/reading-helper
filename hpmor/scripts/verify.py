@@ -7,6 +7,8 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 CHAPTERS = {
     "ch7": ("data/ch7_source.json", "data/ch7.json"),
     "ch8": ("data/ch8_source.json", "data/ch8.json"),
+    "ch9": ("data/ch9_source.json", "data/ch9.json"),
+    "ch10": ("data/ch10_source.json", "data/ch10.json"),
 }
 
 failed = False

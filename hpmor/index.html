@@ -16,18 +16,20 @@
 <ul>
 <li><a href="chapter7.html"><strong>Chapter 7: Reciprocation</strong></a> — Harry &amp; Draco meet on the Hogwarts Express platform; reciprocation, blood-purity debate, science vs magic, moon landing, and Draco's letter to Lucius. (91 sections, 332 paragraphs, 4-column table)</li>
 <li><a href="chapter8.html"><strong>Chapter 8: Positive Bias</strong></a> — Harry meets Hermione on the train; the vanishing-drink experiment, the 2-4-6 task and positive bias, Neville's lost toad, the Lords of Chaos prank, and consequentialism. (51 sections, 187 paragraphs, 4-column table)</li>
+<li><a href="chapter9.html"><strong>Chapter 9: Title Redacted, Part I</strong></a> — The Sorting ceremony; staff-table observations, Flitwick's goblin ancestry, Hermione to Ravenclaw, Neville to Hufflepuff, Draco to Slytherin, Harry's cheered walk and resolve, and the Hat's cliffhanger reply. (28 sections, 84 paragraphs, 4-column table)</li>
+<li><a href="chapter10.html"><strong>Chapter 10: Self Awareness, Part II</strong></a> — Harry's telepathic debate with the Sorting Hat; self-awareness, secrecy, House deliberation, the SLYTHERIN shock, and "Just kidding! RAVENCLAW!". (42 sections, 142 paragraphs, 4-column table)</li>
 </ul>
 <h2>Method</h2>
 <ol>
-<li>Source: Chapter 7 from the public HPMOR mirror (<code>hpmor.info/chapter/7</code>, cross-checked with LessWrong / hpmor.com excerpts); Chapter 8 from the author's LessWrong post (cross-checked with an <code>hpmor.com/chapter/8</code> Wayback capture), because <code>hpmor.com</code> is Cloudflare-protected.</li>
-<li>Text split into sections of 1–5 paragraphs (smaller preferred; long paragraphs stand alone): Ch7 → 91 sections, Ch8 → 51 sections.</li>
-<li>Column 1 (verbatim English) is copied byte-for-byte and mechanically verified: <code>python3 scripts/verify.py</code> checks all paragraphs match <code>data/ch7_source.json</code> (332) and <code>data/ch8_source.json</code> (187).</li>
+<li>Source: Chapter 7 from the public HPMOR mirror (<code>hpmor.info/chapter/7</code>, cross-checked with LessWrong / hpmor.com excerpts); Chapters 8–10 from the author's LessWrong posts (cross-checked with an <code>hpmor.com/chapter/8</code> Wayback capture), because <code>hpmor.com</code> is Cloudflare-protected.</li>
+<li>Text split into sections of 1–5 paragraphs (smaller preferred; long paragraphs stand alone): Ch7 → 91 sections, Ch8 → 51 sections, Ch9 → 28 sections, Ch10 → 42 sections.</li>
+<li>Column 1 (verbatim English) is copied byte-for-byte and mechanically verified: <code>python3 scripts/verify.py</code> checks all paragraphs match <code>data/ch7_source.json</code> (332), <code>data/ch8_source.json</code> (187), <code>data/ch9_source.json</code> (84) and <code>data/ch10_source.json</code> (142).</li>
 <li>Column 2 is an English summary (1–3 sentences). Column 3 is a close-to-verbatim Persian translation. Column 4 is a Persian summary.</li>
 </ol>
 <h2>Verification</h2>
-<p>Run: <code>python3 scripts/verify.py</code> — it must print <code>OK: 332/332</code> (ch7) and <code>OK: 187/187</code> (ch8) paragraphs exact match, plus SHA-256 hashes of the concatenated verbatim text.</p>
+<p>Run: <code>python3 scripts/verify.py</code> — it must print <code>OK: 332/332</code> (ch7), <code>OK: 187/187</code> (ch8), <code>OK: 84/84</code> (ch9) and <code>OK: 142/142</code> (ch10) paragraphs exact match, plus SHA-256 hashes of the concatenated verbatim text.</p>
 <p>Source credit: <em>Harry Potter and the Methods of Rationality</em> by Eliezer Yudkowsky (fanfiction based on J.K. Rowling's characters). Verbatim text © respective rights holders, used for study/summary purposes.</p>
 </main>
-<footer><div class="wrap">HPMOR summary project · Chapters 7–8 · static site, build with <code>scripts/build_chapter7.py</code> and <code>scripts/build_chapter8.py</code></div></footer>
+<footer><div class="wrap">HPMOR summary project · Chapters 7–10 · static site, build with <code>scripts/build_chapter7.py</code>, <code>scripts/build_chapter8.py</code>, <code>scripts/build_chapter9.py</code> and <code>scripts/build_chapter10.py</code></div></footer>
 </body>
 </html>
