@@ -1,0 +1,696 @@
+[
+ {
+  "id": 1,
+  "paras": [
+   1,
+   2
+  ],
+  "verbatim_html": [
+   "ph'nglui mglw'nafh J. K. Rowling wgah'nagl fhtagn",
+   "* * *"
+  ],
+  "summary_en": "A R'lyehian epigraph dedicates the chapter to Rowling, followed by a scene break.",
+  "translation_fa": "در خانه‌اش در رِلیه‌ی مرده، جی. کی. رولینگِ خفته انتظار می‌کشد و خواب می‌بیند.\n\n* * *",
+  "summary_fa": "پیش‌گفتاری به زبان رَلیه‌ای فصل را به رولینگ تقدیم می‌کند و بعد جداکننده‌ی صحنه می‌آید."
+ },
+ {
+  "id": 2,
+  "paras": [
+   3,
+   4
+  ],
+  "verbatim_html": [
+   "<em>\"Wonder what's wrong with</em> him.\"",
+   "* * *"
+  ],
+  "summary_en": "A fragment of whispered gossip wondering what is wrong with him is followed by another scene break.",
+  "translation_fa": "«عجبا، نمی‌دانم او را چه شده است.»\n\n* * *",
+  "summary_fa": "تکه‌ای از پچ‌پچه که می‌پرسد او را چه شده است می‌آید و بعد جداکننده‌ی صحنه‌ی دیگری."
+ },
+ {
+  "id": 3,
+  "paras": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "verbatim_html": [
+   "\"Turpin, Lisa!\"",
+   "Whisper whisper whisper harry potter whisper whisper slytherin whisper whisper no seriously what the hell whisper whisper",
+   "\"RAVENCLAW!\"",
+   "Harry joined in the applause greeting the young girl walking shyly towards the Ravenclaw table, her robes' trim now changed to dark blue. Lisa Turpin appeared torn between her impulse to sit down as far away from Harry Potter as possible, and her impulse to run over, forcibly insert herself at his side and start tearing answers out of him.",
+   "Being at the center of an extraordinary and curious event, and then being Sorted into House Ravenclaw, was closely akin to being dipped in barbecue sauce and flung into a pit of starving kittens."
+  ],
+  "summary_en": "Lisa Turpin is Sorted into Ravenclaw amid whispers about Harry Potter; Harry applauds her while she seems torn between avoiding him and interrogating him, and the narrator compares his plight to being dipped in barbecue sauce and thrown to starving kittens.",
+  "translation_fa": "«ترپین، لیزا!»\n\nپچ‌پچ پچ‌پچ هری پاتر پچ‌پچ اسلیترین پچ‌پچ نه جدی، چه خبره پچ‌پچ\n\n«ریونکلاو!»\n\nهری هم به تشویق‌هایی پیوست که به استقبال دختر جوانی می‌رفت که خجالت‌زده به سوی میز ریونکلاو می‌رفت، در حالی که نوار ردایش حالا به آبی تیره تغییر کرده بود. لیزا ترپین به نظر می‌رسید میان انگیزه‌اش برای نشستن تا جای ممکن دور از هری پاتر، و انگیزه‌اش برای دویدن به سوی او، به‌زور کنارش جا شدن و بیرون کشیدن جواب‌ها از او، گیر کرده است.\n\nدر مرکز یک رویداد فوق‌العاده و کنجکاوبرانگیز بودن و بعد در خانه‌ی ریونکلاو گروه‌بندی شدن، خیلی شبیه این بود که آدم را در سس باربیکیو بغلتانند و وسط گودالی از بچه‌گربه‌های گرسنه پرتش کنند.",
+  "summary_fa": "لیزا ترپین میان پچ‌پچه‌ها درباره‌ی هری پاتر به ریونکلاو می‌رود؛ هری برایش دست می‌زند در حالی که او میان دوری از هری و سؤال‌پیچ کردنش گیر کرده است، و راوی حال هری را به غلتیدن در سس باربیکیو و افتادن میان بچه‌گربه‌های گرسنه تشبیه می‌کند."
+ },
+ {
+  "id": 4,
+  "paras": [
+   10,
+   11,
+   12,
+   13,
+   14
+  ],
+  "verbatim_html": [
+   "\"I promised the Sorting Hat not to talk about it,\" whispered Harry for the umpteenth time.",
+   "\"Yes, really.\"",
+   "\"No, I really did promise the Sorting Hat not to talk about it.\"",
+   "\"Fine, I promised the Sorting Hat not to talk about <em>most</em> of it and the rest is <em>private</em> just like <em>yours was</em> so <em>stop asking.</em>\"",
+   "\"You want to know what happened? Fine! Here's part of what happened! I told the Hat that Professor McGonagall threatened to set it on fire and it told me to tell Professor McGonagall that she was an impudent youngster and she should get off its lawn!\""
+  ],
+  "summary_en": "Pestered with questions about the Sorting, Harry repeatedly deflects by claiming he promised the Hat not to talk, finally inventing a joke about McGonagall threatening to burn the Hat.",
+  "translation_fa": "«به کلاه گروه‌بندی قول داده‌ام درباره‌اش حرف نزنم،» هری برای چندمین بار زمزمه کرد.\n\n«بله، واقعاً.»\n\n«نه، واقعاً به کلاه گروه‌بندی قول داده‌ام درباره‌اش حرف نزنم.»\n\n«باشه، به کلاه گروه‌بندی قول داده‌ام درباره‌ی بیشترش حرف نزنم و بقیه‌اش هم خصوصی است درست مثل مال خودتان، پس دست از سؤال کردن بردارید.»\n\n«می‌خواهید بدانید چه اتفاقی افتاد؟ باشه! این هم بخشی از چیزی که اتفاق افتاد! به کلاه گفتم که پروفسور مک‌گونگال تهدید کرده آن را آتش بزند و آن هم به من گفت به پروفسور مک‌گونگال بگویم که او جوان گستاخی است و باید از روی چمنش برود کنار!»",
+  "summary_fa": "هری که با سؤال‌ها درباره‌ی گروه‌بندی اذیت می‌شود، مدام با این ادعا که به کلاه قول داده حرف نزند طفره می‌رود و در پایان شوخی‌ای درباره‌ی تهدید مک‌گونگال به آتش زدن کلاه سر هم می‌کند."
+ },
+ {
+  "id": 5,
+  "paras": [
+   15,
+   16,
+   17,
+   18,
+   19
+  ],
+  "verbatim_html": [
+   "\"If you're not going to believe what I say then <em>why are you even asking?</em>\"",
+   "\"No, I don't know how I defeated the Dark Lord either! You tell me if you figure it out!\"",
+   "\"<em>Silence!</em>\" shouted Professor McGonagall at the podium of the Head Table. \"<em>No talking until the Sorting Ceremony finishes!</em>\"",
+   "There was a brief dip in the volume, as everyone waited to see if she was going to make any specific and credible threats, and then the whispers started up again.",
+   "Then the silver-bearded ancient stood up from his great golden chair, smiling cheerfully."
+  ],
+  "summary_en": "Harry snaps at the questioners and at McGonagall's call for silence; the hall quiets only briefly until Dumbledore stands smiling, and instant silence falls.",
+  "translation_fa": "«اگر قرار نیست حرفم را باور کنید پس اصلاً چرا می‌پرسید؟»\n\n«نه، من هم نمی‌دانم چطور لرد سیاه را شکست دادم! اگر فهمیدید به من هم بگویید!»\n\n«سکوت!» پروفسور مک‌گونگال از پشت تریبون میز اصلی فریاد زد. «تا وقتی مراسم گروه‌بندی تمام نشده حرف نباشد!»\n\nافت مختصری در صدا پیش آمد، چون همه منتظر بودند ببینند آیا او می‌خواهد تهدید مشخص و باورپذیری بکند، و بعد پچ‌پچه‌ها دوباره شروع شدند.\n\nبعد آن باستانی ریش‌نقره‌ای از صندلی طلایی بزرگش بلند شد، با لبخندی شادمان.",
+  "summary_fa": "هری از سؤال‌کننده‌ها و از دستور سکوت مک‌گونگال کلافه می‌شود؛ سالن فقط لحظه‌ای آرام می‌شود تا این‌که دامبلدور لبخندزنان می‌ایستد و سکوت فوری برقرار می‌شود."
+ },
+ {
+  "id": 6,
+  "paras": [
+   20,
+   21,
+   22,
+   23
+  ],
+  "verbatim_html": [
+   "Instant silence. Someone frantically elbowed Harry as he tried to continue a whisper, and Harry cut himself off in mid-sentence.",
+   "The cheerful-looking old man sat down again.",
+   "<em>Note to self: Do not mess with Dumbledore.</em>",
+   "Harry was still trying to process everything that had happened during the Incident with the Sorting Hat. Not the least of which was what had happened the instant Harry had lifted the Hat off his head; in that moment, he'd heard a tiny whisper as though from nowhere, something that sounded oddly like English and a hiss at the same time, something that had said, \"<em>Ssalutations from Sslytherin to Sslytherin: if you would sseek my ssecretss, sspeak to my ssnake.\"</em>"
+  ],
+  "summary_en": "Dumbledore's standing cuts Harry off mid-whisper and he sits back down; Harry notes never to mess with Dumbledore while still processing the Hat incident, including the secret Slytherin whisper he heard on lifting the Hat.",
+  "translation_fa": "سکوت فوری. کسی با نگرانی با آرنج به هری زد وقتی او سعی کرد پچ‌پچه‌ای را ادامه دهد، و هری وسط جمله حرفش را قطع کرد.\n\nآن مرد مسن خوش‌رو دوباره نشست.\n\nیادداشت به خود: با دامبلدور درنیفت.\n\nهری هنوز داشت سعی می‌کرد همه‌ی چیزهایی را که در جریان ماجرای کلاه گروه‌بندی اتفاق افتاده بود هضم کند. کمترینش هم چیزی نبود که درست لحظه‌ای اتفاق افتاده بود که هری کلاه را از سرش برداشته بود؛ در آن لحظه، نجوا‌ی ریزی شنیده بود انگار از هیچ‌کجا، چیزی که عجیب هم‌زمان شبیه انگلیسی و هم شبیه فش‌فش بود، چیزی که گفته بود: «سلام‌های اسلیترین به اسلیترین: اگر جویای رازهای منی، با مارم سخن بگو.»",
+  "summary_fa": "ایستادن دامبلدور حرف هری را وسط پچ‌پچه قطع می‌کند و او دوباره می‌نشیند؛ هری یادداشت می‌کند که با دامبلدور درنیفتد، در حالی که هنوز ماجرای کلاه را هضم می‌کند، از جمله نجوای پنهان اسلیترین که هنگام برداشتن کلاه شنید."
+ },
+ {
+  "id": 7,
+  "paras": [
+   24
+  ],
+  "verbatim_html": [
+   "Harry was sorta guessing that wasn't supposed to be part of the official Sorting process. And that it was a bit of extra magic set down by Salazar Slytherin during the making of the Hat. And that the Hat itself didn't know about it. And that it was triggered when the Hat said \"SLYTHERIN\", plus or minus some other conditions. And that a Ravenclaw like himself <em>really, really wasn't supposed to have heard it</em>. And that if he could find some reliable way of swearing Draco to secrecy so he could ask him about it, that would be an excellent time to have some Comed-Tea handy."
+  ],
+  "summary_en": "Harry guesses the Slytherin whisper was unauthorized extra magic set by Salazar Slytherin that a Ravenclaw was never meant to hear, and muses about finding a way to ask Draco about it.",
+  "translation_fa": "هری کم‌وبیش حدس می‌زد که آن قرار نبوده بخشی از فرایند رسمی گروه‌بندی باشد. و این‌که آن تکه‌ای جادوی اضافه بود که سالازار اسلیترین هنگام ساخت کلاه در آن گذاشته بود. و این‌که خودِ کلاه از آن خبر نداشت. و این‌که وقتی کلاه گفت «اسلیترین» فعال شد، به‌علاوه‌ی منفی چند شرط دیگر. و این‌که یک ریونکلاوی مثل خودش واقعاً واقعاً قرار نبوده آن را بشنود. و این‌که اگر می‌توانست راه مطمئنی پیدا کند که دراکو را به رازداری سوگند دهد تا بتواند درباره‌اش از او بپرسد، آن زمانِ بسیار خوبی برای داشتن کمی کامد-تی در دسترس می‌بود.",
+  "summary_fa": "هری حدس می‌زند نجوای اسلیترین جادوی اضافه‌ی غیرمجازی بوده که سالازار اسلیترین در کلاه گذاشته و یک ریونکلاوی هرگز قرار نبوده آن را بشنود، و به راهی برای پرسیدن آن از دراکو فکر می‌کند."
+ },
+ {
+  "id": 8,
+  "paras": [
+   25,
+   26,
+   27,
+   28,
+   29
+  ],
+  "verbatim_html": [
+   "<em>Boy, you resolve not to go down the path of a Dark Lord and the universe starts messing with you the instant the Hat comes off your head. Some days it just doesn't pay to fight destiny. Maybe I'll wait until tomorrow to start on my resolution to not be a Dark Lord.</em>",
+   "\"GRYFFINDOR!\"",
+   "Ron Weasley got a <em>lot</em> of applause, and not just from the Gryffindors. Apparently the Weasley family was widely liked around here. Harry, after a moment, smiled and started applauding along with the others.",
+   "Then again, there was no time like today to turn back from the Dark Side.",
+   "Stuff destiny and stuff the universe. He'd show that Hat."
+  ],
+  "summary_en": "Harry jokes with himself about postponing his resolution not to become a Dark Lord, applauds Ron Weasley's Sorting into Gryffindor, then resolves to defy destiny and show the Hat.",
+  "translation_fa": "پسر، آدم تصمیم می‌گیرد در راه یک لرد سیاه قدم نگذارد و کائنات همان لحظه‌ای که کلاه از سرش برداشته می‌شود شروع می‌کند به سر به سر گذاشتنش. بعضی روزها جنگیدن با سرنوشت نمی‌صرفد. شاید صبر کنم تا فردا تا تصمیمم را برای لرد سیاه نبودن شروع کنم.\n\n«گریفیندور!»\n\nرون ویزلی تشویق زیادی گرفت، و نه فقط از گریفیندورها. ظاهراً خانواده‌ی ویزلی این دوروبر خیلی محبوب بودند. هری، بعد از لحظه‌ای، لبخند زد و همراه بقیه شروع به دست زدن کرد.\n\nاز طرف دیگر، هیچ وقتی مثل امروز برای برگشتن از سمت تاریک نبود.\n\nسرنوشت و کائنات به جهنم. او به آن کلاه نشان می‌داد.",
+  "summary_fa": "هری با خودش شوخی می‌کند که تصمیمش را برای لرد سیاه نشدن به فردا بیندازد، برای رفتن رون ویزلی به گریفیندور دست می‌زند، و بعد تصمیم می‌گیرد با سرنوشت بجنگد و به کلاه نشان دهد."
+ },
+ {
+  "id": 9,
+  "paras": [
+   30,
+   31,
+   32,
+   33,
+   34
+  ],
+  "verbatim_html": [
+   "\"Zabini, Blaise!\"",
+   "Pause.",
+   "\"SLYTHERIN!\" shouted the hat.",
+   "Harry applauded Zabini too, ignoring the odd looks he was getting from everyone including Zabini.",
+   "No other name was called out after that, and Harry realised that \"Zabini, Blaise\" did sound close to the end of the alphabet. Great, so now he'd <em>only</em> applauded Zabini... Oh well."
+  ],
+  "summary_en": "Blaise Zabini is Sorted into Slytherin; Harry applauds him too despite odd looks, then realizes Zabini's name came last alphabetically.",
+  "translation_fa": "«زابینی، بلیز!»\n\nمکث.\n\n«اسلیترین!» کلاه فریاد زد.\n\nهری برای زابینی هم دست زد، و نگاه‌های عجیبی را که از همه می‌گرفت نادیده گرفت، از جمله از خودِ زابینی.\n\nبعد از آن اسم دیگری خوانده نشد، و هری فهمید که «زابینی، بلیز» واقعاً به انتهای الفبا نزدیک به نظر می‌رسد. عالی شد، پس حالا فقط برای زابینی دست زده بود... عیبی ندارد.",
+  "summary_fa": "بلیز زابینی به اسلیترین می‌رود؛ هری با وجود نگاه‌های عجیب برای او هم دست می‌زند و بعد می‌فهمد اسم زابینی از نظر الفبا آخر بوده است."
+ },
+ {
+  "id": 10,
+  "paras": [
+   35,
+   36,
+   37,
+   38,
+   39
+  ],
+  "verbatim_html": [
+   "Dumbledore got up again and began heading towards the podium. Apparently they were about to be treated to a speech -",
+   "And Harry was struck by the inspiration for a <em>brilliant</em> experimental test.",
+   "Hermione had said that Dumbledore was the most powerful wizard alive, right?",
+   "Harry reached into his pouch and whispered, \"Comed-Tea\".",
+   "For the Comed-Tea to work, it would have to make Dumbledore say something <em>so</em> ridiculous during his speech that even in Harry's state of mental preparedness, he would <em>still</em> choke. Like, all the Hogwarts students had to not wear any clothes for the whole school year, or everyone was going to be transformed into cats."
+  ],
+  "summary_en": "As Dumbledore rises to speak, Harry conceives a brilliant experiment: testing whether the Comed-Tea can force even Dumbledore, supposedly the most powerful wizard alive, into a spit-take.",
+  "translation_fa": "دامبلدور دوباره بلند شد و به سمت تریبون رفت. ظاهراً قرار بود با یک سخنرانی پذیرایی شوند ــ\n\nو هری را الهامی برای یک آزمایش تجربی درخشان فرا گرفت.\n\nهرمیون گفته بود که دامبلدور قدرتمندترین جادوگر زنده است، مگر نه؟\n\nهری دست در کیسه‌اش برد و زمزمه کرد: «کامد-تی».\n\nبرای این‌که کامد-تی کار کند، باید دامبلدور را وادار می‌کرد در سخنرانی‌اش چیزی چنان مضحک بگوید که حتی با آمادگی ذهنی هری، باز هم از خنده می‌ترکید. مثل این‌که همه‌ی دانش‌آموزان هاگوارتز باید کل سال تحصیلی هیچ لباسی نپوشند، یا این‌که همه قرار است به گربه تبدیل شوند.",
+  "summary_fa": "وقتی دامبلدور برای سخنرانی بلند می‌شود، هری به فکر یک آزمایش درخشان می‌افتد: آزمودن این‌که آیا کامد-تی می‌تواند حتی دامبلدور را، که ظاهراً قدرتمندترین جادوگر زنده است، به خنده و پاشیدن نوشابه وادارد."
+ },
+ {
+  "id": 11,
+  "paras": [
+   40,
+   41,
+   42,
+   43
+  ],
+  "verbatim_html": [
+   "But then if <em>anyone in the world</em> could resist the power of the Comed-Tea, it would be Dumbledore. So if this worked, the Comed-Tea was literally <em>invincible.</em>",
+   "Harry pulled the ring on the Comed-Tea under the table, wanting to do this a bit unobtrusively. The can made a quiet hissing noise. A few heads turned to look at him, but soon turned back as -",
+   "\"Welcome! Welcome to a new year at Hogwarts!\" said Dumbledore, beaming at the students with his arms opened wide, as if nothing could have pleased him more than to see them all there.",
+   "Harry took a first mouthful of Comed-Tea and lowered the can again. He would swallow the pop a little at a time and try not to choke no matter <em>what</em> Dumbledore said -"
+  ],
+  "summary_en": "Reasoning that anyone who could resist the Comed-Tea would be Dumbledore, Harry opens a can under the table and takes a first mouthful as Dumbledore's welcome begins.",
+  "translation_fa": "اما اگر کسی در دنیا می‌توانست در برابر قدرت کامد-تی مقاومت کند، دامبلدور بود. پس اگر این جواب می‌داد، کامد-تی به‌معنای واقعی کلمه شکست‌ناپذیر بود.\n\nهری حلقه‌ی قوطی کامد-تی را زیر میز کشید، چون می‌خواست این کار را کمی نامحسوس انجام دهد. قوطی صدای فش‌فش آرامی کرد. چند سر به سمتش برگشتند تا به او نگاه کنند، اما زود برگشتند چون ــ\n\n«خوش آمدید! به سال جدید هاگوارتز خوش آمدید!» دامبلدور گفت، در حالی که با آغوش باز به دانش‌آموزان لبخند می‌زد، انگار هیچ‌چیز نمی‌توانست او را بیشتر از دیدن همه‌شان در آنجا خوشحال کند.\n\nهری اولین جرعه‌ی کامد-تی را خورد و قوطی را دوباره پایین برد. نوشابه را کم‌کم قورت می‌داد و سعی می‌کرد هرچه دامبلدور گفت از خنده نترکد ــ",
+  "summary_fa": "هری با این استدلال که اگر کسی بتواند در برابر کامد-تی مقاومت کند دامبلدور است، زیر میز قوطی را باز می‌کند و با شروع خوش‌آمد دامبلدور اولین جرعه را می‌خورد."
+ },
+ {
+  "id": 12,
+  "paras": [
+   44,
+   45,
+   46,
+   47,
+   48
+  ],
+  "verbatim_html": [
+   "\"Before we begin our banquet, I would like to say a few words. And here they are: Happy happy boom boom swamp swamp swamp! Thank you!\"",
+   "Everyone clapped and cheered, and Dumbledore sat down again.",
+   "Harry sat frozen as pop trickled out of the corners of his mouth. He had, at least, managed to choke <em>quietly</em>.",
+   "He really really <em>really</em> shouldn't have done that. Amazing how much <em>more obvious</em> that became <em>one second</em> after it was <em>too late</em>.",
+   "In retrospect he probably should have noticed something wrong when he was thinking about everyone being turned into cats... or even before then, remembered his mental note not to mess with Dumbledore... or his newfound resolution to be more considerate of others... or maybe if he'd had <em>one single scrap</em> of <em>common sense</em>..."
+  ],
+  "summary_en": "Dumbledore's speech is just Happy happy boom boom swamp swamp swamp; Harry chokes quietly and immediately regrets the experiment, wishing he had heeded his own warnings.",
+  "translation_fa": "«پیش از این‌که ضیافت را شروع کنیم، می‌خواهم چند کلمه بگویم. و این هم آن‌ها هستند: هپی هپی بوم بوم سوامپ سوامپ سوامپ! متشکرم!»\n\nهمه دست زدند و هورا کشیدند، و دامبلدور دوباره نشست.\n\nهری خشکش زده بود نشسته بود در حالی که نوشابه از گوشه‌های دهانش چکه می‌کرد. او دست‌کم موفق شده بود بی‌سروصدا از خنده بترکد.\n\nاو واقعاً واقعاً نباید این کار را می‌کرد. شگفت‌انگیز بود که این چقدر یک ثانیه بعد از این‌که خیلی دیر شده بود بدیهی‌تر شد.\n\nدر گذشته‌نگری احتمالاً باید وقتی داشت به تبدیل شدن همه به گربه فکر می‌کرد متوجه اشکالی می‌شد... یا حتی پیش از آن، یادداشت ذهنی‌اش را درباره‌ی درنیفتادن با دامبلدور به یاد می‌آورد... یا تصمیم تازه‌اش برای ملاحظه‌کارتر بودن با دیگران را... یا شاید اگر یک ذره عقل سلیم داشت...",
+  "summary_fa": "سخنرانی دامبلدور فقط «هپی هپی بوم بوم سوامپ سوامپ سوامپ» است؛ هری بی‌سروصدا از خنده می‌ترکد و فوراً از آزمایش پشیمان می‌شود و آرزو می‌کند کاش به هشدارهای خودش گوش داده بود."
+ },
+ {
+  "id": 13,
+  "paras": [
+   49,
+   50,
+   51,
+   52
+  ],
+  "verbatim_html": [
+   "It was hopeless. He was corrupt to the core. Hail the Dark Lord Harry. You couldn't fight fate.",
+   "Someone was asking Harry if he was all right. (Others were starting to serve themselves food, which had magically appeared on the table, whatever.)",
+   "\"I'm all right,\" Harry said. \"Excuse me. Um. Was that a... <em>normal</em> speech for the Headmaster? You all... didn't seem... very surprised...\"",
+   "\"Oh, Dumbledore's insane, of course,\" said an older-looking Ravenclaw sitting next to him who had introduced himself with some name Harry didn't even begin to remember. \"Lots of fun, incredibly powerful wizard, but completely bonkers.\" He paused. \"At some later point I'd also like to ask why green fluid came out of your lips and then disappeared, though I expect you promised the Sorting Hat not to talk about that either.\""
+  ],
+  "summary_en": "Declaring himself corrupt to the core, Harry is asked if he is all right and wonders at the students' lack of surprise; an older Ravenclaw explains Dumbledore is insane but fun and powerful, and asks about the green fluid on Harry's lips.",
+  "translation_fa": "ناامیدکننده بود. او تا مغز استخوان فاسد بود. درود بر لرد سیاه هری. نمی‌شد با سرنوشت جنگید.\n\nکسی از هری می‌پرسید حالش خوب است. (بقیه داشتند برای خودشان غذا می‌کشیدند، که به‌طرزی جادویی روی میز ظاهر شده بود، هرچه بود.)\n\n«حالم خوب است،» هری گفت. «ببخشید. ام. آیا آن یک سخنرانی عادی برای مدیر بود؟ شما همه... خیلی... متعجب به نظر نمی‌رسیدید...»\n\n«اوه، معلوم است که دامبلدور دیوانه است،» ریونکلاوی مسن‌نمایی که کنارش نشسته بود و خودش را با اسمی معرفی کرده بود که هری حتی اولش را هم به یاد نمی‌آورد گفت. «خیلی بامزه است، جادوگری فوق‌العاده قدرتمند، اما کاملاً خل‌وضع.» مکث کرد. «در فرصتی دیگر دوست دارم بپرسم چرا مایع سبز از لب‌هایت بیرون آمد و بعد ناپدید شد، هرچند حدس می‌زنم درباره‌ی آن هم به کلاه گروه‌بندی قول داده‌ای حرف نزنی.»",
+  "summary_fa": "هری خودش را تا مغز استخوان فاسد اعلام می‌کند؛ وقتی از او می‌پرسند حالش خوب است، از بی‌تعجبی دانش‌آموزان در شگفت می‌شود؛ یک ریونکلاوی بزرگ‌تر توضیح می‌دهد دامبلدور دیوانه اما بامزه و قدرتمند است و درباره‌ی مایع سبز روی لب‌های هری می‌پرسد."
+ },
+ {
+  "id": 14,
+  "paras": [
+   53,
+   54,
+   55,
+   56
+  ],
+  "verbatim_html": [
+   "With a great effort, Harry stopped himself from glancing down at the incriminating can of Comed-Tea in his hand.",
+   "After all, the Comed-Tea hadn't just arbitrarily <em>materialised</em> a Quibbler headline about him and Draco. Draco had explained it in a way that made it seem like it had all happened... naturally? As if it had <em>altered history to fit?</em>",
+   "Harry was mentally imagining himself banging his forehead against the table. <em>Wham, wham, wham</em> went his head within his mind.",
+   "Another student lowered her voice to a whisper. \"I hear that Dumbledore is secretly a genius mastermind controlling lots of stuff and he uses the insanity as a cover so that no one will suspect him.\""
+  ],
+  "summary_en": "Harry avoids glancing at the incriminating can and reflects that the Comed-Tea seems to alter history naturally rather than materialize things; a nearby student claims Dumbledore's insanity covers a secret genius mastermind.",
+  "translation_fa": "هری با تلاش زیاد جلوی خودش را گرفت که به قوطی متهم‌کننده‌ی کامد-تی در دستش نگاه نکند.\n\nآخرش، کامد-تی تیتر کوئیبلر را درباره‌ی او و دراکو همین‌طوری از هیچ ظاهر نکرده بود. دراکو آن را طوری توضیح داده بود که به نظر می‌رسید همه‌اش... طبیعتاً اتفاق افتاده است؟ انگار تاریخ را تغییر داده بود تا جور شود؟\n\nهری در ذهنش تصور می‌کرد که دارد پیشانی‌اش را به میز می‌کوبد. بام، بام، بام سرش در ذهنش می‌رفت.\n\nدانش‌آموز دیگری صدایش را تا حد نجوا پایین آورد. «شنیده‌ام که دامبلدور مخفیانه یک نابغه‌ی مغز متفکر است که خیلی چیزها را کنترل می‌کند و از دیوانگی به‌عنوان پوشش استفاده می‌کند تا هیچ‌کس به او شک نکند.»",
+  "summary_fa": "هری از نگاه کردن به قوطی متهم‌کننده خودداری می‌کند و به این فکر می‌کند که کامد-تی انگار تاریخ را به‌طور طبیعی تغییر می‌دهد نه این‌که چیزها را از هیچ ظاهر کند؛ دانش‌آموزی در همان نزدیکی ادعا می‌کند دیوانگی دامبلدور پوششی برای یک نابغه‌ی مغز متفکر پنهان است."
+ },
+ {
+  "id": 15,
+  "paras": [
+   57,
+   58,
+   59,
+   60,
+   61
+  ],
+  "verbatim_html": [
+   "\"I've heard that too,\" whispered a third student, and there were furtive nods from around the table.",
+   "This couldn't help but catch Harry's attention.",
+   "\"I see,\" whispered Harry, lowering his own voice. \"So everyone knows that Dumbledore is secretly a mastermind.\"",
+   "Most of the students nodded. One or two looked suddenly thoughtful, including the older student sitting next to Harry.",
+   "<em>Are you sure this is the Ravenclaw table?</em> Harry managed not to ask out loud."
+  ],
+  "summary_en": "Other students agree Dumbledore is secretly a mastermind; Harry archly observes that if everyone knows, no one will suspect it is a secret, and privately doubts Ravenclaw is an elite gifted program.",
+  "translation_fa": "«من هم همین را شنیده‌ام،» دانش‌آموز سومی زمزمه کرد، و از دور میز سرهای تأییدکننده‌ی دزدکی دیده شد.\n\nاین نمی‌توانست توجه هری را جلب نکند.\n\n«می‌فهمم،» هری زمزمه کرد، و صدای خودش را هم پایین آورد. «پس همه می‌دانند که دامبلدور مخفیانه یک مغز متفکر است.»\n\nبیشتر دانش‌آموزان سر تکان دادند. یکی دو نفر ناگهان متفکر به نظر رسیدند، از جمله دانش‌آموز بزرگ‌تر کنار هری.\n\nهری موفق شد با صدای بلند نپرسد: مطمئنی این میز ریونکلاو است؟",
+  "summary_fa": "بقیه‌ی دانش‌آموزان هم تأیید می‌کنند که دامبلدور مخفیانه مغز متفکر است؛ هری با طعنه می‌گوید اگر همه بدانند، هیچ‌کس شک نمی‌کند که راز است، و در دل شک می‌کند که ریونکلاو برنامه‌ی نخبگانی ویژه‌ای باشد."
+ },
+ {
+  "id": 16,
+  "paras": [
+   62,
+   63,
+   64,
+   65,
+   66
+  ],
+  "verbatim_html": [
+   "\"Brilliant!\" Harry whispered. \"If everyone knows, no one will suspect it's a secret!\"",
+   "\"Exactly,\" whispered a student, and then he frowned. \"Wait, that doesn't sound quite right -\"",
+   "<em>Note to self: The 75th percentile of Hogwarts students a.k.a. Ravenclaw House is not the world's most exclusive program for gifted children.</em>",
+   "But at least he'd learned an important fact today. The Comed-Tea was omnipotent. And <em>that</em> meant...",
+   "Harry blinked in surprise as his mind finally made the obvious connection."
+  ],
+  "summary_en": "Harry quips that universal knowledge makes the best secret; the students falter, and Harry realizes the Comed-Tea is omnipotent, with an obvious connection dawning on him.",
+  "translation_fa": "«فوق‌العاده!» هری زمزمه کرد. «اگر همه بدانند، هیچ‌کس شک نمی‌کند که راز است!»\n\n«دقیقاً،» دانش‌آموزی زمزمه کرد و بعد اخم کرد. «صبر کن، این خیلی درست به نظر نمی‌رسد ــ»\n\nیادداشت به خود: صدک هفتادوپنجم دانش‌آموزان هاگوارتز یعنی خانه‌ی ریونکلاو انحصاری‌ترین برنامه‌ی دنیا برای بچه‌های بااستعداد نیست.\n\nاما دست‌کم امروز یک حقیقت مهم یاد گرفته بود. کامد-تی قادر مطلق بود. و این یعنی...\n\nهری با تعجب پلک زد وقتی ذهنش سرانجام ارتباط بدیهی را برقرار کرد.",
+  "summary_fa": "هری می‌گوید دانستن همگانی بهترین راز است؛ دانش‌آموزان مکث می‌کنند و هری می‌فهمد کامد-تی قادر مطلق است و ارتباط بدیهی‌ای برایش روشن می‌شود."
+ },
+ {
+  "id": 17,
+  "paras": [
+   67,
+   68,
+   69,
+   70
+  ],
+  "verbatim_html": [
+   "...<em>that</em> meant that as soon as he learned a spell to temporarily alter his own sense of humor, he could make <em>anything</em> happen, by making it so that he would <em>only</em> find that <em>one thing</em> surprising enough to do a spit-take, and then drinking a can of Comed-Tea.",
+   "<em>Well that was a short little journey to godhood. Even I expected this to take longer than my first day of school.</em>",
+   "Come to think of it, he had also completely wrecked Hogwarts within ten minutes flat of getting Sorted.",
+   "Harry did feel a certain amount of regret about this - Merlin knew what an insane Headmaster was going to do to his next seven years of schooling - but he couldn't <em>help</em> feeling a twinge of pride, too."
+  ],
+  "summary_en": "Harry grasps the path to godhood: altering his own sense of humor plus Comed-Tea could make anything happen; he notes he wrecked Hogwarts within ten minutes and feels both regret and pride.",
+  "translation_fa": "...این یعنی این‌که به‌محض این‌که طلسمی برای تغییر موقتی حس شوخ‌طبعی خودش یاد بگیرد، می‌تواند هر کاری بکند، با این‌که کاری کند فقط همان یک چیز به‌قدر کافی غافلگیرکننده باشد که از خنده بترکد، و بعد یک قوطی کامد-تی بنوشد.\n\nسفر کوتاهی به خدایی بود. حتی خودش انتظار داشت بیشتر از روز اول مدرسه طول بکشد.\n\nراستی، او ظرف ده دقیقه‌ی صاف بعد از گروه‌بندی شدن، هاگوارتز را هم کاملاً به هم ریخته بود.\n\nهری تا حدی احساس پشیمانی می‌کرد ــ مرلین می‌دانست یک مدیر دیوانه قرار است با هفت سال تحصیل بعدی‌اش چه کند ــ اما نمی‌توانست جلوی سوزن غروری را هم بگیرد.",
+  "summary_fa": "هری راه خدایی را درمی‌یابد: تغییر حس شوخ‌طبعی خودش به‌علاوه‌ی کامد-تی می‌تواند هر کاری بکند؛ او یادداشت می‌کند که ظرف ده دقیقه هاگوارتز را به هم ریخته و هم پشیمان است و هم مغرور."
+ },
+ {
+  "id": 18,
+  "paras": [
+   71,
+   72,
+   73,
+   74,
+   75
+  ],
+  "verbatim_html": [
+   "Tomorrow. No later than tomorrow at the very latest he was going to stop walking down the path that led to Dark Lord Harry. A prospect which was sounding scarier by the minute.",
+   "And yet also, somehow, increasingly attractive. Part of his mind was already visualising the minions' uniforms.",
+   "\"Eat,\" the older student sitting next to him growled, and jabbed Harry in the ribs. \"Don't think. Eat.\"",
+   "Harry automatically started loading up his plate with whatever was in front of him, blue sausages with tiny glowing bits, whatever.",
+   "\"What were you thinking about, the Sorting -\" began to say Padma Patil, one of the other first-year Ravenclaws."
+  ],
+  "summary_en": "Harry resolves to quit the Dark Lord path tomorrow at the latest even as minion uniforms tempt him; an older student orders him to eat, and Padma Patil's Sorting question is cut off by the House Rule against mealtime pestering.",
+  "translation_fa": "فردا. حداکثر تا فردا قرار بود از راهی که به لرد سیاه هری می‌رسید دست بردارد. چشم‌اندازی که هر دقیقه ترسناک‌تر می‌شد.\n\nو با این حال، به نحوی، هر لحظه جذاب‌تر هم می‌شد. بخشی از ذهنش داشت از قبل یونیفرم نوچه‌ها را تصور می‌کرد.\n\n«بخور،» دانش‌آموز بزرگ‌تر کنارش غرید و با آرنج به دنده‌های هری زد. «فکر نکن. بخور.»\n\nهری خودکار شروع کرد به پر کردن بشقابش با هرچه جلویش بود، سوسیس‌های آبی با ذرات ریز درخشان، هرچه بود.\n\n«به چی فکر می‌کردی، گروه‌بندی ــ» پادما پتیل، یکی دیگر از ریونکلاوی‌های سال‌اولی، شروع به گفتن کرد.",
+  "summary_fa": "هری تصمیم می‌گیرد حداکثر تا فردا راه لرد سیاهی را ترک کند هرچند یونیفرم نوچه‌ها وسوسه‌اش می‌کند؛ دانش‌آموزی بزرگ‌تر به او دستور می‌دهد بخورد و سؤال پادما پتیل درباره‌ی گروه‌بندی با قانون خانه علیه اذیت کردن موقع غذا قطع می‌شود."
+ },
+ {
+  "id": 19,
+  "paras": [
+   76,
+   77,
+   78
+  ],
+  "verbatim_html": [
+   "\"No pestering during mealtimes!\" chorused at least three people. \"House Rule!\" added another. \"Otherwise we'd all starve around here.\"",
+   "Harry was finding himself really, really hoping that his clever new idea didn't <em>actually</em> work. And that the Comed-Tea worked some other way and didn't <em>actually</em> have the omnipotent power to alter reality. It wasn't that he didn't <em>want</em> to be omnipotent. It was that he just couldn't bear the thought of living in a universe that really worked like that. There was something <em>undignified</em> about ascending through the clever use of fizzy drinks.",
+   "But he <em>was</em> going to test it experimentally."
+  ],
+  "summary_en": "The no-pestering-during-meals House Rule is chorused; Harry hopes his omnipotence idea does not really work, finding ascension via fizzy drinks undignified, but resolves to test it experimentally.",
+  "translation_fa": "«موقع غذا اذیت کردن ممنوع!» دست‌کم سه نفر هم‌خوانی کردند. «قانون خانه!» نفر دیگری اضافه کرد. «وگرنه همه‌مان اینجا از گرسنگی می‌میریم.»\n\nهری داشت واقعاً واقعاً امیدوار می‌شد که ایده‌ی هوشمندانه‌ی جدیدش عملاً کار نکند. و این‌که کامد-تی به شیوه‌ی دیگری کار کند و عملاً قدرت قادر مطلق تغییر واقعیت را نداشته باشد. نه این‌که او نخواهد قادر مطلق باشد. فقط نمی‌توانست فکر زندگی در کائناتی را تحمل کند که واقعاً این‌طور کار کند. چیزی ناشایست در صعود از راه استفاده‌ی هوشمندانه از نوشابه‌های گازدار بود.\n\nاما قرار بود آن را به‌صورت تجربی بیازماید.",
+  "summary_fa": "قانون خانه درباره‌ی اذیت نکردن موقع غذا هم‌خوانی می‌شود؛ هری امیدوار است ایده‌ی قادر مطلقی‌اش واقعاً کار نکند چون صعود با نوشابه‌ی گازدار را ناشایست می‌داند، اما تصمیم می‌گیرد آن را تجربی بیازماید."
+ },
+ {
+  "id": 20,
+  "paras": [
+   79,
+   80
+  ],
+  "verbatim_html": [
+   "\"You know,\" said the older student next to him in a quite pleasant tone, \"we have a system for forcing people like you to eat, would you like to find out what it is?\"",
+   "Harry gave up and started eating his blue sausage. It was quite good, especially the glowing bits."
+  ],
+  "summary_en": "The older student pleasantly threatens Harry with the system for forcing people to eat; Harry gives in and eats his blue sausage with glowing bits, finding it quite good.",
+  "translation_fa": "«می‌دانی،» دانش‌آموز بزرگ‌تر کناری‌اش با لحنی کاملاً خوشایند گفت، «ما سیستمی برای وادار کردن آدم‌هایی مثل تو به خوردن داریم، دوست داری بفهمی چیست؟»\n\nهری تسلیم شد و شروع به خوردن سوسیس آبی‌اش کرد. خیلی خوب بود، به‌ویژه ذرات درخشانش.",
+  "summary_fa": "دانش‌آموز بزرگ‌تر با خوش‌رویی هری را به سیستم وادار کردن آدم‌ها به خوردن تهدید می‌کند؛ هری تسلیم می‌شود و سوسیس آبی‌اش را با ذرات درخشانش می‌خورد و آن را خیلی خوب می‌یابد."
+ },
+ {
+  "id": 21,
+  "paras": [
+   81
+  ],
+  "verbatim_html": [
+   "Dinner passed with surprising rapidity. Harry tried to sample at least a little of all the weird new foods he saw. His curiosity couldn't stand the thought of <em>not knowing</em> how something tasted. Thank goodness this wasn't a restaurant where you had to order only one thing and you never found out what all the other things on the menu tasted like. Harry <em>hated</em> that, it was like a torture chamber for anyone with a spark of curiosity: <em>Find out about only one of the mysteries on this list, ha ha ha!</em>"
+  ],
+  "summary_en": "Dinner flies by as Harry samples every strange food from curiosity, hating restaurant menus that let you try only one dish like a torture chamber for the curious.",
+  "translation_fa": "شام با سرعت شگفت‌آوری گذشت. هری سعی کرد دست‌کم کمی از همه‌ی غذاهای عجیب جدیدی که می‌دید بچشد. کنجکاوی‌اش نمی‌توانست فکر ندانستن مزه‌ی چیزی را تحمل کند. خدا را شکر این رستورانی نبود که در آن مجبور باشی فقط یک چیز سفارش دهی و هرگز نفهمی بقیه‌ی چیزهای منو چه مزه‌ای دارند. هری از آن متنفر بود، مثل شکنجه‌گاهی برای هر کسی با جرقه‌ای از کنجکاوی بود: فقط درباره‌ی یکی از رازهای این فهرست بفهم، ها ها ها!",
+  "summary_fa": "شام با سرعت می‌گذرد در حالی که هری از روی کنجکاوی از هر غذای عجیبی می‌چشد و از منوهای رستورانی که فقط یک غذا را می‌شود امتحان کرد متنفر است، مثل شکنجه‌گاهی برای کنجکاوها."
+ },
+ {
+  "id": 22,
+  "paras": [
+   82,
+   83,
+   84
+  ],
+  "verbatim_html": [
+   "Then it was time for dessert, which Harry had completely forgotten to leave room for. He gave up after sampling a small bit of treacle tart. Surely all these things would pass around at least once again over the course of the school year.",
+   "So what was on his to-do list, besides the ordinary school things?",
+   "<em>To-do 1. Research mind-alteration charms so you can test the Comed-Tea and see whether you actually did figure out a path to omnipotence. Actually, just research every kind of mind magic you can find. Mind is the foundation of our power as humans, any kind of magic that affects it is the most important sort of magic there is.</em>"
+  ],
+  "summary_en": "Too full for dessert beyond treacle tart, Harry drafts his to-do list, starting with researching mind-altering and all mind magic as the most important magic of all.",
+  "translation_fa": "بعد نوبت دسر بود، که هری کاملاً یادش رفته بود برایش جا نگه دارد. بعد از چشیدن کمی تارت شیره تسلیم شد. حتماً همه‌ی این چیزها در طول سال تحصیلی دست‌کم یک بار دیگر دور می‌زدند.\n\nخب فهرست کارهایش چه بود، به‌جز کارهای عادی مدرسه؟\n\nکار شماره‌ی ۱. درباره‌ی افسون‌های تغییر ذهن تحقیق کن تا بتوانی کامد-تی را بیازمایی و ببینی آیا واقعاً راهی به قادر مطلقی پیدا کرده‌ای یا نه. در واقع، فقط درباره‌ی هر نوع جادوی ذهنی که پیدا می‌کنی تحقیق کن. ذهن بنیان قدرت ما به‌عنوان انسان است، هر نوع جادویی که روی آن اثر بگذارد مهم‌ترین نوع جادو است.",
+  "summary_fa": "هری که جز تارت شیره جایی برای دسر ندارد، فهرست کارهایش را می‌نویسد و با تحقیق درباره‌ی افسون‌های تغییر ذهن و همه‌ی جادوهای ذهنی به‌عنوان مهم‌ترین جادو شروع می‌کند."
+ },
+ {
+  "id": 23,
+  "paras": [
+   85
+  ],
+  "verbatim_html": [
+   "<em>To-do 2. Actually this is To-do 1 and the other is To-do 2. Go through the bookshelves of the Hogwarts and Ravenclaw libraries, familiarising yourself with the system and making sure you've at least read all the book titles. Second pass: read all tables of contents. Coordinate with Hermione who has a much better memory than you. Find out if there's an interlibrary loan system at Hogwarts and see if the two of you, especially Hermione, can visit those libraries too. If other Houses have private libraries, figure out how to access legally or sneak in.</em>"
+  ],
+  "summary_en": "Harry's second to-do item is to systematically survey the Hogwarts and Ravenclaw libraries with Hermione's help and find ways into other Houses' private libraries, legally or otherwise.",
+  "translation_fa": "کار شماره‌ی ۲. در واقع این کار شماره‌ی ۱ است و آن یکی کار شماره‌ی ۲ است. قفسه‌های کتابخانه‌های هاگوارتز و ریونکلاو را بگرد، با سیستم آشنا شو و مطمئن شو دست‌کم همه‌ی عنوان‌های کتاب‌ها را خوانده‌ای. دور دوم: همه‌ی فهرست‌ها را بخوان. با هرمیون هماهنگ کن که حافظه‌اش خیلی بهتر از توست. بفهم آیا در هاگوارتز سیستم امانت بین‌کتابخانه‌ای هست یا نه و ببین آیا شما دو نفر، به‌ویژه هرمیون، می‌توانید به آن کتابخانه‌ها هم سر بزنید یا نه. اگر خانه‌های دیگر کتابخانه‌های خصوصی دارند، بفهم چطور قانونی وارد شوی یا یواشکی بروی.",
+  "summary_fa": "دومین کار هری بررسی نظام‌مند کتابخانه‌های هاگوارتز و ریونکلاو با کمک هرمیون است و یافتن راه‌هایی برای ورود به کتابخانه‌های خصوصی خانه‌های دیگر، قانونی یا یواشکی."
+ },
+ {
+  "id": 24,
+  "paras": [
+   86,
+   87,
+   88
+  ],
+  "verbatim_html": [
+   "<em>Option 3a: Swear Hermione to secrecy and try to start researching 'From Slytherin to Slytherin: if you would seek my secrets, speak to my snake.' Problem: This sounds highly confidential and it could take quite a while to randomly run across a book containing a hint.</em>",
+   "<em>To-do 0: Check out what sort of information-search-and-retrieval spells exist, if any. Library magic isn't as ultimately important as mind magic but it has a much higher priority.</em>",
+   "<em>Option 3b: Look for a spell to magically bind Draco Malfoy to secrecy, or magically verify the sincerity of Draco's promise to keep a secret (Veritaserum?), and then ask</em> him <em>about Slytherin's message...</em>"
+  ],
+  "summary_en": "Harry weighs options for Slytherin's secret message: researching it secretly with Hermione, or magically binding Draco Malfoy to secrecy with something like Veritaserum.",
+  "translation_fa": "گزینه‌ی ۳الف: هرمیون را به رازداری سوگند بده و سعی کن درباره‌ی «از اسلیترین به اسلیترین: اگر جویای رازهای منی، با مارم سخن بگو» تحقیق کنی. مشکل: این خیلی محرمانه به نظر می‌رسد و ممکن است مدت زیادی طول بکشد تا تصادفاً به کتابی بر بخوری که سرنخی داشته باشد.\n\nکار شماره‌ی ۰: ببین چه جور طلسم‌های جست‌وجو و بازیابی اطلاعات وجود دارد، اگر اصلاً وجود داشته باشد. جادوی کتابخانه در نهایت به‌اندازه‌ی جادوی ذهن مهم نیست اما اولویت خیلی بالاتری دارد.\n\nگزینه‌ی ۳ب: دنبال طلسمی بگرد که دراکو مالفوی را به‌طرزی جادویی به رازداری مقید کند، یا صداقت قول او را برای نگه داشتن راز به‌طرزی جادویی راستی‌آزمایی کند (وریتاسروم؟)، و بعد درباره‌ی پیام اسلیترین از او بپرسی...",
+  "summary_fa": "هری گزینه‌ها را برای پیام پنهان اسلیترین سبک‌سنگین می‌کند: تحقیق محرمانه با هرمیون، یا مقید کردن جادویی دراکو مالفوی به رازداری با چیزی مثل وریتاسروم."
+ },
+ {
+  "id": 25,
+  "paras": [
+   89,
+   90,
+   91,
+   92,
+   93
+  ],
+  "verbatim_html": [
+   "Actually... Harry had a pretty bad feeling about option 3b.",
+   "Now that Harry thought about it, he didn't feel all that great about option 3a, either.",
+   "Harry's thoughts flashed back to possibly the worst moment of his life to date, those long seconds of blood-freezing horror beneath the Hat, when he thought he'd already failed. He'd wished then to fall back just a few minutes in time and change something, anything before it was too late...",
+   "And then it had turned out to not be too late after all.",
+   "Wish granted."
+  ],
+  "summary_en": "Uneasy about both options, Harry recalls the blood-freezing horror under the Hat when he thought he had failed, and the relief of wish granted when it turned out not too late.",
+  "translation_fa": "راستش... هری احساس خیلی بدی درباره‌ی گزینه‌ی ۳ب داشت.\n\nحالا که هری به آن فکر می‌کرد، درباره‌ی گزینه‌ی ۳الف هم احساس چندان خوبی نداشت.\n\nافکار هری به احتمالاً بدترین لحظه‌ی زندگی‌اش تا امروز برگشت، آن ثانیه‌های طولانی وحشت خون‌منجمدکننده زیر کلاه، وقتی فکر می‌کرد که از قبل شکست خورده است. آن وقت آرزو کرده بود کاش فقط چند دقیقه در زمان به عقب برگردد و چیزی را تغییر دهد، هر چیزی پیش از این‌که خیلی دیر شود...\n\nو بعد معلوم شده بود که اصلاً خیلی دیر نشده است.\n\nآرزو برآورده شد.",
+  "summary_fa": "هری که از هر دو گزینه ناراحت است، وحشت خون‌منجمدکننده‌ی زیر کلاه را به یاد می‌آورد وقتی فکر می‌کرد شکست خورده است، و آسودگی «آرزو برآورده شد» را وقتی معلوم شد خیلی دیر نشده است."
+ },
+ {
+  "id": 26,
+  "paras": [
+   94,
+   95,
+   96,
+   97,
+   98
+  ],
+  "verbatim_html": [
+   "You couldn't change history. But you could get it right to start with. Do something differently the <em>first</em> time around.",
+   "This whole business with seeking Slytherin's secrets... seemed an awful lot like the sort of thing where, years later, you would look back and say, 'And <em>that</em> was where it all started going wrong.'",
+   "And he would wish desperately for the ability to fall back through time and make a different choice...",
+   "Wish granted. Now what?",
+   "Harry slowly smiled."
+  ],
+  "summary_en": "Reflecting that you cannot change history but can get it right the first time, Harry sees Slytherin's secrets as exactly where things start going wrong, and smiles as a counterintuitive answer dawns.",
+  "translation_fa": "نمی‌شد تاریخ را تغییر داد. اما می‌شد از اول درست انجامش داد. بار اول کار دیگری کرد.\n\nکل این ماجرای جست‌وجوی رازهای اسلیترین... خیلی شبیه همان جور چیزهایی به نظر می‌رسید که سال‌ها بعد آدم به عقب نگاه می‌کند و می‌گوید: «و همان‌جا بود که همه‌چیز خراب شد.»\n\nو او به‌شدت آرزو می‌کرد کاش توانایی برگشتن در زمان و انتخاب دیگری را داشت...\n\nآرزو برآورده شد. حالا چه؟\n\nهری آرام لبخند زد.",
+  "summary_fa": "هری با این تأمل که نمی‌شود تاریخ را تغییر داد اما می‌شود بار اول درست انجامش داد، رازهای اسلیترین را دقیقاً همان‌جایی می‌بیند که کارها خراب می‌شوند، و با روشن شدن پاسخی خلاف شهود لبخند می‌زند."
+ },
+ {
+  "id": 27,
+  "paras": [
+   99,
+   100,
+   101
+  ],
+  "verbatim_html": [
+   "It was a rather <em>counterintuitive</em> thought... but...",
+   "But he <em>could,</em> there was no rule saying he couldn't, he <em>could</em> just pretend he'd never heard that little whisper. Let the universe go on in exactly the same way it would have if that one critical moment had never occurred. Twenty years later, that was what he would desperately wish had happened twenty years ago, and twenty years before twenty years later happened to be right now. Altering the distant past was easy, you just had to think of it at the right time.",
+   "Or... this was even <em>more</em> counterintuitive... he could even inform, oh, say, <em>Professor McGonagall,</em> instead of Draco <em>or</em> Hermione. And she could get a few good people together and get that little extra spell taken off the Hat."
+  ],
+  "summary_en": "Harry realizes he can simply pretend he never heard the whisper, or even more counterintuitively, tell Professor McGonagall so the extra spell can be removed from the Hat.",
+  "translation_fa": "فکر نسبتاً خلاف شهودی بود... اما...\n\nاما او می‌توانست، هیچ قانونی نمی‌گفت که نمی‌تواند، او می‌توانست فقط وانمود کند که آن نجوای کوچک را هرگز نشنیده است. بگذارد کائنات دقیقاً همان‌طور پیش برود که اگر آن لحظه‌ی بحرانی هرگز رخ نداده بود پیش می‌رفت. بیست سال بعد، همان چیزی بود که او به‌شدت آرزو می‌کرد کاش بیست سال پیش اتفاق افتاده بود، و بیست سال پیش از بیست سال بعد دقیقاً همین حالا بود. تغییر گذشته‌ی دور آسان بود، فقط باید در زمان درست به آن فکر می‌کردی.\n\nیا... این حتی خلاف شهودتر بود... او حتی می‌توانست به مثلاً پروفسور مک‌گونگال اطلاع دهد، به‌جای دراکو یا هرمیون. و او می‌توانست چند آدم خوب را دور هم جمع کند و آن طلسم کوچک اضافه را از روی کلاه بردارند.",
+  "summary_fa": "هری درمی‌یابد که می‌تواند وانمود کند آن نجوا را هرگز نشنیده است، یا حتی خلاف شهودتر، به پروفسور مک‌گونگال اطلاع دهد تا آن طلسم اضافه را از روی کلاه بردارند."
+ },
+ {
+  "id": 28,
+  "paras": [
+   102,
+   103,
+   104,
+   105,
+   106
+  ],
+  "verbatim_html": [
+   "Why, yes. That sounded like a <em>remarkably</em> good idea once Harry had actually <em>thought</em> of it.",
+   "So very obvious in retrospect, and yet somehow, Option 3c and Option 3d just hadn't occurred to him.",
+   "Harry awarded himself +1 point on his anti-Dark-Lord-Harry program.",
+   "It had been an awfully cruel prank the Hat had played on him, but you couldn't argue with the results on consequentialist grounds. It certainly did give him a better idea of the victim's perspective, though.",
+   "<em>To-do 4: Apologise to Neville Longbottom.</em>"
+  ],
+  "summary_en": "Pleased with this obvious-in-retrospect idea, Harry awards himself an anti-Dark-Lord point, acknowledges the Hat's cruel prank taught him the victim's perspective, and adds apologizing to Neville Longbottom to his list.",
+  "translation_fa": "بله. وقتی هری واقعاً به آن فکر کرده بود، ایده‌ی به‌طرز چشمگیری خوبی به نظر می‌رسید.\n\nدر گذشته‌نگری خیلی بدیهی بود، و با این حال به نحوی، گزینه‌ی ۳ج و گزینه‌ی ۳د اصلاً به ذهنش نرسیده بود.\n\nهری به خودش یک امتیاز مثبت در برنامه‌ی ضد-لرد-سیاه-هری داد.\n\nکلاه شوخی بی‌رحمانه‌ای با او کرده بود، اما از نظر نتیجه‌گرایانه نمی‌شد با نتیجه‌ها بحث کرد. هرچند قطعاً دید بهتری از منظر قربانی به او داده بود.\n\nکار شماره‌ی ۴: از نویل لانگ‌باتم عذرخواهی کن.",
+  "summary_fa": "هری که از این ایده‌ی بدیهیِ در گذشته‌نگری خشنود است، به خودش یک امتیاز ضد-لرد-سیاه می‌دهد، قبول می‌کند که شوخی بی‌رحمانه‌ی کلاه دید منظر قربانی را به او آموخته، و عذرخواهی از نویل لانگ‌باتم را به فهرستش اضافه می‌کند."
+ },
+ {
+  "id": 29,
+  "paras": [
+   107,
+   108,
+   109,
+   110,
+   111
+  ],
+  "verbatim_html": [
+   "Okay, he was on a roll here, now he just had to keep it up. <em>In every day, in every way, I'm getting Lighter and Lighter...</em>",
+   "People around Harry had also mostly stopped eating at this point, and the dessert serving dishes began to vanish, and the used plates.",
+   "When all the plates were gone, Dumbledore once again stood up from his seat.",
+   "Harry couldn't help but feel the urge to drink another Comed-Tea.",
+   "<em>You've GOT to be kidding,</em> Harry thought at that piece of himself."
+  ],
+  "summary_en": "Chanting that he is getting Lighter every day, Harry watches dessert vanish; Dumbledore stands again and Harry feels the pull of another Comed-Tea even as part of him protests.",
+  "translation_fa": "باشه، داشت خوب پیش می‌رفت، فقط باید ادامه می‌داد. هر روز، به هر طریق، دارم روشن‌تر و روشن‌تر می‌شوم...\n\nاطرافیان هری هم تا این‌جا بیشترشان از خوردن دست کشیده بودند، و ظرف‌های سرو دسر شروع به ناپدید شدن کردند، و بشقاب‌های استفاده‌شده.\n\nوقتی همه‌ی بشقاب‌ها رفتند، دامبلدور بار دیگر از جایش بلند شد.\n\nهری نمی‌توانست جلوی میل به نوشیدن یک کامد-تی دیگر را بگیرد.\n\nداری شوخی می‌کنی، هری به آن تکه از خودش فکر کرد.",
+  "summary_fa": "هری با این ذکر که هر روز روشن‌تر می‌شود، ناپدید شدن دسر را تماشا می‌کند؛ دامبلدور دوباره می‌ایستد و هری کشش یک کامد-تی دیگر را حس می‌کند هرچند بخشی از او اعتراض می‌کند."
+ },
+ {
+  "id": 30,
+  "paras": [
+   112,
+   113,
+   114,
+   115,
+   116
+  ],
+  "verbatim_html": [
+   "But the experiment didn't count if it wasn't replicated, did it? And the damage was already done, wasn't it? Didn't he want to see what would happen <em>this</em> time? Wasn't he <em>curious?</em> What if he got a different result?",
+   "<em>Hey, I bet you're the same part of my brain that pushed through the prank on Neville Longbottom.</em>",
+   "Er, maybe?",
+   "<em>And is it not</em> overwhelmingly <em>obvious that if I do this I shall regret it one second after it is too late?</em>",
+   "Um..."
+  ],
+  "summary_en": "Harry's curious half argues the experiment needs replication while his wiser half, the one behind the Neville prank, warns he will regret it one second too late.",
+  "translation_fa": "اما آزمایش اگر تکرار نمی‌شد به حساب نمی‌آمد، مگر نه؟ و آسیب از قبل وارد شده بود، مگر نه؟ نمی‌خواست ببیند این بار چه اتفاقی می‌افتد؟ کنجکاو نبود؟ اگر نتیجه‌ی متفاوتی می‌گرفت چه؟\n\nهی، شرط می‌بندم تو همان تکه از مغز منی که شوخی با نویل لانگ‌باتم را پیش بردی.\n\nهوم، شاید؟\n\nو آیا به‌طرز فراوان بدیهی نیست که اگر این کار را بکنم یک ثانیه بعد از این‌که خیلی دیر شد پشیمان می‌شوم؟\n\nهوم...",
+  "summary_fa": "نیمه‌ی کنجکاو هری استدلال می‌کند آزمایش به تکرار نیاز دارد در حالی که نیمه‌ی عاقل‌ترش، همان که پشت شوخی با نویل بود، هشدار می‌دهد یک ثانیه بعد از دیر شدن پشیمان می‌شود."
+ },
+ {
+  "id": 31,
+  "paras": [
+   117,
+   118,
+   119,
+   120,
+   121
+  ],
+  "verbatim_html": [
+   "<em>Yeah. So, NO.</em>",
+   "\"Ahem,\" said Dumbledore from the podium, stroking his long silver beard. \"Just a few more words now that we are all fed and watered. I have a few start-of-term notices to give you.\"",
+   "\"First years should note that the forest on the grounds is forbidden to all pupils. That is why it is called the Forbidden Forest. If it were permitted it would be called the Permitted Forest.\"",
+   "Straightforward. <em>Note to self: Forbidden Forest is forbidden.</em>",
+   "\"I have also been asked by Mr. Filch, the caretaker, to remind you all that no magic should be used between classes in the corridors. Alas, we all know that what <em>should be</em>, and what <em>is</em>, are two different things. Thank you for keeping this in mind.\""
+  ],
+  "summary_en": "The wiser half wins and Harry declines; Dumbledore announces the Forbidden Forest is forbidden because it is forbidden, and Filch's reminder that corridor magic is banned though should and is differ.",
+  "translation_fa": "آره. پس، نه.\n\n«آهم،» دامبلدور از پشت تریبون گفت، در حالی که ریش نقره‌ای بلندش را نوازش می‌کرد. «فقط چند کلمه‌ی دیگر حالا که همه سیر و سیراب شده‌ایم. چند اطلاعیه‌ی اول ترم دارم که به شما بدهم.»\n\n«سال‌اولی‌ها باید توجه کنند که جنگلِ محوطه برای همه‌ی دانش‌آموزان ممنوع است. به همین دلیل است که به آن جنگل ممنوعه می‌گویند. اگر مجاز بود به آن جنگل مجاز می‌گفتند.»\n\nرک و راست. یادداشت به خود: جنگل ممنوعه ممنوع است.\n\n«آقای فیلچ، سرایدار، هم از من خواسته به همه‌تان یادآوری کنم که بین کلاس‌ها نباید در راهروها از جادو استفاده شود. افسوس، همه می‌دانیم که آنچه باید باشد و آنچه هست دو چیز متفاوت‌اند. ممنون که این را به یاد دارید.»",
+  "summary_fa": "نیمه‌ی عاقل‌تر پیروز می‌شود و هری قبول نمی‌کند؛ دامبلدور اعلام می‌کند جنگل ممنوعه ممنوع است چون ممنوع است، و یادآوری فیلچ که جادو در راهرو ممنوع است هرچند باید و هست فرق دارند."
+ },
+ {
+  "id": 32,
+  "paras": [
+   122,
+   123,
+   124
+  ],
+  "verbatim_html": [
+   "Er...",
+   "\"Quidditch trials will be held in the second week of the term. Anyone interested in playing for their house teams should contact Madam Hooch. Anyone interested in reformulating the entire game of Quidditch should contact Harry Potter.\"",
+   "Harry inhaled his own saliva and went into a coughing fit just as all eyes turned towards him. How the <em>hell!</em> He hadn't met Dumbledore's eyes at any point... he didn't <em>think.</em> He certainly hadn't been thinking about Quidditch at the time! He hadn't talked to anyone but Ron Weasley and he didn't <em>think</em> Ron would have told anyone else... or had Ron run off to a professor to complain? <em>How</em> on <em>Earth...</em>"
+  ],
+  "summary_en": "Harry can only say Er to Filch's notice; then Dumbledore announces Quidditch trials and that Quidditch reformers should contact Harry Potter, sending Harry into a coughing fit of bewilderment.",
+  "translation_fa": "هوم...\n\n«آزمون‌های کویدیچ در هفته‌ی دوم ترم برگزار می‌شود. هر کس علاقه‌مند به بازی برای تیم‌های خانه‌اش است باید با مادام هوچ تماس بگیرد. هر کس علاقه‌مند به بازطراحی کل بازی کویدیچ است باید با هری پاتر تماس بگیرد.»\n\nهری بزاق خودش را به گلو پرید و به سرفه افتاد درست وقتی همه‌ی چشم‌ها به سمتش برگشت. این دیگه چه جهنمی بود! او در هیچ مقطعی به چشم‌های دامبلدور نگاه نکرده بود... فکر نمی‌کرد. قطعاً آن موقع به کویدیچ فکر نمی‌کرد! با کسی جز رون ویزلی حرف نزده بود و فکر نمی‌کرد رون به کس دیگری گفته باشد... یا رون دویده بود پیش یک استاد که شکایت کند؟ چطور به... زمین...",
+  "summary_fa": "هری در برابر اطلاعیه‌ی فیلچ فقط می‌تواند بگوید هوم؛ بعد دامبلدور آزمون‌های کویدیچ را اعلام می‌کند و این‌که اصلاح‌طلبان کویدیچ باید با هری پاتر تماس بگیرند، و هری را به سرفه‌ی حیرت می‌اندازد."
+ },
+ {
+  "id": 33,
+  "paras": [
+   125,
+   126
+  ],
+  "verbatim_html": [
+   "\"Additionally, I must tell you that this year, the third-floor corridor on the right-hand side is out of bounds to everyone who does not wish to die a very painful death. It is guarded by an elaborate series of dangerous and potentially lethal traps, and you cannot possibly get past all of them, especially if you are only in your first year.\"",
+   "Harry was numb at this point."
+  ],
+  "summary_en": "Dumbledore warns the third-floor right-hand corridor is out of bounds to anyone not wishing a painful death, guarded by lethal traps impassable especially to first-years; Harry is numb.",
+  "translation_fa": "«افزون بر این، باید به شما بگویم که امسال راهروی طبقه‌ی سوم سمت راست برای هر کسی که نمی‌خواهد مرگ بسیار دردناکی بمیرد ممنوع است. با مجموعه‌ی مفصلی از تله‌های خطرناک و بالقوه کشنده محافظت می‌شود، و نمی‌توانید از همه‌شان بگذرید، به‌ویژه اگر فقط سال‌اولی باشید.»\n\nهری تا این‌جا بی‌حس شده بود.",
+  "summary_fa": "دامبلدور هشدار می‌دهد راهروی طبقه‌ی سوم سمت راست برای هر کسی که مرگ دردناک نمی‌خواهد ممنوع است و با تله‌های کشنده‌ای محافظت می‌شود که به‌ویژه برای سال‌اولی‌ها عبورناپذیرند؛ هری بی‌حس شده است."
+ },
+ {
+  "id": 34,
+  "paras": [
+   127
+  ],
+  "verbatim_html": [
+   "\"And finally, I extend my greatest thanks to Quirinus Quirrell for heroically agreeing to undertake the position of Defence Against the Dark Arts Professor at Hogwarts.\" Dumbledore's gaze moved searchingly across the students. \"I hope all students will extend Professor Quirrell that utmost courtesy and <em>tolerance</em> which is due his extraordinary service to you and this school, and that you <em>will not pester us</em> with any <em>niggling complaints</em> about him, unless <em>you</em> want to try doing his job.\""
+  ],
+  "summary_en": "Dumbledore thanks Quirinus Quirrell for heroically taking the Defence post and pointedly asks students for utmost tolerance without niggling complaints unless they want the job.",
+  "translation_fa": "«و در پایان، بیشترین سپاسم را به کویرینوس کویرل ابراز می‌کنم که قهرمانانه پذیرفت عهده‌دار سمت استاد دفاع در برابر جادوهای سیاه در هاگوارتز شود.» نگاه دامبلدور جست‌وجوگرانه روی دانش‌آموزان چرخید. «امیدوارم همه‌ی دانش‌آموزان نهایت ادب و بردباری را که سزاوار خدمت فوق‌العاده‌ی او به شما و این مدرسه است نسبت به پروفسور کویرل نشان دهند، و این‌که ما را با هیچ شکایت خرده‌گیرانه‌ای درباره‌ی او اذیت نکنید، مگر این‌که خودتان بخواهید کار او را انجام دهید.»",
+  "summary_fa": "دامبلدور از کویرینوس کویرل برای پذیرش قهرمانانه‌ی سمت دفاع تشکر می‌کند و از دانش‌آموزان نهایت بردباری را بدون شکایت‌های خرده‌گیرانه می‌خواهد مگر این‌که خودشان بخواهند آن کار را بکنند."
+ },
+ {
+  "id": 35,
+  "paras": [
+   128,
+   129,
+   130,
+   131,
+   132
+  ],
+  "verbatim_html": [
+   "What was <em>that</em> about?",
+   "\"I now yield the floor to our new faculty member Professor Quirrell, who would like to say a few words.\"",
+   "The young, thin, nervous man who Harry had first met in the Leaky Cauldron slowly made his way up to the podium, glancing fearfully around in all directions. Harry caught a glimpse of the back of his head, and it looked like Professor Quirrell might already be going bald, despite his seeming youth.",
+   "\"Wonder what's wrong with <em>him,</em>\" whispered the older-looking student sitting next to Harry. Similar hushed comments were being exchanged elsewhere along the table.",
+   "Professor Quirrell made his way up to the podium and stood there, blinking. \"Ah...\" he said. \"Ah...\" Then his courage seemed to fail him utterly, and he stood there in silence, occasionally twitching."
+  ],
+  "summary_en": "Harry wonders what that warning was about as Quirrell, the nervous young man from the Leaky Cauldron who looks to be going bald, shuffles to the podium amid whispers and freezes with twitches.",
+  "translation_fa": "آن درباره‌ی چه بود؟\n\n«حالا تریبون را به عضو جدید هیئت علمی، پروفسور کویرل، می‌سپارم که می‌خواهد چند کلمه‌ای بگوید.»\n\nآن مرد جوان، لاغر و عصبی که هری اول‌بار در دیگ نشتی دیده بودش آرام به سوی تریبون رفت، در حالی که با ترس به همه‌سو نگاه می‌کرد. هری نگاهی به پشت سرش انداخت، و به نظر می‌رسید پروفسور کویرل با وجود جوانی ظاهری‌اش شاید از قبل داشت طاس می‌شد.\n\n«عجبا نمی‌دانم او را چه شده،» دانش‌آموز مسن‌نمایی که کنار هری نشسته بود زمزمه کرد. اظهارنظرهای آرام مشابهی در جاهای دیگر میز ردوبدل می‌شد.\n\nپروفسور کویرل خودش را تا تریبون رساند و آنجا ایستاد و پلک زد. «آ...» گفت. «آ...» بعد به نظر رسید شجاعتش کاملاً ته کشید و در سکوت ایستاد و گهگاه تیک گرفت.",
+  "summary_fa": "هری در شگفت است که آن هشدار درباره‌ی چه بود، در حالی که کویرل، مرد جوان و عصبی دیگ نشتی که انگار دارد طاس می‌شود، میان پچ‌پچه‌ها به سوی تریبون می‌رود و با تیک گرفتن خشکش می‌زند."
+ },
+ {
+  "id": 36,
+  "paras": [
+   133
+  ],
+  "verbatim_html": [
+   "\"Oh, great,\" whispered the older student, \"looks like another <em>long</em> year in Defence class -\""
+  ],
+  "summary_en": "An older student predicts another long year of Defence just before Quirrell transforms into dry confidence.",
+  "translation_fa": "«اوه، عالی،» دانش‌آموز بزرگ‌تر زمزمه کرد، «به نظر می‌رسد یک سال طولانی دیگر در کلاس دفاع ــ»",
+  "summary_fa": "دانش‌آموزی بزرگ‌تر درست پیش از این‌که کویرل به اعتمادبه‌نفسی خشک بدل شود، یک سال طولانی دیگر دفاع را پیش‌بینی می‌کند."
+ },
+ {
+  "id": 37,
+  "paras": [
+   134
+  ],
+  "verbatim_html": [
+   "\"Salutations, my young apprentices,\" Professor Quirrell said in a dry, confident tone. \"We all know that Hogwarts tends to suffer a certain <em>misfortune</em> in its selections for this position, and no doubt many of you are already wondering what doom shall befall me this year. I assure you, that doom is not to be my incompetence.\" He smiled thinly. \"Believe it or not, I have long wished to someday try my hand as the Professor of Defence Against the Dark Arts here at the Hogwarts School of Witchcraft and Wizardry. The first to teach this class was Salazar Slytherin himself, and as late as the fourteenth century it was traditional for the greatest fighting wizards of every persuasion to try their hands at teaching here. Past Professors of Defence have included not just the legendary wandering hero Harold Shea but also the quote undying unquote Baba Yaga, yes, I see some of you are still shuddering at the sound of her name even though she's been dead for six hundred years. That must have been an interesting time to attend Hogwarts, don't you think?\""
+  ],
+  "summary_en": "Quirrell greets his young apprentices, promising his doom will not be incompetence, and invokes the Defence post's grand history from Salazar Slytherin to Harold Shea and the undying Baba Yaga.",
+  "translation_fa": "«سلام بر شما، شاگردان جوان من،» پروفسور کویرل با لحنی خشک و مطمئن گفت. «همه می‌دانیم که هاگوارتز در انتخاب‌هایش برای این جایگاه دچار بدشانسیِ خاصی می‌شود، و بی‌شک خیلی از شما از قبل دارید می‌پرسید امسال چه سرنوشت شومی بر من نازل می‌شود. به شما اطمینان می‌دهم که آن سرنوشت شوم نالایقیِ من نخواهد بود.» لبخند کم‌رنگی زد. «باور کنید یا نه، مدت‌هاست آرزو داشته‌ام روزی بختم را به‌عنوان استاد دفاع در برابر جادوهای سیاه در مدرسه‌ی جادوگری و جادوگری هاگوارتز بیازمایم. اولین کسی که این درس را تدریس کرد خودِ سالازار اسلیترین بود، و تا قرن چهاردهم رسم بود که بزرگ‌ترین جادوگران رزمنده‌ی هر گرایشی بخت‌شان را در تدریس در اینجا بیازمایند. استادان پیشین دفاع نه‌فقط قهرمان سرگردان افسانه‌ای هارولد شی بلکه به‌قول معروفِ نامیرا بابا یاگا را هم شامل می‌شده‌اند، بله، می‌بینم که بعضی از شما هنوز با شنیدن اسمش می‌لرزید هرچند ششصد سال است که مرده است. آن دوره زمان جالبی برای تحصیل در هاگوارتز بوده، مگر نه؟»",
+  "summary_fa": "کویرل به شاگردان جوانش سلام می‌کند، قول می‌دهد سرنوشت شومش نالایقی نخواهد بود، و تاریخ پرشکوه جایگاه دفاع را از سالازار اسلیترین تا هارولد شی و بابا یاگای نامیرا یاد می‌کند."
+ },
+ {
+  "id": 38,
+  "paras": [
+   135
+  ],
+  "verbatim_html": [
+   "Harry was swallowing hard, trying to suppress the sudden surge of emotion that had overcome him when Professor Quirrell had begun speaking. The precise tones reminded him very much of a lecturer at Oxford, and it was starting to hit home that Harry wasn't going to see his home or his Mum or his Dad until Christmas."
+  ],
+  "summary_en": "Quirrell's Oxford-lecturer tones hit Harry with homesickness, reminding him he will not see his parents until Christmas.",
+  "translation_fa": "هری داشت آب دهانش را به‌سختی قورت می‌داد، و سعی می‌کرد موج ناگهانی احساساتی را که با شروع سخن گفتن پروفسور کویرل بر او چیره شده بود سرکوب کند. لحن‌های دقیق او را خیلی به یاد یک سخنران در آکسفورد می‌انداخت، و داشت به خانه می‌رسید که هری تا کریسمس خانه‌اش یا مامان و بابایش را نمی‌بیند.",
+  "summary_fa": "لحن‌های سخنران آکسفوردی کویرل هری را با دلتنگی خانه می‌زند و به او یادآوری می‌کند که تا کریسمس پدر و مادرش را نمی‌بیند."
+ },
+ {
+  "id": 39,
+  "paras": [
+   136
+  ],
+  "verbatim_html": [
+   "\"You are accustomed to the Defence position being filled by incompetents, scoundrels, and the unlucky. To anyone with a sense of history, it bears another reputation entirely. Not everyone who teaches here has been the best, but the best have all taught at Hogwarts. In such august company, and after so much time anticipating this day, I would be ashamed to set myself any standard lower than perfection. And so I do intend that every one of you will always remember this year as the <em>best</em> Defence class that you have ever had. What you learn this year will forever serve as your firm foundation in the arts of Defence, no matter who your teachers before and after.\""
+  ],
+  "summary_en": "Quirrell declares the best have all taught Defence at Hogwarts and vows this year will be the best Defence class his students ever have, a firm foundation whatever came before or after.",
+  "translation_fa": "«شما عادت دارید که جایگاه دفاع را پرشده از نالایق‌ها، شیادها و بدشانس‌ها ببینید. برای هر کسی که حس تاریخی دارد، این جایگاه اعتبار کاملاً دیگری دارد. نه همه‌ی کسانی که اینجا تدریس کرده‌اند بهترین بوده‌اند، اما بهترین‌ها همه در هاگوارتز تدریس کرده‌اند. در چنین جمع باشکوهی، و پس از این همه زمان انتظار برای این روز، شرمنده می‌شدم اگر استانداردی پایین‌تر از کمال برای خودم تعیین می‌کردم. و پس قصد دارم که تک‌تک شما همیشه امسال را به‌عنوان بهترین کلاس دفاعی که تا به حال داشته‌اید به یاد آورید. آنچه امسال می‌آموزید برای همیشه بنیان استوار شما در هنرهای دفاع خواهد بود، مهم نیست معلمان پیش و پس‌تان چه کسانی باشند.»",
+  "summary_fa": "کویرل اعلام می‌کند بهترین‌ها همه در هاگوارتز دفاع تدریس کرده‌اند و سوگند می‌خورد امسال بهترین کلاس دفاعی باشد که دانش‌آموزانش تا به حال داشته‌اند، بنیانی استوار مهم نیست پیش و پس چه بوده است."
+ },
+ {
+  "id": 40,
+  "paras": [
+   137
+  ],
+  "verbatim_html": [
+   "Professor Quirrell's expression grew serious. \"We have a <em>great</em> deal of lost ground to make up and not much time to cover it. Therefore I intend to depart from Hogwarts teaching conventions in a number of respects, as well as introducing some optional after-school activities.\" He paused. \"If that is not sufficient, perhaps I can find new ways to motivate you. You are my long-awaited students, and you <em>will</em> do your <em>very</em> best in my long-awaited Defence class. I would add some sort of dreadful threat, like 'Otherwise you will suffer horribly', but that would be so cliched, don't you think? I pride myself on being more imaginative than that. Thank you.\""
+  ],
+  "summary_en": "Quirrell grows serious about lost ground and little time, promising departures from Hogwarts conventions, after-school activities, and imaginative motivation rather than cliched threats.",
+  "translation_fa": "حالت پروفسور کویرل جدی شد. «عقب‌ماندگی زیادی را باید جبران کنیم و وقت کمی برای پوشش آن داریم. بنابراین قصد دارم در چند جنبه از رسوم آموزشی هاگوارتز فاصله بگیرم، و نیز چند فعالیت اختیاری بعد از مدرسه معرفی کنم.» مکث کرد. «اگر آن کافی نباشد، شاید بتوانم راه‌های تازه‌ای برای انگیزه دادن به شما پیدا کنم. شما دانش‌آموزانِ دیرانتظارِ من هستید، و در کلاس دفاعِ دیرانتظارِ من نهایتِ تلاش‌تان را می‌کنید. تهدید هولناکی اضافه می‌کردم، مثل «وگرنه به‌طرز وحشتناکی رنج می‌برید»، اما آن خیلی کلیشه‌ای می‌بود، مگر نه؟ به این‌که تخیلی‌تر از آن باشم افتخار می‌کنم. متشکرم.»",
+  "summary_fa": "کویرل درباره‌ی عقب‌ماندگی زیاد و وقت کم جدی می‌شود و فاصله گرفتن از رسوم هاگوارتز، فعالیت‌های بعد از مدرسه و انگیزه دادن تخیلی به‌جای تهدیدهای کلیشه‌ای را وعده می‌دهد."
+ },
+ {
+  "id": 41,
+  "paras": [
+   138,
+   139,
+   140,
+   141,
+   142
+  ],
+  "verbatim_html": [
+   "Then the vigour and confidence seemed to drain away from Professor Quirrell. His mouth gaped open as if he had suddenly found himself facing an unexpected audience, and he turned with a convulsive jerk and shuffled back to his seat, hunched over as if he was about to collapse in on himself and implode.",
+   "\"He seems a little odd,\" whispered Harry.",
+   "\"Meh,\" said the older-looking student. \"You ain't seen nothin'.\"",
+   "Dumbledore resumed the podium.",
+   "\"And now,\" said Dumbledore, \"before we go to bed, let us sing the school song! Everyone pick their favourite tune and favourite words, and off we go!\""
+  ],
+  "summary_en": "Quirrell's confidence drains as he shuffles back hunched; Harry whispers he seems odd, the older student says he ain't seen nothin', and Dumbledore retakes the podium to announce the school song.",
+  "translation_fa": "بعد آن نیرو و اعتمادبه‌نفس انگار از پروفسور کویرل تخلیه شد. دهانش باز ماند انگار ناگهان با مخاطبی غیرمنتظره روبه‌رو شده بود، و با تکان تشنجی برگشت و به صندلی‌اش برگشت، قوزکرده انگار داشت از هم می‌پاشید و به درون منفجر می‌شد.\n\n«کمی عجیب به نظر می‌رسد،» هری زمزمه کرد.\n\n«مِه،» دانش‌آموز مسن‌نما گفت. «هنوز چیزی ندیده‌ای.»\n\nدامبلدور پشت تریبون برگشت.\n\n«و حالا،» دامبلدور گفت، «پیش از این‌که به رختخواب برویم، سرود مدرسه را بخوانیم! هر کس لحن و کلمات محبوب خودش را انتخاب کند و شروع کنیم!»",
+  "summary_fa": "اعتمادبه‌نفس کویرل تخلیه می‌شود وقتی قوزکرده برمی‌گردد؛ هری زمزمه می‌کند عجیب به نظر می‌رسد، دانش‌آموز بزرگ‌تر می‌گوید هنوز چیزی ندیده‌ای، و دامبلدور پشت تریبون برمی‌گردد تا سرود مدرسه را اعلام کند."
+ }
+]
