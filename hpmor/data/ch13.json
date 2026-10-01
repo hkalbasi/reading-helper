@@ -1,0 +1,1090 @@
+[
+ {
+  "id": 1,
+  "paras": [
+   1,
+   2,
+   3
+  ],
+  "summary_en": "An Elvish dedication to J. K. Rowling and the author's EDIT note promise a logical, foreshadowed, canon-compliant puzzle explanation, followed by a scene break.",
+  "summary_fa": "تقدیم به زبان الفی به جی. کی. رولینگ و یادداشت نویسنده که وعده‌ی توضیحی منطقی و معمایی می‌دهد، و بعد جداکننده‌ی صحنه می‌آید.",
+  "translation_fa": "ستاره‌ای بر جی. کی. رولینگ بتابد در هنگام دیدارمان.\n\nویرایش: نترسید. رسماً سوگند می‌خورم که برای هر چه در این فصل اتفاق می‌افتد توضیحی منطقی، از پیش زمینه‌چینی‌شده و سازگار با قانون اصلی داستان وجود دارد. این یک معماست، قرار است سعی کنید آن را حل کنید، و اگر نه، فقط فصل بعد را بخوانید.\n\n* * *",
+  "verbatim_html": [
+   "Elen sila J. K. Rowling omentielvo.",
+   "EDIT: Don't panic. I solemnly swear that there is a logical, foreshadowed, canon-compliant explanation for everything which happens in this chapter. It's a puzzle, you're supposed to try to solve it, and if not, just read the next chapter.",
+   "* * *"
+  ]
+ },
+ {
+  "id": 2,
+  "paras": [
+   4,
+   5
+  ],
+  "summary_en": "A quoted riddle line calling something one of the most obvious riddles ever heard is followed by another scene break.",
+  "summary_fa": "نقل‌قولی معمایی که چیزی را یکی از بدیهی‌ترین معماها می‌خواند می‌آید و بعد جداکننده‌ی صحنه‌ی دیگری.",
+  "translation_fa": "«این یکی از بدیهی‌ترین معماهایی است که تا حالا شنیده‌ام.»\n\n* * *",
+  "verbatim_html": [
+   "<em>\"That's one of the most obvious riddles I've ever heard.\"</em>",
+   "* * *"
+  ]
+ },
+ {
+  "id": 3,
+  "paras": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "summary_en": "Harry wakes on his first full day at Hogwarts sensing something wrong: it is too quiet. He remembers the Quietus Charm on his headboard and sits up expecting the other boys to be rising.",
+  "summary_fa": "هری در اولین روز کاملش در هاگوارتز با حس اشتباهی بیدار می‌شود: زیادی ساکت است. او افسون خاموشی تخت‌خوابش را به یاد می‌آورد و می‌نشیند و انتظار دارد بقیه‌ی پسرها بیدار شوند.",
+  "translation_fa": "به‌محض این‌که هری چشم‌هایش را در خوابگاه پسران سال‌اولی ریونکلاو باز کرد، در صبح اولین روز کاملش در هاگوارتز، دانست که چیزی اشتباه است.\n\nساکت بود.\n\nزیادی ساکت.\n\nاوه، درست است... افسون خاموشی روی تاج تختش بود، با یک نوار لغزنده‌ی کوچک کنترل می‌شد، که تنها دلیلی بود که اصلاً خوابیدن در ریونکلاو ممکن بود.\n\nهری نشست و به اطراف نگاه کرد، و انتظار داشت بقیه را در حال بیدار شدن برای روز ببیند ــ",
+  "verbatim_html": [
+   "As soon as Harry opened his eyes in the Ravenclaw first-year boys' dormitory, on the morning of his first full day at Hogwarts, he knew something was wrong.",
+   "It was quiet.",
+   "<em>Too</em> quiet.",
+   "Oh, right... There was a Quietus Charm on his bed's headboard, controlled by a small slider bar, which was the only reason it was ever possible for anyone to go to sleep in Ravenclaw.",
+   "Harry sat up and looked around, expecting to see others rising for the day -"
+  ]
+ },
+ {
+  "id": 4,
+  "paras": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "summary_en": "The dorm is empty with unmade beds and high sunlight; Harry's Quieter is at maximum and his running alarm clock has been switched off.",
+  "summary_fa": "خوابگاه خالی است با تخت‌های نامرتب و آفتاب بالا؛ دستگاه ساکت‌کننده‌ی هری روی حداکثر است و زنگ ساعت کوکی‌اش که هنوز کار می‌کند خاموش شده است.",
+  "translation_fa": "خوابگاه، خالی.\n\nتخت‌ها، ژولیده و نامرتب.\n\nخورشید، با زاویه‌ای نسبتاً بالا می‌تابید.\n\nساکت‌کننده‌اش تا آخر روی حداکثر چرخانده شده بود.\n\nو ساعت کوکی‌اش هنوز کار می‌کرد، اما زنگش خاموش شده بود.",
+  "verbatim_html": [
+   "The dorm, empty.",
+   "The beds, rumpled and unmade.",
+   "The sun, coming in at a rather high angle.",
+   "His Quieter turned all the way up to maximum.",
+   "And his mechanical alarm clock was still running, but the alarm was turned off."
+  ]
+ },
+ {
+  "id": 5,
+  "paras": [
+   16,
+   17,
+   18,
+   19,
+   20
+  ],
+  "summary_en": "Harry realizes he slept until 9:52 AM and missed breakfast and his first Herbology class; his anger at a prank fades into hurt confusion when he realizes all twelve dorm-mates must have cooperated.",
+  "summary_fa": "هری می‌فهمد تا ۹:۵۲ خوابیده و صبحانه و اولین کلاس گیاه‌شناسی‌اش را از دست داده است؛ خشمش از یک شوخی وقتی می‌فهمد هر دوازده هم‌خوابگاهی باید همدست بوده باشند به رنجش و سردرگمی تبدیل می‌شود.",
+  "translation_fa": "ظاهراً به او اجازه داده شده بود تا ساعت ۹:۵۲ صبح بخوابد. با وجود همه‌ی تلاش‌هایش برای هماهنگ کردن چرخه‌ی خواب ۲۶ساعته‌اش با ورود به هاگوارتز، دیشب تا حدود ساعت ۱ بامداد نخوابیده بود. برنامه‌اش این بود که ساعت ۷ صبح با بقیه‌ی دانش‌آموزان بیدار شود، می‌توانست روز اول کمی کم‌خوابی را تحمل کند به‌شرط این‌که تا فردا نوعی درمان جادویی بگیرد. اما حالا صبحانه را از دست داده بود. و اولین کلاسش در هاگوارتز، گیاه‌شناسی، یک ساعت و بیست‌ودو دقیقه پیش شروع شده بود.\n\nخشم آرام‌آرام در او بیدار می‌شد. اوه، چه شوخی بامزه‌ای. زنگش را خاموش کن. ساکت‌کننده را زیاد کن. و بگذار آقای هری پاتر گنده از اولین کلاسش جا بماند و به‌خاطر خواب سنگین بودنش سرزنش شود.\n\nوقتی هری می‌فهمید چه کسی این کار را کرده است...\n\nنه، این فقط می‌توانست با همکاری هر دوازده پسر دیگر خوابگاه ریونکلاو انجام شده باشد. همه‌شان خواب او را دیده بودند. همه‌شان گذاشته بودند سر صبحانه خواب بماند.\n\nخشم از بین رفت و جایش را سردرگمی و حسی به طرز وحشتناکی جریحه‌دار گرفت. او را دوست داشتند. او این‌طور فکر می‌کرد. دیشب فکر می‌کرد دوستش دارند. چرا...",
+  "verbatim_html": [
+   "He'd been allowed to sleep until 9:52 AM, apparently. Despite his best efforts to synchronize his 26-hour sleep cycle to his arrival at Hogwarts, he hadn't gotten to sleep last night until around 1AM. He'd been planning to wake up at 7:00AM with the other students, he could stand being a little sleep-deprived his first day so long as he got some sort of magical fix before tomorrow. But now he'd missed breakfast. And his very first class at Hogwarts, in Herbology, had started one hour and twenty-two minutes ago.",
+   "The anger was slowly, slowly wakening in him. Oh, what a nice little prank. Turn off his alarm. Turn up the Quieter. And let Mr. Bigshot Harry Potter miss his first class, and be blamed for being a heavy sleeper.",
+   "When Harry found out who'd done this...",
+   "No, this could only have been done with the cooperation of all twelve other boys in the Ravenclaw dorm. All of them would have seen his sleeping form. All of them had let him sleep through breakfast.",
+   "The anger drained away, replaced by confusion and a horribly wounded feeling. They'd <em>liked</em> him. He'd thought. Last night, he'd thought they liked him. <em>Why...</em>"
+  ]
+ },
+ {
+  "id": 6,
+  "paras": [
+   21,
+   22,
+   23,
+   24,
+   25
+  ],
+  "summary_en": "Stepping out of bed, Harry finds a note on his headboard asking his fellow Ravenclaws to let him sleep in, written as if from him.",
+  "summary_fa": "هری با بیرون آمدن از تخت یادداشتی روی تاج تخت می‌بیند که از طرف هم‌خانه‌های ریونکلاوی‌اش می‌خواهد بگذارند بیشتر بخوابد، انگار از طرف خودش نوشته شده است.",
+  "translation_fa": "وقتی هری از تخت بیرون آمد، تکه کاغذی را دید که رو به بیرون به تاج تختش چسبیده بود.\n\nروی کاغذ نوشته بود:\n\nهم‌خانه‌های ریونکلاوی عزیزم،\n\nروز فوق‌العاده طولانی‌ای بوده است. لطفاً بگذارید بیشتر بخوابم و نگران از دست دادن صبحانه‌ام نباشید. کلاس اولم را فراموش نکرده‌ام.\n\nارادتمند، هری پاتر.",
+  "verbatim_html": [
+   "As Harry stepped out of the bed, he saw a piece of paper facing out from his headboard.",
+   "The paper said,",
+   "<em>My fellow Ravenclaws,</em>",
+   "<em>It's been an extra long day. Please let me sleep in and don't worry about my missing breakfast. I haven't forgotten about my first class.</em>",
+   "<em>Yours,<br/>Harry Potter.</em>"
+  ]
+ },
+ {
+  "id": 7,
+  "paras": [
+   26,
+   27,
+   28,
+   29,
+   30
+  ],
+  "summary_en": "Harry freezes: the note is in his own handwriting with his own pencil, which he does not remember writing, and wonders if he knew he would be Obliviated, noticing the words I haven't forgotten look different.",
+  "summary_fa": "هری خشکش می‌زند: یادداشت به خط خودش و با مداد خودش است که نوشتنش را به یاد نمی‌آورد، و با دیدن تفاوت سبک عبارت «فراموش نکرده‌ام» حدس می‌زند شاید می‌دانسته قرار است حافظه‌اش پاک شود.",
+  "translation_fa": "و هری همان‌جا خشکش زد ایستاد، در حالی که آب یخ داشت در رگ‌هایش راه می‌افتاد.\n\nکاغذ به خط خودش بود، با مداد نوکی خودش.\n\nو او نوشتنش را به یاد نمی‌آورد.\n\nو... هری به تکه کاغذ چشم دوخت. و اگر دچار توهم نشده بود، کلمات «فراموش نکرده‌ام» به سبک متفاوتی نوشته شده بودند، انگار می‌خواست چیزی به خودش بفهماند...؟\n\nآیا می‌دانسته که قرار است طلسم فراموشی رویش اجرا شود؟ آیا تا دیروقت بیدار مانده بود، مرتکب نوعی جرم یا فعالیت پنهانی شده بود، و بعد... اما او طلسم فراموشی را بلد نبود... آیا کس دیگری... چی...",
+  "verbatim_html": [
+   "And Harry stood there, frozen, ice water beginning to trickle through his veins.",
+   "The paper was in his own handwriting, in his own mechanical pencil.",
+   "And he didn't remember writing it.",
+   "And... Harry squinted at the piece of paper. And unless he was imagining it, the words \"I haven't forgotten\" were written in a different style, as if he was trying to tell himself something...?",
+   "Had he <em>known</em> he was going to be Obliviated? Had he stayed up late, committed some sort of crime or covert activity, and then... but he didn't <em>know</em> the Obliviate spell... had someone else... what..."
+  ]
+ },
+ {
+  "id": 8,
+  "paras": [
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  "summary_en": "Reasoning he may have anticipated memory loss, Harry, still in pyjamas, retrieves his pouch and asks for his note to himself, which appears in his own handwriting.",
+  "summary_fa": "هری با این استدلال که شاید پاک شدن حافظه را پیش‌بینی کرده بوده، هنوز با لباس خواب به سراغ کیسه‌اش می‌رود و یادداشت به خودش را می‌خواهد که به خط خودش ظاهر می‌شود.",
+  "translation_fa": "فکری به ذهن هری رسید. اگر می‌دانسته که قرار است حافظه‌اش پاک شود...\n\nهری هنوز با لباس خواب دور تختش دوید به سمت صندوقش، شستش را روی قفل فشرد، کیسه‌اش را بیرون کشید، دستش را داخلش برد و گفت: «یادداشت به خودم.»\n\nو تکه کاغذ دیگری به دستش پرید.\n\nهری آن را بیرون آورد، در حالی که خیره‌اش مانده بود. آن هم به خط خودش بود.\n\nروی یادداشت نوشته بود:",
+  "verbatim_html": [
+   "A thought occurred to Harry. If he <em>had</em> known he was going to be Obliviated...",
+   "Still in his pyjamas, Harry ran around his bed to his trunk, pressed his thumb against the lock, pulled out his pouch, stuck in his hand and said \"Note to myself.\"",
+   "And another piece of paper popped into his hand.",
+   "Harry took it out, staring at it. It too was in his own handwriting.",
+   "The note said:"
+  ]
+ },
+ {
+  "id": 9,
+  "paras": [
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "summary_en": "The note urges him to play the once-in-a-lifetime game with recognition code 927, I am a potato, which Harry confirms is the secret code he devised years earlier while watching TV.",
+  "summary_fa": "یادداشت از او می‌خواهد بازی تک‌فرصتی عمر را انجام دهد با رمز شناسایی «۹۲۷، من یک سیب‌زمینی‌ام»، که هری تأیید می‌کند همان رمز پنهانی است که سال‌ها پیش موقع تلویزیون دیدن ساخته بود.",
+  "translation_fa": "من عزیز،\n\nلطفاً بازی را انجام بده. فقط یک بار در عمر می‌توانی بازی را انجام دهی. این فرصتی بی‌جایگزین است.\n\nرمز شناسایی ۹۲۷، من یک سیب‌زمینی‌ام.\n\nارادتمند، خودت.\n\nهری آرام سر تکان داد. «رمز شناسایی ۹۲۷، من یک سیب‌زمینی‌ام» واقعاً همان پیامی بود که از پیش تعیین کرده بود ــ چند سال پیش، موقع تلویزیون دیدن ــ که فقط خودش می‌دانست. اگر لازم می‌شد بدل خودش را شناسایی کند که واقعاً خودش است، یا چیزی مثل این. فقط در صورت احتیاط. آماده باش.",
+  "verbatim_html": [
+   "<em>Dear Me,</em>",
+   "<em>Please play the game. You can only play the game once in a lifetime. This is an irreplaceable opportunity.</em>",
+   "<em>Recognition code 927, I am a potato.</em>",
+   "<em>Yours,<br/>You.</em>",
+   "Harry nodded slowly. \"Recognition code 927, I am a potato\" was indeed the message he had worked out in advance - some years earlier, while watching TV - that only he would know. If he had to identify a duplicate of himself as being really <em>him,</em> or something. Just in case. Be Prepared."
+  ]
+ },
+ {
+  "id": 10,
+  "paras": [
+   41,
+   42,
+   43,
+   44,
+   45
+  ],
+  "summary_en": "Harry cannot fully trust the note but rules out a simple prank; noticing ink through the paper, he flips it to find the printed INSTRUCTIONS FOR THE GAME heading.",
+  "summary_fa": "هری نمی‌تواند کامل به یادداشت اعتماد کند اما شوخی ساده را رد می‌کند؛ با دیدن جوهر از پشت کاغذ آن را برمی‌گرداند و سربرگ چاپی «دستورهای بازی» را می‌بیند.",
+  "translation_fa": "هری نمی‌توانست به پیام اعتماد کند، ممکن بود طلسم‌های دیگری در کار باشند. اما هر شوخی ساده‌ای را رد می‌کرد. او قطعاً این را نوشته بود و قطعاً نوشتنش را به یاد نمی‌آورد.\n\nهری در حالی که به کاغذ خیره بود متوجه جوهری شد که از طرف دیگر دیده می‌شد.\n\nآن را برگرداند.\n\nطرف دیگر نوشته بود:\n\nدستورهای بازی:",
+  "verbatim_html": [
+   "Harry couldn't <em>trust</em> the message, there might be other spells involved. But it ruled out any simple prank. He had definitely written this and he definitely didn't remember writing it.",
+   "Staring at the paper, Harry became aware of ink showing through from the other side.",
+   "He flipped it over.",
+   "The reverse side read:",
+   "<em>INSTRUCTIONS FOR THE GAME:</em>"
+  ]
+ },
+ {
+  "id": 11,
+  "paras": [
+   46,
+   47,
+   48,
+   49,
+   50
+  ],
+  "summary_en": "The instructions say he knows neither rules, stakes, objective, controller, nor ending, and starts with 100 points; baffled, Harry decides to get dressed and eat, in some order.",
+  "summary_fa": "دستورها می‌گویند او نه قوانین و نه هدف و نه گرداننده و نه پایان را می‌داند و با ۱۰۰ امتیاز شروع می‌کند؛ هری که مبهوت است تصمیم می‌گیرد لباس بپوشد و غذا بخورد، به ترتیبی.",
+  "translation_fa": "تو قوانین بازی را نمی‌دانی تو اهمیت بازی را نمی‌دانی تو هدف بازی را نمی‌دانی تو نمی‌دانی چه کسی بازی را کنترل می‌کند تو نمی‌دانی چطور بازی را تمام کنی\n\nبا ۱۰۰ امتیاز شروع می‌کنی. شروع کن.\n\nهری به «دستورها» خیره شد. این طرف دست‌نویس نبود؛ نوشته کاملاً منظم بود، پس مصنوعی بود. به نظر می‌رسید با خودنویس نقل‌قول‌نویس حک شده باشد، مثل همان که برای دیکته خریده بود.\n\nاو اصلاً هیچ سرنخی نداشت چه خبر است.\n\nخب... قدم اول لباس پوشیدن و خوردن بود. شاید ترتیبش برعکس. معده‌اش نسبتاً خالی بود.",
+  "verbatim_html": [
+   "<em>you do not know the rules of the game<br/>you do not know the stakes of the game<br/>you do not know the objective of the game</em><em><br/>you do not know who controls the game<br/>you do not know how to end the game</em>",
+   "<em>You start with 100 points.<br/>Begin.</em>",
+   "Harry stared at the \"instructions\". This side wasn't handwritten; the writing was perfectly regular, hence artificial. It looked as if it had been inscribed by a Quotes Quill, such as the one he'd bought to take dictation.",
+   "He had <em>absolutely no clue</em> what was going on.",
+   "Well... step one was to get dressed and eat. Maybe reverse the order of that. His stomach felt rather empty."
+  ]
+ },
+ {
+  "id": 12,
+  "paras": [
+   51,
+   52,
+   53,
+   54,
+   55
+  ],
+  "summary_en": "Prepared with cereal bars, Harry asks his pouch for snack bars but receives only two tiny candy bars and an ATTEMPT FAILED note docking him to 99 points.",
+  "summary_fa": "هری که برای صبحانه آماده بود از کیسه‌اش میان‌وعده می‌خواهد اما فقط دو شکلات ریز می‌گیرد با یادداشتی که تلاش ناموفق را اعلام می‌کند و او را به ۹۹ امتیاز می‌رساند.",
+  "translation_fa": "او صبحانه را از دست داده بود، البته، اما برای آن احتمال آماده بود، چون از پیش آن را تصور کرده بود. هری دستش را در کیسه‌اش برد و گفت «میان‌وعده‌ها»، و انتظار داشت جعبه‌ی کورن‌بارهایی را بگیرد که پیش از رفتن به هاگوارتز خریده بود.\n\nچیزی که بالا پرید حس جعبه‌ی کورن‌بار را نمی‌داد.\n\nوقتی هری دستش را وارد میدان دیدش کرد دو شکلات ریز دید ــ اصلاً برای یک وعده کافی نبود ــ که به یادداشتی چسبیده بودند، و یادداشت به همان خط دستورهای بازی نوشته شده بود.\n\nروی یادداشت نوشته بود:\n\nتلاش ناموفق: ۱ امتیاز منفی امتیاز فعلی: ۹۹ وضعیت جسمی: همچنان گرسنه وضعیت ذهنی: گیج",
+  "verbatim_html": [
+   "He'd missed breakfast, of course, but he was Prepared for that eventuality, having visualised it in advance. Harry put his hand into his pouch and said \"Snack bars\", expecting to get the box of cereal bars he'd bought before departing for Hogwarts.",
+   "What popped up did not feel like a box of cereal bars.",
+   "When Harry brought his hand into his field of vision he saw two tiny candy bars - not nearly enough for a meal - attached to a note, and the note was inscribed in the same writing as the game instructions.",
+   "The note said:",
+   "ATTEMPT FAILED: -1 POINT<br/>CURRENT POINTS: 99<br/>PHYSICAL STATE: STILL HUNGRY<br/>MENTAL STATE: CONFUSED"
+  ]
+ },
+ {
+  "id": 13,
+  "paras": [
+   56,
+   57,
+   58,
+   59,
+   60
+  ],
+  "summary_en": "Harry can only utter Gleehhhhh and stands stunned for a minute; his stomach prompts him to ask aloud if he can spend a point to get his cereal bars back.",
+  "summary_fa": "هری فقط می‌تواند بگوید «گلیهههه» و یک دقیقه مبهوت می‌ایستد؛ معده‌اش او را وا می‌دارد با صدای بلند بپرسد آیا می‌تواند با خرج یک امتیاز جعبه‌اش را پس بگیرد.",
+  "translation_fa": "«گلیهههه» دهان هری گفت بدون هیچ مداخله یا تصمیم آگاهانه‌ای از طرف خودش.\n\nاو حدود یک دقیقه همان‌جا ایستاد.\n\nیک دقیقه بعد، هنوز هیچ معنایی نداشت و او هنوز اصلاً نمی‌دانست چه خبر است و مغزش حتی شروع هم نکرده بود به چنگ زدن به هیچ فرضیه‌ای، انگار دست‌های ذهنی‌اش در توپ‌های لاستیکی گیر کرده بودند و نمی‌توانستند چیزی بردارند.\n\nمعده‌اش، که اولویت‌های خودش را داشت، کاوش تجربی ممکنی را پیشنهاد کرد.\n\n«آه...» هری به اتاق خالی گفت. «فکر نکنم بتوانم یک امتیاز خرج کنم و جعبه‌ی کورن‌بارهایم را پس بگیرم؟»",
+  "verbatim_html": [
+   "\"Gleehhhhh\" Harry's mouth said without any sort of conscious intervention or decision on his part.",
+   "He stood there for around a minute.",
+   "One minute later, it <em>still</em> didn't make any sense and he <em>still</em> had absolutely no idea what was going on and his brain hadn't even <em>begun</em> to grasp at any <em>hypotheses</em> like his mental hands were encased in rubber balls and couldn't pick anything up.",
+   "His stomach, which had its own priorities, suggested a possible experimental probe.",
+   "\"Ah...\" Harry said to the empty room. \"I don't suppose I could spend a point and get my box of cereal bars back?\""
+  ]
+ },
+ {
+  "id": 14,
+  "paras": [
+   61,
+   62,
+   63,
+   64,
+   65
+  ],
+  "summary_en": "Met with silence, Harry requests his box of cereal bars and receives the empty box for one point, dropping to 98, then asks for the actual bars back.",
+  "summary_fa": "هری با سکوت روبه‌رو می‌شود، جعبه‌ی کورن‌بارها را می‌خواهد و جعبه‌ی خالی را با یک امتیاز می‌گیرد و به ۹۸ می‌رسد، بعد خودِ واقعی کورن‌بارها را می‌خواهد.",
+  "translation_fa": "فقط سکوت بود.\n\nهری دستش را در کیسه برد و گفت: «جعبه‌ی کورن‌بارها.»\n\nجعبه‌ای که حس شکل درست را می‌داد به دستش پرید... اما زیادی سبک بود، و باز بود، و خالی بود، و یادداشتی که به آن چسبیده بود می‌گفت:\n\nامتیاز خرج‌شده: ۱ امتیاز فعلی: ۹۸ به دست آوردی: یک جعبه‌ی کورن‌بار\n\n«دوست دارم یک امتیاز خرج کنم و کورن‌بارهای واقعی را پس بگیرم،» هری گفت.",
+  "verbatim_html": [
+   "There was only silence.",
+   "Harry put his hand into the pouch and said \"Box of cereal bars.\"",
+   "A box that felt like the right shape popped up into his hand... but it was too light, and it was open, and it was empty, and the note attached to it said:",
+   "POINTS SPENT: 1<br/>CURRENT POINTS: 98<br/>YOU HAVE GAINED: A BOX OF CEREAL BARS",
+   "\"I'd like to spend one point and get the <em>actual cereal bars</em> back,\" said Harry."
+  ]
+ },
+ {
+  "id": 15,
+  "paras": [
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "verbatim_html": [
+   "Again, silence.",
+   "Harry put his hand into the pouch and said \"cereal bars\".",
+   "Nothing came up.",
+   "Harry shrugged despairingly and went over to the cabinet he'd been given near his bed, to get his wizard's robes for the day.",
+   "On the floor of the cabinet, under his robes, were the cereal bars, and a note:"
+  ],
+  "summary_en": "Harry's pouch yields nothing for 'cereal bars', so he goes to his cabinet for robes and finds the cereal bars hidden there with a note charging another point and warning him not to eat in pyjamas.",
+  "translation_fa": "«باز هم سکوت.»\n\nهری دستش را در کیسه کرد و گفت: «غلات‌بارها».\n\nهیچی بالا نیامد.\n\nهری ناامیدانه شانه بالا انداخت و به سمت کمدی رفت که کنار تختش به او داده شده بود، تا ردای جادوگری‌اش را برای آن روز بردارد.\n\nروی کف کمد، زیر رداهایش، غلات‌بارها بودند، و یک یادداشت:",
+  "summary_fa": "کیسه‌ی هری برای «غلات‌بارها» چیزی نمی‌دهد، پس او برای برداشتن ردایش سراغ کمد می‌رود و غلات‌بارها را آنجا پنهان‌شده پیدا می‌کند با یادداشتی که یک امتیاز دیگر کم می‌کند و هشدار می‌دهد با پیژامه غذا نخورد."
+ },
+ {
+  "id": 16,
+  "paras": [
+   71,
+   72,
+   73,
+   74,
+   75
+  ],
+  "verbatim_html": [
+   "POINTS SPENT: 1<br/>CURRENT POINTS: 97<br/>YOU HAVE GAINED: 6 CEREAL BARS<br/>YOU ARE STILL WEARING: PYJAMAS<br/>DO NOT EAT WHILE YOU ARE WEARING YOUR PYJAMAS<br/>YOU WILL GET A PYJAMA PENALTY",
+   "<em>And now I know that whoever controls the game is insane.</em>",
+   "\"My guess is that the game is controlled by Dumbledore,\" Harry said out loud. Maybe <em>this</em> time he could set a new land speed record for being quick on the uptake.",
+   "Silence.",
+   "But Harry was starting to pick up the pattern; the note would be in the next place he looked. So Harry looked under his bed."
+  ],
+  "summary_en": "Harry finds a game note deducting a point for 6 cereal bars and threatening a pyjama penalty; concluding the controller is insane, he guesses Dumbledore, hears silence, and looks under his bed expecting the next note there.",
+  "translation_fa": "۱ امتیاز خرج شد\n\nامتیاز فعلی: ۹۷\n\nبه دست آوردی: ۶ غلات‌بار\n\nهنوز پوشیدی: پیژامه\n\nتا وقتی پیژامه تنت است غذا نخور\n\nجریمه‌ی پیژامه می‌گیری\n\nو حالا می‌دانم که هر کس بازی را کنترل می‌کند دیوانه است.\n\nهری با صدای بلند گفت: «حدسم این است که بازی را دامبلدور کنترل می‌کند.» شاید این بار می‌توانست رکورد جهانی سرعت در فهمیدن را بشکند.\n\nسکوت.\n\nاما هری داشت الگو را می‌فهمید؛ یادداشت در جایی خواهد بود که بعداً نگاه می‌کند. پس هری زیر تختش را نگاه کرد.",
+  "summary_fa": "هری یادداشت بازی را پیدا می‌کند که یک امتیاز برای ۶ غلات‌بار کم کرده و جریمه‌ی پیژامه را تهدید می‌کند؛ او نتیجه می‌گیرد کنترل‌کننده دیوانه است، حدس می‌زند دامبلدور است، سکوت می‌شنود و انتظار دارد یادداشت بعدی زیر تختش باشد."
+ },
+ {
+  "id": 17,
+  "paras": [
+   76,
+   77,
+   78,
+   79,
+   80
+  ],
+  "verbatim_html": [
+   "HA! HA HA HA HA HA!<br/>HA HA HA HA HA HA!<br/>HA! HA! HA! HA! HA! HA!<br/>DUMBLEDORE DOES NOT CONTROL THE GAME<br/>BAD GUESS<br/>VERY BAD GUESS<br/>-20 POINTS<br/>AND YOU ARE STILL WEARING PYJAMAS<br/>IT IS YOUR FOURTH MOVE<br/>AND YOU ARE STILL WEARING PYJAMAS<br/>PYJAMA PENALTY: -2 POINTS<br/>CURRENT POINTS: 75",
+   "Welp, that was a puzzler, all right. It was only his first day at school and once you ruled out Dumbledore, he didn't know the name of anyone else here who was this crazy.",
+   "His body more or less on autopilot, Harry gathered up a set of robes and underwear, pulled out the cavern level of his trunk (he was a very private sort of person and someone might walk into the dorm), got dressed, and then went back upstairs to put away his pyjamas.",
+   "Harry paused before pulling out the cabinet drawer that held his pyjamas. If the pattern here held true...",
+   "\"How can I earn more points?\" Harry said out loud."
+  ],
+  "summary_en": "Under the bed Harry finds a mocking note denying Dumbledore controls the game, docking 20 points for the bad guess plus a 2-point pyjama penalty; puzzled, he gets dressed on autopilot and goes back upstairs to put away his pyjamas.",
+  "translation_fa": "ها! ها ها ها ها ها ها!\n\nها ها ها ها ها ها!\n\nها! ها! ها! ها! ها! ها!\n\nدامبلدور بازی را کنترل نمی‌کند\n\nحدس بد\n\nحدس خیلی بد\n\n۲۰ امتیاز منفی\n\nو هنوز پیژامه تنت است\n\nاین حرکت چهارم توست\n\nو هنوز پیژامه تنت است\n\nجریمه‌ی پیژامه: ۲ امتیاز منفی\n\nامتیاز فعلی: ۷۵\n\nخب، این یک معما بود، باشه. این فقط روز اولش در مدرسه بود و وقتی دامبلدور را کنار می‌گذاشت، اسم هیچ‌کس دیگری را در اینجا نمی‌دانست که این‌قدر دیوانه باشد.\n\nهری کم‌وبیش خودکار بدنش را حرکت داد، یک دست ردا و لباس زیر جمع کرد، طبقه‌ی غار صندوقش را بیرون کشید (او آدم خیلی خصوصی‌ای بود و ممکن بود کسی وارد خوابگاه شود)، لباس پوشید و بعد دوباره بالا رفت تا پیژامه‌اش را سر جایش بگذارد.\n\nهری پیش از بیرون کشیدن کشوی کمدی که پیژامه‌اش را نگه می‌داشت مکث کرد. اگر الگوی اینجا برقرار می‌ماند...\n\nهری با صدای بلند گفت: «چطور می‌توانم امتیاز بیشتری به دست بیاورم؟»",
+  "summary_fa": "هری زیر تخت یادداشت تمسخرآمیزی پیدا می‌کند که کنترل بازی توسط دامبلدور را انکار می‌کند، ۲۰ امتیاز برای حدس بد و ۲ امتیاز جریمه‌ی پیژامه کم می‌کند؛ او گیج‌شده خودکار لباس می‌پوشد و بالا برمی‌گردد تا پیژامه‌اش را سر جایش بگذارد."
+ },
+ {
+  "id": 18,
+  "paras": [
+   81,
+   82,
+   83,
+   84,
+   85
+  ],
+  "verbatim_html": [
+   "Then he pulled out the drawer.",
+   "OPPORTUNITIES TO DO GOOD ARE EVERYWHERE<br/>BUT DARKNESS IS WHERE THE LIGHT NEEDS TO BE<br/>COST OF QUESTION: 1 POINT<br/>CURRENT POINTS: 74<br/>NICE UNDERWEAR<br/>DID YOUR MOTHER PICK THEM OUT?",
+   "Harry crushed the note in his hand, face flaming scarlet. Draco's curse came back to him. <em>Son of a mudblood -</em>",
+   "At this point he knew better than to say it out loud. He would probably get a Profanity Penalty.",
+   "Harry girded himself with his mokeskin pouch and wand. He peeled off the wrapper of one his cereal bars and threw it into the room's rubbish bin, where it landed atop a mostly-uneaten Chocolate Frog, a crumpled envelope and some green and red wrapping paper. He put the other cereal bars into his mokeskin pouch."
+  ],
+  "summary_en": "Harry pulls the drawer to find a hint that opportunities to do good are everywhere but darkness is where light is needed, costing 1 point; blushing at its underwear taunt and Draco's insult, he arms himself with pouch and wand, eats a bar, and resolves against swearing aloud.",
+  "translation_fa": "بعد او کشو را بیرون کشید.\n\nفرصت‌های نیکی کردن همه‌جا هستند\n\nاما تاریکی همان‌جاست که نور لازم است\n\nهزینه‌ی سؤال: ۱ امتیاز\n\nامتیاز فعلی: ۷۴\n\nلباس زیر قشنگی است\n\nمامانت آن‌ها را انتخاب کرده؟\n\nهری یادداشت را در دستش مچاله کرد، صورتش از سرخی می‌سوخت. نفرین دراکو به ذهنش برگشت. پسر یک مشنگ‌زاده ــ\n\nدر این مرحله بهتر می‌دانست که آن را با صدای بلند نگوید. احتمالاً جریمه‌ی فحش می‌گرفت.\n\nهری کیسه‌ی موک‌اسکین و چوبدستی‌اش را به خودش بست. روکش یکی از غلات‌بارهایش را کند و به سطل زباله‌ی اتاق انداخت، جایی که روی یک قورباغه‌ی شکلاتی نیمه‌خورده، یک پاکت مچاله و کمی کاغذ کادوی سبز و قرمز افتاد. غلات‌بارهای دیگر را در کیسه‌ی موک‌اسکینش گذاشت.",
+  "summary_fa": "هری کشو را می‌کشد و سرنخی پیدا می‌کند که فرصت‌های نیکی همه‌جا هستند اما تاریکی همان‌جاست که نور لازم است، به قیمت ۱ امتیاز؛ او از طعنه‌ی لباس زیر سرخ می‌شود، مسلح می‌شود، یک غلات‌بار می‌خورد و تصمیم می‌گیرد بلند فحش ندهد."
+ },
+ {
+  "id": 19,
+  "paras": [
+   86,
+   87,
+   88,
+   89,
+   90
+  ],
+  "verbatim_html": [
+   "He looked around in a final, desperate, and ultimately futile search for clues.",
+   "And then Harry left the dorm, eating as he went, in search of the Slytherin dungeons. At least that was what he <em>thought</em> the line was about.",
+   "Trying to navigate the halls of Hogwarts was like... probably <em>not</em> quite as bad as wandering around inside an Escher painting, that was the sort of thing you said for rhetorical effect rather than for its being true.",
+   "A short time later, Harry was thinking that in fact an Escher painting would have both pluses and minuses compared to Hogwarts. Minuses: No consistent gravitational orientation. Pluses: At least the stairs wouldn't move around <em>WHILE YOU WERE STILL ON THEM.</em>",
+   "Harry had originally climbed four flights of stairs to get to his dorm. After clambering down no fewer than twelve flights of stairs without getting anywhere near the dungeons, Harry had concluded that (1) an Escher painting would be a <em>cakewalk</em> by comparison, (2) he was somehow <em>higher</em> in the castle than when he'd started, and (3) he was so <em>thoroughly</em> lost that he wouldn't have been surprised to look out of the next window and see two moons in the sky."
+  ],
+  "summary_en": "Finding no more clues, Harry leaves the dorm eating, aiming for the Slytherin dungeons; navigating Hogwarts proves worse than an Escher painting as moving stairs carry him ever higher until he is thoroughly lost.",
+  "translation_fa": "او در جست‌وجوی نهایی، ناامیدانه و در نهایت بی‌فایده برای سرنخ‌ها به اطراف نگاه کرد.\n\nو بعد هری خوابگاه را ترک کرد، در حالی که می‌رفت غذا می‌خورد، در جست‌وجوی سیاه‌چال‌های اسلیترین. دست‌کم آن چیزی بود که فکر می‌کرد منظور آن سطر است.\n\nراهبری در راهروهای هاگوارتز مثل... احتمالاً نه کاملاً به بدی سرگردانی داخل یک نقاشی اشر بود، این از آن حرف‌هایی بود که برای اثر بلاغی می‌زنی تا برای این‌که درست باشد.\n\nکمی بعد، هری فکر می‌کرد که در واقع یک نقاشی اشر در مقایسه با هاگوارتز هم مزیت دارد هم عیب. عیب‌ها: جهت گرانشی ثابت ندارد. مزیت‌ها: دست‌کم پله‌ها وقتی هنوز رویشان هستی حرکت نمی‌کنند.\n\nهری در اصل چهار پرواز پله بالا رفته بود تا به خوابگاهش برسد. بعد از پایین رفتن از کمتر از دوازده پرواز پله بدون این‌که حتی نزدیک سیاه‌چال‌ها شود، هری نتیجه گرفته بود که (۱) یک نقاشی اشر در مقایسه پیاده‌روی آسانی است، (۲) به نحوی در قلعه بالاتر است از وقتی که شروع کرده بود، و (۳) چنان کاملاً گم شده است که اگر از پنجره‌ی بعدی بیرون را نگاه می‌کرد و دو ماه در آسمان می‌دید تعجب نمی‌کرد.",
+  "summary_fa": "هری بی‌سرنخ خوابگاه را در حال خوردن ترک می‌کند و به سوی سیاه‌چال‌های اسلیترین می‌رود؛ راهبری در هاگوارتز بدتر از نقاشی اشر از آب درمی‌آید چون پله‌های متحرک او را بالاتر می‌برند تا کاملاً گم می‌شود."
+ },
+ {
+  "id": 20,
+  "paras": [
+   91,
+   92,
+   93,
+   94,
+   95
+  ],
+  "verbatim_html": [
+   "Backup plan A had been to stop and ask for directions, but there seemed to be an extreme lack of people wandering around, as if the beggars were all attending class the way they were supposed to or something.",
+   "Backup plan B...",
+   "\"I'm lost,\" Harry said out loud. \"Can, um, the spirit of the Hogwarts castle help me or something?\"",
+   "\"I don't think this castle has a spirit,\" observed a wizened old lady in one of the paintings on the walls. \"Life, perhaps, but not spirit.\"",
+   "There was a brief pause."
+  ],
+  "summary_en": "With no people around to ask, Harry calls out to the castle's spirit; a wizened painted lady replies the castle has life but not spirit, and after an awkward pause Harry stops himself from interrogating her about consciousness.",
+  "translation_fa": "نقشه‌ی پشتیبان الف توقف و پرسیدن آدرس بود، اما به نظر می‌رسید کمبود شدیدی از آدم‌هایی باشد که اطراف پرسه بزنند، انگار گداها همه سر کلاس بودند همان‌طور که قرار بود یا چیزی.\n\nنقشه‌ی پشتیبان ب...\n\nهری با صدای بلند گفت: «گم شده‌ام. می‌شود، ام، روح قلعه‌ی هاگوارتز به من کمک کند یا چیزی؟»\n\n«فکر نمی‌کنم این قلعه روح داشته باشد،» بانوی فرسوده‌ای در یکی از نقاشی‌های روی دیوارها گفت. «زندگی، شاید، اما نه روح.»\n\nمکث کوتاهی بود.",
+  "summary_fa": "بی‌آن‌که کسی برای پرسیدن باشد، هری روح قلعه را صدا می‌زند؛ بانوی فرسوده‌ی نقاشی‌شده جواب می‌دهد قلعه زندگی دارد اما روح نه، و هری از بازجویی درباره‌ی هشیاری‌اش خودداری می‌کند."
+ },
+ {
+  "id": 21,
+  "paras": [
+   96,
+   97,
+   98,
+   99,
+   100
+  ],
+  "verbatim_html": [
+   "\"Are you -\" Harry said, and then shut his mouth. On second thought, no he was NOT going to ask the painting whether it was fully conscious in the sense of being aware of its own awareness.",
+   "\"I'm Harry Potter,\" said his mouth, more or less on autopilot. Also more or less automatically, Harry stuck out a hand towards the painting.",
+   "The woman in the painting looked down at Harry's hand and raised her eyebrows.",
+   "Slowly, the hand dropped back to Harry's side.",
+   "\"Sorry,\" Harry said, \"I'm sort of new here.\""
+  ],
+  "summary_en": "Harry introduces himself to the painting, shakes no hands, and apologizes as new; when he admits he does not know where he is going, she answers that perhaps he is already there.",
+  "translation_fa": "هری گفت: «تو ــ» و بعد دهانش را بست. با فکر دوم، نه او قرار نبود از نقاشی بپرسد که آیا کاملاً هشیار است به معنای آگاه بودن از آگاهی خودش.\n\nدهانش کم‌وبیش خودکار گفت: «من هری پاتر هستم.» همچنین کم‌وبیش خودکار، هری دستی به سوی نقاشی دراز کرد.\n\nزن داخل نقاشی به دست هری نگاه کرد و ابروهایش را بالا برد.\n\nبه‌آرامی، دست به پهلوی هری برگشت.\n\nهری گفت: «ببخشید. من تازه‌کارم.»",
+  "summary_fa": "هری خودش را به نقاشی معرفی می‌کند، دست نمی‌دهد و به‌عنوان تازه‌کار عذر می‌خواهد؛ وقتی اعتراف می‌کند نمی‌داند کجا می‌رود، او جواب می‌دهد شاید همین‌جا همان‌جاست."
+ },
+ {
+  "id": 22,
+  "paras": [
+   101,
+   102,
+   103,
+   104,
+   105
+  ],
+  "verbatim_html": [
+   "\"So I perceive, young raven. Where are you trying to go?\"",
+   "Harry hesitated. \"I'm not really sure,\" he said.",
+   "\"Then perhaps you are already there.\"",
+   "\"Well, wherever I <em>am</em> trying to go, I don't think <em>this</em> is it...\" Harry shut his mouth, aware of just how much he was sounding like an idiot. \"Let me start over. I'm playing this game only I don't know what the rules are -\" That didn't really work either, did it. \"Okay, third try. I'm looking for opportunities to do good so I can score points, and all I have is this cryptic hint about how darkness is where the light needs to be, so I was trying to go down but I seem to keep going up instead...\"",
+   "The old lady in the painting was looking at him rather sceptically."
+  ],
+  "summary_en": "Harry explains he is playing a scoreless game chasing a cryptic hint about darkness; the sceptical lady asks if he knows neither where he is going nor why, and Harry agrees entirely.",
+  "translation_fa": "«پس می‌فهمم، کلاغ جوان. کجا سعی داری بروی؟»\n\nهری مکث کرد. گفت: «واقعاً مطمئن نیستم.»\n\n«پس شاید همین حالا آنجایی.»\n\n«خب، هرجا که سعی دارم بروم، فکر نمی‌کنم این باشد...» هری دهانش را بست، چون آگاه بود که چقدر شبیه یک احمق به نظر می‌رسد. «بگذار از اول شروع کنم. من این بازی را می‌کنم فقط نمی‌دانم قوانینش چیست ــ» این هم واقعاً درست نشد، مگر نه. «باشه، تلاش سوم. دنبال فرصت‌هایی برای نیکی کردنم تا بتوانم امتیاز بگیرم، و تنها چیزی که دارم این سرنخ رمزی است درباره‌ی این‌که تاریکی همان‌جاست که نور لازم است، پس سعی می‌کردم بروم پایین اما به نظر می‌رسد مدام می‌روم بالا...»\n\nبانوی پیر داخل نقاشی نسبتاً بدبینانه به او نگاه می‌کرد.",
+  "summary_fa": "هری توضیح می‌دهد که بازی بی‌قانونی را دنبال سرنخ رمزی تاریکی می‌کند؛ بانوی بدبین می‌پرسد آیا نه می‌داند کجا می‌رود نه چرا، و هری کاملاً موافقت می‌کند."
+ },
+ {
+  "id": 23,
+  "paras": [
+   106,
+   107,
+   108,
+   109,
+   110
+  ],
+  "verbatim_html": [
+   "Harry sighed. \"My life tends to get a bit peculiar.\"",
+   "\"Would it be fair to say that you don't know where you're going or why you're trying to get there?\"",
+   "\"<em>Entirely</em> fair.\"",
+   "The old lady nodded. \"I'm not sure that being lost is your most important problem, young man.\"",
+   "\"True, but unlike the more important problems, it's a problem I can understand how to solve and <em>wow</em> is this conversation turning into a metaphor for human existence, I didn't even realise that was happening until just now.\""
+  ],
+  "summary_en": "Harry sighs his life gets peculiar and jokes the talk is becoming a metaphor for existence; the lady calls him a fine young raven and advises that keeping left generally leads downward.",
+  "translation_fa": "هری آه کشید. «زندگی من معمولاً کمی عجیب می‌شود.»\n\n«آیا منصفانه است بگویم که نمی‌دانی کجا می‌روی یا چرا سعی داری به آنجا برسی؟»\n\n«کاملاً منصفانه.»\n\nبانوی پیر سر تکان داد. «مطمئن نیستم که گم شدن مهم‌ترین مشکل تو باشد، جوان.»\n\n«درست است، اما برخلاف مشکلات مهم‌تر، این مشکلی است که می‌فهمم چطور حلش کنم و وای این گفت‌وگو دارد به استعاره‌ای برای وجود انسان تبدیل می‌شود، تا همین حالا نفهمیده بودم که این دارد اتفاق می‌افتد.»",
+  "summary_fa": "هری آه می‌کشد که زندگی‌اش عجیب است و شوخی می‌کند حرفشان دارد استعاره‌ی وجود می‌شود؛ بانو او را کلاغ جوان خوبی می‌خواند و توصیه می‌کند همیشه به چپ بپیچیدن معمولاً به پایین می‌رساند."
+ },
+ {
+  "id": 24,
+  "paras": [
+   111,
+   112,
+   113,
+   114,
+   115
+  ],
+  "verbatim_html": [
+   "The lady eyed Harry appraisingly. \"You <em>are</em> a fine young raven, aren't you? For a moment I was starting to wonder. Well then, as a general rule, if you keep on turning left, you're bound to keep going down.\"",
+   "That sounded strangely familiar but Harry couldn't recall where he'd heard it before. \"Um... you seem like a very intelligent person. Or a picture of a very intelligent person... anyway, have you heard of a mysterious game where you can only play once, and they won't tell you the rules?\"",
+   "\"Life,\" said the lady at once. \"That's one of the most obvious riddles I've ever heard.\"",
+   "Harry blinked. \"No,\" he said slowly. \"I mean I got an actual note and everything saying that I had to play the game but I wouldn't be told the rules, and someone is leaving me little slips of paper telling me how many points I've lost for violating the rules, like a minus two point penalty for wearing pyjamas. Do you know anyone here at Hogwarts who's crazy enough and powerful enough to do something like that? Besides Dumbledore, I mean?\"",
+   "The picture of a lady sighed. \"I'm only a picture, young man. I remember Hogwarts as it was - not Hogwarts as it is. All I can tell you is that if this were a riddle, the answer would be that the game is life, and that while we do not make all the rules ourselves, the one who awards or takes points is always you. If it is not riddle but reality - then I do not know.\""
+  ],
+  "summary_en": "Harry asks about the once-only game with hidden rules and the lady answers 'Life'; when he insists about real notes and pyjama penalties, she says as a picture she recalls old Hogwarts only, and in riddles the game's scorer is always yourself.",
+  "translation_fa": "بانو هری را تحسین‌آمیز برانداز کرد. «تو کلاغ جوان خوبی هستی، مگر نه؟ برای لحظه‌ای داشتم شک می‌کردم. خب پس، به‌عنوان یک قاعده‌ی کلی، اگر مدام به چپ بپیچی، حتماً مدام می‌روی پایین.»\n\nاین به‌طرزی عجیب آشنا به نظر می‌رسید اما هری نمی‌توانست به یاد بیاورد کجا آن را شنیده بود. «ام... به نظر آدم خیلی باهوشی می‌رسی. یا تصویر یک آدم خیلی باهوش... به هر حال، درباره‌ی یک بازی مرموز شنیده‌ای که فقط یک بار می‌توانی بازی‌اش کنی، و قوانین را به تو نمی‌گویند؟»\n\nبانو بی‌درنگ گفت: «زندگی. این یکی از بدیهی‌ترین معماهایی است که شنیده‌ام.»\n\nهری پلک زد. به‌آرامی گفت: «نه. یعنی من یک یادداشت واقعی گرفتم و همه‌چیز که می‌گفت باید بازی را بکنم اما قوانین را به من نمی‌گویند، و کسی دارد برگه‌های کوچکی برایم می‌گذارد که می‌گوید برای نقض قوانین چند امتیاز از دست داده‌ام، مثل دو امتیاز منفی برای پوشیدن پیژامه. آیا کسی را در هاگوارتز می‌شناسی که به‌اندازه‌ی کافی دیوانه و قدرتمند باشد که چنین کاری بکند؟ به‌جز دامبلدور، یعنی؟»\n\nتصویر بانو آه کشید. «من فقط یک تصویرم، جوان. هاگوارتز را چنان که بود به یاد دارم ــ نه هاگوارتز را چنان که هست. تنها چیزی که می‌توانم به تو بگویم این است که اگر این معما بود، جواب این می‌بود که بازی زندگی است، و این‌که هرچند همه‌ی قوانین را خودمان نمی‌سازیم، کسی که امتیاز می‌دهد یا می‌گیرد همیشه خودت هستی. اگر معما نیست بلکه واقعیت است ــ پس نمی‌دانم.»",
+  "summary_fa": "هری درباره‌ی بازی یک‌باره با قوانین پنهان می‌پرسد و بانو جواب می‌دهد «زندگی»؛ وقتی او درباره‌ی یادداشت‌های واقعی و جریمه‌ی پیژامه اصرار می‌کند، او می‌گوید فقط یک تصویر است و در معماها امتیازدهنده همیشه خودت هستی."
+ },
+ {
+  "id": 25,
+  "paras": [
+   116,
+   117,
+   118,
+   119,
+   120
+  ],
+  "verbatim_html": [
+   "Harry bowed very low to the picture. \"Thank you, milady.\"",
+   "The lady curtseyed to him. \"I wish I could say that I'll remember you with fondness,\" she said, \"but I probably won't remember you at all. Farewell, Harry Potter.\"",
+   "He bowed again in reply, and started to climb down the nearest flight of stairs.",
+   "Four left turns later he found himself staring down a corridor that ended, abruptly, in a tumbled mound of large rocks - as if there had been a cave-in, only the surrounding walls and ceiling were intact and made of quite regular castle stones.",
+   "\"All right,\" Harry said to the empty air, \"I give up. I'm asking for another hint. How do I get to where I need to go?\""
+  ],
+  "summary_en": "Harry bows his thanks and the lady curtsies, doubting she will remember him; he descends, and after four left turns faces a corridor blocked by a rock pile despite intact castle walls.",
+  "translation_fa": "هری خیلی خم شد و به تصویر تعظیم کرد. «متشکرم، بانوی من.»\n\nبانو به او ادای احترام کرد. گفت: «کاش می‌توانستم بگویم که تو را با علاقه به یاد خواهم داشت، اما احتمالاً اصلاً تو را به یاد نخواهم داشت. بدرود، هری پاتر.»\n\nاو در جواب دوباره تعظیم کرد و شروع به پایین رفتن از نزدیک‌ترین پرواز پله کرد.\n\nچهار پیچ به چپ بعد خودش را دید که به راهرویی خیره شده که ناگهان به توده‌ای از سنگ‌های بزرگ ختم می‌شود ــ انگار ریزش غار بوده، فقط دیوارها و سقف اطراف سالم بودند و از سنگ‌های قلعه‌ی کاملاً منظم ساخته شده بودند.\n\nهری به هوای خالی گفت: «باشه. تسلیم شدم. یک راهنمایی دیگر می‌خواهم. چطور بروم به جایی که باید بروم؟»",
+  "summary_fa": "هری با تعظیم تشکر می‌کند و بانو با ادای احترام شک می‌کند او را به یاد آورد؛ او پایین می‌رود و بعد از چهار پیچ به چپ با راهرویی مسدود از سنگ روبه‌رو می‌شود."
+ },
+ {
+  "id": 26,
+  "paras": [
+   121,
+   122,
+   123,
+   124,
+   125
+  ],
+  "verbatim_html": [
+   "\"A hint! A hint, you say?\"",
+   "The excited voice came from a painting on the wall not far away, this one a portrait of a middle-aged man in the loudest pink robes that Harry had ever seen or even imagined. In the portrait he was wearing a droopy old pointed hat with a fish on it (not a drawing of a fish, mind, but a fish).",
+   "\"Yes!\" Harry said. \"A hint! A hint, I say! Only not just <em>any</em> hint, I'm looking for a <em>specific</em> hint, it's for a game I'm playing -\"",
+   "\"Yes, yes! A hint for the game! You're Harry Potter, aren't you? I'm Cornelion Flubberwalt! I was told by Erin the Consort who was told by Lord Weaselnose who was told by, I forget really. But it was a message for <em>me</em> to give to you! For <em>me!</em> No one's cared about me in, I don't know how long, maybe ever, I've been stuck down here in this bloody useless old corridor - a hint! I have your hint! It will only cost you three points! Do you want it?\"",
+   "\"Yes! I want it!\" Harry was aware that he probably ought to keep his sarcasm under control but he just couldn't seem to help himself."
+  ],
+  "summary_en": "An excited portrait in loud pink robes and a fish-hat answers: Cornelion Flubberwalt bears Harry's hint via a long chain of tellers, costing three points; Harry sarcastically accepts.",
+  "translation_fa": "«یک راهنمایی! یک راهنمایی، می‌گویی؟»\n\nصدای هیجان‌زده از نقاشی روی دیوار نه چندان دور آمد، این یکی پرتره‌ی مرد میانسالی در بلندترین رداهای صورتی که هری تا حالا دیده یا حتی تصور کرده بود. در پرتره او کلاه نوک‌تیز کهنه‌ی افتاده‌ای با یک ماهی رویش پوشیده بود (نه نقاشی یک ماهی، توجه کن، بلکه یک ماهی).\n\nهری گفت: «بله! یک راهنمایی! یک راهنمایی، می‌گویم! فقط نه هر راهنمایی‌ای، دنبال یک راهنمایی خاصم، برای بازی‌ای است که می‌کنم ــ»\n\n«بله، بله! یک راهنمایی برای بازی! تو هری پاتر هستی، مگر نه؟ من کورنلیون فلابروالت هستم! ارین همسر به من گفت که لرد ویزل‌نوز به او گفت که به او گفتند، واقعاً یادم نیست. اما پیامی بود برای من که به تو بدهم! برای من! هیچ‌کس به من اهمیت نداده، نمی‌دانم چقدر، شاید هیچ‌وقت، گیر کرده‌ام پایین اینجا در این راهروی قدیمی بی‌فایده‌ی لعنتی ــ یک راهنمایی! راهنمایی‌ات را دارم! فقط سه امتیاز برایت خرج دارد! می‌خواهی‌اش؟»\n\n«بله! می‌خواهمش!» هری آگاه بود که احتمالاً باید طعنه‌اش را کنترل کند اما نمی‌توانست جلوی خودش را بگیرد.",
+  "summary_fa": "پرتره‌ی هیجان‌زده‌ای با ردای صورتی بلند و کلاه ماهی‌دار جواب می‌دهد: کورنلیون فلابروالت راهنمایی هری را از زنجیره‌ی بلندی از راویان دارد، به قیمت سه امتیاز؛ هری با طعنه قبول می‌کند."
+ },
+ {
+  "id": 27,
+  "paras": [
+   126,
+   127,
+   128,
+   129,
+   130
+  ],
+  "verbatim_html": [
+   "\"The darkness can be found between the green study rooms and McGonagall's Transfiguration class! That's the hint! And get a move on, you're slower than a sack of snails! Minus ten points for being slow! Now you have 61 points! That was the rest of the message!\"",
+   "\"Thank you,\" Harry said. He was really getting behind on the game here. \"Um... I don't suppose you know where the message <em>originally</em> came from, do you?\"",
+   "\"It was spoken by a hollow voice that belled forth from a gap within the air itself, a gap that opened upon a fiery abyss! That's what they told me!\"",
+   "Harry was no longer sure, at this point, whether this was the sort of thing he ought to be sceptical about, or the sort of thing he should just take in stride. \"And how can I find the line between the green study rooms and Transfiguration class?\"",
+   "\"Just spin back around and go left, right, down, down, right, left, right, up, and left again, you'll be at the green study room and if you go in and walk straight out the opposite side you'll be on a big curvy corridor that goes to an intersection and on the right side of that intersection will be a long straight hallway that goes to the Transfiguration classroom!\" The figure of the middle-aged man paused. \"At least that's how it was when <em>I</em> was in Hogwarts. This <em>is</em> a Monday on an odd-numbered year, isn't it?\""
+  ],
+  "summary_en": "Flubberwalt's hint places the darkness between the green study rooms and McGonagall's Transfiguration class, then docks ten points for slowness leaving 61; asked for the origin, he cites a hollow voice from a gap onto a fiery abyss.",
+  "translation_fa": "«تاریکی را می‌توان بین اتاق‌های مطالعه‌ی سبز و کلاس تغییرشکل مک‌گونگال پیدا کرد! این راهنمایی است! و بجنب، از کیسه‌ی حلزون کندتری! ده امتیاز منفی برای کند بودن! حالا ۶۱ امتیاز داری! این بقیه‌ی پیام بود!»\n\nهری گفت: «متشکرم.» او واقعاً در بازی داشت عقب می‌افتاد. «ام... فکر نمی‌کنی بدانی پیام اصلاً از کجا آمد، می‌دانی؟»\n\n«آن را صدای توخالی‌ای گفت که از شکافی در خودِ هوا بیرون ناقوس زد، شکافی که به مغاکی آتشین باز می‌شد! این چیزی است که به من گفتند!»\n\nهری دیگر مطمئن نبود، در این مرحله، که آیا این از آن چیزهایی است که باید درباره‌اش بدبین باشد، یا از آن چیزهایی که باید فقط راحت بپذیرد. «و چطور می‌توانم خط بین اتاق‌های مطالعه‌ی سبز و کلاس تغییرشکل را پیدا کنم؟»\n\n«فقط بچرخ و برو چپ، راست، پایین، پایین، راست، چپ، راست، بالا، و دوباره چپ، می‌رسی به اتاق مطالعه‌ی سبز و اگر بروی داخل و مستقیم از سمت مقابل بیرون بروی روی راهروی خمیده‌ی بزرگی خواهی بود که می‌رود به یک تقاطع و در سمت راست آن تقاطع یک راهروی مستقیم طولانی خواهد بود که می‌رود به کلاس درس تغییرشکل!» پیکر مرد میانسال مکث کرد. «دست‌کم وقتی من در هاگوارتز بودم این‌طور بود. امروز دوشنبه‌ی سال فرد است، مگر نه؟»",
+  "summary_fa": "راهنمایی فلابروالت تاریکی را بین اتاق‌های مطالعه‌ی سبز و کلاس تغییرشکل مک‌گونگال می‌گذارد، بعد ده امتیاز برای کندی کم می‌کند و ۶۱ می‌ماند؛ درباره‌ی منشأ، او از صدای توخالی از شکافی به مغاک آتشین می‌گوید."
+ },
+ {
+  "id": 28,
+  "paras": [
+   131,
+   132,
+   133,
+   134,
+   135
+  ],
+  "verbatim_html": [
+   "\"Pencil and mechanical paper,\" Harry said to his pouch. \"Er, cancel that, paper and mechanical pencil.\" He looked up. \"Could you repeat that?\"",
+   "After getting lost another two times, Harry felt that he was beginning to understand the basic rule for navigating the ever-changing maze that was Hogwarts, namely, <em>ask a painting for directions</em>. If this reflected some sort of incredibly deep life lesson he couldn't figure out what it was.",
+   "The green study room was a surprisingly pleasant space with sunlight streaming in from windows of green-stained glass that showed dragons in calm, pastoral scenes. It had chairs that looked extremely comfortable, and tables that seemed very well-suited to studying in the company of one to three friends.",
+   "Harry couldn't <em>actually</em> walk straight through and out the door on the other side. There were <em>bookshelves</em> set into the wall, and he had to go over and read some of the titles, so as to not lose his claim to the Verres family name. But he did it quickly, mindful of the complaint about being slow, and then went out the other side.",
+   "He was walking down the \"big curvy corridor\" when he heard a young boy's voice cry out."
+  ],
+  "summary_en": "Harry fumbles for paper and pencil and asks for a repeat; after two more lost turns he learns Hogwarts' rule is to ask paintings, reaches the pleasant dragon-windowed green study room, glances at bookshelves for the Verres name, exits, and hears a boy cry out.",
+  "translation_fa": "هری به کیسه‌اش گفت: «مداد و کاغذ مکانیکی.» «اوه، لغوش کن، کاغذ و مداد مکانیکی.» بالا را نگاه کرد. «می‌توانی تکرارش کنی؟»\n\nبعد از این‌که دو بار دیگر گم شد، هری احساس کرد که دارد قانون پایه برای راهبری در هزارتوی همیشه‌درحال‌تغییر هاگوارتز را می‌فهمد، یعنی از یک نقاشی آدرس بپرس. اگر این بازتاب نوعی درس زندگی فوق‌العاده عمیق بود نمی‌توانست بفهمد چیست.\n\nاتاق مطالعه‌ی سبز فضای شگفت‌آور دلپذیری بود با نور خورشیدی که از پنجره‌های شیشه‌ی سبزرنگ می‌تابید که اژدهاهایی را در صحنه‌های آرام روستایی نشان می‌داد. صندلی‌هایی داشت که فوق‌العاده راحت به نظر می‌رسیدند، و میزهایی که به نظر می‌رسیدند خیلی مناسب درس خواندن در جمع یک تا سه دوست هستند.\n\nهری نمی‌توانست واقعاً مستقیم برود و از در سمت دیگر بیرون برود. قفسه‌های کتاب در دیوار کار گذاشته شده بود، و او مجبور بود برود و بعضی عنوان‌ها را بخواند، تا ادعایش را به نام خانواده‌ی ورس از دست ندهد. اما سریع انجامش داد، چون شکایت درباره‌ی کند بودن را در ذهن داشت، و بعد از سمت دیگر بیرون رفت.\n\nداشت در «راهروی خمیده‌ی بزرگ» قدم می‌زد که صدای فریاد یک پسر جوان را شنید.",
+  "summary_fa": "هری دنبال کاغذ و مداد می‌گردد و تکرار می‌خواهد؛ بعد از دو بار گم شدن دیگر می‌فهمد قانون هاگوارتز پرسیدن از نقاشی‌هاست، به اتاق مطالعه‌ی سبز دلپذیر با پنجره‌های اژدها می‌رسد، نگاهی به قفسه‌ها برای نام ورس می‌اندازد، بیرون می‌رود و فریاد پسری را می‌شنود."
+ },
+ {
+  "id": 29,
+  "paras": [
+   136,
+   137,
+   138,
+   139,
+   140
+  ],
+  "verbatim_html": [
+   "At times like this, Harry had an excuse to sprint all-out with no regards for saving energy or doing proper warmup exercises or worrying about crashing into things, a sudden frantic flight that nearly came to an equally sudden halt as he almost ran over a group of six first-year Hufflepuffs...",
+   "...who were huddled together, looking rather scared and like they desperately wanted to do something but couldn't figure out what, which probably had something to do with the group of five older Slytherins who seemed to be surrounding another young boy.",
+   "Harry was suddenly rather angry.",
+   "\"<em>Excuse me!</em> \" shouted Harry at the top of his lungs.",
+   "It might not have been necessary. People were already looking at him. But it certainly served to stop all the action cold."
+  ],
+  "summary_en": "Harry sprints toward a boy's cry and finds six frightened first-year Hufflepuffs watching five older Slytherins surround another boy; suddenly angry, Harry shouts to freeze the scene.",
+  "translation_fa": "در چنین لحظه‌هایی، هری بهانه‌ای داشت که با تمام سرعت بدود بی‌آنکه نگران ذخیره‌ی انرژی یا گرم کردن درست یا برخورد به چیزها باشد، پروازی ناگهانی و سراسیمه که نزدیک بود به همان ناگهان متوقف شود چون کم مانده بود شش هافلپافی سال‌اولی را زیر بگیرد...\n\n...که دسته‌جمعی کنار هم کز کرده بودند، نسبتاً ترسیده به نظر می‌رسیدند و انگار شدیداً می‌خواستند کاری بکنند اما نمی‌توانستند بفهمند چه کاری، که احتمالاً ربطی داشت به گروهی از پنج اسلیترینی بزرگ‌تر که به نظر می‌رسید پسر جوان دیگری را محاصره کرده‌اند.\n\nهری ناگهان به‌شدت خشمگین شد.\n\n«ببخشید!» هری با تمام قوا فریاد زد.\n\nشاید لازم نبود. مردم از قبل داشتند به او نگاه می‌کردند. اما مطمئناً باعث شد همه‌ی ماجرا کاملاً متوقف شود.",
+  "summary_fa": "هری به سوی صدای فریاد پسری می‌دود و شش هافلپافی سال‌اولی ترسیده را می‌بیند که تماشا می‌کنند پنج اسلیترینی بزرگ‌تر پسری دیگر را محاصره کرده‌اند؛ هری که ناگهان خشمگین شده فریاد می‌زند و صحنه را متوقف می‌کند."
+ },
+ {
+  "id": 30,
+  "paras": [
+   141,
+   142,
+   143,
+   144,
+   145
+  ],
+  "verbatim_html": [
+   "Harry walked past the cluster of Hufflepuffs towards the Slytherins.",
+   "They looked down at him with expressions that ranged from anger to amusement to delight.",
+   "Part of Harry's brain was screaming in panic that these were much older and bigger boys who could stomp him flat.",
+   "Another part said dryly that anyone caught seriously stomping the Boy-Who-Lived was in for a whole <em>world</em> of trouble, especially if they were a pack of older Slytherins and there were seven Hufflepuffs who saw it, and that the chance of them doing him any permanent damage in the presence of witnesses was nearly zero. The only real weapon the older boys had against him was his own fear, if he allowed that.",
+   "Then Harry saw that the boy they had trapped was Neville Longbottom."
+  ],
+  "summary_en": "Harry strides past the Hufflepuffs toward the Slytherins, reasoning that with seven witnesses the older boys' only real weapon is his own fear; then he sees the trapped boy is Neville Longbottom.",
+  "translation_fa": "هری از کنار دسته‌ی هافلپاف‌ها به سوی اسلیترین‌ها رفت.\n\nآن‌ها با حالت‌هایی از خشم تا سرگرمی تا شادی به او که به آن‌ها نگاه می‌کرد نگاه کردند.\n\nبخشی از مغز هری داشت از وحشت جیغ می‌کشید که این‌ها پسرهای خیلی بزرگ‌تر و قوی‌تری هستند که می‌توانند او را له کنند.\n\nبخش دیگری خشک و بی‌احساس می‌گفت هر کسی که گیر بیفتد پسر-زنده‌مانده را به‌جد لگدکوب کرده باشد به دردسر عظیمی می‌افتد، به‌ویژه اگر دسته‌ای از اسلیترین‌های بزرگ‌تر باشند و هفت هافلپاف دیده باشند، و احتمال این‌که در حضور شاهدان آسیب دائمی به او بزنند تقریباً صفر است. تنها سلاح واقعی پسرهای بزرگ‌تر در برابر او ترس خودش بود، اگر اجازه می‌داد.\n\nبعد هری دید پسری که آن‌ها گیر انداخته بودند نویل لانگ‌باتم است.",
+  "summary_fa": "هری از کنار هافلپاف‌ها به سوی اسلیترین‌ها می‌رود و با خود استدلال می‌کند که با وجود هفت شاهد، تنها سلاح واقعی پسرهای بزرگ‌تر ترس خودش است؛ بعد می‌بیند پسری که گیر افتاده نویل لانگ‌باتم است."
+ },
+ {
+  "id": 31,
+  "paras": [
+   146,
+   147,
+   148,
+   149,
+   150
+  ],
+  "verbatim_html": [
+   "Of course.",
+   "That settled it. Harry had decided to apologise humbly to Neville and that meant Neville was <em>his</em>, how <em>dare</em> they?",
+   "Harry reached out and grabbed Neville by the wrist and <em>yanked</em> him out from between the Slytherins, the boy stumbling in shock as Harry pulled him out and in nearly the same motion pushed his own way through the same gap.",
+   "And Harry stood in the center of the Slytherins where Neville had stood, looking up at the much older, larger, and stronger boys.",
+   "\"Hello,\" Harry said. \"I'm the Boy-Who-Lived.\""
+  ],
+  "summary_en": "Deciding Neville is his since he meant to apologize to him, Harry yanks Neville out of the circle and takes his place; he announces he is the Boy-Who-Lived to an awkward silence.",
+  "translation_fa": "البته.\n\nکار تمام بود. هری تصمیم گرفته بود فروتنانه از نویل عذرخواهی کند و این یعنی نویل مال او بود، آن‌ها چطور جرئت می‌کنند؟\n\nهری دست دراز کرد و مچ نویل را گرفت و او را از میان اسلیترین‌ها بیرون کشید، پسر در بهت تلوتلو خورد وقتی هری او را بیرون کشید و تقریباً در همان حرکت خودش را از همان شکاف به داخل هل داد.\n\nو هری در مرکز اسلیترین‌ها ایستاد، همان‌جا که نویل ایستاده بود، و به پسرهای خیلی بزرگ‌تر، قوی‌تر و قدبلندتر نگاه کرد.\n\n«سلام،» هری گفت. «من پسر-زنده‌مانده هستم.»",
+  "summary_fa": "هری که تصمیم گرفته نویل مال اوست چون قصد داشته از او عذرخواهی کند، نویل را از دایره بیرون می‌کشد و جایش را می‌گیرد؛ او خودش را پسر-زنده‌مانده معرفی می‌کند و سکوت معذبی برقرار می‌شود."
+ },
+ {
+  "id": 32,
+  "paras": [
+   151,
+   152,
+   153,
+   154,
+   155
+  ],
+  "verbatim_html": [
+   "There was a rather awkward pause. No one seemed to know where the conversation was supposed to go from there.",
+   "Harry's eyes dropped downwards and saw some books and papers scattered around the floor. Oh, the old game where you let the boy try to pick up his books and then knock them out of his hand again. Harry couldn't remember ever being the object of that game himself, but he had a good imagination and his imagination was making him furious. Well, once the larger situation was resolved it would be easy enough for Neville to come back and pick up his materials, provided that the Slytherins stayed too intent on him to think of doing anything to the books.",
+   "Unfortunately his straying eyes had been noted. \"Ooh,\" said the largest of the boys, \"did 'oo want the widdle books -\"",
+   "\"Shut up,\" Harry said coldly. <em>Keep them off balance. Don't do what they expect. Don't fall into a pattern that calls for them to bully you.</em> \"Is this part of some incredibly clever plan that will gain you future advantage, or is it as pointless a disgrace to the name of Salazar Slytherin as it -\"",
+   "The largest boy shoved Harry Potter hard, and he went sprawling out of the circle of Slytherins onto the hard stone floor of Hogwarts."
+  ],
+  "summary_en": "An awkward pause follows; Harry notices Neville's scattered books and the bullies' knock-them-down game, and after taunting them as a disgrace to Salazar Slytherin he is shoved hard to the stone floor amid laughter.",
+  "translation_fa": "مکث نسبتاً معذبی پیش آمد. هیچ‌کس به نظر نمی‌رسید بداند گفت‌وگو قرار است از آنجا به کجا برود.\n\nچشم‌های هری پایین رفت و چند کتاب و کاغذ پراکنده روی زمین دید. آه، آن بازی قدیمی که می‌گذاری پسر سعی کند کتاب‌هایش را بردارد و بعد دوباره از دستش می‌زنید. هری نمی‌توانست یادش بیاید که خودش هدف آن بازی بوده باشد، اما تخیل خوبی داشت و تخیلش داشت او را خشمگین می‌کرد. خب، وقتی وضعیت بزرگ‌تر حل می‌شد نویل به‌راحتی می‌توانست برگردد و وسایلش را بردارد، به شرطی که اسلیترین‌ها چنان به او خیره بمانند که به کتاب‌ها فکر نکنند.\n\nمتأسفانه چشم‌های سرگردانش دیده شده بودند. «اوه،» بزرگ‌ترین پسر گفت، «می‌خواستی کتاب‌های کوچولوئه ــ»\n\n«خفه شو،» هری سرد گفت. آن‌ها را از تعادل خارج نگه دار. کاری نکن که انتظار دارند. در الگویی نیفت که آن‌ها را به قلدری دعوت کند. «این بخشی از نقشه‌ی فوق‌العاده هوشمندانه‌ای است که در آینده برایتان برتری می‌آورد، یا به‌همان اندازه که به نظر می‌رسد مایه‌ی بی‌آبرویی بیهوده برای نام سالازار اسلیترین است ــ»\n\nبزرگ‌ترین پسر هری پاتر را محکم هل داد، و او از دایره‌ی اسلیترین‌ها به کف سنگی سخت هاگوارتز پخش شد.",
+  "summary_fa": "مکث معذبی پیش می‌آید؛ هری کتاب‌های پراکنده‌ی نویل و بازی قلدرهای کتاب‌زدن را می‌بیند و بعد از این‌که آن‌ها را مایه‌ی ننگ سالازار اسلیترین می‌خواند، محکم به کف سنگی پرت می‌شود میان خنده‌ها."
+ },
+ {
+  "id": 33,
+  "paras": [
+   156,
+   157,
+   158,
+   159,
+   160
+  ],
+  "verbatim_html": [
+   "And the Slytherins laughed.",
+   "Harry rose up in what seemed to him like terribly slow motion. He didn't know yet how to use his wand, but there was no reason to let that stop him, under the circumstances.",
+   "\"I'd like to pay <em>as many points as it takes</em> to get rid of this person,\" Harry said, pointing with his finger to the largest Slytherin.",
+   "Then Harry lifted his other hand, said \"Abracadabra,\" and snapped his fingers.",
+   "At the word <em>Abracadabra</em> two of the Hufflepuffs screamed, including Neville, three other Slytherins leapt desperately out of the way of Harry's finger, and the largest Slytherin staggered back with an expression of shock, a sudden splash of red decorating his face and neck and chest."
+  ],
+  "summary_en": "Rising in slow motion, Harry offers to pay any number of points to get rid of the bully, says Abracadabra and snaps his fingers; Hufflepuffs scream, Slytherins leap aside, and the largest boy staggers back splashed with red.",
+  "translation_fa": "و اسلیترین‌ها خندیدند.\n\nهری در چیزی که به نظرش حرکت آهسته‌ی وحشتناکی می‌آمد بلند شد. او هنوز نمی‌دانست چطور از چوب‌دستی‌اش استفاده کند، اما تحت این شرایط دلیلی نبود که بگذارد این مانعش شود.\n\n«دوست دارم هر چند امتیاز که لازم باشد بپردازم تا از شر این شخص خلاص شوم،» هری گفت و با انگشتش به بزرگ‌ترین اسلیترین اشاره کرد.\n\nبعد هری دست دیگرش را بلند کرد، گفت «آبراکادابرا،» و انگشتانش را شکست.\n\nبا کلمه‌ی آبراکادابرا دو تا از هافلپاف‌ها جیغ زدند، از جمله نویل، سه اسلیترین دیگر ناامیدانه از مسیر انگشت هری به کناری پریدند، و بزرگ‌ترین اسلیترین با حالت بهت به عقب تلوتلو خورد، با پاشیده شدن ناگهانی قرمزی که صورت و گردن و سینه‌اش را آذین کرده بود.",
+  "summary_fa": "هری کند بلند می‌شود و پیشنهاد می‌دهد هر چند امتیاز که لازم باشد برای خلاص شدن از شر قلدر بپردازد، آبراکادابرا می‌گوید و انگشتانش را می‌شکند؛ هافلپاف‌ها جیغ می‌زنند، اسلیترین‌ها به کناری می‌پرند و بزرگ‌ترین پسر با پاشیده شدن قرمزی به عقب تلوتلو می‌خورد."
+ },
+ {
+  "id": 34,
+  "paras": [
+   161,
+   162,
+   163,
+   164,
+   165
+  ],
+  "verbatim_html": [
+   "Harry had <em>not</em> been expecting <em>that</em>.",
+   "Slowly, the largest Slytherin reached up to his head, and peeled off the pan of cherry pie that had just draped itself over him. The largest Slytherin held the pan in his hand for a moment, staring at it, then dropped it to the floor.",
+   "It probably wasn't the best time in the world for one of the Hufflepuffs to start laughing, but that was exactly what one of the Hufflepuffs was doing.",
+   "Then Harry caught sight of the note on the bottom of the pan.",
+   "\"Hold on,\" Harry said, and darted forward to pick up the note. \"This note's for me, I think -\""
+  ],
+  "summary_en": "To Harry's surprise the red is a cherry pie pan draped over the bully's head; as a Hufflepuff starts giggling at the worst moment, Harry spots the note on the pan's bottom and darts forward to claim it.",
+  "translation_fa": "هری انتظار آن را نداشت.\n\nآهسته، بزرگ‌ترین اسلیترین دست به سرش برد و ظرف پای گیلاس را که تازه روی سرش افتاده بود کند. بزرگ‌ترین اسلیترین ظرف را لحظه‌ای در دستش نگه داشت، به آن خیره شد، بعد آن را به زمین انداخت.\n\nاحتمالاً بهترین زمان دنیا برای شروع خنده‌ی یکی از هافلپاف‌ها نبود، اما دقیقاً همان کاری بود که یکی از هافلپاف‌ها می‌کرد.\n\nبعد هری چشمش به یادداشت زیر ظرف افتاد.\n\n«صبر کن،» هری گفت و جلو پرید تا یادداشت را بردارد. «فکر کنم این یادداشت برای من است ــ»",
+  "summary_fa": "در کمال تعجب هری، آن قرمزی ظرف پای گیلاس است که روی سر قلدر افتاده است؛ وقتی یک هافلپاف در بدترین لحظه شروع به خندیدن می‌کند، هری یادداشت زیر ظرف را می‌بیند و جلو می‌پرد تا آن را بردارد."
+ },
+ {
+  "id": 35,
+  "paras": [
+   166,
+   167,
+   168,
+   169,
+   170
+  ],
+  "verbatim_html": [
+   "\"<em>You,\"</em> growled the largest Slytherin, \"<em>you, are, going, to -</em>\"",
+   "\"<em>Look</em> at this!\" shouted Harry, brandishing the note at the older Slytherin. \"I mean, just <em>look</em> at this! Can you believe I'm being charged 30 points for shipping and handling on one lousy pie? 30 points! I'm turning a loss on the deal even after rescuing an innocent boy in distress! And storage fees? Conveyance charges? Drayage costs? How do you get <em>drayage costs</em> on a <em>pie?</em> \"",
+   "There was another one of those awkward pauses. Harry thought deadly thoughts at whichever Hufflepuff couldn't seem to stop giggling, that idiot was going to get him hurt.",
+   "Harry stepped back and shot the Slytherins his best lethal glare. \"Now go away or I will just keep making your existence more and more surreal until you do. Let me warn you... messing with <em>my</em> life tends to make <em>your</em> life... <em>a little hairy.</em> Get it?\"",
+   "In a single terrible motion, the largest Slytherin whipped his wand out to point at Harry and in the same instant was hit on the other side of his head by another pie, this one bright blueberry."
+  ],
+  "summary_en": "As the largest Slytherin growls threats, Harry brandishes the note and rants about being charged 30 points for shipping and handling plus storage and drayage on one pie; his lethal glare and hairy pun fail until a second bright-blueberry pie smacks the wand-drawing bully.",
+  "translation_fa": "«تو،» بزرگ‌ترین اسلیترین غرید، «تو، قراره، ــ»\n\n«به این نگاه کن!» هری فریاد زد و یادداشت را به سوی اسلیترین بزرگ‌تر تکان داد. «یعنی، فقط به این نگاه کن! باورت می‌شود که برای ارسال و جابه‌جایی یک پای بی‌ارزش ۳۰ امتیاز از من کم می‌کنند؟ ۳۰ امتیاز! حتی بعد از نجات یک پسر بی‌گناه دردمند دارم ضرر می‌کنم! و هزینه‌ی انبار؟ هزینه‌ی حمل؟ هزینه‌ی باربری؟ چطور می‌شود برای یک پای هزینه‌ی باربری گرفت؟»\n\nیکی دیگر از آن مکث‌های معذب پیش آمد. هری به هر کدام از هافلپاف‌ها که نمی‌توانست از ریزخند دست بردارد افکار مرگباری فرستاد، آن احمق داشت او را به دردسر می‌انداخت.\n\nهری عقب رفت و بهترین نگاه مرگبارش را به اسلیترین‌ها انداخت. «حالا بروید وگرنه فقط وجودتان را بیش‌ازپیش سوررئال می‌کنم تا بروید. بگذارید هشدار بدهم... ور رفتن با زندگی من معمولاً زندگی شما را... کمی مویی می‌کند. گرفتی؟»\n\nدر یک حرکت هولناک، بزرگ‌ترین اسلیترین چوب‌دستی‌اش را بیرون کشید تا به سوی هری بگیرد و در همان لحظه از سمت دیگر سرش پای دیگری خورد، این یکی بلوبری روشن.",
+  "summary_fa": "در حالی که بزرگ‌ترین اسلیترین تهدیدکنان غرغر می‌کند، هری یادداشت را تکان می‌دهد و غر می‌زند که برای یک پای بی‌ارزش ۳۰ امتیاز هزینه‌ی ارسال و انبارداری و حمل بار از او گرفته‌اند؛ نگاه مرگبار و جناس مویی‌اش بی‌اثر می‌ماند تا این‌که دومین پای بلوبری روشن به قلدری می‌خورد که چوب‌دستی کشیده است."
+ },
+ {
+  "id": 36,
+  "paras": [
+   171,
+   172,
+   173,
+   174,
+   175
+  ],
+  "verbatim_html": [
+   "The note on this pie was rather large and clearly readable. \"You might want to read the note on that pie,\" Harry observed. \"I think it's for you this time.\"",
+   "The Slytherin slowly reached up, took the pie pan, turned it over with a wet glop that dropped more blueberry on the floor, and read a note that said:",
+   "WARNING<br/>NO MAGIC MAY BE USED ON THE CONTESTANT<br/>WHILE THE GAME IS IN PROGRESS<br/>FURTHER INTERFERENCE IN THE GAME<br/>WILL BE REPORTED TO THE GAME AUTHORITIES",
+   "The expression of sheer bafflement on the Slytherin's face was a look of art. Harry thought that he might be starting to like this Game Controller.",
+   "\"Look,\" Harry said, \"you want to call it a day? I think things are spiralling out of control here. How about you go back to Slytherin and I go back to Ravenclaw and we all just cool down a bit, okay?\""
+  ],
+  "summary_en": "The blueberry pie carries a large readable note warning that no magic may be used on the contestant and further interference will be reported; the Slytherin is left baffled, and Harry proposes they all cool down.",
+  "translation_fa": "یادداشت روی این پای نسبتاً بزرگ و به‌وضوح خوانا بود. «شاید بخواهی یادداشت روی آن پای را بخوانی،» هری گفت. «فکر کنم این بار برای توست.»\n\nاسلیترین آهسته دست بالا برد، ظرف پای را گرفت، آن را با صدای خیسی برگرداند که بلوبری بیشتری روی زمین ریخت، و یادداشتی را خواند که می‌گفت:\n\nهشدار\nهیچ جادویی نباید روی شرکت‌کننده استفاده شود\nتا وقتی بازی در جریان است\nدخالت بیشتر در بازی\nبه مقامات بازی گزارش خواهد شد\n\nحالت بهت محض روی صورت اسلیترین منظره‌ای هنری بود. هری فکر کرد شاید دارد از این کنترل‌کننده‌ی بازی خوشش می‌آید.\n\n«ببین،» هری گفت، «نمی‌خواهی امروز را تمام‌شده حساب کنی؟ فکر کنم اوضاع دارد از کنترل خارج می‌شود. چطور است تو برگردی اسلیترین و من برگردم ریونکلاو و همه‌مان کمی آرام شویم، باشه؟»",
+  "summary_fa": "روی پای بلوبری یادداشت بزرگ و خوانایی است که هشدار می‌دهد هیچ جادویی نباید روی شرکت‌کننده استفاده شود و دخالت بیشتر گزارش خواهد شد؛ اسلیترین مبهوت می‌ماند و هری پیشنهاد می‌دهد همه کمی آرام شوند."
+ },
+ {
+  "id": 37,
+  "paras": [
+   176,
+   177,
+   178,
+   179,
+   180
+  ],
+  "verbatim_html": [
+   "\"I've got a better idea,\" hissed the largest Slytherin. \"How about if you accidentally break all your fingers?\"",
+   "\"How in Merlin's name do you stage a believable accident after making the threat in front of a dozen witnesses, you <em>idiot</em> -\"",
+   "The largest Slytherin slowly, deliberately reached out towards Harry's hands, and Harry froze in place, the part of his brain that was noticing the other boy's age and strength finally managing to make itself heard, screaming, <em>WHAT THE HECK AM I DOING?</em>",
+   "\"Wait!\" said one of the other Slytherins, his voice suddenly panicky. \"Stop, you shouldn't actually do that!\"",
+   "The largest Slytherin ignored him, taking Harry's right hand firmly in his left hand, and taking Harry's index finger in his right hand."
+  ],
+  "summary_en": "The largest Slytherin hisses that Harry will accidentally break all his fingers; Harry protests no staged accident survives a dozen witnesses, but the bully seizes his hand as another Slytherin panics and shouts to stop.",
+  "translation_fa": "«ایده‌ی بهتری دارم،» بزرگ‌ترین اسلیترین خش‌خش کرد. «چطور است اگر تو تصادفاً همه‌ی انگشتانت را بشکنی؟»\n\n«به نام مرلین چطور می‌خواهی بعد از تهدید جلوی دوازده شاهد تصادف باورپذیری صحنه‌سازی کنی، احمق ــ»\n\nبزرگ‌ترین اسلیترین آهسته و عمدی به سوی دست‌های هری دراز شد، و هری سر جایش خشک شد، آن بخش مغزش که داشت سن و قدرت پسر دیگر را متوجه می‌شد سرانجام توانست صدایش را به گوش برساند، و جیغ می‌کشید، من اصلاً چه غلطی دارم می‌کنم؟\n\n«صبر کن!» یکی از اسلیترین‌های دیگر گفت، صدایش ناگهان وحشت‌زده شده بود. «بس کن، نباید واقعاً این کار را بکنی!»\n\nبزرگ‌ترین اسلیترین نادیده‌اش گرفت، دست راست هری را محکم با دست چپش گرفت، و انگشت اشاره‌ی هری را با دست راستش گرفت.",
+  "summary_fa": "بزرگ‌ترین اسلیترین خش‌خش می‌کند که هری تصادفاً همه‌ی انگشتانش را می‌شکند؛ هری اعتراض می‌کند هیچ تصادف صحنه‌سازی‌شده‌ای با دوازده شاهد باورپذیر نیست، اما قلدر دستش را می‌گیرد در حالی که اسلیترین دیگری وحشت‌زده فریاد می‌زند بس کن."
+ },
+ {
+  "id": 38,
+  "paras": [
+   181,
+   182,
+   183,
+   184,
+   185
+  ],
+  "verbatim_html": [
+   "Harry stared the Slytherin straight in the eyes. Part of Harry was screaming, this wasn't supposed to happen, this wasn't <em>allowed</em> to happen, grownups would never let something like this <em>actually</em> happen -",
+   "Slowly, the Slytherin started to bend his index finger backwards.",
+   "<em>He hasn't actually broken my finger and it is beneath me to so much as flinch until he does. Until then, this is just another attempt to cause fear.</em>",
+   "\"Stop!\" said the Slytherin who had objected before. \"Stop, this is a very bad idea!\"",
+   "\"I rather agree,\" said an icy voice. An older woman's voice."
+  ],
+  "summary_en": "Harry stares the bully in the eye, telling himself it is beneath him to flinch before his finger is truly broken; as the Slytherin slowly bends it back despite a second warning, an icy older woman's voice says she rather agrees.",
+  "translation_fa": "هری مستقیم به چشم‌های اسلیترین خیره شد. بخشی از هری جیغ می‌کشید، قرار نبود این اتفاق بیفتد، اجازه نبود این واقعاً اتفاق بیفتد، بزرگ‌ترها هرگز نمی‌گذاشتند چنین چیزی واقعاً اتفاق بیفتد ــ\n\nآهسته، اسلیترین شروع کرد به خم کردن انگشت اشاره‌اش به عقب.\n\nاو هنوز واقعاً انگشتم را نشکسته و دون شأن من است که حتی تکان بخورم تا وقتی این کار را بکند. تا آن موقع، این فقط تلاش دیگری برای ایجاد ترس است.\n\n«بس کن!» اسلیترینی که قبلاً اعتراض کرده بود گفت. «بس کن، این ایده‌ی خیلی بدی است!»\n\n«من کاملاً موافقم،» صدای یخی گفت. صدای زنی مسن‌تر.",
+  "summary_fa": "هری به چشم‌های قلدر خیره می‌شود و به خود می‌گوید تا وقتی انگشتش واقعاً نشکسته حتی تکان خوردن هم دون شأن اوست؛ وقتی اسلیترین با وجود دومین هشدار آهسته آن را به عقب خم می‌کند، صدای یخی زنی مسن می‌گوید که او کاملاً موافق است."
+ },
+ {
+  "id": 39,
+  "paras": [
+   186,
+   187,
+   188,
+   189,
+   190
+  ],
+  "verbatim_html": [
+   "The largest Slytherin let go of Harry's hand and jumped backwards as if burned.",
+   "\"Professor Sprout!\" cried one of the Hufflepuffs, sounding as glad as anyone Harry had ever heard in his life.",
+   "Into Harry's field of vision, as he turned, stalked a dumpy little woman with messily curled grey hair and clothes covered with dirt. She pointed an accusing finger at the Slytherins. \"Explain yourselves,\" she said. \"What are you doing with my Hufflepuffs and...\" she looked at him. \"My fine student, Harry Potter.\"",
+   "<em>Uh oh. That's right, it was HER class I missed this morning.</em>",
+   "\"He threatened to kill us!\" blurted one of the other Slytherins, the same one who'd called for a halt."
+  ],
+  "summary_en": "The largest Slytherin releases Harry and jumps back as Professor Sprout stalks in, dirt-covered and accusing, demanding an explanation and claiming her Hufflepuffs and her fine student Harry Potter; Harry realizes he missed her morning class as a Slytherin blurts that Harry threatened to kill them.",
+  "translation_fa": "بزرگ‌ترین اسلیترین دست هری را رها کرد و مثل سوخته عقب پرید.\n\n«پروفسور اسپراوت!» یکی از هافلپاف‌ها فریاد زد، با صدایی به‌اندازه‌ی خوشحال‌ترین صدایی که هری در عمرش شنیده بود.\n\nدر میدان دید هری، وقتی برگشت، زن تنومند کوتاهی با موهای خاکستری ژولیده و لباس‌های پوشیده از خاک قدم برداشت. او انگشت اتهام‌زنی به سوی اسلیترین‌ها گرفت. «خودتان را توضیح دهید،» گفت. «با هافلپاف‌های من چه کار می‌کنید و...» به او نگاه کرد. «دانش‌آموز خوبم، هری پاتر.»\n\nاوه اوه. درست است، کلاس امروز صبح او بود که از دست دادم.\n\n«او تهدید کرد ما را بکشد!» یکی از اسلیترین‌های دیگر ناگهان گفت، همان که خواستار توقف شده بود.",
+  "summary_fa": "بزرگ‌ترین اسلیترین دست هری را رها می‌کند و عقب می‌پرد وقتی پروفسور اسپراوت با لباس خاکی و اتهام‌زن وارد می‌شود و توضیح می‌خواهد و از هافلپاف‌هایش و دانش‌آموز خوبش هری پاتر حرف می‌زند؛ هری می‌فهمد کلاس صبح او را از دست داده است در حالی که اسلیترینی ناگهان می‌گوید هری تهدید کرده آن‌ها را بکشد."
+ },
+ {
+  "id": 40,
+  "paras": [
+   191,
+   192,
+   193,
+   194,
+   195
+  ],
+  "verbatim_html": [
+   "\"What?\" Harry said blankly. \"I did <em>not!</em> If I was going to kill you I wouldn't make public threats first!\"",
+   "A third Slytherin laughed helplessly and then stopped abruptly as the other boys shot him deadly glares.",
+   "Professor Sprout had adopted a rather sceptical expression. \"What death threat would this be, exactly?\"",
+   "\"The Killing Curse! He pretended to use the Killing Curse on us!\"",
+   "Professor Sprout turned to look at Harry. \"Yes, quite a terrible threat from an eleven-year-old boy. Though still not something you should <em>ever</em> dream of pretending, Harry Potter.\""
+  ],
+  "summary_en": "Harry blankly denies the death threat, saying he would never announce a killing in advance; after a helpless laugh is silenced, Sprout skeptically asks what the supposed threat was and hears he pretended to use the Killing Curse.",
+  "translation_fa": "«چی؟» هری مات گفت. «من نکردم! اگر قرار بود شما را بکشم اول جلوی جمع تهدید نمی‌کردم!»\n\nاسلیترین سومی بی‌اختیار خندید و بعد ناگهان ساکت شد وقتی پسرهای دیگر نگاه‌های مرگبار به او انداختند.\n\nپروفسور اسپراوت حالت نسبتاً مشکوکی گرفته بود. «این تهدید به قتل دقیقاً چه بوده است؟»\n\n«طلسم مرگبار! او وانمود کرد طلسم مرگبار را روی ما استفاده می‌کند!»\n\nپروفسور اسپراوت برگشت تا به هری نگاه کند. «بله، تهدید کاملاً وحشتناکی از یک پسر یازده‌ساله. گرچه هنوز چیزی نیست که تو هرگز حتی در خواب وانمودش را بکنی، هری پاتر.»",
+  "summary_fa": "هری مات‌ومبهوت اتهام تهدید به قتل را انکار می‌کند و می‌گوید هرگز قتل را از قبل اعلام نمی‌کند؛ بعد از این‌که خنده‌ی بی‌اختیاری خاموش می‌شود، اسپراوت با تردید می‌پرسد آن تهدید ادعایی چه بوده و می‌شنود که او وانمود کرده طلسم مرگبار به کار برده است."
+ },
+ {
+  "id": 41,
+  "paras": [
+   196,
+   197,
+   198,
+   199,
+   200
+  ],
+  "verbatim_html": [
+   "\"I don't even know the <em>words</em> to the Killing Curse,\" Harry said promptly. \"And I didn't have my wand out at any time.\"",
+   "Now Professor Sprout was giving Harry a sceptical look. \"I suppose this boy hit <em>himself</em> with two pies, then.\"",
+   "\"He <em>didn't</em> use his wand!\" blurted one of the young Hufflepuffs. \"I don't know how he did it either, he just snapped his fingers and there was pie!\"",
+   "\"Really,\" said Professor Sprout after a pause. She drew her own wand. \"I won't require it, since you do seem to be the victim here, but would you mind if I checked your wand to verify that?\"",
+   "Harry took out his wand. \"What do I -\""
+  ],
+  "summary_en": "Harry promptly says he does not even know the Killing Curse words and never drew his wand; Sprout sarcastically asks if the boy pied himself, a young Hufflepuff testifies Harry only snapped his fingers, and Sprout offers a Prior Incantato wand check.",
+  "translation_fa": "«من حتی کلمات طلسم مرگبار را هم نمی‌دانم،» هری فوراً گفت. «و هیچ‌وقت چوب‌دستی‌ام را بیرون نیاوردم.»\n\nحالا پروفسور اسپراوت به هری نگاه مشکوکی می‌کرد. «پس حتماً این پسر خودش به خودش دو تا پای زده است.»\n\n«او از چوب‌دستی‌اش استفاده نکرد!» یکی از هافلپاف‌های جوان ناگهان گفت. «من هم نمی‌دانم چطور این کار را کرد، او فقط انگشتانش را شکست و پای ظاهر شد!»\n\n«واقعاً،» پروفسور اسپراوت بعد از مکثی گفت. چوب‌دستی خودش را بیرون کشید. «الزامش نمی‌کنم، چون به نظر می‌رسد تو اینجا قربانی هستی، اما اشکالی ندارد چوب‌دستی‌ات را بررسی کنم تا راستی‌آزمایی کنم؟»\n\nهری چوب‌دستی‌اش را بیرون آورد. «من چی ــ»",
+  "summary_fa": "هری فوراً می‌گوید حتی کلمات طلسم مرگبار را هم نمی‌داند و هرگز چوب‌دستی‌اش را بیرون نکشیده است؛ اسپراوت با طعنه می‌پرسد آیا پسر خودش به خودش پای زده است، یک هافلپاف جوان شهادت می‌دهد هری فقط انگشتانش را شکست، و اسپراوت بررسی چوب‌دستی با پریور اینکانتاتو را پیشنهاد می‌کند."
+ },
+ {
+  "id": 42,
+  "paras": [
+   201,
+   202,
+   203,
+   204,
+   205
+  ],
+  "verbatim_html": [
+   "\"<em>Prior Incantato,</em>\" said Sprout. She frowned. \"That's odd, your wand doesn't seem to have been used at all.\"",
+   "Harry shrugged. \"It hasn't, actually, I only got my wand and schoolbooks a few days ago.\"",
+   "Sprout nodded. \"Then we have a clear case of accidental magic from a boy who felt threatened. And the rules plainly state that you are not to be held responsible. As for <em>you...</em>\" she turned to the Slytherins. Her eyes dropped deliberately to Neville's books lying on the floor.",
+   "There was a long silence during which she looked at the five Slytherins.",
+   "\"Three points from Slytherin, <em>each</em>,\" she said finally. \"And six from <em>him,</em>\" pointing to the boy covered in pie. \"Don't you <em>ever</em> meddle with my Hufflepuffs again, or my student Harry Potter either. Now <em>go.</em>\""
+  ],
+  "summary_en": "Sprout's Prior Incantato finds Harry's wand never used, which Harry confirms since he got it only days ago; she rules it clear accidental magic from a threatened boy and docks three points from each Slytherin, six from the pie-covered one, ordering them away.",
+  "translation_fa": "«پریور اینکانتاتو،» اسپراوت گفت. اخم کرد. «عجیب است، به نظر می‌رسد چوب‌دستی‌ات اصلاً استفاده نشده است.»\n\nهری شانه بالا انداخت. «واقعاً هم نشده، من فقط چند روز پیش چوب‌دستی و کتاب‌های درسی‌ام را گرفتم.»\n\nاسپراوت سر تکان داد. «پس با یک مورد روشن جادوی تصادفی از پسری که احساس خطر کرده روبه‌رو هستیم. و قوانین به‌روشنی می‌گویند که نباید مسئول شناخته شوی. و اما شما...» به سوی اسلیترین‌ها برگشت. چشم‌هایش عمداً به کتاب‌های نویل که روی زمین بود افتاد.\n\nسکوت طولانی‌ای بود که در آن به پنج اسلیترین نگاه کرد.\n\n«از هر کدام سه امتیاز از اسلیترین،» سرانجام گفت. «و شش امتیاز از او،» به پسری که پوشیده از پای بود اشاره کرد. «دیگر هرگز با هافلپاف‌های من ور نروید، یا با دانش‌آموزم هری پاتر. حالا بروید.»",
+  "summary_fa": "پریور اینکانتاتوی اسپراوت نشان می‌دهد چوب‌دستی هری هرگز استفاده نشده، چیزی که هری تأیید می‌کند چون فقط چند روز است آن را گرفته است؛ او رأی می‌دهد که جادوی تصادفی آشکار پسری تهدیدشده است و از هر اسلیترین سه امتیاز و از آن‌که پوشیده از پای است شش امتیاز کم می‌کند و آن‌ها را مرخص می‌کند."
+ },
+ {
+  "id": 43,
+  "paras": [
+   206,
+   207,
+   208,
+   209,
+   210
+  ],
+  "verbatim_html": [
+   "She didn't have to repeat herself; the Slytherins turned and walked away very quickly.",
+   "Neville went and started picking up his books. He seemed to be crying, but only a little. It might have been from delayed shock, or it might have been because the other boys were helping him.",
+   "\"Thank you <em>very</em> much, Harry Potter,\" Professor Sprout said to him. \"Seven points to Ravenclaw, one for each Hufflepuff you helped protect. And I won't say anything more.\"",
+   "Harry blinked. He'd been expecting something more along the lines of a lecture about keeping himself out of trouble, and a rather severe scolding for missing his very first class.",
+   "Maybe he <em>should</em> have gone to Hufflepuff. Sprout was cool."
+  ],
+  "summary_en": "The Slytherins leave promptly, and Neville starts gathering his books, tearful as the other boys help him. Professor Sprout awards Harry seven points to Ravenclaw, one for each Hufflepuff he protected, and says nothing more, leaving Harry surprised at escaping a scolding and thinking Sprout is cool.",
+  "translation_fa": "او مجبور نبود حرفش را تکرار کند؛ اسلیترینی‌ها خیلی سریع برگشتند و رفتند.\n\nنویل رفت و شروع به جمع کردن کتاب‌هایش کرد. به نظر می‌رسید گریه می‌کند، اما فقط کمی. شاید از شوک تأخیری بود، یا شاید چون بقیه‌ی پسرها داشتند کمکش می‌کردند.\n\n«خیلی ممنونم، هری پاتر،» پروفسور اسپراوت به او گفت. «هفت امتیاز برای ریونکلاو، برای هر هافلپافی که ازش محافظت کردی یکی. و دیگر چیزی نمی‌گویم.»\n\nهری پلک زد. انتظار چیزی در مایه‌های سخنرانی درباره‌ی این‌که خودش را از دردسر دور نگه دارد و سرزنشی سخت برای از دست دادن اولین کلاسش را داشت.\n\nشاید باید به هافلپاف می‌رفت. اسپراوت باحال بود.",
+  "summary_fa": "اسلیترینی‌ها بی‌درنگ می‌روند و نویل اشک‌ریزان کتاب‌هایش را جمع می‌کند در حالی که بقیه‌ی پسرها کمکش می‌کنند. پروفسور اسپراوت به هری هفت امتیاز برای ریونکلاو می‌دهد، برای هر هافلپافی یکی، و چیز بیشتری نمی‌گوید و هری را از این‌که سرزنش نشده شگفت‌زده و شیفته‌ی اسپراوت باقی می‌گذارد."
+ },
+ {
+  "id": 44,
+  "paras": [
+   211,
+   212,
+   213,
+   214,
+   215
+  ],
+  "verbatim_html": [
+   "\"<em>Scourgify,</em>\" Sprout said to the mess of pie on the floor, which promptly vanished.",
+   "And she left, walking along the hall that led to the green study room.",
+   "\"How did you <em>do</em> that?\" hissed one of the Hufflepuff boys as soon as she was gone.",
+   "Harry smiled smugly. \"I can make anything I want happen just by snapping my fingers.\"",
+   "The boy's eyes widened. \"<em>Really?</em> \""
+  ],
+  "summary_en": "Sprout vanishes the pie mess with Scourgify and leaves toward the green study room. A Hufflepuff boy asks how Harry did it, and Harry smugly claims he can make anything happen by snapping his fingers, to the boy's wide-eyed amazement.",
+  "translation_fa": "«اسکورجیفای،» اسپراوت به کثیفی پای روی زمین گفت، که بی‌درنگ ناپدید شد.\n\nو او رفت، در امتداد راهرویی که به اتاق مطالعه‌ی سبز می‌رسید.\n\n«چطور این کار را کردی؟» یکی از پسرهای هافلپاف به‌محض این‌که او رفت هیس‌هیس‌کنان گفت.\n\nهری با خودپسندی لبخند زد. «می‌توانم فقط با بشکن زدن هر کاری بخواهم اتفاق بیفتد.»\n\nچشم‌های پسر گشاد شد. «واقعاً؟»",
+  "summary_fa": "اسپراوت با اسکورجیفای کثیفی پای را پاک می‌کند و به سوی اتاق مطالعه‌ی سبز می‌رود. پسری از هافلپاف می‌پرسد چطور این کار را کرد و هری با غرور ادعا می‌کند با بشکن زدن هر کاری می‌تواند بکند و پسر را به حیرت می‌اندازد."
+ },
+ {
+  "id": 45,
+  "paras": [
+   216,
+   217,
+   218,
+   219,
+   220
+  ],
+  "verbatim_html": [
+   "\"No,\" said Harry. \"But when you're telling everyone this story be sure to share it with Hermione Granger in first-year Ravenclaw, she has an anecdote you might find amusing.\" He had absolutely no clue what was happening, but he wasn't about to pass up the opportunity to add to his growing legend. \"Oh, and what was all that about the Killing Curse?\"",
+   "The boy gave him a strange look. \"You really don't know?\"",
+   "\"If I did, I wouldn't be asking.\"",
+   "\"The words to the Killing Curse are,\" the boy swallowed, and his voice dropped to a whisper, and he held his hands away from his sides as if to make it very clear that he wasn't holding a wand, \"<em>Avada Kedavra.</em>\"",
+   "<em>Well of course they are.</em>"
+  ],
+  "summary_en": "Harry admits he was joking, asks the boys to share the story with Hermione Granger, and asks about the Killing Curse. The boy whispers its words, Avada Kedavra, and Harry thinks: well of course they are.",
+  "translation_fa": "«نه،» هری گفت. «اما وقتی داری این داستان را برای همه تعریف می‌کنی حتماً آن را با هرمیون گرنجر در سال‌اول ریونکلاو هم در میان بگذار، او خاطره‌ای دارد که شاید برایت جالب باشد.» او هیچ ایده‌ای نداشت چه خبر است، اما نمی‌خواست فرصت افزودن به افسانه‌ی روبه‌رشدش را از دست بدهد. «اوه، و آن حرف‌ها درباره‌ی طلسم مرگ چه بود؟»\n\nپسر نگاه عجیبی به او انداخت. «واقعاً نمی‌دانی؟»\n\n«اگر می‌دانستم، نمی‌پرسیدم.»\n\n«واژه‌های طلسم مرگ،» پسر آب دهانش را قورت داد و صدایش تا حد نجوا پایین آمد و دست‌هایش را از پهلوهایش دور نگه داشت انگار برای این‌که خیلی واضح نشان دهد چوب‌دستی در دست ندارد، «آوادا کداورا است.»\n\nخب معلوم است که همین‌هاست.",
+  "summary_fa": "هری اعتراف می‌کند شوخی کرده، از آن‌ها می‌خواهد داستان را به هرمیون گرنجر برسانند و درباره‌ی طلسم مرگ می‌پرسد. پسر زمزمه‌کنان واژه‌هایش، آوادا کداورا، را می‌گوید و هری با خود می‌گوید: خب معلوم است که همین‌هاست."
+ },
+ {
+  "id": 46,
+  "paras": [
+   221,
+   222,
+   223,
+   224,
+   225
+  ],
+  "verbatim_html": [
+   "Harry put this on his growing list of things to never ever tell his Dad, Professor Michael Verres-Evans. It was bad enough talking about how you were the only person to survive the fearsome Killing Curse, without having to admit that the Killing Curse was \"Abracadabra.\"",
+   "\"I see,\" Harry said after a pause. \"Well, that's the last time I ever say <em>that</em> before snapping my fingers.\" Though it <em>had</em> produced an effect that might be tactically useful.",
+   "\"<em>Why</em> did you -\"",
+   "\"Raised by Muggles, Muggles think it's a joke and that it's funny. Seriously, that's what happened. Sorry, but can you remind me of your name?\"",
+   "\"I'm Ernie Macmillan,\" said the Hufflepuff. He held out his hand, and Harry shook it. \"Honoured to meet you.\""
+  ],
+  "summary_en": "Harry notes he must never tell his Dad, Professor Michael Verres-Evans, that the Killing Curse is Abracadabra. He vows never to say that before snapping his fingers again, explains he was raised by Muggles who think it is a joke, and learns the boy is Ernie Macmillan.",
+  "translation_fa": "هری این را به فهرست روبه‌رشد چیزهایی اضافه کرد که هرگز به پدرش، پروفسور مایکل ورس-اوانز، نگوید. همین که بگویی تنها کسی هستی که از طلسم مرگ مخوف جان سالم به در برده به‌اندازه‌ی کافی بد بود، چه برسد به این‌که اعتراف کنی طلسم مرگ «ابراکادابرا» بوده است.\n\n«فهمیدم،» هری بعد از مکثی گفت. «خب، این آخرین باری است که پیش از بشکن زدن آن را می‌گویم.» هرچند اثری تولید کرده بود که شاید از نظر تاکتیکی مفید باشد.\n\n«چرا تو ــ»\n\n«بزرگ‌شده‌ی مشنگ‌ها، مشنگ‌ها فکر می‌کنند جوک است و بامزه است. جدی، همین اتفاق افتاد. ببخشید، ولی می‌توانی اسمت را یادم بیندازی؟»\n\n«من ارنی مک‌میلان هستم،» هافلپافی گفت. دستش را دراز کرد و هری با او دست داد. «افتخار آشنایی دارم.»",
+  "summary_fa": "هری یادداشت می‌کند که هرگز نباید به پدرش، پروفسور مایکل ورس-اوانز، بگوید که طلسم مرگ ابراکادابرا است. قسم می‌خورد دیگر پیش از بشکن زدن آن را نگوید، توضیح می‌دهد که در میان مشنگ‌ها بزرگ شده که آن را جوک می‌دانند و می‌فهمد اسم پسر ارنی مک‌میلان است."
+ },
+ {
+  "id": 47,
+  "paras": [
+   226,
+   227,
+   228,
+   229,
+   230
+  ],
+  "verbatim_html": [
+   "Harry executed a slight bow. \"Pleased to meet you, skip the honoured thing.\"",
+   "Then the other boys crowded round him and there was a sudden flood of introductions.",
+   "When they were done, Harry swallowed. This was going to be very difficult. \"Um... if everyone would excuse me... I have something to say to Neville -\"",
+   "All eyes turned to Neville, who took a step back, his face looking apprehensive.",
+   "\"I suppose,\" Neville said in a tiny voice, \"you're going to say I should've been braver -\""
+  ],
+  "summary_en": "Harry greets Ernie and the others amid a flood of introductions, then asks to speak to Neville. All eyes turn to the apprehensive Neville, who assumes Harry will say he should have been braver.",
+  "translation_fa": "هری تعظیم کوچکی کرد. «از آشنایی‌ات خوشحالم، افتخار را بی‌خیال شو.»\n\nبعد بقیه‌ی پسرها دورش جمع شدند و موج ناگهانی‌ای از معارفه‌ها پیش آمد.\n\nوقتی تمام شدند، هری آب دهانش را قورت داد. این خیلی سخت بود. «ام... اگر همه عذر من را بخواهید... چیزی هست که باید به نویل بگویم ــ»\n\nهمه‌ی چشم‌ها به نویل برگشت، که یک قدم عقب رفت، با چهره‌ای نگران.\n\n«حدس می‌زنم،» نویل با صدای ریزی گفت، «می‌خواهی بگویی باید شجاع‌تر می‌بودم ــ»",
+  "summary_fa": "هری با ارنی و بقیه در میان موجی از معارفه‌ها احوال‌پرسی می‌کند و بعد می‌خواهد با نویل حرف بزند. همه‌ی چشم‌ها به نویل مضطرب برمی‌گردد که گمان می‌کند هری می‌خواهد بگوید باید شجاع‌تر می‌بود."
+ },
+ {
+  "id": 48,
+  "paras": [
+   231,
+   232,
+   233,
+   234,
+   235
+  ],
+  "verbatim_html": [
+   "\"Oh, no, nothing like that!\" Harry said hastily. \"Nothing to do with <em>that</em>. It's just, um, something the Sorting Hat told me -\"",
+   "Suddenly the other boys looked <em>very</em> interested, except for Neville, who was looking even <em>more</em> apprehensive.",
+   "There seemed to be something blocking Harry's throat. He knew he should just blurt it out, and it was like he'd swallowed a large brick that was just stuck in the way.",
+   "It was like Harry had to manually take control of his lips and produce each syllable individually, but he managed to make it happen. \"I'm, sor, ry.\" He exhaled and took a deep breath. \"For what I did, um, the other day. You... don't have to be gracious about it or anything, I'll understand if you just hate me. This isn't about me trying to look cool by apologising or your having to accept it. What I did was wrong.\"",
+   "There was a pause."
+  ],
+  "summary_en": "Harry hastily denies that, saying it is something the Sorting Hat told him, as the other boys grow very interested. Forcing the words out past a lump in his throat, he apologizes for what he did the other day, calling it wrong and saying Neville need not accept it.",
+  "translation_fa": "«اوه، نه، هیچ ربطی به آن ندارد!» هری با عجله گفت. «هیچ ربطی به آن ندارد. فقط، ام، چیزی است که کلاه گروه‌بندی به من گفت ــ»\n\nناگهان بقیه‌ی پسرها خیلی علاقه‌مند به نظر رسیدند، به‌جز نویل، که حتی مضطرب‌تر به نظر می‌رسید.\n\nانگار چیزی گلوی هری را بسته بود. می‌دانست باید فقط آن را بیرون بریزد و انگار آجر بزرگی قورت داده بود که همان‌جا گیر کرده بود.\n\nانگار هری مجبور بود لب‌هایش را دستی کنترل کند و هر هجا را جداگانه تولید کند، اما موفق شد انجامش دهد. «من، عذر، می‌خوام.» بازدم کرد و نفس عمیقی کشید. «برای کاری که، ام، آن روز کردم. تو... مجبور نیستی بزرگوار باشی یا چیزی، می‌فهمم اگر فقط ازم متنفر باشی. این موضوع تلاش من برای باحال به نظر رسیدن با عذرخواهی یا مجبور بودن تو به پذیرفتن نیست. کاری که کردم اشتباه بود.»\n\nمکثی شد.",
+  "summary_fa": "هری با عجله انکار می‌کند و می‌گوید موضوع چیزی است که کلاه گروه‌بندی به او گفته، در حالی که بقیه‌ی پسرها خیلی علاقه‌مند می‌شوند. با فشار دادن واژه‌ها از گلویی که انگار گرفته، برای کاری که آن روز کرده بود عذرخواهی می‌کند و آن را اشتباه می‌خواند و می‌گوید نویل مجبور نیست بپذیرید."
+ },
+ {
+  "id": 49,
+  "paras": [
+   236,
+   237,
+   238,
+   239,
+   240
+  ],
+  "verbatim_html": [
+   "Neville clutched his books tighter to his chest. \"Why did you do it?\" he said in a thin, wavering voice. He blinked, as if trying to hold back tears. \"Why does <em>everyone</em> do that to me, even the Boy-Who-Lived?\"",
+   "Harry suddenly felt smaller than he ever had in his life. \"I'm sorry,\" Harry said again, his voice now hoarsened. \"It's just... you looked so scared, it was like a sign over your head saying 'victim', and I wanted to show you that things <em>don't</em> always turn out badly, that sometimes the monsters give you chocolate... I thought if I showed you that, you might realise there wasn't so much to be afraid of -\"",
+   "\"But there <em>is,</em>\" whispered Neville. \"You saw it today, there <em>is!</em> \"",
+   "\"They wouldn't have done anything really bad in front of witnesses. Their main weapon is fear. That's why they target <em>you,</em> because they can see you're afraid. I wanted to make you less afraid... show you that the fear was worse than the thing itself... or that was what I told myself, but the Sorting Hat told me that I was lying to myself and that I really did it because it was fun. So that's why I'm apologising -\"",
+   "\"You hurt me,\" said Neville. \"Just now. When you grabbed me and pulled me away from them.\" Neville held out his arm and pointed to where Harry had grabbed him. \"I might have a bruise here later from how hard you pulled. You hurt me worse than anything the Slytherins did by bumping into me, actually.\""
+  ],
+  "summary_en": "Neville asks why Harry did it and why everyone does that to him, and Harry explains he wanted to show Neville that fear is worse than the thing itself, though the Hat said he really did it for fun. Neville replies that Harry hurt him by yanking him so hard, worse than the Slytherins' bumps.",
+  "translation_fa": "نویل کتاب‌هایش را محکم‌تر به سینه‌اش چسباند. «چرا این کار را کردی؟» با صدای نازک و لرزان گفت. پلک زد، انگار داشت سعی می‌کرد جلوی اشک‌هایش را بگیرد. «چرا همه با من این کار را می‌کنند، حتی پسری که زنده ماند؟»\n\nهری ناگهان احساس کرد کوچک‌تر از هر وقتی در زندگی‌اش شده است. «متأسفم،» هری دوباره گفت، صدایش حالا گرفته شده بود. «فقط... آن‌قدر ترسیده به نظر می‌رسیدی، انگار تابلویی بالای سرت بود که می‌گفت قربانی، و می‌خواستم نشانت دهم که چیزها همیشه بد از آب درنمی‌آیند، که گاهی هیولاها بهت شکلات می‌دهند... فکر کردم اگر این را نشانت دهم، شاید بفهمی چیز زیادی برای ترسیدن وجود ندارد ــ»\n\n«اما وجود دارد،» نویل زمزمه کرد. «امروز دیدی، وجود دارد!»\n\n«آن‌ها جلوی شاهدها کار واقعاً بدی نمی‌کردند. سلاح اصلی‌شان ترس است. برای همین تو را هدف می‌گیرند، چون می‌بینند ترسیده‌ای. می‌خواستم کمتر بترسی... نشانت دهم که ترس از خودِ چیز بدتر است... یا این چیزی بود که به خودم گفتم، اما کلاه گروه‌بندی به من گفت که به خودم دروغ می‌گفتم و در واقع این کار را کردم چون بامزه بود. پس برای همین عذرخواهی می‌کنم ــ»\n\n«تو به من صدمه زدی،» نویل گفت. «همین الان. وقتی من را گرفتی و از میان آن‌ها بیرون کشیدی.» نویل بازویش را دراز کرد و به جایی اشاره کرد که هری او را گرفته بود. «شاید بعداً اینجا از این‌که چقدر محکم کشیدی کبود شود. در واقع بیشتر از هر کاری که اسلیترینی‌ها با تنه زدن به من کردند به من صدمه زدی.»",
+  "summary_fa": "نویل می‌پرسد چرا هری این کار را کرد و چرا همه با او چنین می‌کنند و هری توضیح می‌دهد می‌خواسته نشان دهد ترس از خودِ چیز بدتر است، هرچند کلاه گفته بود در واقع برای تفریح بوده. نویل پاسخ می‌دهد که هری با آن‌قدر محکم کشیدن به او صدمه زده، بدتر از تنه‌های اسلیترینی‌ها."
+ },
+ {
+  "id": 50,
+  "paras": [
+   241,
+   242,
+   243,
+   244,
+   245
+  ],
+  "verbatim_html": [
+   "\"<em>Neville!</em> \" hissed Ernie. \"He was trying to <em>save</em> you!\"",
+   "\"I'm sorry,\" whispered Harry. \"When I saw that I just got... really angry...\"",
+   "Neville looked at him steadily. \"So you yanked me out really hard and put yourself in where I was and went, 'Hello, I'm the Boy-Who-Lived'.\"",
+   "Harry nodded.",
+   "\"I think you're going to be really cool someday,\" Neville said. \"But right now, you're not.\""
+  ],
+  "summary_en": "Ernie protests that Harry was saving Neville, and Harry apologizes, saying he got angry. Neville dryly recounts how Harry yanked him out and announced himself, then says Harry may be cool someday but is not right now.",
+  "translation_fa": "«نویل!» ارنی هیس‌هیس کرد. «داشت سعی می‌کرد نجاتت بدهد!»\n\n«متأسفم،» هری زمزمه کرد. «وقتی آن را دیدم فقط خیلی عصبانی شدم...»\n\nنویل خیره به او نگاه کرد. «پس من را خیلی محکم بیرون کشیدی و خودت را گذاشتی جایی که من بودم و گفتی، سلام، من پسری هستم که زنده مانده.»\n\nهری سر تکان داد.\n\n«فکر می‌کنم روزی خیلی باحال خواهی شد،» نویل گفت. «اما الان، نیستی.»",
+  "summary_fa": "ارنی اعتراض می‌کند که هری داشته نویل را نجات می‌داده و هری عذرخواهی می‌کند و می‌گوید عصبانی شده بود. نویل با خشکی تعریف می‌کند که هری چطور او را بیرون کشید و خودش را معرفی کرد و بعد می‌گوید هری شاید روزی باحال شود اما الان نیست."
+ },
+ {
+  "id": 51,
+  "paras": [
+   246,
+   247,
+   248,
+   249,
+   250
+  ],
+  "verbatim_html": [
+   "Harry swallowed the sudden knot in his throat and walked away. He continued down the corridor to the intersection, then turned left into a hallway and kept on walking, blindly.",
+   "What was he <em>supposed</em> to do here? Never get angry? He wasn't sure he could have done anything without being angry and who knows what would have happened to Neville and his books then. Besides, Harry had read enough fantasy books to know how <em>this</em> one went. He would try to suppress the anger and he would fail and it would keep coming out again. And after this whole long journey of self-discovery he would learn at the end that his anger was a part of himself and that only by accepting it could he learn to use it wisely. <em>Star Wars</em> was the only universe in which the answer actually <em>was</em> that you were supposed to cut yourself off completely from negative emotions, and something about Yoda had always made Harry hate the little green moron.",
+   "So the obvious time-saving plan was to skip the journey of self-discovery and go straight to the part where he realised that only by accepting his anger as a part of himself could he stay in control of it.",
+   "The problem was that he didn't <em>feel</em> out of control when he was angry. The cold rage made him feel like he was <em>in</em> control. It was only when he looked back that <em>events as a whole</em> seemed to have... blown up out of control, somehow.",
+   "He wondered how much the Game Controller cared about that sort of thing, and whether he'd won or lost points for it. Harry himself felt like he'd lost quite a few points, and he was sure the old lady in the picture would have told him that his was the only opinion that mattered."
+  ],
+  "summary_en": "Harry walks away blindly down the corridor, wondering if he is supposed to never get angry and resolving to skip the journey of self-discovery and accept his anger to control it. He notes his cold rage feels controlled in the moment and wonders what the Game Controller thought of it.",
+  "translation_fa": "هری گره ناگهانی گلویش را قورت داد و رفت. ادامه داد در راهرو تا تقاطع، بعد به چپ به راهرویی پیچید و کورکورانه به راه رفتن ادامه داد.\n\nقرار بود او اینجا چه کار کند؟ هرگز عصبانی نشود؟ مطمئن نبود می‌توانست بدون عصبانی بودن کاری بکند و کی می‌داند آن‌وقت برای نویل و کتاب‌هایش چه پیش می‌آمد. به‌علاوه، هری به‌اندازه‌ی کافی کتاب فانتزی خوانده بود که بداند این داستان چطور پیش می‌رود. سعی می‌کرد خشم را سرکوب کند و شکست می‌خورد و مدام بیرون می‌زد. و بعد از این سفر طولانی خودشناسی در پایان می‌فهمید که خشمش بخشی از خودش است و فقط با پذیرفتنش می‌تواند یاد بگیرد خردمندانه از آن استفاده کند. جنگ ستارگان تنها جهانی بود که در آن جواب واقعاً این بود که باید خودت را کاملاً از احساسات منفی جدا کنی، و چیزی درباره‌ی یودا همیشه باعث می‌شد هری از آن ابله سبز کوچک متنفر باشد.\n\nپس نقشه‌ی بدیهی صرفه‌جویانه در وقت این بود که سفر خودشناسی را رد کند و مستقیم برود سراغ بخشی که فهمید فقط با پذیرفتن خشمش به‌عنوان بخشی از خودش می‌تواند آن را کنترل کند.\n\nمشکل این بود که وقتی عصبانی بود احساس نمی‌کرد کنترلش را از دست داده است. خشم سرد این حس را می‌داد که کنترل دارد. فقط وقتی به عقب نگاه می‌کرد رویدادها در مجموع انگار... به نحوی از کنترل خارج شده بودند.\n\nاو فکر می‌کرد کنترل‌کننده‌ی بازی چقدر به این‌جور چیزها اهمیت می‌دهد و آیا برایش امتیاز برده یا باخته است. خودِ هری حس می‌کرد امتیازهای زیادی باخته است و مطمئن بود آن بانوی پیر در تابلو به او می‌گفت که فقط نظر خودش مهم است.",
+  "summary_fa": "هری بغض‌کرده کورکورانه در راهرو دور می‌شود و فکر می‌کند آیا قرار است هرگز عصبانی نشود و تصمیم می‌گیرد سفر خودشناسی را رد کند و مستقیم خشمش را بپذیرید تا کنترلش کند. او یادداشت می‌کند که خشم سردش در لحظه حس کنترل می‌دهد و فکر می‌کند کنترل‌کننده‌ی بازی درباره‌اش چه نظری دارد."
+ },
+ {
+  "id": 52,
+  "paras": [
+   251,
+   252,
+   253,
+   254,
+   255
+  ],
+  "verbatim_html": [
+   "And Harry was also wondering whether the Game Controller had sent Professor Sprout. It was the logical thought: the note had threatened to notify the Game Authorities, and then there Professor Sprout was. Maybe Professor Sprout <em>was</em> the Game Controller - the <em>Head of House Hufflepuff</em> would be the <em>last</em> person anyone would suspect, which ought to put her near the top of Harry's list. He'd read one or two mystery novels, too.",
+   "\"So how am I doing in the game?\" Harry said out loud.",
+   "A sheet of paper flew over his head, as if someone had thrown it from behind him - Harry turned around, but there was no one there - and when Harry turned forwards again, the note was settling to the floor.",
+   "The note said:",
+   "POINTS FOR STYLE: 10<br/>POINTS FOR GOOD THINKING: -3,000,000<br/>RAVENCLAW HOUSE POINTS BONUS: 70<br/>CURRENT POINTS: -2,999,871<br/>TURNS REMAINING: 2"
+  ],
+  "summary_en": "Harry wonders if the Game Controller sent Sprout, perhaps Sprout herself, and asks aloud how he is doing. A note flies over his head from nowhere, awarding 10 points for style but minus 3,000,000 for good thinking, plus a 70-point Ravenclaw bonus, leaving him at minus 2,999,871 with 2 turns left.",
+  "translation_fa": "و هری هم داشت فکر می‌کرد آیا کنترل‌کننده‌ی بازی پروفسور اسپراوت را فرستاده بود. فکر منطقی‌ای بود: یادداشت تهدید کرده بود به مقامات بازی خبر می‌دهد و بعد پروفسور اسپراوت همان‌جا بود. شاید پروفسور اسپراوت کنترل‌کننده‌ی بازی بود ــ رئیس خانه‌ی هافلپاف آخرین کسی می‌بود که کسی به او شک کند، که باید او را نزدیک صدر فهرست هری بگذارد. او یکی دو رمان معمایی هم خوانده بود.\n\n«پس در بازی چطور پیش می‌روم؟» هری با صدای بلند گفت.\n\nبرگه‌ای بالای سرش پرواز کرد، انگار کسی از پشت سرش پرتش کرده بود ــ هری برگشت، اما کسی آن‌جا نبود ــ و وقتی هری دوباره به جلو برگشت، یادداشت داشت روی زمین می‌نشست.\n\nیادداشت می‌گفت:\n\nامتیاز برای سبک: ۱۰<br/>امتیاز برای تفکر خوب: ۳٬۰۰۰٬۰۰۰ـ<br/>جایزه‌ی امتیازهای خانه‌ی ریونکلاو: ۷۰<br/>امتیاز فعلی: ۲٬۹۹۹٬۸۷۱ـ<br/>نوبت‌های باقی‌مانده: ۲",
+  "summary_fa": "هری فکر می‌کند آیا کنترل‌کننده‌ی بازی اسپراوت را فرستاده، شاید خودِ اسپراوت، و با صدای بلند می‌پرسد در بازی چطور پیش می‌رود. یادداشتی از هیچ‌کجا بالای سرش پرواز می‌کند: ۱۰ امتیاز برای سبک ولی منفی سه میلیون برای تفکر خوب، به‌علاوه‌ی ۷۰ امتیاز جایزه‌ی ریونکلاو، و مانده‌ی منفی ۲٬۹۹۹٬۸۷۱ با ۲ نوبت باقی‌مانده."
+ },
+ {
+  "id": 53,
+  "paras": [
+   256,
+   257,
+   258,
+   259,
+   260
+  ],
+  "verbatim_html": [
+   "\"<em>Minus three million points?\"</em> Harry said indignantly to the empty hallway. \"That seems excessive! I want to file an appeal with the Game Authorities! And how am I supposed to make up three million points in the next two turns?\"",
+   "Another note flew over his head.",
+   "APPEAL: FAILED<br/>ASKING THE WRONG QUESTIONS: -1,000,000,000,000 POINTS<br/>CURRENT POINTS: -1,000,002,999,871<br/>TURNS REMAINING: 1",
+   "Harry gave up. With one turn remaining all he could do was take his best shot, even if it wasn't very good. \"My guess is that the game represents life.\"",
+   "A final sheet of paper flew over his head, reading:"
+  ],
+  "summary_en": "Harry protests the minus three million points and tries to appeal, but the next note rejects the appeal and penalizes him a trillion points for asking the wrong questions. With one turn left, he guesses the game represents life, and a final sheet flies over his head.",
+  "translation_fa": "«منفی سه میلیون امتیاز؟» هری با خشم به راهروی خالی گفت. «این بیش‌ازحد به نظر می‌رسد! می‌خواهم به مقامات بازی فرجام بخواهم! و چطور قرار است در دو نوبت بعدی سه میلیون امتیاز جبران کنم؟»\n\nیادداشت دیگری بالای سرش پرواز کرد.\n\nفرجام: شکست خورد<br/>پرسیدن سؤال‌های اشتباه: ۱٬۰۰۰٬۰۰۰٬۰۰۰٬۰۰۰ـ امتیاز<br/>امتیاز فعلی: ۱٬۰۰۰٬۰۰۲٬۹۹۹٬۸۷۱ـ<br/>نوبت‌های باقی‌مانده: ۱\n\nهری تسلیم شد. با یک نوبت باقی‌مانده تنها کاری که می‌توانست بکند این بود که بهترین حدسش را بزند، حتی اگر خیلی خوب نبود. «حدس من این است که بازی نماد زندگی است.»\n\nآخرین برگه‌ی کاغذ بالای سرش پرواز کرد، با این متن:",
+  "summary_fa": "هری به منفی سه میلیون امتیاز اعتراض می‌کند و می‌خواهد به مقامات بازی فرجام بخواهد، اما یادداشت بعدی فرجام را رد می‌کند و برای پرسیدن سؤال‌های اشتباه هزار میلیارد امتیاز کم می‌کند. با یک نوبت باقی‌مانده حدس می‌زند بازی نماد زندگی است و آخرین برگه بالای سرش پرواز می‌کند."
+ },
+ {
+  "id": 54,
+  "paras": [
+   261,
+   262,
+   263,
+   264,
+   265
+  ],
+  "verbatim_html": [
+   "ATTEMPT FAILED<br/>FAILED FAILED FAILED<br/>AIIIIIIIIIIEEEEEEEEEEEEEE<br/>CURRENT POINTS: MINUS INFINITY<br/>YOU HAVE LOST THE GAME",
+   "FINAL INSTRUCTION:<em><br/>go to Professor McGonagall's office</em>",
+   "The last line was in his own handwriting.",
+   "Harry stared at the last line for a while, then shrugged. Fine. Professor McGonagall's office it would be. If <em>she</em> was the Game Controller...",
+   "Okay, honestly, Harry had absolutely no idea how he would feel if Professor McGonagall was the Game Controller. His mind was just drawing a complete blank. It was, literally, unimaginable."
+  ],
+  "summary_en": "The final note declares attempt failed, minus infinity points, and that he has lost the game. The final instruction, in his own handwriting, tells him to go to Professor McGonagall's office, and Harry heads there, unable to imagine how he would feel if she were the Game Controller.",
+  "translation_fa": "تلاش شکست خورد<br/>شکست خورد شکست خورد شکست خورد<br/>آآآآآآآآآآآآیییییییییییییییییییی<br/>امتیاز فعلی: منفی بی‌نهایت<br/>تو بازی را باخته‌ای\n\nدستور نهایی:<br/>به دفتر پروفسور مک‌گونگال برو\n\nخط آخر به دست‌خط خودش بود.\n\nهری مدتی به خط آخر خیره شد، بعد شانه بالا انداخت. باشه. پس دفتر پروفسور مک‌گونگال. اگر او کنترل‌کننده‌ی بازی بود...\n\nراستش، هری هیچ ایده‌ای نداشت اگر پروفسور مک‌گونگال کنترل‌کننده‌ی بازی باشد چه حسی خواهد داشت. ذهنش فقط کاملاً خالی می‌کرد. به‌معنای واقعی کلمه، غیرقابل‌تصور بود.",
+  "summary_fa": "یادداشت پایانی اعلام می‌کند تلاش شکست خورد، امتیاز منفی بی‌نهایت و این‌که او بازی را باخته است. دستور نهایی، به دست‌خط خودش، می‌گوید به دفتر پروفسور مک‌گونگال برود و هری به آن‌جا می‌رود در حالی که نمی‌تواند تصور کند اگر او کنترل‌کننده‌ی بازی باشد چه حسی خواهد داشت."
+ },
+ {
+  "id": 55,
+  "paras": [
+   266,
+   267,
+   268,
+   269
+  ],
+  "verbatim_html": [
+   "A couple of portraits later - it wasn't a long trip, Professor McGonagall's office wasn't far from her Transfiguration classroom, at least not on Mondays on odd-numbered years - Harry stood outside the door to her office.",
+   "He knocked.",
+   "\"Come in,\" said Professor McGonagall's muffled voice.",
+   "He entered."
+  ],
+  "summary_en": "A short trip later Harry stands outside McGonagall's office near her Transfiguration classroom. He knocks, hears her muffled Come in, and enters.",
+  "translation_fa": "چند تابلو بعد ــ سفر طولانی‌ای نبود، دفتر پروفسور مک‌گونگال از کلاس تغییرشکل او دور نبود، دست‌کم در دوشنبه‌های سال‌های فرد ــ هری بیرون در دفتر او ایستاده بود.\n\nاو در زد.\n\n«بیا تو،» صدای خفه‌ی پروفسور مک‌گونگال گفت.\n\nاو وارد شد.",
+  "summary_fa": "کمی بعد هری بیرون در دفتر مک‌گونگال نزدیک کلاس تغییرشکل او می‌ایستد. در می‌زند، «بیا تو»ی خفه‌ی او را می‌شنود و وارد می‌شود."
+ }
+]

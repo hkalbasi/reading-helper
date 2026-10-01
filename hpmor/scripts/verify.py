@@ -11,6 +11,8 @@ CHAPTERS = {
     "ch10": ("data/ch10_source.json", "data/ch10.json"),
     "ch11": ("data/ch11_source.json", "data/ch11.json"),
     "ch12": ("data/ch12_source.json", "data/ch12.json"),
+    "ch13": ("data/ch13_source.json", "data/ch13.json"),
+    "ch14": ("data/ch14_source.json", "data/ch14.json"),
 }
 
 failed = False
