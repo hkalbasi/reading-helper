@@ -1,0 +1,1840 @@
+[
+ {
+  "id": 1,
+  "paras": [
+   1,
+   2,
+   3
+  ],
+  "summary_en": "An epigraph insists you have always been J. K. Rowling, followed by a historical note on the Roman Ides and a scene break.",
+  "summary_fa": "پیش‌گفتاری می‌گوید همیشه جی.کی. رولینگ بوده‌ای، سپس یادداشتی تاریخی درباره‌ی ایدز رومی می‌آید و صحنه جدا می‌شود.",
+  "translation_fa": "تو همیشه جی. کی. رولینگ بوده‌ای.\n\nیادداشت تاریخی: در تقویم رومی، «ایدز» یک ماه به روز پانزدهم مارس، مه، ژوئیه و اکتبر اشاره داشت، و به روز سیزدهم همه‌ی ماه‌های دیگر.\n\n* * *",
+  "verbatim_html": [
+   "You have always been J. K. Rowling.",
+   "Historical note: In the Roman calendar, the \"Ides\" of a month referred to the 15th day of March, May, July, and October, and to the 13th day of all other months.",
+   "* * *"
+  ]
+ },
+ {
+  "id": 2,
+  "paras": [
+   4,
+   5
+  ],
+  "summary_en": "An epigraph about seeing the pattern and hearing the rhythm of the world, followed by a scene break.",
+  "summary_fa": "پیش‌گفتاری درباره‌ی دیدن الگو و شنیدن ریتم جهان می‌آید و بعد جداکننده‌ی صحنه است.",
+  "translation_fa": "«شروع می‌کنی به دیدن الگو، شنیدن ریتم جهان.»\n\n* * *",
+  "verbatim_html": [
+   "<em>\"You start to see the pattern, hear the rhythm of the world.\"</em>",
+   "* * *"
+  ]
+ },
+ {
+  "id": 3,
+  "paras": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "summary_en": "At 7:24am Thursday Harry sits with a limp textbook and gets a truly brilliant experimental idea that must be tested immediately, even if it costs him breakfast.",
+  "summary_fa": "ساعت ۷:۲۴ صبح پنجشنبه هری با کتابی بی‌حال نشسته و ایده‌ی آزمایشی واقعاً درخشانی به ذهنش می‌رسد که باید فوراً امتحان شود حتی به قیمت دیر رسیدن به صبحانه.",
+  "translation_fa": "پنجشنبه.\n\nاگر بخواهی دقیق باشی، ساعت ۷:۲۴ صبح پنجشنبه.\n\nهری روی تختش نشسته بود، کتاب درسی‌ای بی‌حال در دست‌های بی‌حرکتش.\n\nهری همین حالا ایده‌ای برای آزمایشی واقعاً درخشان به ذهنش رسیده بود.\n\nاین یعنی یک ساعت بیشتر برای صبحانه صبر کردن، اما برای همین بود که کلوچه‌های غلاتی داشت. نه، این ایده حتماً باید همین حالا، فوراً، الآن آزمایش می‌شد.",
+  "verbatim_html": [
+   "Thursday.",
+   "If you wanted to be specific, 7:24am on Thursday morning.",
+   "Harry was sitting on his bed, a textbook lying limp in his motionless hands.",
+   "Harry had just had an idea for a <em>truly brilliant</em> experimental test.",
+   "It would mean waiting an extra hour for breakfast, but that was why he had cereal bars. No, this idea absolutely positively had to be tested right away, immediately, now."
+  ]
+ },
+ {
+  "id": 4,
+  "paras": [
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "summary_en": "Harry digs out a book of primes from his trunk and asks Anthony Goldstein to secretly pick two three-digit numbers, multiply them twice carefully, and report only the product.",
+  "summary_fa": "هری کتاب اعداد اول را از صندوقش بیرون می‌کشد و از آنتونی گلدشتاین می‌خواهد پنهانی دو عدد سه‌رقمی انتخاب کند، دو بار با دقت ضرب کند و فقط حاصل را بگوید.",
+  "translation_fa": "هری کتاب درسی را کنار گذاشت، از تخت بیرون پرید، دور تختش دوید، طبقه‌ی غارمانند صندوقش را بیرون کشید، از پله‌ها پایین دوید و شروع به جابه‌جا کردن جعبه‌های کتاب کرد. (واقعاً باید روزی وسایلش را باز می‌کرد و قفسه‌ی کتاب می‌گرفت اما وسط مسابقه‌ی کتاب‌خوانی با هرمیون بود و عقب افتاده بود پس وقت نداشت.)\n\nهری کتابی را که می‌خواست پیدا کرد و به طبقه‌ی بالا دوید.\n\nبقیه‌ی پسرها داشتند آماده می‌شدند که برای صبحانه به تالار بزرگ بروند و روز را شروع کنند.\n\n«ببخشید می‌شود کاری برایم بکنی؟» هری گفت. همان‌طور که حرف می‌زد داشت فهرست کتاب را ورق می‌زد، صفحه‌ی ده هزار عدد اول را پیدا کرد، به آن صفحه رفت و کتاب را به آنتونی گلدشتاین داد. «از این فهرست دو عدد سه‌رقمی انتخاب کن. به من نگو چه هستند. فقط آن‌ها را در هم ضرب کن و حاصل را به من بگو. اوه، و می‌شود محاسبه را دو بار انجام بدهی که مطمئن شوی؟ لطفاً واقعاً مطمئن شو که جواب درست است، نمی‌دانم اگر اشتباه ضرب کنی چه بر سر من یا جهان می‌آید.»\n\nاین درباره‌ی این‌که زندگی در آن خوابگاه در چند روز گذشته چطور بوده خیلی می‌گفت که آنتونی حتی زحمت گفتن چیزی مثل «چرا ناگهان قاطی کردی؟» یا «این خیلی عجیب به نظر می‌رسد، دلایلت برای پرسیدن چیست؟» یا «منظورت چیست که نمی‌دانی چه بر سر جهان می‌آید؟» را به خود نداد.",
+  "verbatim_html": [
+   "Harry set the textbook aside, leapt out of bed, raced around his bed, yanked out the cavern level of his trunk, ran down the stairs, and started moving boxes of books around. (He really needed to unpack and get bookcases at some point but he was in the middle of his textbook reading contest with Hermione and falling behind so he hadn't had time.)",
+   "Harry found the book he wanted and raced back upstairs.",
+   "The other boys were getting ready to go down to breakfast in the Great Hall and start the day.",
+   "\"Excuse me can you do something for me?\" said Harry. He was flipping through the book's index as he spoke, found the page with the first ten thousand primes, flipped to that page, and thrust the book at Anthony Goldstein. \"Pick two three-digit numbers from this list. Don't tell me what they are. Just multiply them together and tell me the product. Oh, and can you do the calculation twice to double-check? Please make really sure you've got the right answer, I'm not sure what's going to happen to me or the universe if you make a multiplication error.\"",
+   "It said a lot about what life in that dorm had been like over the past few days that Anthony didn't even bother saying anything like \"Why'd you suddenly flip out?\" or \"That seems really weird, what are your reasons for asking?\" or \"What do you mean, you're not sure what's going to happen to the universe?\""
+  ]
+ },
+ {
+  "id": 5,
+  "paras": [
+   16,
+   17,
+   18,
+   19,
+   20
+  ],
+  "summary_en": "Anthony silently multiplies and reports 181,429, which Harry writes down and confirms; Harry then hurries into his trunk, notes the time, shuts his eyes, and hears steps and the trunk sliding shut.",
+  "summary_fa": "آنتونی بی‌کلام ضرب می‌کند و ۱۸۱٬۴۲۹ را گزارش می‌دهد که هری یادداشت و تأیید می‌کند؛ سپس هری به صندوقش می‌رود، ساعت را نگاه می‌کند، چشم‌هایش را می‌بندد و صدای قدم و بسته شدن صندوق را می‌شنود.",
+  "translation_fa": "آنتونی بی‌کلام کتاب را قبول کرد و پوست‌نوشت و پری بیرون آورد. هری چرخید و چشم‌هایش را بست، مطمئن شد که چیزی نبیند، بی‌صبرانه جلو عقب می‌رقصید و بالا پایین می‌پرید. دفترچه‌ی کاغذ و مداد مکانیکی برداشت و آماده‌ی نوشتن شد.\n\n«باشه،» آنتونی گفت، «صد و هشتاد و یک هزار و چهارصد و بیست و نه.»\n\nهری ۱۸۱٬۴۲۹ را نوشت. آن‌چه را تازه نوشته بود تکرار کرد و آنتونی تأیید کرد.\n\nبعد هری به طبقه‌ی غارمانند صندوقش دوید، به ساعتش نگاه کرد (ساعت ۴:۲۸ را نشان می‌داد که یعنی ۷:۲۸) و بعد چشم‌هایش را بست.\n\nحدود سی ثانیه بعد، هری صدای قدم‌ها را شنید، و بعد صدای بسته شدن طبقه‌ی غارمانند صندوق را. (هری نگران خفه شدن نبود. افسون خودکار تصفیه‌ی هوا بخشی از چیزی بود که اگر حاضر بودی صندوق واقعاً خوبی بخری گیرت می‌آمد. مگر جادو شگفت‌انگیز نبود، لازم نبود نگران قبض برق باشد.)",
+  "verbatim_html": [
+   "Anthony wordlessly accepted the book and took out a parchment and quill. Harry spun around and shut his eyes, making sure not to see anything, dancing back and forth and bouncing up and down with impatience. He got a pad of paper and a mechanical pencil and got ready to write.",
+   "\"Okay,\" Anthony said, \"One hundred and eighty-one thousand, four hundred and twenty-nine.\"",
+   "Harry wrote down 181,429. He repeated what he'd just written down, and Anthony confirmed it.",
+   "Then Harry raced back down into the cavern level of his trunk, glanced at his watch (the watch said 4:28 which meant 7:28) and then shut his eyes.",
+   "Around thirty seconds later, Harry heard the sound of steps, followed by the sound of the cavern level of the trunk sliding shut. (Harry wasn't worried about suffocating. An automatic Air-Freshening Charm was part of what you got if you were willing to buy a really good trunk. Wasn't magic wonderful, it didn't have to worry about electric bills.)"
+  ]
+ },
+ {
+  "id": 6,
+  "paras": [
+   21,
+   22,
+   23,
+   24,
+   25
+  ],
+  "summary_en": "Harry opens his eyes to find Paper-2 left by his future self, tears off matching Paper-1 from his pad, and reviews the algorithm he will follow.",
+  "summary_fa": "هری چشم باز می‌کند و کاغذ-۲ را که خود آینده‌اش گذاشته می‌یابد، کاغذ-۱ همسان را از دفترش می‌کند و الگوریتمی را که دنبال خواهد کرد مرور می‌کند.",
+  "translation_fa": "و وقتی هری چشم‌هایش را باز کرد، دقیقاً همان چیزی را دید که امیدوار بود ببیند، تکه کاغذ تاشده‌ای که روی زمین مانده بود، هدیه‌ی خود آینده‌اش.\n\nآن تکه کاغذ را «کاغذ-۲» بنام.\n\nهری تکه‌ای کاغذ از دفترش کند.\n\nآن را «کاغذ-۱» بنام. البته همان تکه کاغذ بود. حتی می‌توانستی، اگر نزدیک نگاه می‌کردی، ببینی که لبه‌های پاره هماهنگ‌اند.\n\nهری در ذهنش الگوریتمی را که دنبال می‌کرد مرور کرد.",
+  "verbatim_html": [
+   "And when Harry opened his eyes, he saw just what he'd been hoping to see, a folded piece of paper left on the floor, the gift of his future self.",
+   "Call that piece of paper \"Paper-2\".",
+   "Harry tore a piece of paper off his pad.",
+   "Call that \"Paper-1\". It was, of course, the same piece of paper. You could even see, if you looked closely, that the ragged edges matched.",
+   "Harry reviewed in his mind the algorithm that he would follow."
+  ]
+ },
+ {
+  "id": 7,
+  "paras": [
+   26,
+   27,
+   28,
+   29,
+   30
+  ],
+  "summary_en": "Harry's algorithm starts with 101 x 101 if Paper-2 is blank, otherwise multiplies the given pair; on a match he sends it back, otherwise he increments the search, leaving Paper-1 blank at 997 x 997.",
+  "summary_fa": "الگوریتم هری این است: اگر کاغذ-۲ خالی باشد از ۱۰۱×۱۰۱ شروع می‌کند، وگرنه جفت داده‌شده را ضرب می‌کند؛ اگر برابر شد همان را برمی‌گرداند وگرنه جست‌وجو را یکی جلو می‌برد و در ۹۹۷×۹۹۷ کاغذ-۱ را خالی می‌گذارد.",
+  "translation_fa": "اگر هری کاغذ-۲ را باز می‌کرد و خالی بود، آن‌وقت «۱۰۱ × ۱۰۱» را روی کاغذ-۱ می‌نوشت، تایش می‌کرد، یک ساعت درس می‌خواند، به گذشته برمی‌گشت، کاغذ-۱ را می‌گذاشت (که بدین‌ترتیب کاغذ-۲ می‌شد)، و از طبقه‌ی غارمانند بالا می‌رفت تا به هم‌خوابگاهی‌هایش برای صبحانه بپیوندد.\n\nاگر هری کاغذ-۲ را باز می‌کرد و دو عدد رویش نوشته شده بود، هری آن اعداد را در هم ضرب می‌کرد.\n\nاگر حاصلشان برابر ۱۸۱٬۴۲۹ می‌شد، هری همان دو عدد را روی کاغذ-۱ می‌نوشت و کاغذ-۱ را به گذشته می‌فرستاد.\n\nوگرنه هری ۲ به عدد سمت راست اضافه می‌کرد و جفت جدید اعداد را روی کاغذ-۱ می‌نوشت. مگر این‌که این کار عدد سمت راست را بزرگ‌تر از ۹۹۷ می‌کرد، که در آن صورت هری ۲ به عدد سمت چپ اضافه می‌کرد و ۱۰۱ را سمت راست می‌نوشت.\n\nو اگر کاغذ-۲ می‌گفت ۹۹۷ × ۹۹۷، هری کاغذ-۱ را خالی می‌گذاشت.",
+  "verbatim_html": [
+   "If Harry opened up Paper-2 and it was blank, then he would write \"101 x 101\" down on Paper-1, fold it up, study for an hour, go back in time, drop off Paper-1 (which would thereby become Paper-2), and head on up out of the cavern level to join his dorm mates for breakfast.",
+   "If Harry opened up Paper-2 and it had two numbers written on it, Harry would multiply those numbers together.",
+   "If their product equaled 181,429, Harry would write down those two numbers on Paper-1 and send Paper-1 back in time.",
+   "Otherwise Harry would add 2 to the number on the right and write down the new pair of numbers on Paper-1. Unless that made the number on the right greater than 997, in which case Harry would add 2 to the number on the left and write down 101 on the right.",
+   "And if Paper-2 said 997 x 997, Harry would leave Paper-1 blank."
+  ]
+ },
+ {
+  "id": 8,
+  "paras": [
+   31,
+   32,
+   33,
+   34,
+   35
+  ],
+  "summary_en": "The only stable loop should contain the prime factors of 181,429, a trick more general than P=NP; trembling, Harry unfolds Paper-2 to find it says DO NOT MESS WITH TIME.",
+  "summary_fa": "تنها حلقه‌ی پایدار باید عامل‌های اول ۱۸۱٬۴۲۹ را داشته باشد، ترفندی کلی‌تر از P=NP؛ هری لرزان کاغذ-۲ را باز می‌کند و می‌بیند نوشته با زمان ور نرو.",
+  "translation_fa": "که یعنی تنها حلقه‌ی زمانی پایدار ممکن آن بود که کاغذ-۲ دو عامل اول ۱۸۱٬۴۲۹ را در خود داشت.\n\nاگر این جواب می‌داد، هری می‌توانست از آن برای بازیابی هر نوع جوابی که بررسی‌اش آسان اما یافتنش سخت است استفاده کند. او فقط نشان نداده بود که با چرخاننده‌ی زمان P=NP است، این ترفند کلی‌تر از آن بود. هری می‌توانست از آن برای یافتن ترکیب قفل‌های رمزی، یا رمزهای عبور از هر نوع استفاده کند. شاید حتی ورودی تالار اسرار اسلیترین را پیدا کند، اگر می‌توانست راهی نظام‌مند برای توصیف همه‌ی مکان‌های هاگوارتز پیدا کند. حتی با معیارهای تقلب هری هم تقلب فوق‌العاده‌ای می‌شد.\n\nهری کاغذ-۲ را با دست لرزانش برداشت و باز کرد.\n\nکاغذ-۲ با دست‌خطی کمی لرزان می‌گفت:\n\nبا زمان ور نرو",
+  "verbatim_html": [
+   "Which meant that the only possible <em>stable</em> time loop was the one in which Paper-2 contained the two prime factors of 181,429.",
+   "If this worked, Harry could use it to recover any sort of answer that was easy to check but hard to find. He wouldn't have <em>just</em> shown that P=NP once you had a Time-Turner, this trick was <em>more general</em> than that. Harry could use it to find the combinations on combination locks, or passwords of every sort. Maybe even find the entrance to Slytherin's Chamber of Secrets, if Harry could figure out some systematic way of describing all the locations in Hogwarts. It would be an awesome cheat even by Harry's standards of cheating.",
+   "Harry took Paper-2 in his trembling hand, and unfolded it.",
+   "Paper-2 said in slightly shaky handwriting:",
+   "DO NOT MESS WITH TIME"
+  ]
+ },
+ {
+  "id": 9,
+  "paras": [
+   36,
+   37,
+   38,
+   39,
+   40
+  ],
+  "summary_en": "Harry copies the warning onto Paper-1, calls it the scariest experimental result in science, struggles to study for an hour, and thus begins his Thursday, followed by a scene break.",
+  "summary_fa": "هری هشدار را روی کاغذ-۱ کپی می‌کند، آن را ترسناک‌ترین نتیجه‌ی تاریخ علم می‌داند، یک ساعت به‌سختی درس می‌خواند و پنجشنبه‌اش این‌طور شروع می‌شود و صحنه جدا می‌شود.",
+  "translation_fa": "هری «با زمان ور نرو» را با دست‌خطی کمی لرزان روی کاغذ-۱ نوشت، مرتب تایش کرد، و تصمیم گرفت تا دست‌کم پانزده ساله نشده دیگر آزمایش واقعاً درخشانی روی زمان انجام ندهد.\n\nتا جایی که هری می‌دانست، این ترسناک‌ترین نتیجه‌ی آزمایشی در کل تاریخ علم بوده است.\n\nتمرکز کردن روی خواندن کتاب درسی‌اش در یک ساعت بعدی برای هری تا حدی دشوار بوده بود.\n\nپنجشنبه‌ی هری این‌طور شروع شد.\n\n* * *",
+  "verbatim_html": [
+   "Harry wrote down \"DO NOT MESS WITH TIME\" on Paper-1 in slightly shaky handwriting, folded it neatly, and resolved not to do any more truly brilliant experiments on Time until he was at least fifteen years old.",
+   "To the best of Harry's knowledge, that had been the scariest experimental result in the entire history of science.",
+   "It had been somewhat difficult for Harry to focus on reading his textbook for the next hour.",
+   "That was how Harry's Thursday started.",
+   "* * *"
+  ]
+ },
+ {
+  "id": 10,
+  "paras": [
+   41,
+   42,
+   43,
+   44,
+   45
+  ],
+  "summary_en": "At 3:32pm Thursday the first-year boys gather for flying with Madam Hooch; Harry is still shaken by the time loop and rants that broomsticks are an absurdly unstable flying design.",
+  "summary_fa": "ساعت ۳:۳۲ بعدازظهر پنجشنبه پسرهای سال اول برای پرواز با مادام هوچ جمع می‌شوند؛ هری هنوز از حلقه‌ی زمانی لرزان است و غر می‌زند که جاروها طراحی پروازی absurdly ناپایدارند.",
+  "translation_fa": "پنجشنبه.\n\nاگر بخواهی دقیق باشی، ساعت ۳:۳۲ بعدازظهر پنجشنبه.\n\nهری و همه‌ی پسرهای دیگر سال اول بیرون در زمین چمنی با مادام هوچ بودند، کنار ذخیره‌ی جاروهای هاگوارتز ایستاده بودند. دخترها قرار بود جداگانه پرواز یاد بگیرند. ظاهراً، به دلیلی، دخترها نمی‌خواستند در حضور پسرها پرواز با جارو را یاد بگیرند.\n\nهری تمام روز کمی لرزان بوده بود. نمی‌توانست دست از فکر کردن بردارد که آن حلقه‌ی زمانی پایدار خاص چطور از میان فضایی که در گذشته‌نگری نسبتاً بزرگ بود انتخاب شده بود.\n\nهمچنین: جدی، جاروها؟ قرار بود روی، اساساً، یک پاره‌خط پرواز کند؟ مگر این تقریباً ناپایدارترین شکلی نبود که می‌شد پیدا کرد، اگر تلاش برای نگه داشتن یک تیله‌ی نقطه‌ای را حساب نکنی؟ چه کسی آن طراحی را برای وسیله‌ی پرنده از میان همه‌ی امکان‌ها انتخاب کرده بود؟ هری امیدوار بود که فقط اصطلاحی مجازی باشد، اما نه، روبه‌روی چیزی ایستاده بودند که عیناً شبیه جاروهای چوبی معمولی آشپزخانه به نظر می‌رسید. حتماً کسی روی ایده‌ی جاروها گیر کرده و چیز دیگری را در نظر نگرفته بود. باید همین می‌بود. به هیچ وجه ممکن نبود طراحی‌های بهینه برای تمیز کردن آشپزخانه و پرواز اگر از صفر حسابشان می‌کردی تصادفاً یکی شوند.",
+  "verbatim_html": [
+   "Thursday.",
+   "If you wanted to be specific, 3:32pm on Thursday afternoon.",
+   "Harry and all the other boys in the first year were outside on a grassy field with Madam Hooch, standing next to the Hogwarts supply of broomsticks. The girls would be learning to fly separately. Apparently, for some reason, girls didn't want to learn how to fly on broomsticks in the presence of boys.",
+   "Harry had been a little wobbly all day long. He just couldn't seem to stop wondering how that <em>particular</em> stable time loop had been selected out of what was, in retrospect, a rather large space of possibilities.",
+   "Also: seriously, <em>broomsticks?</em> He was going to fly on, basically, a line segment? Wasn't that pretty much the single most unstable shape you could possibly find, short of attempting to hold on to a point marble? Who'd selected <em>that</em> design for a flying device, out of all the possibilities? Harry had been hoping that it was just a figure of speech, but no, they were standing in front of what looked for all the world like ordinary wooden kitchen broomsticks. Had someone just gotten stuck on the idea of broomsticks and failed to consider anything else? It had to be. There was no way that the <em>optimal</em> designs for cleaning kitchens and flying would happen to coincide if you worked them out from scratch."
+  ]
+ },
+ {
+  "id": 11,
+  "paras": [
+   46,
+   47,
+   48,
+   49,
+   50
+  ],
+  "summary_en": "Under a bright sun on hard ground Harry reassures himself flying cannot be hard; at Hooch's command he shouts UP and his broom leaps eagerly into his hand.",
+  "summary_fa": "زیر آفتاب تند روی زمین سفت هری به خودش دلداری می‌دهد که پرواز نمی‌تواند سخت باشد؛ به فرمان هوچ «بالا» می‌گوید و جارویش مشتاقانه به دستش می‌پرد.",
+  "translation_fa": "روزی صاف با آسمان آبی روشن و خورشید درخشانی بود که انگار التماس می‌کرد به چشم‌هایت بیاید و دیدن را ناممکن کند، اگر داشتی در آسمان پرواز می‌کردی. زمین خوب و خشک بود، بوی کاملاً پخته می‌داد، و به نحوی زیر کفش‌های هری خیلی خیلی سفت حس می‌شد.\n\nهری مدام به خودش یادآوری می‌کرد که از کمترین مخرج مشترک یازده‌ساله‌ها انتظار می‌رود این را یاد بگیرند و نمی‌تواند آن‌قدر سخت باشد.\n\n«دست راست‌تان را روی جارو بگیرید، یا دست چپ اگر چپ‌دستید،» مادام هوچ صدا زد. «و بگویید، بالا!»\n\n«بالا!» همه فریاد زدند.\n\nجارو مشتاقانه به دست هری پرید.",
+  "verbatim_html": [
+   "It was a clear day with a bright blue sky and a brilliant sun that was just begging to get in your eyes and make it impossible to see, if you were trying to fly around the sky. The ground was nice and dry, smelling positively baked, and somehow felt very, very hard under Harry's shoes.",
+   "Harry kept reminding himself that the lowest common denominator of eleven-year-olds was expected to learn this and it couldn't be that hard.",
+   "\"Stick out your right hand over the broom, or left hand if you're left-handed,\" called Madam Hooch. \"And say, UP!\"",
+   "\"UP!\" everyone shouted.",
+   "The broomstick leapt eagerly into Harry's hand."
+  ]
+ },
+ {
+  "id": 12,
+  "paras": [
+   51,
+   52,
+   53,
+   54,
+   55
+  ],
+  "summary_en": "Harry leads the class since most brooms resist; he bets Hermione did as well, then Hooch corrects grips and orders a hard kickoff that leaves Harry queasy.",
+  "summary_fa": "هری چون بیشتر جاروها مقاومت می‌کنند سر کلاس است؛ شرط می‌بندد هرمیون هم موفق بوده، بعد هوچ گیره‌ها را اصلاح می‌کند و دستور برخاستن سخت می‌دهد که هری را مضطرب می‌کند.",
+  "translation_fa": "که او را، برای یک بار، سر کلاس قرار می‌داد. ظاهراً گفتن «بالا!» خیلی سخت‌تر از آن بود که به نظر می‌رسید، و بیشتر جاروها روی زمین می‌غلتیدند یا سعی می‌کردند از سوارکاران احتمالی‌شان دور شوند.\n\n(البته هری شرط می‌بست که هرمیون وقتی نوبتش شده بود که زودتر همان روز امتحان کند دست‌کم به همان خوبی عمل کرده بود. به هیچ وجه ممکن نبود چیزی باشد که او در اولین تلاش استاد شود و هرمیون را گیج کند، و اگر بود و معلوم می‌شد پرواز با جارو است به جای هر چیز فکری، هری فقط می‌مرد.)\n\nمدتی طول کشید تا همه جارویی روبه‌رویشان بگیرند. مادام هوچ نشانشان داد چطور سوار شوند و بعد دور زمین راه رفت، گیره‌ها و حالت‌ها را اصلاح می‌کرد. ظاهراً حتی در میان معدود بچه‌هایی که در خانه اجازه‌ی پرواز داشتند، به آن‌ها یاد نداده بودند درست انجامش دهند.\n\nمادام هوچ زمین پر از پسر را بررسی کرد و سر تکان داد. «حالا، وقتی سوتم را زدم، از زمین محکم لگد می‌زنید.»\n\nهری به‌سختی آب دهانش را قورت داد، سعی می‌کرد حس تهوع در معده‌اش را فروبنشاند.",
+  "verbatim_html": [
+   "Which put him at the head of the class, for once. Apparently saying \"UP!\" was a lot more difficult than it looked, and most of the broomsticks were rolling around on the ground or trying to inch away from their would-be riders.",
+   "(Of course Harry would have bet money that Hermione had done at least as well when it came her own turn to try, earlier in the day. There couldn't possibly be anything <em>he</em> could master on the first try which would baffle Hermione, and if there <em>was</em> and it turned out to be <em>broomstick riding</em> instead of anything intellectual, Harry would just die.)",
+   "It took a while for everyone to get a broomstick in front of them. Madam Hooch showed them how to mount and then walked around the field, correcting grips and stances. Apparently even among the few children who'd been allowed to fly at home, they hadn't been taught to do it correctly.",
+   "Madam Hooch surveyed the field of boys, and nodded. \"Now, when I blow my whistle, you kick off from the ground, hard.\"",
+   "Harry swallowed hard, trying to quell the queasy feeling in his stomach."
+  ]
+ },
+ {
+  "id": 13,
+  "paras": [
+   56,
+   57,
+   58,
+   59,
+   60
+  ],
+  "summary_en": "On Hooch's count a broom shoots skyward with a screaming boy; Harry leaps off to grab his wand despite weak Hover Charm skill, wishes for hidden power, and deems Hooch's shout useless.",
+  "summary_fa": "با شمارش هوچ جارویی با پسری جیغ‌کشان به آسمان می‌پرد؛ هری با وجود مهارت ضعیف در افسون شناور چوبدستی‌اش را می‌گیرد، آرزوی قدرت پنهان می‌کند و فریاد هوچ را بی‌فایده می‌داند.",
+  "translation_fa": "«جاروهایتان را ثابت نگه دارید، چند پا بالا بروید، و بعد با کمی خم شدن به جلو مستقیم برگردید پایین. با سوتم ــ سه ــ دو ــ»\n\nیکی از جاروها به آسمان پرتاب شد، همراه با جیغ‌های پسری جوان ــ از وحشت، نه شادی. پسر با سرعتی وحشتناک می‌چرخید همان‌طور که بالا می‌رفت، فقط گاهی صورت سفیدش را می‌دیدند ــ\n\nانگار در حرکت آهسته، هری از جاروی خودش پایین پرید و برای چوبدستی‌اش دست‌وپا می‌زد، هرچند واقعاً نمی‌دانست می‌خواهد با آن چه کند، دقیقاً دو جلسه افسون‌ها را داشت و جلسه‌ی آخری افسون شناور بود اما هری فقط یک بار از سه بار توانسته بود افسون را موفق بزند و مطمئناً نمی‌توانست آدم‌های کامل را شناور کند ــ\n\nاگر قدرت پنهانی در من هست، بگذار الآن خودش را نشان دهد!\n\n«برگرد، پسر!» مادام هوچ فریاد زد (که باید بی‌فایده‌ترین دستور ممکن برای برخورد با جاروی ازکنترل‌خارج‌شده باشد، از یک مربی پرواز، و بخشی کاملاً خودکار از مغز هری مادام هوچ را به فهرست ابلهانش اضافه کرد).",
+  "verbatim_html": [
+   "\"Keep your brooms steady, rise a few feet, and then come straight back down by leaning forwards slightly. On my whistle - three - two -\"",
+   "One of the brooms shot skyward, accompanied by a young boy's screams - of horror, not delight. The boy was spinning at an awful rate as he ascended, they only got glimpses of his white face -",
+   "As though in slow motion, Harry was leaping back off his own broomstick and scrabbling for his wand, though he didn't really know what he planned to do with it, he'd had exactly two sessions of Charms and the last one <em>had</em> been the Hover Charm but Harry had only been able to cast the spell successfully one time out of three and he certainly couldn't levitate whole people -",
+   "<em>If there is any hidden power in me, let it reveal itself NOW!</em>",
+   "\"Come back, boy!\" shouted Madam Hooch (which had to be the most unhelpful instruction imaginable for dealing with an out-of-control broomstick, from a <em>flying instructor</em>, and a fully automatic section of Harry's brain added Madam Hooch to his tally of fools)."
+  ]
+ },
+ {
+  "id": 14,
+  "paras": [
+   61,
+   62,
+   63,
+   64,
+   65
+  ],
+  "summary_en": "The boy is thrown off, seems to fall slowly, Harry screams Wingardium Leviosa which fails, and the boy hits the grass with a THUD and crack.",
+  "summary_fa": "پسر پرت می‌شود، انگار آهسته می‌افتد، هری وینگاردیوم لویوسا فریاد می‌زند که شکست می‌خورد و پسر با صدای مهیب و ترق به چمن می‌خورد.",
+  "translation_fa": "و پسر از جارو پرت شد.\n\nاو ابتدا به نظر می‌رسید خیلی آهسته در هوا حرکت می‌کند.\n\n«وینگاردیوم لویوسا!» هری جیغ کشید.\n\nافسون شکست خورد. می‌توانست حس کند که شکست خورد.\n\nصدای مهیبی آمد و صدای ترک دوردستی، و پسر رو به پایین روی چمن در توده‌ای افتاده بود.",
+  "verbatim_html": [
+   "And the boy was thrown off the broomstick.",
+   "He seemed to move very slowly through the air, at first.",
+   "\"<em>Wingardium Leviosa!</em> \" screamed Harry.",
+   "The spell failed. He could feel it fail.",
+   "There was a THUD and a distant cracking sound, and the boy lay facedown on the grass in a heap."
+  ]
+ },
+ {
+  "id": 15,
+  "paras": [
+   66,
+   67,
+   68,
+   69,
+   70
+  ],
+  "summary_en": "Harry rushes in with his Healer's Pack as Hooch says it is only a broken wrist; Harry snaps out of panic holding liquid-fire syringe and asks for Setting String.",
+  "summary_fa": "هری با بسته‌ی درمانگر می‌دود در حالی که هوچ می‌گوید فقط مچ شکسته است؛ هری از حالت وحشت بیرون می‌آید در حالی که سرنگ آتش مایع در دست دارد و نخ بخیه می‌خواهد.",
+  "translation_fa": "هری چوبدستی‌اش را غلاف کرد و با سرعت تمام جلو دوید. هم‌زمان با مادام هوچ به کنار پسر رسید، و هری به کیسه‌اش دست برد و سعی کرد به یاد بیاورد اوه خدا اسمش چه بود مهم نیست فقط امتحان می‌کند «بسته‌ی درمانگر!» و به دستش پرید و ــ\n\n«مچ شکسته،» مادام هوچ گفت. «آرام باش، پسر، فقط مچش شکسته!»\n\nنوعی تکان ذهنی بود وقتی ذهن هری از حالت وحشت بیرون پرید.\n\nبسته‌ی اضطراری درمان پلاس روبه‌رویش باز افتاده بود، و سرنگی از آتش مایع در دست هری بود، که اگر پسر گردنش را شکسته بود مغزش را اکسیژن‌دار نگه می‌داشت.\n\n«آه...» هری با صدایی نسبتاً لرزان گفت. قلبش آن‌قدر بلند می‌تپید که تقریباً نمی‌توانست نفس‌نفس زدن خودش را بشنود. «استخوان شکسته... درسته... نخ بخیه؟»",
+  "verbatim_html": [
+   "Harry sheathed his wand and raced forwards at full speed. He arrived at the boy's side at the same time as Madam Hooch, and Harry reached into his pouch and tried to recall oh god what was the name never mind he'd just try \"Healer's Pack!\" and it popped up into his hand and -",
+   "\"Broken wrist,\" Madam Hooch said. \"Calm down, boy, he just has a broken wrist!\"",
+   "There was a sort of mental lurch as Harry's mind snapped out of Panic Mode.",
+   "The Emergency Healing Pack Plus lay open in front of him, and there was a syringe of liquid fire in Harry's hand, which would have kept the boy's brain oxygenated if he'd managed to snap his neck.",
+   "\"Ah...\" Harry said in a rather wavering sort of voice. His heart was pounding so loudly that he almost couldn't hear himself panting for breath. \"Broken bone... right... Setting String?\""
+  ]
+ },
+ {
+  "id": 16,
+  "paras": [
+   71,
+   72,
+   73,
+   74,
+   75
+  ],
+  "summary_en": "Hooch says the kit is emergencies-only, refuses to make Neville fly again, orders everyone frozen while she takes him to the hospital wing, and Slytherins giggle once they leave.",
+  "summary_fa": "هوچ می‌گوید کیت فقط برای اضطرار است، نمی‌خواهد نویل دوباره پرواز کند، دستور می‌دهد همه بی‌حرکت بمانند تا او را به بال بیمارستان ببرد و بعد از رفتنشان اسلیترینی‌ها می‌خندند.",
+  "translation_fa": "«این فقط برای اضطرار است،» مادام هوچ با تندی گفت. «جمعش کن، حالش خوب است.» روی پسر خم شد و دستش را دراز کرد. «بیا، پسر، اشکالی ندارد، بلند شو!»\n\n«واقعاً می‌خواهی دوباره سوار جارو بشود؟» هری با وحشت گفت.\n\nمادام هوچ نگاهی خشمگین به هری انداخت. «البته که نه!» پسر را با بازوی سالمش بلند کرد ــ هری با شوک دید که دوباره نویل لانگ‌باتم است، او را چه می‌شود؟ ــ و رو به همه‌ی بچه‌های تماشاگر کرد. «هیچ‌کدام‌تان تکان نمی‌خورید تا این پسر را به بال بیمارستان ببرم! آن جاروها را همان‌جا بگذارید وگرنه پیش از این‌که بتوانید بگویید 'کوییدیچ' از هاگوارتز بیرونید. بیا، عزیزم.»\n\nو مادام هوچ با نویل رفت، که مچش را گرفته بود و سعی می‌کرد هق‌هقش را کنترل کند.\n\nوقتی از محدوده‌ی شنوایی خارج شدند، یکی از اسلیترینی‌ها شروع به ریز خندیدن کرد.",
+  "verbatim_html": [
+   "\"That's for emergencies only,\" snapped Madam Hooch. \"Put it away, he's fine.\" She leaned over the boy, offering him a hand. \"Come on, boy, it's all right, up you get!\"",
+   "\"You're not seriously going to make him ride the broomstick again?\" Harry said in horror.",
+   "Madam Hooch sent Harry a glare. \"Of course not!\" She pulled the boy to his feet using his good arm - Harry saw with a shock that it was Neville Longbottom <em>again,</em> what was <em>with</em> him? - and she turned to all the watching children. \"None of you is to move while I take this boy to the hospital wing! You leave those brooms where they are or you'll be out of Hogwarts before you can say 'Quidditch.' Come on, dear.\"",
+   "And Madam Hooch walked off with Neville, who was clutching his wrist and trying to control his sniffles.",
+   "When they were out of earshot, one of the Slytherins started giggling."
+  ]
+ },
+ {
+  "id": 17,
+  "paras": [
+   76,
+   77,
+   78,
+   79,
+   80
+  ],
+  "summary_en": "Laughter spreads and Harry memorizes faces; Draco arrives with Crabbe and Goyle, hiding amusement, and advises Harry to look controlled in emergencies while offering help with the kit.",
+  "summary_fa": "خنده پخش می‌شود و هری چهره‌ها را حفظ می‌کند؛ دریکو با کرب و گویل می‌آید، خنده‌اش را پنهان می‌کند و به هری توصیه می‌کند در اضطرار مسلط به نظر برسد و برای جمع کردن کیت کمک تعارف می‌کند.",
+  "translation_fa": "این بقیه را هم به راه انداخت.\n\nهری چرخید و به آن‌ها نگاه کرد. به نظر وقت خوبی می‌رسید برای حفظ کردن چند چهره.\n\nو هری دید که دریکو به سمتش قدم می‌زند، همراه با آقای کرب و آقای گویل. آقای کرب لبخند نمی‌زد. آقای گویل قطعاً لبخند می‌زد. خود دریکو چهره‌ای خیلی کنترل‌شده داشت که گاهی می‌پرید، که از آن هری استنباط کرد دریکو فکر می‌کند خیلی خنده‌دار است اما مزیت سیاسی در خندیدن درباره‌اش الآن به جای سیاه‌چال‌های اسلیترین نمی‌بیند.\n\n«خب، پاتر،» دریکو با صدای آهسته‌ای که نمی‌رسید گفت، هنوز با همان چهره‌ی خیلی کنترل‌شده که گاهی می‌پرید، «فقط می‌خواستم بگویم، وقتی از اضطرار برای نشان دادن رهبری استفاده می‌کنی، می‌خواهی طوری به نظر برسی که انگار کاملاً اوضاع را کنترل می‌کنی، به جای این‌که، مثلاً، کاملاً وحشت کنی.» آقای گویل ریز خندید و دریکو نگاهی سرکوبگر به او انداخت. «اما احتمالاً به‌هرحال چند امتیاز گرفتی. برای جمع کردن آن کیت درمانگر کمکی لازم داری؟»\n\nهری رو برگرداند به بسته‌ی درمان نگاه کند، که صورت خودش را از دریکو برگرداند. «فکر کنم خوبم،» هری گفت. سرنگ را سر جایش گذاشت، چفت‌ها را دوباره بست و بلند شد.",
+  "verbatim_html": [
+   "That set off the others.",
+   "Harry turned and looked at them. It seemed like a good time to memorise some faces.",
+   "And Harry saw that Draco was strolling towards him, accompanied by Mr. Crabbe and Mr. Goyle. Mr. Crabbe wasn't smiling. Mr. Goyle decidedly was. Draco himself was wearing a very controlled face that twitched occasionally, from which Harry inferred that Draco thought it was hilarious but saw no political advantage to be gained by laughing about it now instead of in the Slytherin dungeons afterwards.",
+   "\"Well, Potter,\" Draco said in a low voice that didn't carry, still with that very controlled face that was twitching occasionally, \"Just wanted to say, when you take advantage of emergencies to demonstrate leadership, you want to look like you're in total control of the situation, rather than, say, going into a complete panic.\" Mr. Goyle giggled, and Draco shot him a quelling look. \"But you probably scored a few points anyway. You need any help stowing that healer's kit?\"",
+   "Harry turned to look at the Healing Pack, which got his own face turned away from Draco. \"I think I'm fine,\" Harry said. He put the syringe back in its place, redid the latches, and stood up."
+  ]
+ },
+ {
+  "id": 18,
+  "paras": [
+   81,
+   82,
+   83,
+   84,
+   85
+  ],
+  "summary_en": "Ernie Macmillan formally thanks Harry for Hufflepuff; Draco taunts that no Hufflepuff drew a wand and one Ravenclaw friend beats all of Hufflepuff, shaming Ernie.",
+  "summary_fa": "ارنی مک‌میلان رسماً از طرف هافلپاف از هری تشکر می‌کند؛ دریکو طعنه می‌زند که هیچ هافلپافی چوبدستی نکشید و یک دوست ریونکلاوی بهتر از کل هافلپاف است و ارنی را شرمنده می‌کند.",
+  "translation_fa": "ارنی مک‌میلان دقیقاً وقتی رسید که هری داشت بسته را به کیسه‌ی پوست‌موکش برمی‌گرداند.\n\n«متشکرم، هری پاتر، از طرف هافلپاف،» ارنی مک‌میلان رسماً گفت. «تلاش خوبی بود و فکر خوبی.»\n\n«فکر خوبی واقعاً،» دریکو کشدار گفت. «چرا هیچ‌کس در هافلپاف چوبدستی‌اش را بیرون نیاورد؟ شاید اگر همه‌تان به جای فقط پاتر کمک می‌کردید می‌توانستید او را بگیرید. فکر می‌کردم قرار است هافلپافی‌ها کنار هم بمانند؟»\n\nارنی طوری به نظر می‌رسید که بین عصبانی شدن و خواستن به مردن از شرم مانده بود. «به‌موقع به ذهنمان نرسید ــ»\n\n«آه،» دریکو گفت، «به ذهنتان نرسید، حدس می‌زنم به همین خاطر است که داشتن یک ریونکلاوی به‌عنوان دوست بهتر از کل هافلپاف است.»",
+  "verbatim_html": [
+   "Ernie Macmillan arrived just as Harry was feeding the pack back into his mokeskin pouch.",
+   "\"Thank you, Harry Potter, on behalf of Hufflepuff,\" Ernie Macmillan said formally. \"It was a good try and a good thought.\"",
+   "\"A good thought indeed,\" drawled Draco. \"Why didn't anyone in Hufflepuff have their wands out? Maybe if you'd <em>all</em> helped instead of just Potter, you could've caught him. I thought Hufflepuffs were supposed to stick together?\"",
+   "Ernie looked like he was torn between getting angry and wanting to die of shame. \"We didn't think of it in time -\"",
+   "\"Ah,\" said Draco, \"didn't <em>think</em> of it, I guess that's why it's better to have one Ravenclaw as a friend than all of Hufflepuff.\""
+  ]
+ },
+ {
+  "id": 19,
+  "paras": [
+   86,
+   87,
+   88,
+   89,
+   90
+  ],
+  "summary_en": "Harry mildly tells Draco he is not helping; Goyle picks up a misty Remembrall, Ernie identifies it as Neville's and explains it turns red when something is forgotten.",
+  "summary_fa": "هری آرام به دریکو می‌گوید کمک نمی‌کند؛ گویل یادآور مه‌آلود را برمی‌دارد، ارنی می‌گوید مال نویل است و توضیح می‌دهد وقتی چیزی فراموش شده باشد قرمز می‌شود.",
+  "translation_fa": "اوه، جهنم، هری چطور قرار بود این یکی را مدیریت کند... «کمک نمی‌کنی،» هری با لحنی ملایم گفت. امیدوار بود دریکو آن را به‌صورت تو داری در نقشه‌هایم دخالت می‌کنی، لطفاً خفه شو تفسیر کند.\n\n«هی، این چیه؟» آقای گویل گفت. روی چمن خم شد و چیزی به اندازه‌ی تیله‌ی بزرگ برداشت، گوی شیشه‌ای که انگار پر از مه سفید چرخان بود.\n\nارنی پلک زد. «یادآور نویل!»\n\n«یادآور چیه؟» هری پرسید.\n\n«اگر چیزی را فراموش کرده باشی قرمز می‌شود،» ارنی گفت. «اما بهت نمی‌گوید چه را فراموش کرده‌ای. بدهش لطفاً، و بعداً به نویل برش می‌گردانم.» ارنی دستش را دراز کرد.",
+  "verbatim_html": [
+   "Oh, hell, how was Harry supposed to juggle this one... \"You're not helping,\" Harry said in a mild tone. Hoping Draco would interpret that as <em>you're interfering with my plans, please shut up.</em>",
+   "\"Hey, what's this?\" said Mr. Goyle. He stooped to the grass and picked up something around the size of a large marble, a glass ball that seemed to be filled with a swirling white mist.",
+   "Ernie blinked. \"Neville's Remembrall!\"",
+   "\"What's a Remembrall?\" asked Harry.",
+   "\"It turns red if you've forgotten something,\" Ernie said. \"It doesn't tell you what you forgot, though. Give it here, please, and I'll hand it back to Neville later.\" Ernie held out his hand."
+  ]
+ },
+ {
+  "id": 20,
+  "paras": [
+   91,
+   92,
+   93,
+   94,
+   95
+  ],
+  "summary_en": "Goyle grins, flees with the Remembrall, and flies off on a broom despite the expulsion threat; Harry is stunned and Draco hisses at the idiocy.",
+  "summary_fa": "گویل پوزخند می‌زند، با یادآور فرار می‌کند و با وجود تهدید اخراج با جارو پرواز می‌کند؛ هری مبهوت می‌شود و دریکو به حماقت ناسزا می‌گوید.",
+  "translation_fa": "پوزخندی ناگهانی روی صورت آقای گویل برق زد و چرخید و دوید.\n\nارنی لحظه‌ای از تعجب بی‌حرکت ایستاد، و بعد فریاد زد «هی!» و دنبال آقای گویل دوید.\n\nو آقای گویل جارویی گرفت، با حرکتی روان پرید و به هوا رفت.\n\nفک هری افتاد. مگر مادام هوچ نگفته بود که این کار او را اخراج می‌کند؟\n\n«آن احمق!» دریکو هیس کرد. دهانش را باز کرد که فریاد بزند ــ",
+  "verbatim_html": [
+   "A sudden grin flashed across Mr. Goyle's face and he spun around and raced away.",
+   "Ernie stood still for a moment in surprise, and then shouted \"Hey!\" and ran after Mr. Goyle.",
+   "And Mr. Goyle grabbed a broomstick, hopped on with one smooth motion and took to the air.",
+   "Harry's jaw dropped. Hadn't Madam Hooch said that would get him <em>expelled?</em>",
+   "<em>\"That idiot!</em> \" Draco hissed. He opened his mouth to shout -"
+  ]
+ },
+ {
+  "id": 21,
+  "paras": [
+   96,
+   97,
+   98,
+   99,
+   100
+  ],
+  "summary_en": "Ernie demands the Remembrall back as Slytherins cheer; Draco freezes in indecision while Harry warns him to get Goyle down before the teacher returns.",
+  "summary_fa": "ارنی پس دادن یادآور را فریاد می‌زند در حالی که اسلیترینی‌ها تشویق می‌کنند؛ دریکو در دودلی خشک می‌شود و هری هشدار می‌دهد پیش از برگشتن معلم گویل را پایین بیاورد.",
+  "translation_fa": "«هی!» ارنی فریاد زد. «این مال نویله! پسش بده!»\n\nاسلیترینی‌ها شروع به تشویق و هو کردن کردند.\n\nدهان دریکو بسته شد. هری نگاه ناگهانی دودلی را در چهره‌اش گرفت.\n\n«دریکو،» هری با لحنی آهسته گفت، «اگر به آن احمق دستور ندهی برگردد روی زمین، معلم برمی‌گردد و ــ»\n\n«بیا بگیرش، هافل‌پافل!» آقای گویل فریاد زد، و تشویق بزرگی از اسلیترینی‌ها بلند شد.",
+  "verbatim_html": [
+   "\"<em>Hey!</em> \" shouted Ernie. \"That's Neville's! <em>Give it back!</em> \"",
+   "The Slytherins started cheering and hooting.",
+   "Draco's mouth snapped shut. Harry caught the sudden look of indecision on his face.",
+   "\"Draco,\" Harry said in a low tone, \"if you don't order that idiot back on the ground, the teacher's going to get back and -\"",
+   "\"<em>Come and get it, Hufflepuffle!</em> \" shouted Mr. Goyle, and a great cheer went up from the Slytherins."
+  ]
+ },
+ {
+  "id": 22,
+  "paras": [
+   101,
+   102,
+   103,
+   104,
+   105
+  ],
+  "summary_en": "Draco whispers he cannot back down without looking weak, Harry warns his father will call him a moron if Goyle is expelled, and Ernie answers by calling wands out for Hufflepuff.",
+  "summary_fa": "دریکو زمزمه می‌کند نمی‌تواند بدون ضعیف به نظر رسیدن عقب بکشد، هری هشدار می‌دهد اگر گویل اخراج شود پدرش او را ابله می‌داند و ارنی با فراخوان چوبدستی‌های هافلپاف جواب می‌دهد.",
+  "translation_fa": "«نمی‌توانم!» دریکو زمزمه کرد. «همه در اسلیترین فکر می‌کنند ضعیفم!»\n\n«و اگر آقای گویل اخراج شود،» هری هیس کرد، «پدرت فکر می‌کند احمقی!»\n\nصورت دریکو از عذاب در هم رفت.\n\nدر آن لحظه ــ\n\n«هی، اسلیترِلجن،» ارنی فریاد زد، «مگر کسی بهت نگفته که هافلپافی‌ها کنار هم می‌مانند؟ چوبدستی‌ها بیرون، هافلپاف!»",
+  "verbatim_html": [
+   "\"I <em>can't!</em> \" whispered Draco. \"Everyone in Slytherin would think I'm <em>weak!</em> \"",
+   "\"And if Mr. Goyle gets expelled,\" hissed Harry, \"your <em>father</em> is going to think you're a <em>moron!</em> \"",
+   "Draco's face twisted in agony.",
+   "At that moment -",
+   "\"Hey, <em>Slytherslime</em>,\" shouted Ernie, \"didn't anyone ever tell you that Hufflepuffs stick together? <em>Wands out, Hufflepuff!</em> \""
+  ]
+ },
+ {
+  "id": 23,
+  "paras": [
+   106,
+   107,
+   108,
+   109,
+   110
+  ],
+  "summary_en": "Hufflepuff wands point at Goyle, Slytherin wands answer against Hufflepuff, and two seconds later the standoff widens.",
+  "summary_fa": "چوبدستی‌های هافلپاف به سمت گویل نشانه می‌روند، چوبدستی‌های اسلیترین در برابر هافلپاف جواب می‌دهند و دو ثانیه بعد بن‌بست گسترش می‌یابد.",
+  "translation_fa": "و ناگهان کلی چوبدستی به سمت آقای گویل نشانه رفت.\n\nسه ثانیه بعد ــ\n\n«چوبدستی‌ها بیرون، اسلیترین!» حدود پنج اسلیترینی مختلف گفتند.\n\nو کلی چوبدستی به سمت هافلپاف نشانه رفت.\n\nدو ثانیه بعد ــ",
+  "verbatim_html": [
+   "And there were suddenly a whole lot of wands pointed in Mr. Goyle's direction.",
+   "Three seconds later -",
+   "\"<em>Wands out, Slytherin!</em> \" said around five different Slytherins.",
+   "And there were a whole lot of wands pointed in Hufflepuff's direction.",
+   "Two seconds later -"
+  ]
+ },
+ {
+  "id": 24,
+  "paras": [
+   111,
+   112,
+   113,
+   114,
+   115
+  ],
+  "verbatim_html": [
+   "\"<em>Wands out, Gryffindor!</em> \"",
+   "\"<em>Do something, Potter!</em> \" whispered Draco. \"<em>I can't be the one to stop this it has to be you! I'll owe you a favour just think of something aren't you supposed to be brilliant?</em> \"",
+   "In around five and a half seconds, realised Harry, someone was going to cast the Sumerian Simple Strike Hex and by the time it was over and the teachers were done expelling people the only boys left in his year would be Ravenclaws.",
+   "\"<em>Wands out, Ravenclaw!</em> \" shouted Michael Corner who was apparently feeling left out of the disaster.",
+   "\"<em>GREGORY GOYLE!\"</em> screamed Harry<em>. \"I challenge you to a contest for possession of Neville's Remembrall!\"</em>"
+  ],
+  "summary_en": "Gryffindor and Ravenclaw join the wand standoff, Draco whispers that Harry must stop it, and with seconds before a hex flies Harry loudly challenges Gregory Goyle to a contest for Neville's Remembrall.",
+  "translation_fa": "«چوبدستی‌ها بیرون، گریفیندور!»\n\n«کاری بکن، پاتر!» دریکو زمزمه کرد. «من نمی‌توانم آن کسی باشم که این را متوقف می‌کند، باید تو باشی! یک لطف به تو بدهکار می‌شوم، فقط به چیزی فکر کن، مگر قرار نیست تو باهوش باشی؟»\n\nهری فهمید که ظرف حدود پنج و نیم ثانیه کسی طلسم ضربه‌ی ساده‌ی سومری را می‌اندازد و تا وقتی کار تمام شود و معلم‌ها کار اخراج کردن را تمام کنند، تنها پسرهای باقی‌مانده‌ی سال او ریونکلاوی‌ها خواهند بود.\n\n«چوبدستی‌ها بیرون، ریونکلاو!» مایکل کورنر فریاد زد که ظاهراً احساس می‌کرد از این فاجعه جا مانده است.\n\n«گرگوری گویل!» هری جیغ کشید. «تو را به مسابقه‌ای برای مالکیت ریممبرال نویل به چالش می‌کشم!»",
+  "summary_fa": "گریفیندور و ریونکلاو به رویارویی چوبدستی‌ها می‌پیوندند، دریکو زمزمه می‌کند که هری باید جلویش را بگیرد، و هری ثانیه‌هایی پیش از پرتاب طلسم، گرگوری گویل را به مسابقه‌ای برای ریممبرال نویل به چالش می‌کشد."
+ },
+ {
+  "id": 25,
+  "paras": [
+   116,
+   117,
+   118,
+   119,
+   120
+  ],
+  "verbatim_html": [
+   "There was a sudden pause.",
+   "\"Oh, really?\" said Draco in the loudest drawl Harry had ever heard. \"That sounds interesting. What sort of contest, Potter?\"",
+   "Er...",
+   "\"Contest\" had been as far as Harry's inspiration had gotten. What sort of contest, he couldn't say \"chess\" because Draco wouldn't be able to accept without it looking strange, he couldn't say \"arm-wrestling\" because Mr. Goyle would crush him -",
+   "\"How about this?\" Harry said loudly. \"Gregory Goyle and I stand apart from each other, and no one else is allowed to come near either of us. We don't use our wands and neither does anyone else. I don't move from where I'm standing, and neither does he. And if I can get my hands on Neville's Remembrall, then Gregory Goyle relinquishes all claim to that Remembrall he's holding and gives it to me.\""
+  ],
+  "summary_en": "A stunned pause follows Harry's challenge, Draco loudly plays along while Harry stalls, and Harry proposes motionless wandless terms where taking Neville's Remembrall wins Goyle's.",
+  "translation_fa": "سکوت ناگهانی‌ای شد.\n\n«اوه، واقعاً؟» دریکو با کشیده‌ترین لحنی که هری تا آن‌وقت شنیده بود گفت. «جالب به نظر می‌رسد. چه جور مسابقه‌ای، پاتر؟»\n\nام...\n\n«مسابقه» تا جایی بود که الهام هری پیش رفته بود. چه جور مسابقه‌ای، نمی‌توانست بگوید «شطرنج» چون دریکو نمی‌توانست بدون عجیب به نظر رسیدن قبول کند، نمی‌توانست بگوید «مچ‌اندازی» چون آقای گویل او را له می‌کرد ــ\n\n«این چطور است؟» هری با صدای بلند گفت. «گرگوری گویل و من از هم فاصله می‌گیریم، و هیچ‌کس دیگری اجازه ندارد به هیچ‌کدام‌مان نزدیک شود. ما از چوبدستی‌مان استفاده نمی‌کنیم و هیچ‌کس دیگری هم استفاده نمی‌کند. من از جایی که ایستاده‌ام تکان نمی‌خورم، و او هم تکان نمی‌خورد. و اگر بتوانم ریممبرال نویل را به دستم بگیرم، آن‌وقت گرگوری گویل از هر ادعایی نسبت به آن ریممبرالی که دستش است دست می‌کشد و آن را به من می‌دهد.»",
+  "summary_fa": "سکوتی بهت‌زده پس از چالش هری می‌شود، دریکو با صدای بلند همراهی می‌کند و هری با شرایطی بی‌حرکت و بدون چوبدستی پیشنهاد می‌دهد که با گرفتن ریممبرال نویل، مال گویل را می‌برد."
+ },
+ {
+  "id": 26,
+  "paras": [
+   121,
+   122,
+   123,
+   124,
+   125
+  ],
+  "verbatim_html": [
+   "There was another pause as people's looks of relief transmuted to confusion.",
+   "\"Hah, Potter!\" said Draco loudly. \"I'd like to see you do <em>that!</em> Mr. Goyle accepts!\"",
+   "\"It's on!\" said Harry.",
+   "\"Potter, <em>what?</em> \" whispered Draco, which he somehow did without moving his lips.",
+   "Harry didn't know how to answer without moving his."
+  ],
+  "summary_en": "Draco loudly accepts for Goyle, Harry confirms the bet, Draco whispers in confusion, and Harry steps toward Goyle without an answer.",
+  "translation_fa": "مکث دیگری شد وقتی نگاه‌های آسوده‌ی مردم به سردرگمی بدل شد.\n\n«هاه، پاتر!» دریکو با صدای بلند گفت. «دوست دارم ببینم آن را انجام می‌دهی! آقای گویل قبول می‌کند!»\n\n«قبوله!» هری گفت.\n\n«پاتر، چی؟» دریکو زمزمه کرد، که به نحوی آن را بدون تکان دادن لب‌هایش انجام داد.\n\nهری نمی‌دانست چطور بدون تکان دادن لب‌های خودش جواب بدهد.",
+  "summary_fa": "دریکو با صدای بلند از طرف گویل قبول می‌کند، هری تأیید می‌کند، دریکو گیج زمزمه می‌کند و هری بی‌پاسخ به‌سوی گویل می‌رود."
+ },
+ {
+  "id": 27,
+  "paras": [
+   126,
+   127,
+   128,
+   129,
+   130
+  ],
+  "verbatim_html": [
+   "People were putting their wands away, and Mr. Goyle swooped gracefully to the ground, looking rather confused. Some Hufflepuffs started over towards Mr. Goyle, but Harry shot them a desperately pleading look and they backed off.",
+   "Harry walked toward Mr. Goyle and stopped when he was a few paces away, far enough apart that they couldn't reach each other.",
+   "Slowly, deliberately, Harry sheathed his wand.",
+   "Everyone else backed away.",
+   "Harry swallowed. He knew in broad outline what he <em>wanted</em> to do, but it had to be done in such a way that no one understood <em>what</em> he'd done -"
+  ],
+  "summary_en": "Wands are put away as Goyle lands confused, Harry faces him at a distance, sheathes his wand, and plans a trick no one must understand.",
+  "translation_fa": "مردم داشتند چوبدستی‌هایشان را کنار می‌گذاشتند، و آقای گویل با ظرافت به زمین فرود آمد، نسبتاً گیج به نظر می‌رسید. بعضی هافلپافی‌ها به‌سوی آقای گویل رفتند، اما هری نگاهی به‌شدت ملتمسانه به آن‌ها انداخت و عقب نشستند.\n\nهری به‌سوی آقای گویل رفت و وقتی چند قدم فاصله داشتند ایستاد، آن‌قدر دور که نمی‌توانستند به هم برسند.\n\nآهسته، با تعمد، هری چوبدستی‌اش را غلاف کرد.\n\nبقیه عقب رفتند.\n\nهری آب دهانش را قورت داد. در کلیات می‌دانست چه می‌خواهد بکند، اما باید طوری انجام می‌شد که هیچ‌کس نفهمد چه کرده است ــ",
+  "summary_fa": "چوبدستی‌ها کنار گذاشته می‌شوند و گویل گیج فرود می‌آید؛ هری روبه‌رویش می‌ایستد، چوبدستی‌اش را غلاف می‌کند و نقشه‌ی ترفندی را می‌کشد که هیچ‌کس نباید بفهمد."
+ },
+ {
+  "id": 28,
+  "paras": [
+   131,
+   132,
+   133,
+   134,
+   135
+  ],
+  "verbatim_html": [
+   "\"All right,\" Harry said loudly. \"And now...\" He took a deep breath and raised one hand, fingers ready to snap. There were gasps from anyone who'd heard about the pies, which was practically everyone. \"<em>I call upon the insanity of Hogwarts! Happy happy boom boom swamp swamp swamp!</em> \" And Harry snapped his fingers.",
+   "A lot of people flinched.",
+   "And nothing happened.",
+   "Harry let the silence stretch on for a while, developing, until...",
+   "\"Um,\" someone said. \"Is that it?\""
+  ],
+  "summary_en": "Harry theatrically invokes the insanity of Hogwarts and snaps his fingers, the crowd flinches, nothing happens, and an awkward silence stretches.",
+  "translation_fa": "«بسیار خب،» هری با صدای بلند گفت. «و حالا...» نفس عمیقی کشید و یک دستش را بالا برد، انگشتانش آماده‌ی بشکن زدن. از هر کسی که درباره‌ی پای‌ها شنیده بود، که عملاً همه بودند، نفس‌های حبس‌شده آمد. «دیوانگی هاگوارتز را فرا می‌خوانم! هپی هپی بوم بوم سوامپ سوامپ سوامپ!» و هری انگشتانش را به هم زد.\n\nخیلی‌ها از جا پریدند.\n\nو هیچ اتفاقی نیفتاد.\n\nهری گذاشت سکوت مدتی کش بیاید، قوام بگیرد، تا این‌که...\n\n«ام،» کسی گفت. «همین بود؟»",
+  "summary_fa": "هری با نمایش دیوانگی هاگوارتز را فرا می‌خواند و بشکن می‌زند؛ جمعیت از جا می‌پرد، هیچ اتفاقی نمی‌افتد و سکوتی معذب کش می‌آید."
+ },
+ {
+  "id": 29,
+  "paras": [
+   136,
+   137,
+   138,
+   139,
+   140
+  ],
+  "verbatim_html": [
+   "Harry looked at the boy who'd spoken. \"Look in front of you. You see that patch of ground that looks barren, without any grass on it?\"",
+   "\"Um, yeah,\" said the boy, a Gryffindor (Dean something?).",
+   "\"Dig it up.\"",
+   "Now Harry was getting a lot of strange looks.",
+   "\"Er, why?\" said Dean something."
+  ],
+  "summary_en": "Harry orders a Gryffindor boy to dig a barren patch, Terry Boot urges compliance, and the dig yields strange looks and questions.",
+  "translation_fa": "هری به پسری که حرف زده بود نگاه کرد. «جلوی خودت را نگاه کن. آن تکه زمین را می‌بینی که بایر به نظر می‌رسد، بدون هیچ چمنی؟»\n\n«ام، آره،» پسر گفت، گریفیندوری‌ای (دین چیزی؟).\n\n«بکنش.»\n\nحالا هری داشت خیلی نگاه‌های عجیب می‌گرفت.\n\n«ام، چرا؟» دین چیزی گفت.",
+  "summary_fa": "هری به پسری گریفیندوری دستور می‌دهد تکه‌ای بایر را بکند؛ تری بوت به اطاعت توصیه می‌کند و همه با نگاه عجیب می‌پرسند چرا."
+ },
+ {
+  "id": 30,
+  "paras": [
+   141,
+   142,
+   143,
+   144,
+   145
+  ],
+  "verbatim_html": [
+   "\"Just do it,\" said Terry Boot in a weary voice. \"No point asking why, trust me on this one.\"",
+   "Dean something kneeled down and began to scoop away dirt.",
+   "After a minute or so, Dean stood up again. \"There's nothing there,\" Dean said.",
+   "Huh. Harry had been planning to go back in time and bury a treasure map that would lead to another treasure map that would lead to Neville's Remembrall which he would put there after getting it back from Mr. Goyle...",
+   "Then Harry realised there was a much simpler way which didn't threaten the secret of Time-Turners quite as much."
+  ],
+  "summary_en": "Terry Boot insists Dean just dig, Dean finds nothing after a minute, Harry's time-travel treasure-map plan collapses, and he sees a simpler way protecting the Time-Turner secret.",
+  "translation_fa": "«فقط انجامش بده،» تری بوت با صدایی خسته گفت. «فایده‌ای ندارد بپرسی چرا، در این یکی به من اعتماد کن.»\n\nدین چیزی زانو زد و شروع به کنار زدن خاک کرد.\n\nبعد از حدود یک دقیقه، دین دوباره بلند شد. «هیچی آنجا نیست،» دین گفت.\n\nهاه. هری نقشه کشیده بود که به گذشته برگردد و نقشه‌ی گنجی دفن کند که به نقشه‌ی گنج دیگری برسد که به ریممبرال نویل برسد که بعد از پس گرفتنش از آقای گویل آنجا می‌گذاشت...\n\nبعد هری فهمید راه خیلی ساده‌تری هست که راز چرخاننده‌های زمان را هم کمتر به خطر می‌اندازد.",
+  "summary_fa": "دین می‌کند و چیزی نمی‌یابد؛ نقشه‌ی گنجِ سفر زمانی هری به هم می‌ریزد و او راه ساده‌تری می‌بیند که راز چرخاننده‌ی زمان را حفظ می‌کند."
+ },
+ {
+  "id": 31,
+  "paras": [
+   146,
+   147,
+   148,
+   149,
+   150
+  ],
+  "verbatim_html": [
+   "\"Thanks, Dean!\" Harry said loudly. \"Ernie, would you look around on the ground where Neville fell and see if you can find Neville's Remembrall?\"",
+   "People looked even more confused.",
+   "\"Just do it,\" said Terry Boot. \"He'll keep trying until something works, and the scary thing is that -\"",
+   "\"<em>Merlin!</em> \" gasped Ernie. He was holding up Neville's Remembrall. \"It's <em>here!</em> Right where he fell!\"",
+   "\"<em>What?</em> \" cried Mr. Goyle. He looked down and saw..."
+  ],
+  "summary_en": "Harry asks Ernie to search where Neville fell, Terry predicts Harry keeps trying until something works, Ernie miraculously finds the Remembrall, and Goyle looks down in shock.",
+  "translation_fa": "«ممنون، دین!» هری با صدای بلند گفت. «ارنی، می‌شود روی زمین جایی که نویل افتاد بگردی و ببینی می‌توانی ریممبرال نویل را پیدا کنی؟»\n\nمردم حتی گیج‌تر به نظر رسیدند.\n\n«فقط انجامش بده،» تری بوت گفت. «آن‌قدر تلاش می‌کند تا چیزی جواب بدهد، و نکته‌ی ترسناک این است که ــ»\n\n«مرلین!» ارنی نفسش بند آمد. او ریممبرال نویل را بالا گرفته بود. «اینجاست! درست جایی که افتاد!»\n\n«چی؟» آقای گویل فریاد زد. او پایین را نگاه کرد و دید...",
+  "summary_fa": "هری از ارنی می‌خواهد جای افتادن نویل را بگردد؛ ارنی به‌طرز معجزه‌آسایی ریممبرال را همان‌جا می‌یابد و گویل شوکه پایین را نگاه می‌کند."
+ },
+ {
+  "id": 32,
+  "paras": [
+   151,
+   152,
+   153,
+   154,
+   155
+  ],
+  "verbatim_html": [
+   "...that he was still holding Neville's Remembrall.",
+   "There was a rather long pause.",
+   "\"Er,\" said Dean something, \"that's not possible, is it?\"",
+   "\"It's a plot hole,\" said Harry. \"I made myself weird enough to distract the universe for a moment and it forgot that Goyle had already picked up the Remembrall.\"",
+   "\"No, wait, I mean, that's <em>totally</em> not possible -\""
+  ],
+  "summary_en": "Goyle still holds the Remembrall too, the crowd freezes, Dean calls it impossible, Harry blames a plot hole distracting the universe, and protests erupt.",
+  "translation_fa": "...که او هنوز ریممبرال نویل را دستش گرفته بود.\n\nمکث نسبتاً طولانی‌ای شد.\n\n«ام،» دین چیزی گفت، «این ممکن نیست، هست؟»\n\n«حفره‌ی داستانی است،» هری گفت. «خودم را آن‌قدر عجیب کردم که حواس کائنات را برای لحظه‌ای پرت کنم و یادش رفت که گویل قبلاً ریممبرال را برداشته بود.»\n\n«نه، صبر کن، منظورم این است که آن کاملاً غیرممکن است ــ»",
+  "summary_fa": "گویل هم هنوز ریممبرال را در دست دارد؛ جمعیت خشک می‌شود و هری با شوخیِ حفره‌ی داستانی و حواس‌پرتی کائنات جواب می‌دهد."
+ },
+ {
+  "id": 33,
+  "paras": [
+   156,
+   157,
+   158,
+   159,
+   160
+  ],
+  "verbatim_html": [
+   "\"Excuse me, are we all standing around here waiting to go flying on broomsticks? Yes we are. So shut up. Anyway, once I get my hands on Neville's Remembrall, the contest is over and Gregory Goyle has to relinquish all claim to the Remembrall he's holding and give it to me. Those were the terms, remember?\" Harry stretched out a hand and beckoned Ernie. \"Just roll it over here, since no one's supposed to get close to me, okay?\"",
+   "\"Hold on!\" shouted a Slytherin - Blaise Zabini, Harry wasn't likely to forget that name. \"How do we know that's Neville's Remembrall? You could've just dropped <em>another</em> Remembrall there -\"",
+   "\"The Slytherin is strong with this one,\" Harry said, smiling. \"But you have my word that the one Ernie's holding is Neville's. No comment about the one Gregory Goyle's holding.\"",
+   "Zabini spun to Draco. \"<em>Malfoy!</em> You're not just going to let him get away with that -\"",
+   "\"Shut up, you,\" rumbled Mr. Crabbe, standing behind Draco. \"Mr. Malfoy doesn't need <em>you</em> to tell him what to do!\""
+  ],
+  "summary_en": "Harry claims victory under the bet terms, Zabini accuses him of planting another Remembrall, Harry vouches only for Ernie's, and Crabbe silences Zabini for Draco.",
+  "translation_fa": "«ببخشید، آیا ما همه اینجا ایستاده‌ایم و منتظریم که با جارو پرواز کنیم؟ بله هستیم. پس خفه شوید. به‌هرحال، وقتی ریممبرال نویل را به دستم بگیرم، مسابقه تمام است و گرگوری گویل باید از هر ادعایی نسبت به ریممبرالی که دستش است دست بکشد و آن را به من بدهد. این‌ها شرایط بود، یادتان هست؟» هری دستی دراز کرد و به ارنی اشاره کرد. «فقط آن را به این طرف قل بده، چون قرار نیست کسی به من نزدیک شود، باشه؟»\n\n«صبر کن!» اسلیترینی‌ای فریاد زد ــ بلیز زابینی، هری بعید بود آن اسم را فراموش کند. «از کجا بدانیم آن ریممبرال نویل است؟ ممکن بود فقط یک ریممبرال دیگر آنجا انداخته باشی ــ»\n\n«اسلیترین در این یکی قوی است،» هری لبخندزنان گفت. «اما قول می‌دهم آنی که دست ارنی است مال نویل است. درباره‌ی آنی که دست گرگوری گویل است نظری نمی‌دهم.»\n\nزابینی به‌سوی دریکو چرخید. «ملفوی! نمی‌خواهی فقط بگذاری با این قسر در برود ــ»\n\n«خفه شو، تو،» آقای کرب غرید، پشت دریکو ایستاده بود. «آقای ملفوی لازم ندارد تو به او بگویی چه بکند!»",
+  "summary_fa": "هری طبق شرایط ادعای برد می‌کند، زابینی او را به گذاشتن ریممبرالی دیگر متهم می‌کند، هری فقط مال ارنی را تضمین می‌کند و کرب زابینی را ساکت می‌کند."
+ },
+ {
+  "id": 34,
+  "paras": [
+   161,
+   162,
+   163,
+   164,
+   165
+  ],
+  "verbatim_html": [
+   "<em>Good</em> minion.",
+   "\"My bet was with Draco, of the Noble and Most Ancient House of Malfoy,\" Harry said. \"Not with you, Zabini. I have done what Mr. Malfoy said he'd like to see me do, and as for the judgment of the bet, I leave that up to Mr. Malfoy.\" Harry inclined his head towards Draco and raised his eyebrows slightly. That ought to allow Draco to save enough face.",
+   "There was a pause.",
+   "\"You promise that actually <em>is</em> Neville's Remembrall?\" Draco said.",
+   "\"Yes,\" Harry said. \"That's the one that'll go back to Neville and it was his originally. And the one Gregory Goyle's holding goes to me.\""
+  ],
+  "summary_en": "Harry defers judgment to Draco to save face, Draco demands his promise it is Neville's, and Harry confirms Ernie's goes to Neville while Goyle's goes to him.",
+  "translation_fa": "زیردست خوب.\n\n«شرط من با دریکو بود، از خاندان شریف و باستانی ملفوی،» هری گفت. «نه با تو، زابینی. من کاری را کردم که آقای ملفوی گفت دوست دارد ببیند انجام دهم، و درباره‌ی داوری شرط، آن را به آقای ملفوی واگذار می‌کنم.» هری سرش را به‌سوی دریکو خم کرد و ابروهایش را کمی بالا برد. آن باید می‌گذاشت دریکو آبرویش را به‌اندازه‌ی کافی حفظ کند.\n\nمکثی شد.\n\n«قول می‌دهی که آن واقعاً ریممبرال نویل است؟» دریکو گفت.\n\n«بله،» هری گفت. «آنی است که به نویل برمی‌گردد و اصلاً مال او بود. و آنی که دست گرگوری گویل است به من می‌رسد.»",
+  "summary_fa": "هری داوری را برای حفظ آبرو به دریکو می‌سپارد؛ دریکو قول می‌خواهد که مال نویل است و هری تقسیم دو ریممبرال را تأیید می‌کند."
+ },
+ {
+  "id": 35,
+  "paras": [
+   166,
+   167,
+   168,
+   169,
+   170
+  ],
+  "verbatim_html": [
+   "Draco nodded, looking decisive. \"I won't question the word of the Noble House of Potter, then, no matter how strange that all was. And the Noble and Most Ancient House of Malfoy keeps its word as well. Mr. Goyle, give that to Mr. Potter -\"",
+   "\"Hey!\" Zabini said. \"He hasn't won <em>yet</em>, he hasn't got his hands on -\"",
+   "\"Catch, Harry!\" said Ernie, and he tossed the Remembrall.",
+   "Harry easily snapped the Remembrall out of the air, he'd always had good reflexes that way. \"There,\" said Harry, \"I win...\"",
+   "Harry trailed off. All conversation stopped."
+  ],
+  "summary_en": "Draco accepts Harry's word and orders Goyle to hand it over, Zabini protests Harry has not yet touched it, Ernie tosses it, Harry catches it and wins, then all talk stops.",
+  "translation_fa": "دریکو سر تکان داد، مصمم به نظر می‌رسید. «پس حرف خاندان شریف پاتر را زیر سؤال نمی‌برم، هرچقدر هم همه‌ی آن عجیب بود. و خاندان شریف و باستانی ملفوی هم سر حرفش می‌ایستد. آقای گویل، آن را به آقای پاتر بده ــ»\n\n«هی!» زابینی گفت. «او هنوز نبرده است، هنوز دستش به ــ»\n\n«بگیر، هری!» ارنی گفت، و ریممبرال را پرتاب کرد.\n\nهری به‌راحتی ریممبرال را از هوا قاپید، او همیشه از آن نظر واکنش‌های خوبی داشت. «آنجا،» هری گفت، «من بردم...»\n\nصدای هری محو شد. همه‌ی گفت‌وگوها ایستاد.",
+  "summary_fa": "دریکو حرف هری را می‌پذیرد و دستور تحویل می‌دهد؛ ارنی ریممبرال را پرتاب می‌کند، هری می‌گیرد و می‌برد، بعد همه ساکت می‌شوند."
+ },
+ {
+  "id": 36,
+  "paras": [
+   171,
+   172
+  ],
+  "verbatim_html": [
+   "The Remembrall was glowing bright red in his hand, blazing like a miniature sun that cast shadows on the ground in broad daylight.",
+   "* * *"
+  ],
+  "summary_en": "The Remembrall blazes bright red in Harry's hand like a miniature sun, followed by a scene break.",
+  "translation_fa": "ریممبرال در دستش قرمز روشن می‌درخشید، مثل خورشیدی مینیاتوری که در روشنایی روز روی زمین سایه می‌انداخت.\n\n* * *",
+  "summary_fa": "ریممبرال در دست هری مثل خورشیدی کوچک قرمز می‌درخشد و صحنه جدا می‌شود."
+ },
+ {
+  "id": 37,
+  "paras": [
+   173,
+   174,
+   175,
+   176,
+   177
+  ],
+  "verbatim_html": [
+   "Thursday.",
+   "If you wanted to be specific, 5:09pm on Thursday afternoon, in Professor McGonagall's office, after flying classes. (With an extra hour for Harry slipped in between.)",
+   "Professor McGonagall sitting on her stool. Harry in the hot seat in front of her desk.",
+   "\"Professor,\" Harry said tightly, \"Slytherin was pointing their wands at Hufflepuff, Gryffindor was pointing their wands at Slytherin, some <em>idiot</em> called wands out in Ravenclaw, and I had maybe five seconds to keep the whole thing from blowing sky-high! It was all I could think of!\"",
+   "Professor McGonagall's face was pinched and angry. \"<em>You are not to use the Time-Turner in that fashion, Mr. Potter!</em> Is the concept of secrecy not something that you understand?\""
+  ],
+  "summary_en": "At 5:09pm in McGonagall's office Harry pleads he had five seconds to stop a four-House wand blow-up, and McGonagall angrily forbids such use of the Time-Turner.",
+  "translation_fa": "پنج‌شنبه.\n\nاگر بخواهی دقیق باشی، ساعت ۵:۰۹ بعدازظهر پنج‌شنبه، در دفتر پروفسور مک‌گونگال، بعد از کلاس‌های پرواز. (با یک ساعت اضافه برای هری که وسطش جا شده بود.)\n\nپروفسور مک‌گونگال روی چهارپایه‌اش نشسته بود. هری روی صندلی داغ جلوی میزش.\n\n«پروفسور،» هری با لحنی فشرده گفت، «اسلیترین چوبدستی‌هایشان را به‌سوی هافلپاف گرفته بودند، گریفیندور چوبدستی‌هایشان را به‌سوی اسلیترین گرفته بود، یک احمقی در ریونکلاو چوبدستی‌ها بیرون را صدا زد، و من شاید پنج ثانیه داشتم که نگذارم همه‌چیز به هوا برود! تنها چیزی بود که به ذهنم رسید!»\n\nچهره‌ی پروفسور مک‌گونگال گرفته و عصبانی بود. «نباید از چرخاننده‌ی زمان به آن شکل استفاده کنی، آقای پاتر! مفهوم رازداری چیزی نیست که بفهمی؟»",
+  "summary_fa": "در دفتر مک‌گونگال هری می‌گوید پنج ثانیه برای جلوگیری از انفجار چهار خانه فرصت داشته و مک‌گونگال عصبانی چنین استفاده‌ای از چرخاننده‌ی زمان را ممنوع می‌کند."
+ },
+ {
+  "id": 38,
+  "paras": [
+   178,
+   179,
+   180,
+   181,
+   182
+  ],
+  "verbatim_html": [
+   "\"They don't <em>know</em> how I did it! They just think I can do really weird things by snapping my fingers! I've done other weird stuff that can't be done with Time-Turners even, and I'll do <em>more</em> stuff like that, and <em>this</em> case won't even stand out! I <em>had to do it,</em> Professor!\"",
+   "\"You did <em>not</em> have to do it!\" snapped Professor McGonagall. \"All you needed to do was get this <em>anonymous Slytherin</em> back on the ground and the wands put away! You could have challenged him to a game of Exploding Snap but no, you had to use the Time-Turner in a flagrant and unnecessary manner!\"",
+   "\"It was all I could think of! I don't even know what Exploding Snap <em>is,</em> they wouldn't have accepted a game of chess and if I'd picked arm-wresting I would have lost!\"",
+   "\"<em>Then you should have picked wrestling!</em> \"",
+   "Harry blinked. \"But then I'd have <em>lost</em> -\""
+  ],
+  "summary_en": "Harry insists no one knows how he did it, McGonagall says an Exploding Snap challenge would have sufficed, Harry says he did not know the game, and she says he should have wrestled and lost.",
+  "translation_fa": "«آن‌ها نمی‌دانند چطور انجامش دادم! فقط فکر می‌کنند می‌توانم با بشکن زدن کارهای خیلی عجیب بکنم! کارهای عجیب دیگری کرده‌ام که حتی با چرخاننده‌های زمان هم نمی‌شود کرد، و از این جور کارهای بیشتری هم می‌کنم، و این مورد حتی به چشم نمی‌آید! مجبور بودم انجامش دهم، پروفسور!»\n\n«مجبور نبودی انجامش دهی!» پروفسور مک‌گونگال تشر زد. «تنها کاری که لازم بود بکنی این بود که آن اسلیترینی بی‌نام را به زمین برگردانی و چوبدستی‌ها را کنار بگذاری! می‌توانستی او را به بازی اسنپ انفجاری به چالش بکشی اما نه، باید از چرخاننده‌ی زمان به شکلی پر سر و صدا و غیرضروری استفاده می‌کردی!»\n\n«تنها چیزی بود که به ذهنم رسید! حتی نمی‌دانم اسنپ انفجاری چیست، آن‌ها شطرنج را قبول نمی‌کردند و اگر مچ‌اندازی را انتخاب می‌کردم می‌باختم!»\n\n«پس باید کشتی را انتخاب می‌کردی!»\n\nهری پلک زد. «اما آن‌وقت می‌باختم ــ»",
+  "summary_fa": "هری اصرار می‌کند کسی نفهمیده چطور کرد؛ مک‌گونگال می‌گوید چالش اسنپ انفجاری کافی بود و هری باید کشتی را انتخاب می‌کرد و می‌باخت."
+ },
+ {
+  "id": 39,
+  "paras": [
+   183,
+   184,
+   185,
+   186,
+   187
+  ],
+  "verbatim_html": [
+   "Harry stopped.",
+   "Professor McGonagall was looking <em>very</em> angry.",
+   "\"I'm sorry, Professor McGonagall,\" Harry said in a small voice. \"I honestly didn't think of that, and you're right, I should have, it would have been brilliant if I had, but I just didn't think of that at all...\"",
+   "Harry's voice trailed off. It was suddenly apparent to him that he'd had a <em>lot</em> of other options. He could have asked <em>Draco</em> to suggest something, he could have asked the crowd... his use of the Time-Turner <em>had</em> been flagrant and unnecessary. There had been a giant space of possibilities, why had he picked <em>that</em> one?",
+   "Because he'd seen a way to <em>win.</em> Win possession of an unimportant trinket that the teachers would've taken back from Mr. Goyle anyway."
+  ],
+  "summary_en": "Harry stops mid-sentence, sees McGonagall's anger, apologises, realises he had many options including asking Draco, and understands he chose to win a worthless trinket.",
+  "translation_fa": "هری ایستاد.\n\nپروفسور مک‌گونگال خیلی عصبانی به نظر می‌رسید.\n\n«متأسفم، پروفسور مک‌گونگال،» هری با صدایی کوچک گفت. «صادقانه به آن فکر نکردم، و حق با شماست، باید می‌کردم، اگر می‌کردم عالی می‌شد، اما اصلاً به آن فکر نکردم...»\n\nصدای هری محو شد. ناگهان برایش آشکار شد که گزینه‌های خیلی دیگری داشت. می‌توانست از دریکو بخواهد چیزی پیشنهاد دهد، می‌توانست از جمعیت بپرسد... استفاده‌اش از چرخاننده‌ی زمان پر سر و صدا و غیرضروری بوده بود. فضای بزرگی از امکان‌ها بود، چرا آن یکی را انتخاب کرده بود؟\n\nچون راهی برای بردن دیده بود. بردن مالکیت خرت‌وپرت بی‌اهمیتی که معلم‌ها به‌هرحال از آقای گویل پس می‌گرفتند.",
+  "summary_fa": "هری وسط حرف می‌ایستد، می‌فهمد گزینه‌های زیادی داشته و انگیزه‌اش بردن خرت‌وپرتی بی‌ارزش بوده است."
+ },
+ {
+  "id": 40,
+  "paras": [
+   188,
+   189,
+   190,
+   191,
+   192
+  ],
+  "verbatim_html": [
+   "Intent to win. That was what had gotten him.",
+   "\"I'm sorry,\" Harry said again. \"For my pride and my stupidity.\"",
+   "Professor McGonagall wiped a hand across her forehead. Some of her anger seemed to dissipate. But her voice still came out very hard. \"One more display like that, Mr. Potter, and you will be returning that Time-Turner. Do I make myself very clear?\"",
+   "\"Yes,\" Harry said. \"I understand and I'm sorry.\"",
+   "\"Then, Mr. Potter, you will be allowed to retain the Time-Turner for now. And considering the size of the debacle you did, in fact, avert, I will not deduct any points from Ravenclaw.\""
+  ],
+  "summary_en": "Harry names pride and stupidity, McGonagall warns one more display means losing the Time-Turner, Harry agrees, and she lets him keep it with no points deducted for averting a debacle.",
+  "translation_fa": "نیتِ بردن. آن چیزی بود که او را گرفت.\n\n«متأسفم،» هری دوباره گفت. «برای غرورم و حماقتم.»\n\nپروفسور مک‌گونگال دستی روی پیشانی‌اش کشید. به نظر رسید بخشی از عصبانیتش فروکش کرد. اما صدایش هنوز خیلی سخت بیرون آمد. «یک نمایش دیگر مثل آن، آقای پاتر، و آن چرخاننده‌ی زمان را پس می‌دهی. کاملاً واضح گفتم؟»\n\n«بله،» هری گفت. «می‌فهمم و متأسفم.»\n\n«پس، آقای پاتر، فعلاً اجازه داری چرخاننده‌ی زمان را نگه داری. و با توجه به بزرگی رسوایی‌ای که در واقع جلویش را گرفتی، هیچ امتیازی از ریونکلاو کم نمی‌کنم.»",
+  "summary_fa": "هری از غرور و حماقت عذر می‌خواهد؛ مک‌گونگال هشدار می‌دهد نمایش بعدی یعنی پس دادن چرخاننده و فعلاً بدون کم کردن امتیاز او را می‌بخشد."
+ },
+ {
+  "id": 41,
+  "paras": [
+   193,
+   194,
+   195,
+   196,
+   197
+  ],
+  "verbatim_html": [
+   "<em>Plus you couldn't explain why you'd deducted the points.</em> But Harry wasn't dumb enough to say that out loud.",
+   "\"More importantly, why did the Remembrall go off like that?\" Harry said. \"Does it mean I've been Obliviated?\"",
+   "\"That puzzles me as well,\" Professor McGonagall said slowly. \"If it were that simple, I would think that the courts would use Remembralls, and they do not. I shall look into it, Mr. Potter.\" She sighed. \"You can go now.\"",
+   "Harry started to get up from his chair, then halted. \"Um, sorry, I did have something else I wanted to tell you -\"",
+   "You could hardly see the flinch. \"What is it, Mr. Potter?\""
+  ],
+  "summary_en": "Harry privately notes she could not explain deductions, asks if the Remembrall means Obliviation, McGonagall is puzzled too and will investigate, then starts to dismiss him before he hesitates with more to say.",
+  "translation_fa": "به‌علاوه نمی‌توانستی توضیح دهی چرا امتیاز کم کرده‌ای. اما هری آن‌قدر احمق نبود که آن را با صدای بلند بگوید.\n\n«مهم‌تر این‌که، چرا ریممبرال آن‌طور رفت؟» هری گفت. «یعنی اوبلیویت شده‌ام؟»\n\n«آن هم مرا گیج می‌کند،» پروفسور مک‌گونگال آهسته گفت. «اگر به آن سادگی بود، فکر می‌کنم دادگاه‌ها از ریممبرال‌ها استفاده می‌کردند، و نمی‌کنند. به آن رسیدگی می‌کنم، آقای پاتر.» آه کشید. «حالا می‌توانی بروی.»\n\nهری شروع به بلند شدن از صندلی کرد، بعد مکث کرد. «ام، ببخشید، چیز دیگری داشتم که می‌خواستم به شما بگویم ــ»\n\nبه‌سختی می‌شد لرزش را دید. «چیست، آقای پاتر؟»",
+  "summary_fa": "هری می‌پرسد آیا قرمز شدن ریممبرال یعنی اوبلیویت شده است؛ مک‌گونگال هم گیج است و قول پیگیری می‌دهد و هری پیش از رفتن مکث می‌کند."
+ },
+ {
+  "id": 42,
+  "paras": [
+   198,
+   199,
+   200,
+   201,
+   202
+  ],
+  "verbatim_html": [
+   "\"It's about Professor Quirrell -\"",
+   "\"I'm sure, Mr. Potter, that it is nothing of importance.\" Professor McGonagall spoke the words in a great rush. \"Surely you heard the Headmaster tell the students that you were not to bother us with any unimportant complaints about the Defence Professor?\"",
+   "Harry was rather confused. \"But this could <em>be</em> important, yesterday I got this sudden sense of doom when -\"",
+   "\"Mr. Potter! I have a sense of doom as well! And my sense of doom is suggesting that <em>you must not finish that sentence!</em> \"",
+   "Harry's mouth gaped open. Professor McGonagall had succeeded; Harry was speechless."
+  ],
+  "summary_en": "Harry starts about Quirrell, McGonagall rushly says it must be unimportant per the Headmaster, Harry mentions yesterday's sense of doom, and McGonagall's own doom forbids him finishing.",
+  "translation_fa": "«درباره‌ی پروفسور کویرل است ــ»\n\n«مطمئنم، آقای پاتر، که چیز مهمی نیست.» پروفسور مک‌گونگال کلمات را با عجله‌ی زیادی گفت. «حتماً شنیدی که مدیر به دانش‌آموزان گفت که ما را با شکایت‌های بی‌اهمیت درباره‌ی پروفسور دفاع اذیت نکنید؟»\n\nهری نسبتاً گیج بود. «اما این می‌تواند مهم باشد، دیروز حس ناگهانی عذابی گرفتم وقتی ــ»\n\n«آقای پاتر! من هم حس عذاب دارم! و حس عذاب من می‌گوید که نباید آن جمله را تمام کنی!»\n\nدهان هری باز ماند. پروفسور مک‌گونگال موفق شده بود؛ هری لال شده بود.",
+  "summary_fa": "هری حرف کویرل را پیش می‌کشد؛ مک‌گونگال شتاب‌زده می‌گوید بی‌اهمیت است و حس عذاب خودش او را از تمام کردن جمله منع می‌کند."
+ },
+ {
+  "id": 43,
+  "paras": [
+   203,
+   204,
+   205,
+   206,
+   207
+  ],
+  "verbatim_html": [
+   "\"Mr. Potter,\" said Professor McGonagall, \"if you have discovered anything that seems interesting about Professor Quirrell, please feel free not to share it with me or anyone else. Now I think you've taken up enough of my valuable time -\"",
+   "\"<em>This isn't like you!</em> \" Harry burst out. \"I'm sorry but that just seems <em>unbelievably</em> irresponsible! From what I've heard there's some kind of jinx on the Defence position, and if you already <em>know</em> something's going to go wrong, I'd think you'd all be on your toes -\"",
+   "\"Go <em>wrong</em>, Mr. Potter? <em>I certainly hope not.</em>\" Professor McGonagall's face was expressionless. \"After Professor Blake was caught in a closet with no fewer than three fifth-year Slytherins last February, and a year before that, Professor Summers failed so completely as an educator that her students thought a boggart was a kind of furniture, it would be <em>catastrophic</em> if some problem with the extraordinarily competent Professor Quirrell came to my attention now, and I daresay most of our students would fail their Defence O.W.L.s and N.E.W.T.s.\"",
+   "\"I see,\" Harry said slowly, taking it all in. \"So in other words, whatever's wrong with Professor Quirrell, you desperately don't want to know about it until the end of the school year. And since it's currently September, he could assassinate the Prime Minister on live television and get away with it so far as you're concerned.\"",
+   "Professor McGonagall gazed at him unblinkingly. \"I am certain that I could never be heard endorsing such a statement, Mr. Potter. At Hogwarts we strive to be proactive with respect to <em>anything</em> that threatens the educational attainment of our students.\""
+  ],
+  "summary_en": "McGonagall tells Harry to keep Quirrell discoveries to himself, Harry calls it irresponsible given the Defence jinx, she cites past Defence disasters and exam fears, and they spar over ignoring a Prime Minister assassination.",
+  "translation_fa": "«آقای پاتر،» پروفسور مک‌گونگال گفت، «اگر چیز جالبی درباره‌ی پروفسور کویرل کشف کرده‌ای، لطفاً آن را با من یا هیچ‌کس دیگری در میان نگذار. حالا فکر می‌کنم به‌اندازه‌ی کافی از وقت ارزشمندم گرفته‌ای ــ»\n\n«این شبیه شما نیست!» هری ترکید. «متأسفم اما آن فقط به‌طرز باورنکردنی غیرمسئولانه به نظر می‌رسد! از آنچه شنیده‌ام نوعی طلسم روی سمت دفاع است، و اگر از قبل می‌دانید چیزی قرار است خراب شود، فکر می‌کردم همه‌تان هوشیار باشید ــ»\n\n«خراب شود، آقای پاتر؟ قطعاً امیدوارم نه.» چهره‌ی پروفسور مک‌گونگال بی‌حالت بود. «بعد از این‌که پروفسور بلیک فوریه‌ی گذشته در کمدی با نه کمتر از سه اسلیترینی سال پنجمی گرفته شد، و یک سال پیش از آن، پروفسور سامرز چنان کامل به‌عنوان آموزگار شکست خورد که دانش‌آموزانش فکر می‌کردند بوگارت نوعی مبلمان است، فاجعه‌بار می‌شد اگر مشکلی با پروفسور کویرل فوق‌العاده شایسته حالا به اطلاع من می‌رسید، و جرئت می‌کنم بگویم بیشتر دانش‌آموزان‌مان در او.دبلیو.ال‌ها و نی.یو.تی‌های دفاع رد می‌شدند.»\n\n«می‌فهمم،» هری آهسته گفت، همه‌اش را هضم می‌کرد. «پس به عبارت دیگر، هر مشکلی که پروفسور کویرل دارد، شما نومیدانه نمی‌خواهید تا پایان سال تحصیلی درباره‌اش بدانید. و چون الان سپتامبر است، او می‌تواند نخست‌وزیر را در تلویزیون زنده ترور کند و از نظر شما قسر در برود.»\n\nپروفسور مک‌گونگال بی‌پلک به او زل زد. «مطمئنم که هرگز نمی‌توان شنید که چنین بیانیه‌ای را تأیید می‌کنم، آقای پاتر. در هاگوارتز می‌کوشیم نسبت به هر چیزی که پیشرفت آموزشی دانش‌آموزان‌مان را تهدید می‌کند کنشگرانه باشیم.»",
+  "summary_fa": "مک‌گونگال می‌گوید کشفیات درباره‌ی کویرل را نگه دارد؛ هری آن را غیرمسئولانه می‌داند و مک‌گونگال با اشاره به رسوایی‌های قبلی دفاع و امتحانات جواب می‌دهد."
+ },
+ {
+  "id": 44,
+  "paras": [
+   208,
+   209,
+   210,
+   211,
+   212
+  ],
+  "verbatim_html": [
+   "<em>Such as first-year Ravenclaws who can't keep their mouths shut.</em> \"I believe I understand you completely, Professor McGonagall.\"",
+   "\"Oh, I doubt that, Mr. Potter. I doubt that very much.\" Professor McGonagall leaned forward, her face tightening again. \"Since you and I have already discussed matters far more sensitive than these, I shall speak frankly. You, and you alone, have reported this mysterious sense of doom. You, and you alone, are a chaos magnet the likes of which I have never seen. After our little shopping trip to Diagon Alley, and <em>then</em> the Sorting Hat, and then <em>today's</em> little episode, I can well foresee that I am fated to sit in the Headmaster's office and hear some hilarious tale about Professor Quirrell in which you and you alone play a starring role, after which there will be no choice but to fire him. I am already resigned to it, Mr. Potter. And if this sad event takes place any earlier than the Ides of May, I will string you up by the gates of Hogwarts with your own intestines and pour fire beetles into your nose. <em>Now</em> do you understand me completely?\"",
+   "Harry nodded, his eyes very wide. Then, after a second, \"What do I get if I can make it happen on the last day of the school year?\"",
+   "\"<em>Get out of my office!</em> \"",
+   "* * *"
+  ],
+  "summary_en": "Harry signals he understands, McGonagall calls him a lone chaos magnet fated to get Quirrell fired, threatens gruesome punishment if before the Ides of May, Harry jokes about the last day, and she ejects him.",
+  "translation_fa": "چنین مثل ریونکلاوی‌های سال‌اولی که نمی‌توانند دهان‌شان را بسته نگه دارند. «فکر می‌کنم شما را کاملاً می‌فهمم، پروفسور مک‌گونگال.»\n\n«اوه، شک دارم، آقای پاتر. خیلی شک دارم.» پروفسور مک‌گونگال به جلو خم شد، چهره‌اش دوباره سفت شد. «چون تو و من قبلاً درباره‌ی مسائلی خیلی حساس‌تر از این‌ها صحبت کرده‌ایم، رک حرف می‌زنم. تو، و فقط تو، این حس اسرارآمیز عذاب را گزارش کرده‌ای. تو، و فقط تو، آهنربای آشوبی هستی که مثلش را هرگز ندیده‌ام. بعد از سفر کوچک‌مان به کوچه‌ی دیاگون، و بعد کلاه گروه‌بندی، و بعد ماجرای کوچک امروز، به‌خوبی می‌توانم پیش‌بینی کنم که سرنوشتم این است که در دفتر مدیر بنشینم و داستان خنده‌داری درباره‌ی پروفسور کویرل بشنوم که تو و فقط تو در آن نقش اصلی داری، و بعد از آن چاره‌ای جز اخراجش نخواهد بود. از قبل به آن رضایت داده‌ام، آقای پاتر. و اگر این رویداد غم‌انگیز زودتر از نیمه‌ی ماه مه رخ دهد، تو را با روده‌های خودت به دروازه‌های هاگوارتز می‌آویزم و سوسک‌های آتشین در بینی‌ات می‌ریزم. حالا مرا کاملاً می‌فهمی؟»\n\nهری سر تکان داد، چشم‌هایش خیلی گشاد. بعد، پس از یک ثانیه، «اگر بتوانم کاری کنم روز آخر سال تحصیلی اتفاق بیفتد چی گیرم می‌آید؟»\n\n«از دفترم بیرون برو!»\n\n* * *",
+  "summary_fa": "مک‌گونگال هری را آهنربای آشوب می‌خواند و تهدید می‌کند اگر کویرل پیش از نیمه‌ی مه اخراج شود مجازات هولناکی می‌شود؛ هری درباره‌ی روز آخر شوخی می‌کند و اخراج می‌شود."
+ },
+ {
+  "id": 45,
+  "paras": [
+   213,
+   214,
+   215,
+   216,
+   217
+  ],
+  "verbatim_html": [
+   "Thursday.",
+   "There must have been something about Thursdays in Hogwarts.",
+   "It was 5:32pm on Thursday afternoon, and Harry was standing next to Professor Flitwick, in front of the great stone gargoyle that guarded the entrance to the Headmaster's office.",
+   "No sooner had he made it back from Professor McGonagall's office to the Ravenclaw study rooms than one of the students told him to report to Professor Flitwick's office, and there Harry had learned that Dumbledore wanted to speak to him.",
+   "Harry, feeling rather apprehensive, had asked Professor Flitwick if the Headmaster had said what this was about."
+  ],
+  "summary_en": "On another Thursday afternoon Harry waits with Flitwick at the Headmaster's gargoyle, having been summoned by Dumbledore right after McGonagall's office, and nervously asks what it is about.",
+  "translation_fa": "پنج‌شنبه.\n\nدرباره‌ی پنج‌شنبه‌ها در هاگوارتز چیزی باید بوده باشد.\n\nساعت ۵:۳۲ بعدازظهر پنج‌شنبه بود، و هری کنار پروفسور فلیت‌ویک، جلوی غول‌سنگ بزرگ که ورودی دفتر مدیر را نگهبانی می‌داد ایستاده بود.\n\nبه‌محض این‌که از دفتر پروفسور مک‌گونگال به اتاق‌های مطالعه‌ی ریونکلاو برگشته بود یکی از دانش‌آموزان به او گفت به دفتر پروفسور فلیت‌ویک گزارش دهد، و آنجا هری فهمیده بود که دامبلدور می‌خواهد با او صحبت کند.\n\nهری، نسبتاً نگران، از پروفسور فلیت‌ویک پرسیده بود آیا مدیر گفته است این درباره‌ی چیست.",
+  "summary_fa": "پنج‌شنبه‌ای دیگر هری با فلیت‌ویک جلوی غول‌سنگ دفتر مدیر منتظر است چون دامبلدور بلافاصله پس از مک‌گونگال او را خواسته و نگران می‌پرسد موضوع چیست."
+ },
+ {
+  "id": 46,
+  "paras": [
+   218,
+   219,
+   220,
+   221,
+   222
+  ],
+  "verbatim_html": [
+   "Professor Flitwick had shrugged in a helpless sort of way.",
+   "Apparently Dumbledore had said that Harry was far too young to invoke the words of power and madness.",
+   "<em>Happy happy boom boom swamp swamp swamp?</em> Harry had thought but not said aloud.",
+   "\"Please don't worry too much, Mr. Potter,\" squeaked Professor Flitwick from somewhere around Harry's shoulder level. (Harry was grateful for Professor Flitwick's gigantic puffy beard, it was hard getting used to a Professor who was not only shorter than him but spoke in a higher-pitched voice.) \"Headmaster Dumbledore may seem a little odd, or a lot odd, or even extremely odd, but he has never hurt a student in the slightest, and I don't believe he ever will.\" Professor Flitwick gave Harry an encouraging smile. \"Just keep that in mind at all times and you'll be sure not to panic!\"",
+   "This was not helping."
+  ],
+  "summary_en": "Flitwick helplessly shrugs, Dumbledore reportedly said Harry is too young for words of power and madness, Harry thinks but does not say the nonsense phrase, and Flitwick's reassurance that Dumbledore never hurt a student does not help.",
+  "translation_fa": "پروفسور فلیت‌ویک به طرز درمانده‌ای شانه بالا انداخت.\n\nظاهراً دامبلدور گفته بود که هری خیلی جوان است که کلمات قدرت و جنون را بر زبان آورد.\n\nهپی هپی بوم بوم سوامپ سوامپ سوامپ؟ هری فکر کرد اما با صدای بلند نگفت.\n\n«لطفاً خیلی نگران نباش، آقای پاتر،» پروفسور فلیت‌ویک از جایی حوالی سطح شانه‌ی هری جیغ کشید. (هری برای ریش پف‌آلود غول‌پیکر پروفسور فلیت‌ویک سپاسگزار بود، عادت کردن به پروفسوری که نه‌تنها کوتاه‌تر از او بود بلکه با صدای زیرتری هم حرف می‌زد سخت بود.) «مدیر دامبلدور ممکن است کمی عجیب به نظر برسد، یا خیلی عجیب، یا حتی فوق‌العاده عجیب، اما او هرگز ذره‌ای به دانش‌آموزی آسیب نرسانده است، و باور ندارم که هرگز هم بزند.» پروفسور فلیت‌ویک به هری لبخند دلگرم‌کننده‌ای زد. «فقط همیشه آن را در ذهن داشته باش و مطمئن باش که وحشت نمی‌کنی!»\n\nاین کمکی نمی‌کرد.",
+  "summary_fa": "فلیت‌ویک درمانده شانه بالا می‌اندازد؛ دامبلدور گفته هری برای کلمات قدرت و جنون جوان است و دلگرمی فلیت‌ویک که دامبلدور هرگز به دانش‌آموزی آسیب نرسانده کمکی نمی‌کند."
+ },
+ {
+  "id": 47,
+  "paras": [
+   223,
+   224,
+   225,
+   226,
+   227
+  ],
+  "verbatim_html": [
+   "\"Good luck!\" squeaked Professor Flitwick, and leaned over to the gargoyle and said something that Harry somehow failed to hear at all. (Of course, the password wouldn't be much good if you could hear someone saying it.) And the stone gargoyle walked aside with a very natural and ordinary movement that Harry found rather shocking, since the gargoyle still looked like solid, immovable stone the whole time.",
+   "Behind the gargoyle was a set of slowly revolving spiral stairs. There was something disturbingly hypnotic about it, and even more disturbing was that <em>revolving</em> the spiral ought not to take you anywhere.",
+   "\"Up you go!\" squeaked Flitwick.",
+   "Harry rather nervously stepped onto the spiral, and found himself, for some reason that his brain couldn't seem to visualise at all, moving upwards.",
+   "The gargoyle thudded back into place behind him, and the spiral stairs kept turning and Harry kept being higher up, and after a rather dizzying time, Harry found himself in front of an oak door with a brass griffin knocker."
+  ],
+  "summary_en": "Flitwick gives the password, the gargoyle steps aside, and Harry rides the revolving spiral stairs up to an oak door with a griffin knocker.",
+  "translation_fa": "«موفق باشی!» پروفسور فلیت‌ویک با صدای جیغ‌مانند گفت و به‌سمت گارگویل خم شد و چیزی گفت که هری به‌طرزی نتوانست اصلاً بشنود. (البته رمز عبور اگر بشود شنید که کسی آن را می‌گوید به درد نمی‌خورد.) و گارگویل سنگی با حرکتی بسیار طبیعی و عادی کنار رفت که هری را حسابی شوکه کرد، چون گارگویل تمام مدت همچنان شبیه سنگ جامد و بی‌حرکت به نظر می‌رسید.\n\nپشت گارگویل مجموعه‌ای از پلکان مارپیچ آهسته‌چرخان بود. چیزی به‌طرزی نگران‌کننده هیپنوتیزم‌کننده در آن بود، و نگران‌کننده‌تر این بود که چرخاندن مارپیچ نباید تو را به هیچ‌جا ببرد.\n\n«برو بالا!» فلیت‌ویک جیغ کشید.\n\nهری تا حدی عصبی قدم روی مارپیچ گذاشت و دید، به دلیلی که مغزش به‌هیچ‌وجه نمی‌توانست تجسم کند، دارد به بالا حرکت می‌کند.\n\nگارگویل با صدای کوبیده‌ای پشت سرش به جایش برگشت، و پلکان مارپیچ همچنان می‌چرخید و هری همچنان بالاتر می‌رفت، و بعد از مدتی نسبتاً سرگیجه‌آور، هری خود را جلوی دری چوبی بلوطی با کوبه‌ی برنجی گریفین یافت.",
+  "summary_fa": "فلیت‌ویک رمز را می‌گوید، گارگویل کنار می‌رود و هری با پلکان مارپیچ چرخان بالا می‌رود تا به دری چوبی با کوبه‌ی گریفین می‌رسد."
+ },
+ {
+  "id": 48,
+  "paras": [
+   228,
+   229,
+   230,
+   231,
+   232
+  ],
+  "verbatim_html": [
+   "Harry reached out and turned the doorknob.",
+   "The door swung open.",
+   "And Harry saw the most interesting room he'd ever seen in his life.",
+   "There were tiny metal mechanisms that whirred or ticked or slowly changed shape or emitted little puffs of smoke. There were dozens of mysterious fluids in dozens of oddly shaped containers, all bubbling, boiling, oozing, changing color, or forming into interesting shapes that vanished half a second after you saw them. There were things that looked like clocks with many hands, inscribed with numbers or in unrecognisable languages. There was a bracelet bearing a lenticular crystal that sparkled with a thousand colors, and a bird perched atop a golden platform, and a wooden cup filled with what looked like blood, and a statue of a falcon encrusted in black enamel. The wall was all hung with pictures of people sleeping, and the Sorting Hat was casually poised on a hatrack that was also holding two umbrellas and three red slippers for left feet.",
+   "In the midst of all the chaos was a clean black oaken desk. Before the desk was an oaken stool. And behind the desk was a well-cushioned throne containing Albus Percival Wulfric Brian Dumbledore, who was adorned with a long silver beard, a hat like a squashed giant mushroom, and what looked to Muggle eyes like three layers of bright pink pyjamas."
+  ],
+  "summary_en": "Harry opens the door onto a chaotic wonder-room of ticking devices and odd fluids, with Dumbledore enthroned behind a clean desk in bright pink pyjamas.",
+  "translation_fa": "هری دست دراز کرد و دستگیره‌ی در را چرخاند.\n\nدر باز شد.\n\nو هری جالب‌ترین اتاقی را دید که در عمرش دیده بود.\n\nابزارهای فلزی کوچکی بودند که وزوز یا تیک‌تاک می‌کردند یا آهسته شکل عوض می‌کردند یا پف‌های کوچکی از دود بیرون می‌دادند. ده‌ها مایع اسرارآمیز در ده‌ها ظرف با شکل‌های عجیب بود، همه قل‌قل، جوشش، تراوش، تغییر رنگ، یا شکل گرفتن به شکل‌های جالبی که نیم‌ثانیه بعد از دیدنشان ناپدید می‌شدند. چیزهایی بودند که شبیه ساعت با عقربه‌های زیاد بودند، با شماره‌ها یا به زبان‌های ناشناس حکاکی شده بودند. دستبندی بود با کریستال عدسی که با هزار رنگ برق می‌زد، و پرنده‌ای نشسته بر سکویی طلایی، و فنجان چوبی پر از چیزی شبیه خون، و مجسمه‌ی شاهینی با میناکاری سیاه. دیوار همه آویخته بود با عکس‌های آدم‌های خوابیده، و کلاه گروه‌بندی به‌راحتی روی کلاه‌آویزی گذاشته شده بود که دو چتر و سه دمپایی قرمز لنگه‌ی چپ هم نگه داشته بود.\n\nوسط همه‌ی این آشوب میز بلوطی سیاه تمیزی بود. جلوی میز چهارپایه‌ای بلوطی بود. و پشت میز تخت راحتی بود که آلبوس پرسیوال وولفریک برایان دامبلدور در آن بود، آراسته به ریش بلند نقره‌ای، کلاهی مثل قارچ غول‌پیکر له‌شده، و چیزی که به چشم مشنگی شبیه سه لایه پیژامه‌ی صورتی روشن بود.",
+  "summary_fa": "هری در را باز می‌کند و وارد اتاقی شگفت و آشفته از ابزارهای تیک‌تاکی و مایع‌های عجیب می‌شود، با دامبلدور که پشت میزی تمیز با پیژامه‌ی صورتی روشن نشسته است."
+ },
+ {
+  "id": 49,
+  "paras": [
+   233,
+   234,
+   235,
+   236,
+   237
+  ],
+  "verbatim_html": [
+   "Dumbledore was smiling, and his bright eyes twinkled with a mad intensity.",
+   "With some trepidation, Harry seated himself in front of the desk. The door swung shut behind him with a loud <em>thunk.</em>",
+   "\"Hello, Harry,\" said Dumbledore.",
+   "\"Hello, Headmaster,\" Harry replied. So they were on a first-name basis? Would Dumbledore now say to call him -",
+   "\"Please, Harry!\" said Dumbledore. \"Headmaster sounds so formal. Just call me Heh for short.\""
+  ],
+  "summary_en": "Dumbledore greets Harry warmly, Harry sits nervously as the door thunks shut, and Dumbledore invites him to call him Heh.",
+  "translation_fa": "دامبلدور لبخند می‌زد و چشم‌های روشنش با شدت دیوانه‌واری برق می‌زد.\n\nهری با کمی ترس جلوی میز نشست. در پشت سرش با صدای بلند بسته شد.\n\n«سلام، هری،» دامبلدور گفت.\n\n«سلام، مدیر،» هری جواب داد. پس با اسم کوچک با هم بودند؟ آیا حالا دامبلدور می‌گوید صدایش کند ــ\n\n«لطفاً، هری!» دامبلدور گفت. «مدیر خیلی رسمی به نظر می‌رسد. فقط به‌اختصار صدایم کن هه.»",
+  "summary_fa": "دامبلدور به‌گرمی به هری سلام می‌کند، هری با نگرانی می‌نشیند در حالی که در با صدا بسته می‌شود و دامبلدور از او می‌خواهد صدایش کند هه."
+ },
+ {
+  "id": 50,
+  "paras": [
+   238,
+   239,
+   240,
+   241,
+   242
+  ],
+  "verbatim_html": [
+   "\"I'll be sure to, Heh,\" said Harry.",
+   "There was a slight pause.",
+   "\"Do you know,\" said Dumbledore, \"you're the first person who's ever taken me up on that?\"",
+   "\"Ah...\" Harry said. He tried to control his voice despite the sudden sinking feeling in his stomach. \"I'm sorry, I, ah, Headmaster, you told me to do it so I did -\"",
+   "\"Heh, please!\" said Dumbledore cheerfully. \"And there's no call to be so worried, I won't launch you out a window just because you make one mistake. I'll give you plenty of warnings first, if you're doing something wrong! Besides, what matters isn't how people talk to you, it's what they think of you.\""
+  ],
+  "summary_en": "Harry plays along with Heh, Dumbledore notes he is the first to accept, and reassures the worried Harry he gives warnings and cares what people think.",
+  "translation_fa": "«حتماً، هه،» هری گفت.\n\nکمی مکث بود.\n\n«می‌دانی،» دامبلدور گفت، «تو اولین کسی هستی که تا حالا این را از من پذیرفته؟»\n\n«آه...» هری گفت. سعی کرد با وجود حس ناگهانی فروافتادن در معده‌اش صدایش را کنترل کند. «متأسفم، من، آه، مدیر، تو به من گفتی بکنم پس کردم ــ»\n\n«هه، لطفاً!» دامبلدور با شادی گفت. «و لازم نیست این‌قدر نگران باشی، فقط چون یک اشتباه بکنی تو را از پنجره بیرون پرت نمی‌کنم. اول کلی هشدار به تو می‌دهم، اگر داری کاری اشتباه می‌کنی! گذشته از این، مهم این نیست که آدم‌ها چطور با تو حرف می‌زنند، مهم این است که درباره‌ات چه فکر می‌کنند.»",
+  "summary_fa": "هری با هه همراهی می‌کند، دامبلدور می‌گوید او اولین کسی است که پذیرفته و هری نگران را دلداری می‌دهد که اول هشدار می‌دهد و مهم فکر آدم‌هاست."
+ },
+ {
+  "id": 51,
+  "paras": [
+   243,
+   244,
+   245,
+   246,
+   247
+  ],
+  "verbatim_html": [
+   "<em>He's never hurt a student, just keep remembering that and you'll be sure not to panic.</em>",
+   "Dumbledore drew forth a small metal case and flipped it open, showing some small yellow lumps. \"Sherbet lemon?\" said the Headmaster.",
+   "\"Er, no thank you, Heh,\" said Harry. <em>Does slipping a student LSD count as hurting them, or does that fall into the category of harmless fun?</em> \"You, um, said something about my being too young to invoke the words of power and madness?\"",
+   "\"That you most certainly are!\" Dumbledore said. \"Thankfully the Words of Power and Madness were lost seven centuries ago and no one has the slightest idea what they are anymore. It was just a little remark.\"",
+   "\"Ah...\" Harry said. He was aware that his mouth was hanging open. \"Why did you call me here, then?\""
+  ],
+  "summary_en": "Harry reminds himself Dumbledore never hurt a student, declines sherbet lemon amid an LSD worry, and asks about the words of power and madness.",
+  "translation_fa": "او هرگز به دانش‌آموزی آسیب نزده، فقط همین را یادت باشد و مطمئن باش وحشت نمی‌کنی.\n\nدامبلدور جعبه‌ی فلزی کوچکی بیرون آورد و بازش کرد، چند تکه‌ی زرد کوچک نشان داد. «آب‌نبات لیمویی؟» مدیر گفت.\n\n«آه، نه ممنون، هه،» هری گفت. آیا دادن ال‌اس‌دی به دانش‌آموز حساب می‌شود آسیب زدن، یا در دسته‌ی شوخی بی‌ضرر می‌افتد؟ «تو، ام، چیزی درباره‌ی این‌که من زیادی جوانم برای بر زبان آوردن کلمات قدرت و جنون گفتی؟»\n\n«که مسلماً هستی!» دامبلدور گفت. «خوشبختانه کلمات قدرت و جنون هفت قرن پیش گم شدند و دیگر هیچ‌کس کوچک‌ترین ایده‌ای ندارد که چه هستند. فقط اظهارنظر کوچکی بود.»\n\n«آه...» هری گفت. آگاه بود که دهانش باز مانده. «پس چرا مرا اینجا صدا کردی؟»",
+  "summary_fa": "هری به خودش یادآوری می‌کند دامبلدور هرگز به دانش‌آموزی آسیب نزده، شر‌بت لیمو را با نگرانی ال‌اس‌دی رد می‌کند و درباره‌ی کلمات قدرت و جنون می‌پرسد."
+ },
+ {
+  "id": 52,
+  "paras": [
+   248,
+   249,
+   250,
+   251,
+   252
+  ],
+  "verbatim_html": [
+   "\"<em>Why?</em> \" Dumbledore repeated. \"Ah, Harry, if I went around all day asking <em>why</em> I do things, I'd never have time to get a single thing done! I'm quite a busy person, you know.\"",
+   "Harry nodded, smiling. \"Yes, it was a very impressive list. Headmaster of Hogwarts, Chief Warlock of the Wizengamot, and Supreme Mugwump of the International Confederation of Wizards. Sorry to ask but I was wondering, is it possible to get more than six hours if you use more than one Time-Turner? Because it's pretty impressive if you're doing all that on just thirty hours a day.\"",
+   "There was another slight pause, during which Harry went on smiling. He was a little apprehensive, actually a lot apprehensive, but once it had become clear that Dumbledore was deliberately messing with him, something within him <em>absolutely refused</em> to sit and take it like a defenceless lump.",
+   "\"I'm afraid Time doesn't like being stretched out too much,\" said Dumbledore after the slight pause, \"and yet we ourselves seem to be a little too large for it, and so it's a constant struggle to fit our lives into Time.\"",
+   "\"Indeed,\" Harry said with grave solemnity. \"That's why it's best to come to our points quickly.\""
+  ],
+  "summary_en": "Dumbledore dodges why he is busy, Harry jokes about multiple Time-Turners and thirty-hour days, and both agree to get to the point quickly.",
+  "translation_fa": "«چرا؟» دامبلدور تکرار کرد. «آه، هری، اگر تمام روز دور بچرخم و بپرسم چرا کارها را می‌کنم، هیچ‌وقت برای انجام یک کار وقت نخواهم داشت! می‌دانی، من آدم کاملاً پرمشغله‌ای هستم.»\n\nهری سر تکان داد، لبخندزنان. «بله، فهرست خیلی چشمگیری بود. مدیر هاگوارتز، جادوگر ارشد ویزنگاموت، و ماگوامپ اعظم کنفدراسیون بین‌المللی جادوگران. ببخشید می‌پرسم اما نمی‌دانستم، آیا می‌شود بیش از شش ساعت گرفت اگر بیش از یک چرخاننده‌ی زمان استفاده کنی؟ چون خیلی چشمگیر است اگر داری همه‌ی آن را فقط با سی ساعت در روز انجام می‌دهی.»\n\nمکث کوتاه دیگری بود که طی آن هری همچنان لبخند می‌زد. کمی نگران بود، در واقع خیلی نگران، اما وقتی روشن شد که دامبلدور عمداً دارد با او شوخی می‌کند، چیزی درونش مطلقاً حاضر نشد بنشیند و مثل توده‌ی بی‌دفاع تحمل کند.\n\n«می‌ترسم زمان دوست نداشته باشد زیاد کشیده شود،» دامبلدور بعد از مکث کوتاه گفت، «و با این حال خودمان کمی زیادی بزرگ به نظر می‌رسیم برای آن، و پس کشمکش دائمی است که زندگی‌مان را در زمان جا کنیم.»\n\n«درست است،» هری با وقار جدی گفت. «برای همین بهتر است سریع به نکته‌هایمان برسیم.»",
+  "summary_fa": "دامبلدور از چرای کارهایش طفره می‌رود، هری درباره‌ی چند چرخاننده‌ی زمان و روز سی‌ساعته شوخی می‌کند و هر دو توافق می‌کنند سریع به اصل مطلب بروند."
+ },
+ {
+  "id": 53,
+  "paras": [
+   253,
+   254,
+   255,
+   256,
+   257
+  ],
+  "verbatim_html": [
+   "For a moment Harry wondered if he'd gone too far.",
+   "Then Dumbledore chuckled. \"Straight to the point it shall be.\" The Headmaster leaned forwards, tilting his squashed mushroom hat and brushing his beard against his desk. \"Harry, this Monday you did something that should have been impossible even with a Time-Turner. Or rather, impossible with <em>only</em> a Time-Turner. Where did those two pies come from, I wonder?\"",
+   "A jolt of adrenaline shot through Harry. He'd done that using the Cloak of Invisibility, the one that had been given him in a Christmas box along with a note, and that note had said: <em>If Dumbledore saw a chance to possess one of the Deathly Hallows he would never let it escape his grasp.</em><em>...</em>",
+   "\"A natural thought,\" Dumbledore went on, \"is that since none of the first-years present were able to cast such a spell, someone else was present, and yet unseen. And if no one could see them, why, it would be easy enough for them to throw the pies. One might further suspect that since you had a Time-Turner, you were the invisible one; and that since the spell of Disillusionment is far beyond your current abilities, you had an invisibility cloak.\" Dumbledore smiled conspiratorially. \"Am I on the right track so far, Harry?\"",
+   "Harry was frozen. He had the feeling that an outright lie would not at all be wise, and possibly not the least bit helpful, and he couldn't think of anything else to say."
+  ],
+  "summary_en": "Dumbledore asks where Monday's pies came from, Harry panics over the Cloak and its warning note, and Dumbledore reasons out Time-Turner plus invisibility cloak.",
+  "translation_fa": "لحظه‌ای هری نمی‌دانست آیا زیادی جلو رفته.\n\nبعد دامبلدور خندید. «مستقیم به اصل مطلب می‌رویم.» مدیر به جلو خم شد، کلاه قارچی له‌شده‌اش را کج کرد و ریشش را به میزش مالید. «هری، این دوشنبه کاری کردی که حتی با چرخاننده‌ی زمان هم باید غیرممکن می‌بود. یا بهتر بگویم، غیرممکن با فقط یک چرخاننده‌ی زمان. آن دو پای از کجا آمدند، نمی‌دانم؟»\n\nموج آدرنالین در هری جهید. او آن را با شنل نامرئی انجام داده بود، همان که در جعبه‌ی کریسمس به او داده شده بود همراه یادداشتی، و آن یادداشت گفته بود: اگر دامبلدور فرصتی برای تصاحب یکی از یادگاران مرگ ببیند هرگز نمی‌گذارد از چنگش بگریزد....\n\n«فکر طبیعی،» دامبلدور ادامه داد، «این است که چون هیچ‌کدام از سال‌اولی‌های حاضر نتوانستند چنین طلسمی بزنند، کس دیگری حاضر بوده، و با این حال دیده نشده. و اگر هیچ‌کس نمی‌توانسته آن‌ها را ببیند، خب، برایشان به‌اندازه‌ی کافی راحت بوده که پای‌ها را پرت کنند. می‌شود بیشتر حدس زد که چون تو چرخاننده‌ی زمان داشتی، تو همان نامرئی بودی؛ و چون طلسم ناپیدایی خیلی فراتر از توانایی‌های فعلی توست، شنل نامرئی داشتی.» دامبلدور توطئه‌گرانه لبخند زد. «تا اینجا در مسیر درستم، هری؟»\n\nهری یخ زده بود. حس می‌کرد که دروغ آشکار اصلاً عاقلانه نخواهد بود، و احتمالاً کمکی هم نمی‌کند، و نمی‌توانست به چیز دیگری برای گفتن فکر کند.",
+  "summary_fa": "دامبلدور می‌پرسد پای‌های دوشنبه از کجا آمدند، هری از شنل و یادداشت هشدارش وحشت می‌کند و دامبلدور چرخاننده‌ی زمان به‌علاوه‌ی شنل نامرئی را استدلال می‌کند."
+ },
+ {
+  "id": 54,
+  "paras": [
+   258,
+   259,
+   260,
+   261,
+   262
+  ],
+  "verbatim_html": [
+   "Dumbledore waved a friendly hand. \"Don't worry, Harry, you haven't done anything wrong. Invisibility cloaks aren't against the rules - I suppose they're rare enough that no one ever got around to putting them on the list. But really I was wondering something else entirely.\"",
+   "\"Oh?\" Harry said in the most normal voice he could manage.",
+   "Dumbledore's eyes shone with enthusiasm. \"You see, Harry, after you've been through a few adventures you tend to catch the hang of these things. You start to see the pattern, hear the rhythm of the world. You begin to harbour suspicions <em>before</em> the moment of revelation. You are the Boy-Who-Lived, and somehow an invisibility cloak made its way into your hands only four days after you discovered our magical Britain. Such cloaks are not for sale in Diagon Alley, but there is <em>one</em> which might find its own way to a destined wearer. And so I cannot help but wonder if by some strange chance you have found not just <em>an</em> invisibility cloak, but <em>the</em> Cloak of Invisibility, one of the three Deathly Hallows and reputed to hide the wearer from the gaze of Death himself.\" Dumbledore's gaze was bright and eager. \"May I see it, Harry?\"",
+   "Harry swallowed. There was a full flood of adrenaline in his system now and it was entirely useless, this was the most powerful wizard in the world and there was no way he could make it out the door and there was nowhere in Hogwarts for him to hide if he did, he was about to lose the Cloak that had been passed down through the Potters for who knew how long -",
+   "Slowly Dumbledore leaned back into his high chair. The bright light had gone out of his eyes, and he looked puzzled and a little sorrowful. \"Harry,\" said Dumbledore, \"if you don't want to, you can just say no.\""
+  ],
+  "summary_en": "Dumbledore says cloaks break no rules, asks to see it as possibly the Deathly Hallow Cloak, and backs off when Harry freezes, saying he may refuse.",
+  "translation_fa": "دامبلدور دست دوستانه‌ای تکان داد. «نگران نباش، هری، کار اشتباهی نکرده‌ای. شنل‌های نامرئی خلاف قانون نیستند ــ حدس می‌زنم به‌اندازه‌ی کافی کمیاب‌اند که هیچ‌کس هیچ‌وقت به فکر افزودنشان به فهرست نیفتاده. اما واقعاً داشتم چیز کاملاً دیگری را نمی‌دانستم.»\n\n«اوه؟» هری با طبیعی‌ترین صدایی که می‌توانست گفت.\n\nچشم‌های دامبلدور با اشتیاق می‌درخشید. «می‌بینی، هری، بعد از این‌که چند ماجراجویی را پشت سر گذاشتی معمولاً دستت می‌آید. شروع می‌کنی به دیدن الگو، شنیدن ریتم جهان. شروع می‌کنی به داشتن حدس‌ها پیش از لحظه‌ی مکاشفه. تو پسری هستی که زنده ماند، و به‌طرزی شنل نامرئی به دست‌هایت راه یافت فقط چهار روز بعد از این‌که بریتانیای جادویی ما را کشف کردی. چنین شنل‌هایی در کوچه‌ی دیاگون فروشی نیست، اما یکی هست که ممکن است راه خودش را به‌سمت پوشنده‌ی مقدر پیدا کند. و پس نمی‌توانم کمک کنم جز این‌که نمی‌دانم آیا به شانسی عجیب نه فقط شنل نامرئی، بلکه شنل نامرئی، یکی از سه یادگار مرگ را پیدا کرده‌ای که مشهور است پوشنده را از نگاه خود مرگ پنهان می‌کند.» نگاه دامبلدور روشن و مشتاق بود. «می‌توانم ببینمش، هری؟»\n\nهری آب دهان قورت داد. حالا سیل کامل آدرنالین در بدنش بود و کاملاً بی‌فایده بود، این قوی‌ترین جادوگر جهان بود و هیچ‌راهی نبود که از در بیرون برود و هیچ‌جایی در هاگوارتز نبود که اگر می‌رفت پنهان شود، داشت شنلی را از دست می‌داد که از خاندان پاترها برای چه کسی می‌داند چه مدت رسیده بود ــ\n\nآهسته دامبلدور به صندلی بلندش تکیه داد. نور روشن از چشم‌هایش رفته بود، و گیج و کمی غمگین به نظر می‌رسید. «هری،» دامبلدور گفت، «اگر نمی‌خواهی، می‌توانی فقط بگویی نه.»",
+  "summary_fa": "دامبلدور می‌گوید شنل‌ها خلاف قانون نیستند، می‌خواهد آن را به‌عنوان احتمالاً شنل یادگار مرگ ببیند و وقتی هری یخ می‌زند عقب می‌کشد و می‌گوید می‌تواند نه بگوید."
+ },
+ {
+  "id": 55,
+  "paras": [
+   263,
+   264,
+   265,
+   266,
+   267
+  ],
+  "verbatim_html": [
+   "\"I can?\" Harry croaked.",
+   "\"Yes, Harry,\" said Dumbledore. His voice sounded sad now, and worried. \"It seems that you're afraid of me, Harry. May I ask what I've done to earn your distrust?\"",
+   "Harry swallowed. \"Is there some way you can swear a binding magical oath that you won't take my cloak?\"",
+   "Dumbledore shook his head slowly. \"Unbreakable Vows are not to be used so lightly. And besides, Harry, if you did not already know the spell, you would have only my word that the spell was binding. Yet surely you realise that I do not <em>need</em> your permission to see the Cloak. I am powerful enough to draw it forth myself, mokeskin pouch or no.\" Dumbledore's face was very grave. \"But this I will not do. The Cloak is yours, Harry. I will not seize it from you. Not even to look at for just a moment, unless you decide to show it to me. That is a promise and an oath. Should I need to prohibit you from using it on the school grounds, I will require you to go to your vault at Gringotts and store it there.\"",
+   "\"Ah...\" Harry said. He swallowed hard, trying to calm the flood of adrenaline and think reasonably. He took the mokeskin pouch off his belt. \"If you really <em>don't</em> need my permission... then you have it.\" Harry held out the pouch to Dumbledore, and bit down hard on his lip, sending that signal to himself in case he was Obliviated afterwards."
+  ],
+  "summary_en": "Harry croaks in disbelief, Dumbledore asks what earned distrust, refuses a binding oath but promises never to seize the Cloak, and Harry reluctantly consents.",
+  "translation_fa": "«می‌توانم؟» هری با صدای گرفته گفت.\n\n«بله، هری،» دامبلدور گفت. صدایش حالا غمگین و نگران به نظر می‌رسید. «به نظر می‌رسد که از من می‌ترسی، هری. می‌توانم بپرسم چه کرده‌ام که بی‌اعتمادیت را به دست آورده؟»\n\nهری آب دهان قورت داد. «راهی هست که سوگند جادویی الزام‌آور بخوری که شنلم را نمی‌گیری؟»\n\nدامبلدور آهسته سر تکان داد. «نذرهای ناگسستنی را نباید این‌قدر سبک به کار برد. و گذشته از این، هری، اگر طلسم را از قبل نمی‌دانستی، فقط قول من را داشتی که طلسم الزام‌آور بوده. با این حال حتماً می‌فهمی که برای دیدن شنل به اجازه‌ی تو نیاز ندارم. به‌اندازه‌ی کافی قوی هستم که خودم بیرونش بکشم، با کیسه‌ی پوست‌خفاش یا بی آن.» چهره‌ی دامبلدور خیلی جدی بود. «اما این را نمی‌کنم. شنل مال توست، هری. آن را از تو نمی‌گیرم. حتی برای فقط یک لحظه نگاه کردن، مگر این‌که تصمیم بگیری به من نشانش دهی. این یک قول و سوگند است. اگر لازم شد استفاده‌اش را در محوطه‌ی مدرسه ممنوع کنم، از تو می‌خواهم به خزانه‌ات در گرینگوتز بروی و آنجا نگهش داری.»\n\n«آه...» هری گفت. محکم آب دهان قورت داد، سعی کرد سیل آدرنالین را آرام کند و منطقی فکر کند. کیسه‌ی پوست‌خفاش را از کمربندش باز کرد. «اگر واقعاً به اجازه‌ی من نیاز نداری... پس داری.» هری کیسه را به‌سمت دامبلدور نگه داشت، و محکم لبش را گاز گرفت، آن علامت را به خودش فرستاد در صورتی که بعداً خاطره‌اش پاک شد.",
+  "summary_fa": "هری ناباورانه خرخر می‌کند، دامبلدور می‌پرسد چه چیزی بی‌اعتمادی آورده، سوگند الزام‌آور را رد می‌کند اما قول می‌دهد هرگز شنل را نگیرد و هری با اکراه رضایت می‌دهد."
+ },
+ {
+  "id": 56,
+  "paras": [
+   268,
+   269,
+   270,
+   271,
+   272
+  ],
+  "verbatim_html": [
+   "The old wizard reached into the pouch, and without saying any word of retrieval, drew forth the Cloak of Invisibility.",
+   "\"Ah,\" breathed Dumbledore. \"I was right...\" He poured the shimmering black velvet mesh through his hand. \"Centuries old, and still as perfect as the day it was made. We have lost much of our art over the years, and now I cannot make such a thing myself, no one can. I can feel the power of it like an echo in my mind, like a song forever being sung without anyone to hear it...\" The wizard looked up from the Cloak. \"Do not sell it,\" he said, \"do not give it to anyone as a possession. Think twice before you show it to anyone, and ponder three times again before you reveal it is a Deathly Hallow. Treat it with respect, for this is indeed a Thing of Power.\"",
+   "For a moment Dumbledore's face grew wistful...",
+   "...and then he handed the Cloak back to Harry.",
+   "Harry put it back in his pouch."
+  ],
+  "summary_en": "Dumbledore draws the ancient Cloak, marvels at its power, warns Harry never to sell or reveal it as a Hallow, then wistfully returns it.",
+  "translation_fa": "جادوگر پیر دست به کیسه برد، و بدون گفتن هیچ کلمه‌ی بازیابی، شنل نامرئی را بیرون کشید.\n\n«آه،» دامبلدور نفس کشید. «حق داشتم...» مش مخمل سیاه درخشان را از دستش ریخت. «قرن‌ها قدمت، و هنوز به کاملی روزی که ساخته شد. خیلی از هنرمان را در سال‌ها از دست داده‌ایم، و حالا نمی‌توانم خودم چنین چیزی بسازم، هیچ‌کس نمی‌تواند. قدرت آن را حس می‌کنم مثل پژواکی در ذهنم، مثل آوازی که برای همیشه خوانده می‌شود بی آن‌که کسی بشنودش...» جادوگر از شنل بالا را نگاه کرد. «آن را نفروش،» گفت، «به کسی به‌عنوان دارایی نده. دوبار فکر کن پیش از این‌که به کسی نشانش دهی، و سه بار دیگر تأمل کن پیش از این‌که فاش کنی یادگار مرگ است. با احترام با آن رفتار کن، چون این واقعاً چیزی از قدرت است.»\n\nلحظه‌ای چهره‌ی دامبلدور مشتاق شد...\n\n...و بعد شنل را به هری پس داد.\n\nهری آن را به کیسه‌اش برگرداند.",
+  "summary_fa": "دامبلدور شنل باستانی را بیرون می‌کشد، از قدرتش شگفت‌زده می‌شود، به هری هشدار می‌دهد هرگز آن را نفروشد یا به‌عنوان یادگار فاش نکند، بعد با حسرت پسش می‌دهد."
+ },
+ {
+  "id": 57,
+  "paras": [
+   273,
+   274,
+   275,
+   276,
+   277
+  ],
+  "verbatim_html": [
+   "Dumbledore's face was grave once more. \"May I ask again, Harry, how you came to distrust me so?\"",
+   "Suddenly Harry felt rather ashamed.",
+   "\"There was a note with the Cloak,\" Harry said in a small voice. \"It said that you would try to take the Cloak from me, if you knew. I don't know who left the note, though, I really don't.\"",
+   "\"I... see,\" Dumbledore said slowly. \"Well, Harry, I won't impugn the motives of whoever left you that note. Who knows but that they themselves may have had the best of good intentions? They did give you the Cloak, after all.\"",
+   "Harry nodded, impressed by Dumbledore's charity, and abashed at the sharp contrast with his own attitude."
+  ],
+  "summary_en": "Dumbledore presses Harry on his distrust, Harry admits the Cloak's note warned him, and Dumbledore charitably excuses the unknown note-writer.",
+  "translation_fa": "چهره‌ی دامبلدور دوباره جدی بود. «می‌توانم دوباره بپرسم، هری، چطور این‌قدر به من بی‌اعتماد شدی؟»\n\nناگهان هری حس شرم کرد.\n\n«یادداشتی با شنل بود،» هری با صدای کوچک گفت. «گفته بود که سعی می‌کنی شنل را از من بگیری، اگر می‌دانستی. نمی‌دانم چه کسی یادداشت را گذاشت، هرچند، واقعاً نمی‌دانم.»\n\n«می... فهمم،» دامبلدور آهسته گفت. «خب، هری، انگیزه‌های کسی که آن یادداشت را برایت گذاشت زیر سؤال نمی‌برم. چه کسی می‌داند جز این‌که خودشان ممکن است بهترین نیت‌ها را داشته باشند؟ آخر آن‌ها شنل را به تو دادند.»\n\nهری سر تکان داد، تحت تأثیر بخشندگی دامبلدور، و شرمنده از تضاد تند با نگرش خودش.",
+  "summary_fa": "دامبلدور درباره‌ی بی‌اعتمادی هری پافشاری می‌کند، هری اعتراف می‌کند یادداشت شنل هشدار داده بود و دامبلدور با بزرگواری نویسنده‌ی ناشناس را می‌بخشد."
+ },
+ {
+  "id": 58,
+  "paras": [
+   278,
+   279,
+   280,
+   281,
+   282
+  ],
+  "verbatim_html": [
+   "The old wizard went on. \"But you and I are both gamepieces of the same color, I think. The boy who finally defeated Voldemort, and the old man who held him off long enough for you to save the day. I will not hold your caution against you, Harry, we must all do our best to be wise. I will only ask that you think twice and ponder three times again, the next time someone tells you to distrust me.\"",
+   "\"I'm sorry,\" Harry said. He felt wretched at this point, he'd just told off Gandalf essentially, and Dumbledore's kindness was only making him feel worse. \"I shouldn't have distrusted you.\"",
+   "\"Alas, Harry, in this world...\" The old wizard shook his head. \"I cannot even say you were unwise. You did not know me. And in truth there are some at Hogwarts who you would do well not to trust. Perhaps even some you call friends.\"",
+   "Harry swallowed. That sounded rather ominous. \"Like who?\"",
+   "Dumbledore stood up from his chair, and began examining one of his instruments, a dial with eight hands of varying length."
+  ],
+  "summary_en": "Dumbledore calls them same-coloured gamepieces, Harry apologises for distrusting Gandalf, and Dumbledore warns some at Hogwarts, even friends, merit mistrust.",
+  "translation_fa": "جادوگر پیر ادامه داد. «اما تو و من هر دو مهره‌های بازی هم‌رنگیم، فکر می‌کنم. پسری که سرانجام ولدمورت را شکست داد، و پیرمردی که او را به‌اندازه‌ی کافی نگه داشت تا تو روز را نجات دهی. احتیاطت را به دل نمی‌گیرم، هری، همه‌مان باید بهترین‌مان را بکنیم که عاقل باشیم. فقط می‌خواهم که دوبار فکر کنی و سه بار دیگر تأمل کنی، دفعه‌ی بعد که کسی به تو گفت به من بی‌اعتماد شو.»\n\n«متأسفم،» هری گفت. در این نقطه حس بدبختی داشت، اساساً به گندالف توهین کرده بود، و مهربانی دامبلدور فقط حس بدتری به او می‌داد. «نباید به تو بی‌اعتماد می‌شدم.»\n\n«افسوس، هری، در این جهان...» جادوگر پیر سر تکان داد. «حتی نمی‌توانم بگویم ناعاقل بودی. مرا نمی‌شناختی. و در حقیقت برخی در هاگوارتز هستند که خوب می‌کنی به آن‌ها اعتماد نکنی. شاید حتی برخی که دوستشان می‌خوانی.»\n\nهری آب دهان قورت داد. این نسبتاً شوم به نظر می‌رسید. «مثل کی؟»\n\nدامبلدور از صندلی‌اش بلند شد، و شروع به بررسی یکی از ابزارهایش کرد، صفحه‌ای با هشت عقربه با طول‌های متفاوت.",
+  "summary_fa": "دامبلدور آن‌ها را مهره‌های هم‌رنگ می‌خواند، هری از بی‌اعتمادی به گندالف عذر می‌خواهد و دامبلدور هشدار می‌دهد برخی در هاگوارتز، حتی دوستان، ارزش بی‌اعتمادی دارند."
+ },
+ {
+  "id": 59,
+  "paras": [
+   283,
+   284,
+   285,
+   286,
+   287
+  ],
+  "verbatim_html": [
+   "After a few moments, the old wizard spoke again. \"He probably seems to you quite charming,\" said Dumbledore. \"Polite - to you at least. Well-spoken, maybe even admiring. Always ready with a helping hand, a favour, a word of advice -\"",
+   "\"Oh, <em>Draco Malfoy!</em> \" Harry said, feeling rather relieved that it wasn't Hermione or something. \"Oh no, no no no, you've got it all wrong, he's not turning me, I'm turning him.\"",
+   "Dumbledore froze where he was peering at the dial. \"You're <em>what?</em> \"",
+   "\"I'm going to turn Draco Malfoy from the Dark Side,\" Harry said. \"You know, make him a good guy.\"",
+   "Dumbledore straightened and turned to Harry. He was wearing one of the most astonished expressions Harry had ever seen on anyone, let alone someone with a long silver beard. \"Are you certain,\" said the old wizard after a moment, \"that he is ready to be redeemed? I fear that whatever goodness you think you see within him is only wishful thinking - or worse, a lure, a bait -\""
+  ],
+  "summary_en": "Dumbledore hints at a charming polite helper, Harry cheerfully names Draco Malfoy and insists he is turning Draco, not being turned.",
+  "translation_fa": "بعد از چند لحظه، جادوگر پیر دوباره صحبت کرد. «احتمالاً به نظرت کاملاً جذاب می‌رسد،» دامبلدور گفت. «مؤدب ــ دست‌کم به تو. خوش‌بیان، شاید حتی تحسین‌گر. همیشه آماده با دست یاری، لطفی، کلمه‌ای نصیحت ــ»\n\n«اوه، دریکو مالفوی!» هری گفت، حس راحتی کرد که هرمیون یا چیزی نبود. «اوه نه، نه نه نه، کاملاً اشتباه گرفتی، او مرا برنمی‌گرداند، من او را برمی‌گردانم.»\n\nدامبلدور همان‌جا که به صفحه نگاه می‌کرد یخ زد. «داری چه؟»\n\n«می‌خواهم دریکو مالفوی را از سمت تاریک برگردانم،» هری گفت. «می‌دانی، او را آدم خوبی کنم.»\n\nدامبلدور راست ایستاد و به‌سمت هری چرخید. یکی از شگفت‌زده‌ترین حالت‌هایی را داشت که هری تا حالا روی کسی دیده بود، چه رسد به کسی با ریش بلند نقره‌ای. «مطمئنی،» جادوگر پیر بعد از لحظه‌ای گفت، «که او آماده‌ی رستگاری است؟ می‌ترسم هر خوبی که فکر می‌کنی درونش می‌بینی فقط خیال‌بافی باشد ــ یا بدتر، فریب، طعمه ــ»",
+  "summary_fa": "دامبلدور به یاور جذاب و مؤدب اشاره می‌کند، هری با خوشحالی نام دریکو مالفوی را می‌برد و اصرار می‌کند او دارد دریکو را برمی‌گرداند، نه برعکس."
+ },
+ {
+  "id": 60,
+  "paras": [
+   288,
+   289,
+   290,
+   291,
+   292
+  ],
+  "verbatim_html": [
+   "\"Er, not likely,\" Harry said. \"I mean if he's trying to disguise himself as a good guy he's incredibly bad at it. This isn't a question of Draco coming up to me and being all charming and me deciding that he must have a hidden core of goodness deep down. I selected him for redemption specifically because he's the heir to House Malfoy and if you had to pick one person to redeem, it would obviously be him.\"",
+   "Dumbledore's left eye twitched. \"You intend to sow seeds of love and kindness in Draco Malfoy's heart because you expect Malfoy's heir to prove valuable to you?\"",
+   "\"Not just to <em>me!</em> \" Harry said indignantly. \"To all of magical Britain, if this works out! <em>And</em> he'll have a happier and mentally healthier life himself! Look, I don't have enough time to turn <em>everyone</em> away from the Dark Side and I've got to ask where the Light can gain the most advantage the fastest -\"",
+   "Dumbledore started laughing. Laughing a lot harder than Harry would expect, almost howling. It seemed positively <em>undignified.</em> An ancient and powerful wizard ought to chuckle in deep booming tones, not laugh so hard he was gasping for breath. Harry had once literally fallen out of his chair while watching the Marx Brothers movie <em>Duck Soup,</em> and that was how hard Dumbledore was laughing now.",
+   "\"It's not <em>that</em> funny,\" Harry said after a while. He was starting to worry about Dumbledore's sanity again."
+  ],
+  "summary_en": "Harry says he chose Malfoy's heir strategically, Dumbledore asks if love is for leverage, and Harry's talk of Light advantage sends Dumbledore howling with laughter.",
+  "translation_fa": "«آه، بعید است،» هری گفت. «یعنی اگر دارد سعی می‌کند خودش را به‌عنوان آدم خوب جا بزند فوق‌العاده بد است. این مسئله‌ی این نیست که دریکو بیاید پیشم و کاملاً جذاب باشد و من تصمیم بگیرم که حتماً هسته‌ی پنهان خوبی در عمق دارد. او را برای رستگاری انتخاب کردم دقیقاً چون وارث خاندان مالفوی است و اگر مجبور بودی یک نفر را برای رستگاری انتخاب کنی، بدیهی است او باشد.»\n\nچشم چپ دامبلدور پرید. «قصد داری بذر عشق و مهربانی در قلب دریکو مالفوی بکاری چون انتظار داری وارث مالفوی برایت ارزشمند ثابت شود؟»\n\n«نه فقط برای من!» هری با خشم گفت. «برای همه‌ی بریتانیای جادویی، اگر این جواب دهد! و خودش زندگی شادتر و از نظر ذهنی سالم‌تری خواهد داشت! ببین، وقت کافی ندارم همه را از سمت تاریک برگردانم و باید بپرسم نور کجا می‌تواند سریع‌ترین برتری را به دست آورد ــ»\n\nدامبلدور شروع به خندیدن کرد. خیلی سخت‌تر خندید تا هری انتظار داشت، تقریباً زوزه کشید. کاملاً بی‌وقار به نظر می‌رسید. جادوگر باستانی و قدرتمند باید با صداهای بم عمیق ریز بخندد، نه این‌قدر سخت بخندد که نفسش بند بیاید. هری یک بار واقعاً از صندلی افتاده بود وقتی فیلم برادران مارکس داک سوپ را تماشا می‌کرد، و دامبلدور حالا به همان سختی می‌خندید.\n\n«این‌قدر خنده‌دار نیست،» هری بعد از مدتی گفت. داشت دوباره نگران عقل دامبلدور می‌شد.",
+  "summary_fa": "هری می‌گوید وارث مالفوی را راهبردی انتخاب کرده، دامبلدور می‌پرسد آیا عشق برای نفوذ است و حرف هری از برتری نور دامبلدور را به قهقهه می‌اندازد."
+ },
+ {
+  "id": 61,
+  "paras": [
+   293,
+   294,
+   295,
+   296,
+   297
+  ],
+  "verbatim_html": [
+   "Dumbledore got himself under control again with a visible effort. \"Ah, Harry, one symptom of the disease called wisdom is that you begin laughing at things that no one else thinks is funny, because when you're wise, Harry, you start getting the jokes!\" The old wizard wiped tears away from his eyes. \"Ah, me. Ah, me. Oft evil will shall evil mar indeed, in very deed.\"",
+   "Harry's brain took a moment to place the familiar words... \"Hey, that's a <em>Tolkien</em> quote! <em>Gandalf</em> says that!\"",
+   "\"Theoden, actually,\" said Dumbledore.",
+   "\"You're <em>Muggleborn?</em> \" Harry said in shock.",
+   "\"I'm afraid not,\" said Dumbledore, smiling again. \"I was born seventy years before that book was published, dear child. But it seems that my Muggleborn students tend to think alike in certain ways. I have accumulated no fewer than twenty copies of <em>The Lord of the Rings</em> and three sets of Tolkien's entire collected works, and I treasure every one of them.\" Dumbledore drew his wand and held it up and struck a pose. \"<em>You cannot pass!</em> How does that look?\""
+  ],
+  "summary_en": "Dumbledore calls wisdom getting the joke, quotes Tolkien, reveals twenty Lord of the Rings copies, and strikes a You cannot pass pose.",
+  "translation_fa": "دامبلدور خودش را با تلاش آشکار دوباره کنترل کرد. «آه، هری، یکی از علائم بیماری به نام خرد این است که شروع می‌کنی به خندیدن به چیزهایی که هیچ‌کس دیگر خنده‌دار نمی‌داند، چون وقتی عاقلی، هری، شروع می‌کنی به گرفتن جوک‌ها!» جادوگر پیر اشک‌ها را از چشم‌هایش پاک کرد. «آه، من. آه، من. اغلب اراده‌ی شر شر را خراب می‌کند در واقع، در حقیقت.»\n\nمغز هری لحظه‌ای گرفت تا کلمات آشنا را جا بیندازد... «هی، این نقل تالکین است! گندالف می‌گوید!»\n\n«تئودن، در واقع،» دامبلدور گفت.\n\n«تو مشنگ‌زاده‌ای؟» هری با شوک گفت.\n\n«می‌ترسم نه،» دامبلدور گفت، دوباره لبخندزنان. «هفتاد سال پیش از انتشار آن کتاب به دنیا آمدم، فرزند عزیز. اما به نظر می‌رسد دانش‌آموزان مشنگ‌زاده‌ام در برخی راه‌ها شبیه هم فکر می‌کنند. نه کمتر از بیست نسخه‌ی ارباب حلقه‌ها و سه دست مجموعه‌ی کامل آثار تالکین جمع کرده‌ام، و هر یک را گرامی می‌دارم.» دامبلدور چوبدستی‌اش را کشید و بالا نگه داشت و ژستی گرفت. «تو نمی‌توانی بگذری! این چطور به نظر می‌رسد؟»",
+  "summary_fa": "دامبلدور خرد را گرفتن جوک می‌خواند، از تالکین نقل می‌کند، بیست نسخه‌ی ارباب حلقه‌ها را فاش می‌کند و ژست تو نمی‌توانی بگذری می‌گیرد."
+ },
+ {
+  "id": 62,
+  "paras": [
+   298,
+   299,
+   300,
+   301,
+   302
+  ],
+  "verbatim_html": [
+   "\"Ah,\" Harry said in something approaching complete brain shutdown, \"I think you're missing a Balrog.\" And the pink pyjamas and squashed mushroom hat were not helping in the slightest.",
+   "\"I see.\" Dumbledore sighed and glumly sheathed the wand in his belt. \"I fear there have been precious few Balrogs in my life of late. Nowadays it's all meetings of the Wizengamot where I must try desperately to prevent any work from getting done, and formal dinners where foreign politicians compete to see who can be the most obstinate fool. And being mysterious at people, knowing things I have no way of knowing, making cryptic statements which can only be understood in hindsight, and all the other small ways in which powerful wizards amuse themselves after they have left the part of the pattern that allows them to be heroes. Speaking of which, Harry, I have a certain something to give you, something which belonged to your father.\"",
+   "\"You do?\" said Harry. \"Gosh, who would have figured.\"",
+   "\"Yes indeed,\" said Dumbledore. \"I suppose it is a little predictable, isn't it?\" His face turned solemn. \"Nonetheless...\"",
+   "Dumbledore went back to his desk and sat down, pulling out one of the drawers as he did so. He reached in using both arms, and, straining slightly, pulled a rather large and heavy-looking object out of the drawer, which he then deposited on his oaken desk with a huge thunk."
+  ],
+  "summary_en": "Harry notes the missing Balrog, Dumbledore laments meetings instead of heroics, and promises something that belonged to Harry's father.",
+  "translation_fa": "«آه،» هری گفت در چیزی نزدیک به تعطیلی کامل مغز، «فکر می‌کنم بالروگ کم داری.» و پیژامه‌ی صورتی و کلاه قارچی له‌شده اصلاً کمکی نمی‌کردند.\n\n«می‌فهمم.» دامبلدور آه کشید و با دلتنگی چوبدستی را در کمربندش غلاف کرد. «می‌ترسم در زندگی اخیرم بالروگ‌های گرانبهایی کم بوده‌اند. این روزها همه جلسات ویزنگاموت است که باید ناامیدانه سعی کنم از انجام شدن هیچ کاری جلوگیری کنم، و شام‌های رسمی که سیاستمداران خارجی رقابت می‌کنند چه کسی می‌تواند لجوج‌ترین احمق باشد. و اسرارآمیز بودن با آدم‌ها، دانستن چیزهایی که هیچ راهی برای دانستنشان ندارم، گفتن اظهارات رمزی که فقط در گذشته فهمیده می‌شوند، و همه‌ی راه‌های کوچک دیگری که جادوگران قدرتمند خودشان را سرگرم می‌کنند بعد از این‌که بخش الگو که اجازه می‌دهد قهرمان باشند را ترک کرده‌اند. صحبت از این شد، هری، چیز معینی دارم که به تو بدهم، چیزی که مال پدرت بود.»\n\n«داری؟» هری گفت. «وای، چه کسی فکرش را می‌کرد.»\n\n«بله در واقع،» دامبلدور گفت. «حدس می‌زنم کمی قابل پیش‌بینی است، نه؟» چهره‌اش جدی شد. «با این حال...»\n\nدامبلدور به میزش برگشت و نشست، وقتی این کار را کرد یکی از کشوها را بیرون کشید. با هر دو دست داخل رفت، و با کمی فشار، شیئی نسبتاً بزرگ و سنگین‌به‌نظر را از کشو بیرون کشید، که بعد روی میز بلوطی‌اش با صدای بزرگی گذاشت.",
+  "summary_fa": "هری به بالروگ گمشده اشاره می‌کند، دامبلدور از جلسات به‌جای قهرمانی شکایت می‌کند و قول چیزی می‌دهد که مال پدر هری بوده."
+ },
+ {
+  "id": 63,
+  "paras": [
+   303,
+   304,
+   305,
+   306,
+   307
+  ],
+  "verbatim_html": [
+   "\"This,\" Dumbledore said, \"was your father's rock.\"",
+   "Harry stared at it. It was light gray, discolored, irregularly shaped, sharp-edged, and very much a plain old ordinary large rock. Dumbledore had deposited it so that it rested on the widest available cross-section, but it still wobbled unstably on his desk.",
+   "Harry looked up. \"This is a joke, right?\"",
+   "\"It is not,\" said Dumbledore, shaking his head and looking very serious. \"I took this from the ruins of James and Lily's home in Godric's Hollow, where also I found you; and I have kept it from then until now, against the day when I could give it to you.\"",
+   "In the mixture of hypotheses that served as Harry's model of the world, Dumbledore's insanity was rapidly rising in probability. But there <em>was</em> still a substantial amount of probability allocated to other alternatives... \"Um, is it a <em>magical</em> rock?\""
+  ],
+  "summary_en": "Dumbledore presents James's plain grey rock from Godric's Hollow, Harry assumes a joke, and wonders if it is magical.",
+  "translation_fa": "«این،» دامبلدور گفت، «سنگ پدرت بود.»\n\nهری به آن زل زد. خاکستری روشن بود، تغییررنگ داده، نامنظم، لبه‌تیز، و خیلی سنگ بزرگ معمولی ساده بود. دامبلدور آن را گذاشته بود تا روی پهن‌ترین مقطع موجود بماند، اما هنوز روی میزش ناپایدار لق می‌زد.\n\nهری بالا را نگاه کرد. «این شوخی است، درست؟»\n\n«نیست،» دامبلدور گفت، سر تکان داد و خیلی جدی به نظر می‌رسید. «این را از ویرانه‌های خانه‌ی جیمز و لی‌لی در گودریک هالو برداشتم، جایی که تو را هم یافتم؛ و از آن‌وقت تا حالا نگهش داشته‌ام، در برابر روزی که بتوانم به تو بدهم.»\n\nدر مخلوط فرضیه‌هایی که مدل هری از جهان بود، جنون دامبلدور به‌سرعت در احتمال بالا می‌رفت. اما هنوز مقدار قابل توجهی احتمال به گزینه‌های دیگر اختصاص بود... «ام، سنگ جادویی است؟»",
+  "summary_fa": "دامبلدور سنگ خاکستری ساده‌ی جیمز از گودریک هالو را می‌دهد، هری شوخی فرض می‌کند و می‌پرسد آیا جادویی است."
+ },
+ {
+  "id": 64,
+  "paras": [
+   308,
+   309,
+   310,
+   311,
+   312
+  ],
+  "verbatim_html": [
+   "\"Not so far as I know,\" said Dumbledore. \"But I advise you with the greatest possible stringency to keep it close about your person at all times.\"",
+   "All right. Dumbledore was <em>probably</em> insane but if he <em>wasn't</em>... well, it would be just too <em>embarrassing</em> to get in trouble from ignoring the advice of the inscrutable old wizard. That had to be like #4 on the list of the Top 100 Obvious Failure Modes.",
+   "Harry stepped forward and put his hands on the rock, trying to find some angle from which to lift it without cutting himself. \"I'll put it in my pouch, then.\"",
+   "Dumbledore frowned. \"That may not be close enough to your person. And what if your mokeskin pouch is lost, or stolen?\"",
+   "\"You think I should just carry a big rock everywhere I go?\""
+  ],
+  "summary_en": "Dumbledore says the rock is not known magical yet must stay close, Harry cites obvious failure modes, and Dumbledore warns against losing the pouch.",
+  "translation_fa": "«تا آن‌جا که می‌دانم نه،» دامبلدور گفت. «اما با بیشترین شدت ممکن به تو توصیه می‌کنم همیشه نزدیک خودت نگهش داری.»\n\nباشد. دامبلدور احتمالاً دیوانه بود اما اگر نبود... خب، خیلی خجالت‌آور می‌بود که از نادیده گرفتن نصیحت جادوگر پیر اسرارآمیز به دردسر بیفتی. این باید مثل شماره‌ی ۴ در فهرست ۱۰۰ حالت آشکار شکست باشد.\n\nهری جلو رفت و دست‌هایش را روی سنگ گذاشت، سعی کرد زاویه‌ای پیدا کند که بدون بریدن خودش بلندش کند. «پس می‌گذارمش در کیسه‌ام.»\n\nدامبلدور اخم کرد. «ممکن است به‌اندازه‌ی کافی نزدیک به تو نباشد. و اگر کیسه‌ی پوست‌خفاشت گم شود، یا دزدیده شود چه؟»\n\n«فکر می‌کنی باید فقط سنگ بزرگی همه‌جا با خودم حمل کنم؟»",
+  "summary_fa": "دامبلدور می‌گوید سنگ تا آن‌جا که می‌داند جادویی نیست اما باید نزدیک بماند، هری از حالت‌های آشکار شکست می‌گوید و دامبلدور درباره‌ی گم شدن کیسه هشدار می‌دهد."
+ },
+ {
+  "id": 65,
+  "paras": [
+   313,
+   314,
+   315,
+   316,
+   317
+  ],
+  "verbatim_html": [
+   "Dumbledore gave Harry a serious look. \"That might prove wise.\"",
+   "\"Ah...\" Harry said. It looked rather heavy. \"I'd think the other students would tend to ask me questions about that.\"",
+   "\"Tell them I ordered you to do it,\" said Dumbledore. \"No one will question that, since they all think I'm insane.\" His face was still perfectly serious.",
+   "\"Er, to be honest if you go around ordering your students to carry large rocks I can kind of see why people would think that.\"",
+   "\"Ah, Harry,\" said Dumbledore. The old wizard gestured, a sweep of one hand that seemed to take in all the mysterious instruments around the room. \"When we are young we believe that we know everything, and so we believe that if we see no explanation for something, then no explanation exists. When we are older we realise that the whole universe works by a rhythm and a reason, even if we ourselves do not know it. It is only our own ignorance which appears to us as insanity.\""
+  ],
+  "summary_en": "Dumbledore says carrying the rock may prove wise, Harry predicts questions and teasing about insanity, and Dumbledore answers that youth mistakes ignorance for insanity.",
+  "translation_fa": "دامبلدور به هری نگاه جدی کرد. «ممکن است عاقلانه ثابت شود.»\n\n«آه...» هری گفت. نسبتاً سنگین به نظر می‌رسید. «فکر می‌کنم دانش‌آموزان دیگر معمولاً از من درباره‌ی آن سؤال بپرسند.»\n\n«به آن‌ها بگو دستور دادم این کار را بکنی،» دامبلدور گفت. «هیچ‌کس سؤال نمی‌کند، چون همه فکر می‌کنند دیوانه‌ام.» چهره‌اش هنوز کاملاً جدی بود.\n\n«آه، راستش اگر دور بچرخی و به دانش‌آموزانت دستور دهی سنگ‌های بزرگ حمل کنند می‌توانم بفهمم چرا آدم‌ها فکر می‌کنند آن‌طور است.»\n\n«آه، هری،» دامبلدور گفت. جادوگر پیر اشاره کرد، چرخشی از یک دست که به نظر می‌رسید همه‌ی ابزارهای اسرارآمیز دور اتاق را دربر می‌گیرد. «وقتی جوانیم باور داریم که همه‌چیز را می‌دانیم، و پس باور داریم که اگر توضیحی برای چیزی نبینیم، پس توضیحی وجود ندارد. وقتی پیرتریم می‌فهمیم که کل جهان با ریتم و دلیلی کار می‌کند، حتی اگر خودمان ندانیم. فقط نادانی خودمان است که برایمان به شکل جنون ظاهر می‌شود.»",
+  "summary_fa": "دامبلدور می‌گوید حمل سنگ شاید عاقلانه ثابت شود، هری سؤال‌ها و شوخی جنون را پیش‌بینی می‌کند و دامبلدور جواب می‌دهد جوانی نادانی را با جنون اشتباه می‌گیرد."
+ },
+ {
+  "id": 66,
+  "paras": [
+   318,
+   319,
+   320,
+   321,
+   322
+  ],
+  "verbatim_html": [
+   "\"Reality is always lawful,\" said Harry, \"even if we don't know the law.\"",
+   "\"Precisely, Harry,\" said Dumbledore. \"To understand this - and I see that you <em>do</em> understand it - is the essence of wisdom.\"",
+   "\"So... <em>why</em> do I have to carry this rock exactly?\"",
+   "\"I can't think of a reason, actually,\" said Dumbledore.",
+   "\"...you can't.\""
+  ],
+  "summary_en": "Harry says reality is lawful, Dumbledore calls that wisdom, and Harry asks why the rock while Dumbledore admits he has no reason.",
+  "translation_fa": "«واقعیت همیشه قانونمند است،» هری گفت، «حتی اگر قانون را ندانیم.»\n\n«دقیقاً، هری،» دامبلدور گفت. «فهمیدن این ــ و می‌بینم که می‌فهمی ــ جوهر خرد است.»\n\n«پس... دقیقاً چرا باید این سنگ را حمل کنم؟»\n\n«نمی‌توانم به دلیلی فکر کنم، در واقع،» دامبلدور گفت.\n\n«...نمی‌توانی.»",
+  "summary_fa": "هری می‌گوید واقعیت همیشه قانونمند است، دامبلدور آن را جوهر خرد می‌خواند و هری دلیل سنگ را می‌پرسد در حالی که دامبلدور اعتراف می‌کند دلیلی ندارد."
+ },
+ {
+  "id": 67,
+  "paras": [
+   323,
+   324,
+   325,
+   326,
+   327
+  ],
+  "verbatim_html": [
+   "Dumbledore nodded. \"But just because I can't think of a reason doesn't mean there <em>is</em> no reason.\"",
+   "The instruments ticked on.",
+   "\"Okay,\" said Harry, \"I'm not even sure if I should be saying this, but that is simply not the correct way to deal with our admitted ignorance of how the universe works.\"",
+   "\"It isn't?\" said the old wizard, looking surprised and disappointed.",
+   "Harry had the feeling this conversation was not going to work out in his favour, but he carried on regardless. \"No. I don't even know if that fallacy has an official name, but if I had to make one up myself, it would be 'privileging the hypothesis' or something like that. How can I put this formally... um... suppose you had a million boxes, and only one of the boxes contained a diamond. And you had a box full of diamond-detectors, and each diamond-detector always went off in the presence of a diamond, and went off half the time on boxes that didn't have a diamond. If you ran twenty detectors over all the boxes, you'd have, on average, one false candidate and one true candidate left. And then it would just take one or two more detectors before you were left with the one true candidate. The point being that when there are lots of possible answers, <em>most</em> of the evidence you need goes into just <em>locating</em> the true hypothesis out of millions of possibilities - bringing it to your attention in the first place. The amount of evidence you need to judge between two or three plausible candidates is much smaller by comparison. So if you just jump ahead without evidence and promote one particular possibility to the focus of your attention, you're skipping over most of the work. Like, you live in a city where there are a million people, and there's a murder, and a detective says, well, we've got no evidence at all, so have we considered the possibility that Mortimer Snodgrass did it?\""
+  ],
+  "summary_en": "Dumbledore says absence of a reason is no absence of reason, and Harry launches into privileging the hypothesis with million boxes and diamond detectors.",
+  "translation_fa": "دامبلدور سر تکان داد. «اما فقط چون نمی‌توانم به دلیلی فکر کنم به این معنا نیست که دلیلی نیست.»\n\nابزارها تیک‌تاک کردند.\n\n«باشد،» هری گفت، «حتی مطمئن نیستم باید این را بگویم، اما این به‌سادگی راه درست برخورد با نادانی اعتراف‌شده‌مان از کار جهان نیست.»\n\n«نیست؟» جادوگر پیر گفت، شگفت‌زده و ناامید به نظر می‌رسید.\n\nهری حس کرد این گفت‌وگو به نفعش تمام نمی‌شود، اما به‌هرحال ادامه داد. «نه. حتی نمی‌دانم آیا آن مغالطه اسم رسمی دارد، اما اگر مجبور بودم خودم بسازم، چیزی مثل «برجسته‌سازی فرضیه» یا چیزی شبیه آن می‌بود. چطور می‌توانم این را رسمی بگویم... ام... فرض کن میلیون جعبه داشتی، و فقط یکی از جعبه‌ها الماس داشت. و جعبه‌ای پر از آشکارساز الماس داشتی، و هر آشکارساز همیشه در حضور الماس به صدا درمی‌آمد، و نیمی از وقت روی جعبه‌هایی که الماس نداشتند به صدا درمی‌آمد. اگر بیست آشکارساز روی همه‌ی جعبه‌ها می‌کشیدی، به‌طور میانگین، یک نامزد کاذب و یک نامزد درست باقی می‌ماند. و بعد فقط یک یا دو آشکارساز دیگر لازم بود پیش از این‌که با یک نامزد درست باقی بمانی. نکته این است که وقتی جواب‌های ممکن زیادی هستند، بیشتر شواهدی که لازم داری می‌رود به فقط مکان‌یابی فرضیه‌ی درست از میان میلیون‌ها امکان ــ آوردنش به توجه‌ات در وهله‌ی اول. مقدار شواهدی که برای داوری بین دو یا سه نامزد محتمل لازم داری در مقایسه خیلی کوچک‌تر است. پس اگر بدون شواهد جلو بپری و یک امکان خاص را به کانون توجه‌ات ارتقا دهی، داری بیشتر کار را رد می‌کنی. مثل این‌که، در شهری زندگی می‌کنی که میلیون نفر دارد، و قتلی هست، و کارآگاهی می‌گوید، خب، هیچ شواهدی نداریم، پس احتمال این‌که مورتی‌مر اسنودگراس کرده باشد را در نظر گرفته‌ایم؟»",
+  "summary_fa": "دامبلدور می‌گوید نبود دلیل به‌معنای نبود دلیل نیست و هری وارد مغالطه‌ی برجسته‌سازی فرضیه با میلیون جعبه و آشکارساز الماس می‌شود."
+ },
+ {
+  "id": 68,
+  "paras": [
+   328,
+   329,
+   330,
+   331,
+   332
+  ],
+  "verbatim_html": [
+   "\"Did he?\" said Dumbledore.",
+   "\"No,\" said Harry. \"But later it turns out that the murderer had black hair, and Mortimer has black hair, so everyone's like, ah, looks like Mortimer did it after all. So it's unfair to Mortimer for the police to <em>promote him to their attention</em> without having good reasons already in hand to suspect him. When there are lots of possibilities, most of the work goes into just <em>locating</em> the true answer - starting to pay attention to it. You don't need <em>proof</em>, or the sort of official evidence that scientists or courts demand, but you need some sort of <em>hint</em>, and that hint has to discriminate that particular possibility from the millions of others. Otherwise you can't just pluck the right answer out of thin air. You can't even pluck a possibility worth thinking about out of thin air. And there's got to be a million other things I could do besides carrying around my father's rock. Just because I'm ignorant about the universe doesn't mean that I'm unsure about how I should reason in the presence of my uncertainty. The laws for thinking with probabilities are no less iron than the laws that govern old-fashioned logic, and what you just did is <em>not allowed.</em>\" Harry paused. \"<em>Unless</em>, of course, you have some <em>hint</em> you're not mentioning.\"",
+   "\"Ah,\" said Dumbledore. He tapped his cheek, looking thoughtful. \"An interesting argument, certainly, but doesn't it break down at the point where you make an analogy between a million potential murderers only one of whom committed the murder, and taking one out of many possible courses of action, when many possible courses of action may all be wise? I do not say that carrying your father's rock is the one best possible course of action, only that it is wiser to do than not.\"",
+   "Dumbledore once again reached into the same desk drawer he had accessed earlier, this time seeming to root around inside - at least his arm seemed to be moving. \"I will remark,\" Dumbledore said while Harry was still trying to sort out how to reply to this completely unexpected rejoinder, \"that it is a common misconception of Ravenclaws that all the smart children are Sorted there, leaving none for other Houses. This is not so; being Sorted to Ravenclaw indicates that you are driven by your desire to know things, which is not at all the same quality as being intelligent.\" The wizard was smiling as he bent over the drawer. \"Nonetheless, you <em>do</em> seem rather intelligent. Less like an ordinary young hero and more like a young mysterious ancient wizard. I think I may have been taking the wrong approach with you, Harry, and that you may be able to understand things that few others could grasp. So I shall be daring, and offer you a certain <em>other</em> heirloom.\"",
+   "\"You don't mean...\" gasped Harry. \"My father... <em>owned another rock?</em> \""
+  ],
+  "summary_en": "Harry warns that promoting Mortimer without a discriminating hint is unfair and un-Bayesian, then Dumbledore counters with many wise actions and pivots to Ravenclaw versus intelligence and another heirloom.",
+  "translation_fa": "«کرده؟» دامبلدور گفت.\n\n«نه،» هری گفت. «اما بعد معلوم می‌شود که قاتل موی سیاه داشته، و مورتی‌مر موی سیاه دارد، پس همه مثل این‌اند، آه، به نظر می‌رسد مورتی‌مر کرده. پس ناعادلانه است به مورتی‌مر که پلیس او را بدون داشتن دلایل خوب برای ظن به توجه‌شان ارتقا دهد. وقتی امکان‌های زیادی هستند، بیشتر کار می‌رود به فقط مکان‌یابی جواب درست ــ شروع به توجه به آن. به اثبات نیاز نداری، یا نوع شواهد رسمی که دانشمندان یا دادگاه‌ها می‌خواهند، اما به نوعی سرنخ نیاز داری، و آن سرنخ باید آن امکان خاص را از میلیون‌ها دیگر متمایز کند. وگرنه نمی‌توانی فقط جواب درست را از هوا بقاپی. حتی نمی‌توانی امکانی ارزش فکر کردن را از هوا بقاپی. و باید میلیون کار دیگر باشد که بتوانم بکنم جز حمل سنگ پدرم. فقط چون درباره‌ی جهان نادانم به این معنا نیست که درباره‌ی این‌که چطور باید در حضور عدم قطعیتم استدلال کنم نامطمئنم. قوانین فکر کردن با احتمال‌ها کمتر آهنین نیستند تا قوانین حاکم بر منطق قدیمی، و کاری که تازه کردی مجاز نیست.» هری مکث کرد. «مگر، البته، سرنخی داری که ذکر نمی‌کنی.»\n\n«آه،» دامبلدور گفت. گونه‌اش را زد، متفکر به نظر می‌رسید. «استدلال جالبی، مسلماً، اما آیا در نقطه‌ای که قیاس می‌کنی بین میلیون قاتل بالقوه که فقط یکی قتل را مرتکب شده، و گرفتن یکی از بسیاری دوره‌های عمل ممکن، وقتی بسیاری دوره‌های عمل ممکن همه ممکن است عاقلانه باشند، فرو نمی‌ریزد؟ نمی‌گویم که حمل سنگ پدرت یک بهترین دوره‌ی عمل ممکن است، فقط این‌که عاقلانه‌تر است انجامش دهی تا نه.»\n\nدامبلدور دوباره به همان کشوی میزی که قبلاً دسترسی داشت دست برد، این بار به نظر می‌رسید داخل ریشه می‌دواند ــ دست‌کم بازویش به نظر می‌رسید حرکت می‌کند. «می‌گویم،» دامبلدور گفت وقتی هری هنوز سعی می‌کرد جواب این پاسخ کاملاً غیرمنتظره را مرتب کند، «که تصور غلط رایج ریونکلاوی‌هاست که همه‌ی بچه‌های باهوش آنجا گروه‌بندی می‌شوند، و هیچی برای خانه‌های دیگر نمی‌ماند. این‌طور نیست؛ گروه‌بندی به ریونکلاو نشان می‌دهد که با میل‌ت به دانستن چیزها رانده می‌شوی، که اصلاً همان کیفیت باهوش بودن نیست.» جادوگر لبخندزنان روی کشو خم شده بود. «با این حال، نسبتاً باهوش به نظر می‌رسی. کمتر شبیه قهرمان جوان معمولی و بیشتر شبیه جادوگر باستانی جوان اسرارآمیز. فکر می‌کنم داشتم رویکرد اشتباهی با تو می‌گرفتم، هری، و این‌که ممکن است بتوانی چیزهایی بفهمی که معدود دیگران بتوانند درک کنند. پس جسور می‌شوم، و میراث معین دیگری به تو پیشنهاد می‌کنم.»\n\n«نمی‌خواهی بگویی...» هری نفسش بند آمد. «پدرم... سنگ دیگری داشت؟»",
+  "summary_fa": "هری هشدار می‌دهد ارتقای مورتی‌مر بدون سرنخ متمایزکننده ناعادلانه و غیربیزی است، بعد دامبلدور با کنش‌های عاقلانه‌ی بسیار جواب می‌دهد و به تفاوت ریونکلاو با هوش و میراثی دیگر می‌پیچد."
+ },
+ {
+  "id": 69,
+  "paras": [
+   333,
+   334,
+   335,
+   336,
+   337
+  ],
+  "verbatim_html": [
+   "\"Excuse me,\" said Dumbledore, \"I <em>am</em> still older and more mysterious than you and if there are any revelations to be made then <em>I</em> will do the revealing, thank you... oh, where <em>is</em> that thing!\" Dumbledore reached down further into the desk drawer, and still further. His head and shoulders and whole torso disappeared inside until only his hips and legs were sticking out, as though the desk drawer was eating him.",
+   "Harry couldn't help but wonder just how much stuff was in there and what the complete inventory would look like.",
+   "Finally Dumbledore rose back up out of the drawer, holding the objective of his search, which he set down on the desk alongside the rock.",
+   "It was a used, ragged-edged, worn-spined textbook: <em>Intermediate Potion Making</em> by Libatius Borage. There was a picture of a smoking vial on the cover.",
+   "\"This,\" Dumbledore intoned, \"was your mother's fifth-year Potions textbook.\""
+  ],
+  "summary_en": "Harry jokes about another rock, Dumbledore dives headfirst into the drawer, and surfaces with Lily's worn fifth-year Potions textbook.",
+  "translation_fa": "«ببخشید،» دامبلدور گفت، «من هنوز پیرتر و اسرارآمیزترم از تو و اگر مکاشفه‌ای قرار است بشود من انجامش می‌دهم، ممنون... اوه، آن چیز کجاست!» دامبلدور پایین‌تر به کشو رفت، و هنوز پایین‌تر. سر و شانه‌ها و کل تنه‌اش داخل کشوی میز ناپدید شد تا فقط باسن و پاهایش بیرون مانده بود، انگار کشوی میز داشت او را می‌خورد.\n\nهری نتوانست کمک کند جز این‌که نمی‌داند چقدر چیز داخل است و فهرست کامل چطور به نظر می‌رسد.\n\nسرانجام دامبلدور از کشو بالا آمد، هدف جست‌وجویش را نگه داشته بود، که کنار سنگ روی میز گذاشت.\n\nکتاب درسی استفاده‌شده، لبه‌ساییده، عطف‌ساییده بود: معجون‌سازی متوسطه نوشته‌ی لیباتیوس بوراژ. عکسی از ویال دودی روی جلد بود.\n\n«این،» دامبلدور با لحن موقر گفت، «کتاب درسی معجون سال پنجم مادرت بود.»",
+  "summary_fa": "هری درباره‌ی سنگی دیگر شوخی می‌کند، دامبلدور با سر داخل کشو می‌رود و با کتاب معجون سال پنجم مادرش که کهنه است بیرون می‌آید."
+ },
+ {
+  "id": 70,
+  "paras": [
+   338,
+   339,
+   340,
+   341,
+   342
+  ],
+  "verbatim_html": [
+   "\"Which I am to carry with me at all times,\" said Harry.",
+   "\"<em>Which holds a terrible secret</em>. A secret whose revelation could prove so disastrous that I must ask you to swear - and I do require you to swear it seriously, Harry, whatever you may think of all this - never to tell anyone or anything else.\"",
+   "Harry considered his mother's fifth-year Potions textbook, which, apparently, held a terrible secret.",
+   "The problem was that Harry <em>did</em> take that oaths like that very seriously. Any vow was an Unbreakable Vow if made by the right sort of person.",
+   "And..."
+  ],
+  "summary_en": "Dumbledore names the book Lily's Potions text holding a terrible secret, demands a serious oath of silence, and Harry weighs oaths as Harry trails off at And...",
+  "translation_fa": "«که باید همیشه با خودم حمل کنم،» هری گفت.\n\n«که راز وحشتناکی نگه می‌دارد. رازی که فاش شدنش می‌تواند چنان فاجعه‌بار ثابت شود که باید از تو بخواهم سوگند بخوری ــ و از تو می‌خواهم جدی سوگند بخوری، هری، هرچه درباره‌ی همه‌ی این فکر کنی ــ هرگز به هیچ‌کس یا هیچ‌چیز دیگری نگویی.»\n\nهری به کتاب درسی معجون سال پنجم مادرش نگاه کرد، که، ظاهراً، راز وحشتناکی نگه می‌داشت.\n\nمشکل این بود که هری آن سوگندهای این‌طور را خیلی جدی می‌گرفت. هر نذری نذر ناگسستنی بود اگر توسط نوع درست آدم گفته می‌شد.\n\nو...",
+  "summary_fa": "دامبلدور کتاب را کتاب معجون لی‌لی با راز وحشتناک می‌خواند، سوگند جدی سکوت می‌خواهد و هری به سوگندها فکر می‌کند وقتی روایت در و... می‌ماند."
+ },
+ {
+  "id": 71,
+  "paras": [
+   343,
+   344,
+   345,
+   346,
+   347
+  ],
+  "summary_en": "Feeling thirsty as a bad sign, Harry swears an oath at Dumbledore's demand, Dumbledore swears truth in return, and opens a book.",
+  "summary_fa": "هری با احساس تشنگی و نشانه‌ی بد، سوگند می‌خورد، دامبلدور هم سوگند راست‌گویی می‌خورد و کتابی را باز می‌کند.",
+  "translation_fa": "هری گفت: «احساس تشنگی می‌کنم،» «و این اصلاً نشانه‌ی خوبی نیست.»\n\nدامبلدور هیچ سؤالی درباره‌ی این جمله‌ی cryptic نپرسید. دامبلدور گفت: «سوگند می‌خوری، هری؟» چشمانش خیره به چشمان هری بود. «وگرنه نمی‌توانم به تو بگویم.»\n\nهری گفت: «بله. سوگند می‌خورم.» مشکل ریونکلاوی بودن همین بود. نمی‌توانستی چنین پیشنهادی را رد کنی وگرنه کنجکاوی‌ات تو را زنده‌زنده می‌خورد، و همه هم این را می‌دانستند.\n\nدامبلدور گفت: «و من هم به‌نوبه‌ی خود سوگند می‌خورم،» «که آنچه می‌خواهم به تو بگویم حقیقت است.»\n\nدامبلدور کتاب را ظاهراً تصادفی باز کرد، و هری برای دیدن به جلو خم شد.",
+  "verbatim_html": [
+   "\"I'm feeling thirsty,\" Harry said, \"and that is not at all a good sign.\"",
+   "Dumbledore entirely failed to ask any questions about this cryptic statement. \"<em>Do</em> you swear, Harry?\" said Dumbledore. His eyes gazed intently into Harry's. \"Otherwise I cannot tell you.\"",
+   "\"Yes,\" said Harry. \"I swear.\" That was the trouble with being a Ravenclaw. You couldn't refuse an offer like that or your curiosity would eat you alive, and everyone else knew it.",
+   "\"And I swear in turn,\" said Dumbledore, \"that what I am about to tell you is the truth.\"",
+   "Dumbledore opened the book, seemingly at random, and Harry leaned in to see."
+  ]
+ },
+ {
+  "id": 72,
+  "paras": [
+   348,
+   349,
+   350,
+   351,
+   352
+  ],
+  "summary_en": "Dumbledore shows margin notes about eagle's splendour potion and Thestral blood, revealing his and Lily's handwriting, and Harry concludes he is crazy.",
+  "summary_fa": "دامبلدور یادداشت‌های حاشیه درباره‌ی معجون و خون تسترال را نشان می‌دهد و دست‌خط خود و لی‌لی را فاش می‌کند و هری نتیجه می‌گیرد او دیوانه است.",
+  "translation_fa": "دامبلدور با صدایی چنان آهسته که تقریباً نجوایی بود گفت: «این یادداشت‌ها را می‌بینی،» «که در حاشیه‌ی کتاب نوشته شده‌اند؟»\n\nهری کمی چشم‌هایش را تنگ کرد. صفحه‌های زردشده ظاهراً چیزی به نام معجون شکوه عقاب را توصیف می‌کردند، و بسیاری از مواد آن چیزهایی بودند که هری اصلاً نمی‌شناخت و نام‌هایشان هم انگار از انگلیسی نیامده بود. در حاشیه یادداشتی دست‌نویس بود که می‌گفت، مگر چه می‌شود اگر به‌جای بلوبری از خون تسترال استفاده کنی؟ و درست زیرش با دست‌خطی دیگر جواب آمده بود، هفته‌ها مریض می‌شوی و شاید بمیری.\n\nهری گفت: «می‌بینمشان. خب؟»\n\nدامبلدور به خط‌خطی دوم اشاره کرد. هنوز با همان صدای آهسته گفت: «آن‌هایی که با این دست‌خط‌اند،» «را مادرت نوشته. و آن‌هایی که با این دست‌خط‌اند،» و انگشتش را حرکت داد تا خط‌خطی اول را نشان دهد، «را من نوشته‌ام. خودم را نامرئی می‌کردم و وقتی خواب بود یواشکی به خوابگاهش می‌رفتم. لی‌لی فکر می‌کرد یکی از دوستانش آن‌ها را می‌نویسد و دعواهای شگفت‌انگیزی با هم داشتند.»\n\nدرست همان‌جا بود که هری فهمید مدیر هاگوارتز در واقع دیوانه است.",
+  "verbatim_html": [
+   "\"Do you see these notes,\" Dumbledore said in a voice so low it was almost a whisper, \"written in the margins of the book?\"",
+   "Harry squinted slightly. The yellowing pages seemed to be describing something called a <em>potion of eagle's splendour,</em> many of the ingredients being items that Harry didn't recognise at all and whose names didn't appear to derive from English. Scrawled in the margin was a handwritten annotation saying, <em>I wonder what would happen if you used Thestral blood here instead of blueberries?</em> and immediately beneath was a reply in different handwriting, <em>You'd get sick for weeks and maybe die.</em>",
+   "\"I see them,\" said Harry. \"What about them?\"",
+   "Dumbledore pointed to the second scrawl. \"The ones in this handwriting,\" he said, still in that low voice, \"were written by your mother. And the ones in <em>this</em> handwriting,\" moving his finger to indicate the first scrawl, \"were written by me. I would turn myself invisible and sneak into her dorm room while she was sleeping. Lily thought one of her friends was writing them and they had the most amazing fights.\"",
+   "That was the exact point at which Harry realised that the Headmaster of Hogwarts <em>was,</em> in fact, crazy."
+  ]
+ },
+ {
+  "id": 73,
+  "paras": [
+   353,
+   354,
+   355,
+   356,
+   357
+  ],
+  "summary_en": "Dumbledore asks if Harry grasps the implications, Harry stalls, Dumbledore drops it, and Harry finds the door locked.",
+  "summary_fa": "دامبلدور می‌پرسد آیا هری پیامدها را می‌فهمد، هری دستپاچه می‌شود، دامبلدور منصرف می‌شود و هری می‌بیند در قفل است.",
+  "translation_fa": "دامبلدور با حالتی جدی به او نگاه کرد. «پیامدهای آنچه به تو گفتم را می‌فهمی، هری؟»\n\nهری گفت: «اوه...» صدایش انگار گیر کرده بود. «ببخشید... من... نه واقعاً...»\n\nدامبلدور گفت: «آه، خب،» و آه کشید. «پس ظاهراً زیرکی تو هم حدی دارد. بیا وانمود کنیم که اصلاً چیزی نگفتم؟»\n\nهری از صندلی‌اش بلند شد، با لبخندی خشکیده. هری گفت: «البته،» «می‌دانی دارد کم‌کم دیر می‌شود و کمی گرسنه‌ام، پس بهتر است بروم سر شام، واقعاً» و هری مستقیم به سمت در رفت.\n\nدستگیره‌ی در اصلاً نچرخید.",
+  "verbatim_html": [
+   "Dumbledore was looking at him with a serious expression. \"Do you understand the implications of what I have just told you, Harry?\"",
+   "\"Ehhh...\" Harry said. His voice seemed to be stuck. \"Sorry... I... not really...\"",
+   "\"Ah well,\" said Dumbledore, and sighed. \"I suppose your cleverness has limits after all, then. Shall we all just pretend I didn't say anything?\"",
+   "Harry rose from his chair, wearing a fixed smile. \"Of course,\" Harry said. \"You know it's actually getting rather late in the day and I'm a bit hungry, so I should be going down to dinner, really\" and Harry made a beeline for the door.",
+   "The doorknob entirely failed to turn."
+  ]
+ },
+ {
+  "id": 74,
+  "paras": [
+   358,
+   359,
+   360,
+   361,
+   362
+  ],
+  "summary_en": "Dumbledore calls it a sign of trust from behind him, Harry turns to see the bearded wizard in pink pyjamas, who laments being fled from after 110 years.",
+  "summary_fa": "دامبلدور از پشت سر از اعتماد می‌گوید، هری برمی‌گردد و جادوگر ریش‌دار با پیژامه‌ی صورتی را می‌بیند که از فرار مردم پس از صدوده سال گله دارد.",
+  "translation_fa": "صدای دامبلدور از درست پشت سرش با لحنی آرام آمد: «تو مرا آزردی، هری.» «آیا دست‌کم نمی‌فهمی که آنچه به تو گفتم نشانه‌ی اعتماد است؟»\n\nهری به‌آرامی برگشت.\n\nروبه‌رویش جادوگری بسیار قدرتمند و بسیار دیوانه بود با ریش بلند نقره‌ای، کلاهی مثل قارچ غول‌پیکر له‌شده، و چیزی که از چشم ماگل‌ها شبیه سه لایه پیژامه‌ی صورتی روشن بود.\n\nپشت سرش دری بود که در آن لحظه به نظر نمی‌رسید کار کند.\n\nدامبلدور نسبتاً غمگین و خسته به نظر می‌رسید، انگار می‌خواست به عصای جادوگری تکیه بدهد که نداشت. دامبلدور گفت: «واقعاً،» «آدم هر کار تازه‌ای می‌کند به‌جای این‌که صدوده سال هر بار همان الگوی همیشگی را تکرار کند، و همه شروع می‌کنند به فرار.» جادوگر پیر با اندوه سرش را تکان داد. «از تو بهتر انتظار داشتم، هری پاتر. شنیده‌ام که دوستان خودت هم فکر می‌کنند تو دیوانه‌ای. می‌دانم که اشتباه می‌کنند. آیا تو هم درباره‌ی من چنین باور نمی‌کنی؟»",
+  "verbatim_html": [
+   "\"You wound me, Harry,\" said Dumbledore's voice in quiet tones that were coming from right behind him. \"Do you not at least realise that what I have told you is a sign of trust?\"",
+   "Harry slowly turned around.",
+   "In front of him was a very powerful and very insane wizard with a long silver beard, a hat like a squashed giant mushroom, and wearing what looked to Muggle eyes like three layers of bright pink pyjamas.",
+   "Behind him was a door that didn't seem to be working at the moment.",
+   "Dumbledore was looking rather saddened and weary, like he wanted to lean on a wizard's staff he didn't have. \"Really,\" said Dumbledore, \"you try anything new instead of following the same pattern every time for a hundred and ten years, and people all start running away.\" The old wizard shook his head in sorrow. \"I'd hoped for better from you, Harry Potter. I'd heard that your own friends also think you mad. I know they are mistaken. Will you not believe the same of me?\""
+  ]
+ },
+ {
+  "id": 75,
+  "paras": [
+   363,
+   364,
+   365,
+   366,
+   367
+  ],
+  "summary_en": "Harry demands the door open as proof of trust, Dumbledore opens it, warns of unsaid things, and Harry's Gryffindor side urges him not to panic.",
+  "summary_fa": "هری باز شدن در را نشانه‌ی اعتماد می‌خواهد، دامبلدور بازش می‌کند و از حرف‌های ناگفته می‌گوید، و نیمه‌ی گریفیندوری هری او را به نترسیدن دعوت می‌کند.",
+  "translation_fa": "هری با صدایی لرزان گفت: «لطفاً در را باز کن.» «اگر می‌خواهی دوباره به تو اعتماد کنم، در را باز کن.»\n\nصدای باز شدن دری از پشت سرش آمد.\n\nدامبلدور گفت: «چیزهای دیگری هم بود که می‌خواستم به تو بگویم،» «و اگر حالا بروی، نخواهی دانست چه بودند.»\n\nهری گاهی از ریونکلاوی بودن به‌شدت متنفر بود.\n\nنیمه‌ی گریفیندوری هری گفت: او هرگز به دانش‌آموزی آسیب نزده. فقط همین را یادت نگه دار تا مطمئن شوی وحشت نمی‌کنی. قرار نیست فقط چون اوضاع جالب می‌شود فرار کنی، مگر نه؟",
+  "verbatim_html": [
+   "\"Please open the door,\" Harry said, his voice trembling. \"If you ever want me to trust you again, open the door.\"",
+   "There was the sound behind him of a door opening.",
+   "\"There were more things I planned to say to you,\" Dumbledore said, \"and if you leave now, you will not know what they were.\"",
+   "Sometimes Harry absolutely <em>hated</em> being a Ravenclaw.",
+   "<em>He's never hurt a student,</em> said Harry's Gryffindor side. <em>Just keep remembering that and you'll be sure not to panic. You're not going to run away just because things are getting interesting, are you?</em>"
+  ]
+ },
+ {
+  "id": 76,
+  "paras": [
+   368,
+   369,
+   370,
+   371,
+   372
+  ],
+  "summary_en": "His Hufflepuff and Slytherin sides argue for staying, Harry is outvoted, closes the door deliberately, and Dumbledore smiles again.",
+  "summary_fa": "نیمه‌های هافلپافی و اسلیترینی‌اش برای ماندن استدلال می‌کنند، هری رأی را می‌بازد، عمداً در را می‌بندد و دامبلدور دوباره لبخند می‌زند.",
+  "translation_fa": "بخش هافلپافی گفت: نمی‌توانی همین‌طوری مدیر را ترک کنی! اگر شروع کند به کم کردن امتیاز خانه چه؟ اگر تصمیم بگیرد از تو خوشش نمی‌آید می‌تواند زندگی مدرسه‌ات را خیلی سخت کند!\n\nو تکه‌ای از وجودش که هری چندان دوستش نداشت ولی نمی‌توانست ساکتش کند داشت به مزایای احتمالی دوست بودن با این جادوگر پیر دیوانه فکر می‌کرد که اتفاقاً مدیر، قاضی ارشد و رئیس هم بود. و متأسفانه اسلیترین درونش ظاهراً خیلی بهتر از دریکو مردم را به سمت تاریکی می‌کشاند، چون چیزهایی مثل بیچاره، به نظر می‌رسد کسی را لازم دارد که با او حرف بزند، مگر نه؟ و نمی‌خواهی چنین مرد قدرتمندی به کسی کمتر پرهیزکار اعتماد کند، می‌خواهی؟ و عجب اگر، می‌دانی، با او دوست شوی چه رازهای باورنکردنی‌ای می‌تواند به تو بگوید و حتی شرط می‌بندم مجموعه‌ی کتاب واقعاً جالبی دارد.\n\nهری به کل آن جمع فکر کرد: شما همه مشتی دیوانه‌اید، ولی همه‌ی اجزای وجودش به اتفاق آرا به او رأی منفی داده بودند.\n\nهری برگشت، قدمی به سمت در باز برداشت، دستش را دراز کرد و عمداً دوباره آن را بست. فداکاری بی‌هزینه‌ای بود چون به‌هرحال می‌ماند، دامبلدور می‌توانست حرکت‌هایش را کنترل کند، ولی شاید دامبلدور را تحت تأثیر قرار می‌داد.\n\nوقتی هری برگشت دید که جادوگر قدرتمند دیوانه دوباره لبخند می‌زند و دوستانه به نظر می‌رسد. خب، شاید خوب بود.",
+  "verbatim_html": [
+   "<em>You can't just walk out on the Headmaster!</em> said the Hufflepuff part. <em>What if he starts deducting House points? He could make your school life very difficult if he decides he doesn't like you!</em>",
+   "And a piece of himself which Harry didn't much like but couldn't quite manage to silence was pondering the potential advantages of being one of the few friends of this mad old wizard who also happened to be Headmaster, Chief Warlock, and Supreme Mugwump. And unfortunately his inner Slytherin seemed to be much better than Draco at turning people to the Dark Side, because it was saying things like <em>poor fellow, he looks like he needs someone to talk to, doesn't he?</em> and <em>you wouldn't want such a powerful man to end up trusting someone less virtuous, would you?</em> and <em>I wonder what sort of incredible secrets Dumbledore could tell you if, you know, you became friends with him</em> and even <em>I bet he's got a reaallly interesting book collection.</em>",
+   "<em>You're all a bunch of lunatics,</em> Harry thought at the entire assemblage, but he'd been unanimously outvoted by every component part of himself.",
+   "Harry turned, took a step towards the open door, reached out, and deliberately closed it again. It was a costless sacrifice given that he was staying anyway, Dumbledore could control his movements regardless, but maybe it would impress Dumbledore.",
+   "When Harry turned back around he saw that the powerful insane wizard was once more smiling and looking friendly. That was good, maybe."
+  ]
+ },
+ {
+  "id": 77,
+  "paras": [
+   373,
+   374,
+   375,
+   376,
+   377
+  ],
+  "summary_en": "Harry asks not to be trapped, Dumbledore apologises but mentions the father's rock, and Harry feeds the rock into his pouch.",
+  "summary_fa": "هری می‌خواهد به دام نیفتد، دامبلدور عذر می‌خواهد ولی سنگ پدر را یادآوری می‌کند و هری سنگ را در کیسه‌اش می‌گذارد.",
+  "translation_fa": "هری گفت: «لطفاً دیگر این کار را نکن.» «دوست ندارم به دام بیفتم.»\n\nدامبلدور با لحنی که به نظر صادقانه عذرخواهانه می‌آمد گفت: «متأسفم هری،» «اما خیلی نابخردانه بود اگر می‌گذاشتم بدون سنگ پدرت بروی.»\n\nهری گفت: «البته،» «غیرمنطقی بود که انتظار داشته باشم در پیش از این‌که آیتم‌های مأموریت را در موجودی‌ام بگذارم باز شود.»\n\nدامبلدور لبخند زد و سر تکان داد.\n\nهری به سمت میز رفت، کیسه‌ی موکسکینش را به جلوی کمربندش چرخاند، و با کمی تلاش توانست سنگ را با بازوهای یازده‌ساله‌اش بالا ببرد و داخلش بخوراند.",
+  "verbatim_html": [
+   "\"Please don't do that again,\" Harry said. \"I don't like being trapped.\"",
+   "\"I <em>am</em> sorry about that, Harry,\" said Dumbledore in what sounded like tones of sincere apology. \"But it would have been terribly unwise to let you leave without your father's rock.\"",
+   "\"Of course,\" Harry said. \"It wasn't reasonable of me to expect the door to open before I put the quest items in my inventory.\"",
+   "Dumbledore smiled and nodded.",
+   "Harry went over to the desk, twisted his mokeskin pouch around to the front of his belt, and, with some effort, managed to heave up the rock in his eleven-year-old arms and feed it in."
+  ]
+ },
+ {
+  "id": 78,
+  "paras": [
+   378,
+   379,
+   380,
+   381,
+   382
+  ],
+  "summary_en": "The pouch burps after eating the rock, the textbook follows, and Harry's tour request gets a deadpan portraits-desk-chair answer.",
+  "summary_fa": "کیسه پس از خوردن سنگ آروغ می‌زند، کتاب درسی هم می‌رود و درخواست بازدید هری با جواب خشک پرتره‌ها و میز و صندلی روبه‌رو می‌شود.",
+  "translation_fa": "او واقعاً می‌توانست حس کند که وزن کم‌کم کم می‌شود وقتی طلسم لب گشادکننده سنگ را می‌خورد، و آروغی که بعدش آمد نسبتاً پرسروصدا بود و صدایی مشخصاً شاکی داشت.\n\nکتاب معجون‌سازی سال پنجم مادرش (که رازی در خود داشت که در واقع خیلی هولناک بود) کمی بعد به دنبالش رفت.\n\nو بعد اسلیترین درون هری پیشنهادی حیله‌گرانه برای خود را در دل مدیر جا کردن داد که متأسفانه چنان دقیق تنظیم شده بود که حمایت جناح اکثریت ریونکلاو را به دست آورد.\n\nهری گفت: «خب،» «ام. چون به‌هرحال این دوروبرم، فکر نمی‌کنم بخواهی کمی دفترت را به من نشان بدهی؟ کمی کنجکاوم که بعضی از این چیزها چه هستند،» و این کم‌گویی ماه سپتامبر او بود.\n\nدامبلدور به او نگاه کرد و بعد با لبخندی خفیف سر تکان داد. دامبلدور گفت: «از علاقه‌ات چاپلوس شدم،» «ولی می‌ترسم چیز زیادی برای گفتن نباشد.» دامبلدور قدمی به دیوار نزدیک‌تر شد و به تابلوی مردی خوابیده اشاره کرد. «این‌ها پرتره‌های مدیران پیشین هاگوارتزند.» برگشت و به میزش اشاره کرد. «این میز من است.» به صندلی‌اش اشاره کرد. «این صندلی من است ــ»",
+  "verbatim_html": [
+   "He could actually feel the weight slowly diminishing as the Widening Lip charm ate the rock, and the burp which followed was rather noisy and had a distinctly complaining sound to it.",
+   "His mother's fifth-year Potions textbook (which held a secret that was in fact pretty terrible) followed shortly after.",
+   "And then Harry's inner Slytherin made a sly suggestion for ingratiating himself with the Headmaster, which, unfortunately, had been perfectly pitched in such a way as to gain the support of the majority Ravenclaw faction.",
+   "\"So,\" Harry said. \"Um. As long as I'm hanging around, I don't suppose you would like to give me a bit of a tour of your office? I'm a bit curious as to what some of these things are,\" and that was his understatement for the month of September.",
+   "Dumbledore gazed at him, and then nodded with a slight grin. \"I'm flattered by your interest,\" said Dumbledore, \"but I'm afraid there isn't much to say.\" Dumbledore took a step closer to the wall and pointed to a painting of a sleeping man. \"These are portraits of past Headmasters of Hogwarts.\" He turned and pointed to his desk. \"This is my desk.\" He pointed to his chair. \"This is my chair -\""
+  ]
+ },
+ {
+  "id": 79,
+  "paras": [
+   383,
+   384,
+   385,
+   386,
+   387
+  ],
+  "summary_en": "Harry points at the blorple cube, Dumbledore jokes about sneeze dials and wibblers, then shows the Sorting Hat, umbrellas, and Fawkes.",
+  "summary_fa": "هری مکعب بلورپل را نشان می‌دهد، دامبلدور از شمارنده‌ی عطسه و ویبلرها می‌گوید و بعد کلاه گروه‌بندی، چترها و فاکس را نشان می‌دهد.",
+  "translation_fa": "هری گفت: «ببخشید،» «در واقع منظورم آن‌ها بود.» هری به مکعب کوچکی اشاره کرد که آرام زمزمه می‌کرد «بلورپل... بلورپل... بلورپل».\n\nدامبلدور گفت: «اوه، چیزهای کوچک وراج؟» «آن‌ها با دفتر مدیر آمده‌اند و اصلاً نمی‌دانم بیشترشان چه کار می‌کنند. هرچند این صفحه با هشت عقربه تعداد، بگذار بگوییم عطسه‌ها، توسط جادوگران چپ‌دست در مرزهای فرانسه را می‌شمارد، باور نمی‌کنی چقدر کار برد تا معلوم شود. و این یکی با ویبلرهای طلایی اختراع خودم است و مینروا هیچ‌وقت قرار نیست بفهمد چه کار می‌کند.»\n\nدامبلدور در حالی که هری هنوز داشت این را هضم می‌کرد قدمی به سمت جالباسی برداشت. «اینجا البته کلاه گروه‌بندی را داریم، فکر کنم شما دو نفر آشنا شده‌اید. به من گفت که دیگر تحت هیچ شرایطی روی سرت گذاشته نشود. تو فقط چهاردهمین دانش‌آموز در تاریخی که این را درباره‌اش گفته، بابا یاگا یکی دیگر بود و دوازده تای دیگر را وقتی بزرگ‌تر شدی به تو می‌گویم. این یک چتر است. این چتر دیگری است.» دامبلدور چند قدم دیگر برداشت و برگشت، حالا کاملاً پهن لبخند می‌زد. «و البته، بیشتر کسانی که به دفترم می‌آیند می‌خواهند فاکس را ببینند.»\n\nدامبلدور کنار پرنده روی سکوی طلایی ایستاده بود.\n\nهری جلو آمد، نسبتاً گیج. «این فاکس است؟»",
+  "verbatim_html": [
+   "\"Excuse me,\" Harry said, \"actually I was wondering about those.\" Harry pointed to a small cube that was softly whispering \"blorple... blorple... blorple\".",
+   "\"Oh, the little fiddly things?\" said Dumbledore. \"They came with the Headmaster's office and I have absolutely no idea what most of them do. Although <em>this</em> dial with the eight hands counts the number of, let's call them sneezes, by left-handed witches within the borders of France, you would not believe how much work it took to nail that down. And <em>this</em> one with the golden wibblers is my own invention and Minerva is never, ever going to figure out what it's doing.\"",
+   "Dumbledore took a step over to the hatrack while Harry was still processing this. \"Here of course we have the Sorting Hat, I believe the two of you have met. It told me that it was never again to be placed on your head under any circumstances. You're only the fourteenth student in history it's said that about, Baba Yaga was another one and I'll tell you about the other twelve when you're older. This is an umbrella. This is another umbrella.\" Dumbledore took another few steps and turned around, now smiling quite broadly. \"And of course, most people who come to my office want to see Fawkes.\"",
+   "Dumbledore was standing next to the bird on the golden platform.",
+   "Harry came over, rather puzzled. \"This is Fawkes?\""
+  ]
+ },
+ {
+  "id": 80,
+  "paras": [
+   388,
+   389,
+   390,
+   391,
+   392
+  ],
+  "summary_en": "Dumbledore calls Fawkes a phoenix, Harry stares into beady unintelligent eyes, recognises a chicken shape, and stalls.",
+  "summary_fa": "دامبلدور فاکس را ققنوس می‌نامد، هری به چشمان ریز و بی‌هوش خیره می‌شود، شکل مرغ را تشخیص می‌دهد و من‌من می‌کند.",
+  "translation_fa": "دامبلدور گفت: «فاکس یک ققنوس است.» «موجودات جادویی بسیار نادر و بسیار قدرتمند.»\n\nهری گفت: «آه...» سرش را پایین آورد و به چشمان ریز و سیاه خیره شد، که هیچ نشانه‌ای از قدرت یا هوش نشان نمی‌دادند.\n\nهری دوباره گفت: «آه...»\n\nاو تقریباً مطمئن بود که شکل پرنده را می‌شناسد. نادیده گرفتنش خیلی سخت بود.\n\n«امم...»",
+  "verbatim_html": [
+   "\"Fawkes is a phoenix,\" said Dumbledore. \"Very rare, very powerful magical creatures.\"",
+   "\"Ah...\" Harry said. He lowered his head and stared into the tiny, beady black eyes, which showed not the slightest sign of power or intelligence.",
+   "\"Ahhh...\" Harry said again.",
+   "He was pretty sure he recognised the shape of the bird. It was pretty hard to miss.",
+   "\"Umm...\""
+  ]
+ },
+ {
+  "id": 81,
+  "paras": [
+   393,
+   394,
+   395,
+   396,
+   397
+  ],
+  "summary_en": "Harry's mind screams to say something intelligent and settles on anything except calling Fawkes a chicken.",
+  "summary_fa": "ذهن هری فریاد می‌زند چیز هوشمندی بگو و به هر چیزی جز این‌که فاکس مرغ است رضایت می‌دهد.",
+  "translation_fa": "ذهن هری به خودش غرش کرد: چیزی هوشمندانه بگو! فقط آنجا نایست مثل احمقی که هذیان می‌گوید!\n\nذهن هری جواب داد: خب انتظار داری چه بگویم؟\n\nهر چیزی!\n\nیعنی، هر چیزی جز این‌که «فاکس یک مرغ است» ــ\n\nبله! هر چیزی جز آن!",
+  "verbatim_html": [
+   "<em>Say something intelligent!</em> Harry's mind roared at itself. <em>Don't just stand there sounding like a gibbering moron!</em>",
+   "<em>Well what the heck am I</em> supposed <em>to say?</em> Harry's mind fired back.",
+   "<em>Anything!</em>",
+   "<em>You mean, anything besides \"Fawkes is a chicken\" -</em>",
+   "<em>Yes! Anything but that!</em>"
+  ]
+ },
+ {
+  "id": 82,
+  "paras": [
+   398,
+   399,
+   400,
+   401,
+   402
+  ],
+  "summary_en": "Harry asks about phoenix magic, Dumbledore explains healing tears and fiery rebirth, and the chicken bursts into flame and ashes.",
+  "summary_fa": "هری درباره‌ی جادوی ققنوس می‌پرسد، دامبلدور اشک شفابخش و تولد دوباره‌ی آتشین را توضیح می‌دهد و مرغ شعله‌ور می‌شود و خاکستر می‌ماند.",
+  "translation_fa": "«خب، آه، ققنوس‌ها چه جور جادویی می‌کنند؟»\n\nدامبلدور گفت: «اشک‌هایشان قدرت شفا دارد.» «آن‌ها موجودات آتش‌اند، و به‌آسانیِ خاموش شدن آتش در جایی و افروخته شدنش در جای دیگر میان همه‌ی مکان‌ها حرکت می‌کنند. فشار عظیم جادوی ذاتی‌شان بدن‌هایشان را سریع پیر می‌کند، و بااین‌حال به جاودانگی نزدیک‌اند مثل هر موجودی که در این جهان هست، چون هر وقت بدن‌شان ناکام شود خود را در انفجاری از آتش می‌سوزانند و جوجه‌ای، یا گاهی تخمی، به جا می‌گذارند.» دامبلدور نزدیک‌تر آمد و مرغ را وارسی کرد، اخم کرد. «همم... کمی پژمرده به نظر می‌رسد.»\n\nتا وقتی این جمله کاملاً در ذهن هری ثبت شد، مرغ از قبل آتش گرفته بود.\n\nمنقار مرغ باز شد، ولی پیش از حتی یک قدقد کردن شروع به پژمردن و زغال شدن کرد. شعله کوتاه، شدید و کاملاً خودمحصور بود؛ بوی سوختنی نبود.\n\nو بعد آتش فقط ثانیه‌هایی پس از شروع فروکش کرد، و توده‌ی کوچک و رقت‌انگیزی از خاکستر روی سکوی طلایی به جا گذاشت.",
+  "verbatim_html": [
+   "\"So, ah, what sort of magic do phoenixes do, then?\"",
+   "\"Their tears have the power to heal,\" Dumbledore said. \"They are creatures of fire, and move between all places as easily as fire may extinguish itself in one place and be kindled in another. The tremendous strain of their innate magic ages their bodies quickly, and yet they are as close to undying as any creature that exists in this world, for whenever their bodies fail them they immolate themselves in a burst of fire and leave behind a hatchling, or sometimes an egg.\" Dumbledore came closer and inspected the chicken, frowning. \"Hm... looking a little peaky there, I'd say.\"",
+   "By the time this statement registered fully in Harry's mind, the chicken was already on fire.",
+   "The chicken's beak opened, but it didn't have time for so much as a single caw before it began to wither and char. The blaze was brief, intense, and entirely self-contained; there was no smell of burning.",
+   "And then the fire died down only seconds after it had begun, leaving behind a tiny, pathetic heap of ashes on the golden platform."
+  ]
+ },
+ {
+  "id": 83,
+  "paras": [
+   403,
+   404,
+   405,
+   406,
+   407
+  ],
+  "summary_en": "Dumbledore finds an egg in the ashes, hurries on toward dinner, and Harry's inner government struggles while he babbles.",
+  "summary_fa": "دامبلدور تخمی در خاکستر پیدا می‌کند، به سمت شام عجله می‌کند و دولت درون هری درگیر است در حالی که او من‌من می‌کند.",
+  "translation_fa": "دامبلدور گفت: «این‌قدر وحشت‌زده نگاه نکن، هری!» «فاکس آسیب ندیده.» دست دامبلدور در جیبی فرو رفت، و بعد همان دست خاکستر را زیرورو کرد و تخم کوچک مایل‌به‌زردی بیرون آورد. «نگاه کن، این هم تخم!»\n\n«اوه... وای... شگفت‌انگیز...»\n\nدامبلدور گفت: «اما حالا واقعاً باید به کارها برسیم.» تخم را در خاکستر مرغ جا گذاشت، به تختش برگشت و نشست. «آخرش نزدیک شام است، و نمی‌خواهیم مجبور شویم از چرخاننده‌های زمان‌مان استفاده کنیم.»\n\nنبرد قدرتی خشن در دولت هری در جریان بود. اسلیترین و هافلپاف پس از دیدن مدیر هاگوارتز که به مرغی آتش زد جبهه عوض کرده بودند.\n\nلب‌های هری گفتند: «بله، کارها. و بعد شام.»",
+  "verbatim_html": [
+   "\"Don't look so horrified, Harry!\" said Dumbledore. \"Fawkes hasn't been hurt.\" Dumbledore's hand dipped into a pocket, and then the same hand sifted through the ashes and turned up a small yellowish egg. \"Look, here's an egg!\"",
+   "\"Oh... wow... amazing...\"",
+   "\"But now we really should get on with things,\" Dumbledore said. Leaving the egg behind in the ashes of the chicken, he returned to his throne and seated himself. \"It's almost time for dinner, after all, and we wouldn't want to have to use our Time-Turners.\"",
+   "There was a violent power struggle going on in the Government of Harry. Slytherin and Hufflepuff had switched sides after seeing the Headmaster of Hogwarts set fire to a chicken.",
+   "\"Yes, things,\" said Harry's lips. \"And then dinner.\""
+  ]
+ },
+ {
+  "id": 84,
+  "paras": [
+   408,
+   409,
+   410,
+   411,
+   412
+  ],
+  "summary_en": "Dumbledore confesses lifelong manipulation and wicked stepparents, Harry babbles approval, then blurts his parents are not wicked.",
+  "summary_fa": "دامبلدور به دستکاری مادام‌العمر و نامادری و ناپدری شرور اعتراف می‌کند، هری من‌من می‌کند و بعد می‌گوید پدر و مادرش شرور نیستند.",
+  "translation_fa": "منتقد درون هری مشاهده کرد: داری دوباره مثل احمقی که هذیان می‌گوید به نظر می‌رسی.\n\nدامبلدور گفت: «خب،» «می‌ترسم اعتراف و عذرخواهی‌ای داشته باشم، هری.»\n\n«عذرخواهی‌ها خوب‌اند» این حتی معنی نمی‌دهد! دارم درباره‌ی چه حرف می‌زنم؟\n\nجادوگر پیر عمیق آه کشید. «شاید پس از فهمیدن آنچه باید بگویم هنوز چنین فکر نکنی. می‌ترسم، هری، که تمام عمرت تو را دستکاری کرده باشم. من بودم که تو را به مراقبت نامادری و ناپدری شرورت سپردم ــ»\n\nهری ناگهان گفت: «نامادری و ناپدری‌ام شرور نیستند!» «یعنی پدر و مادرم!»",
+  "verbatim_html": [
+   "<em>You're sounding like a gibbering moron again</em> observed Harry's Internal Critic.",
+   "\"Well,\" Dumbledore said. \"I fear I have a confession to make, Harry. A confession and an apology.\"",
+   "\"Apologies are good\" <em>that doesn't even make sense! What am I talking about?</em>",
+   "The old wizard sighed deeply. \"You may not still think so after understanding what I have to say. I'm afraid, Harry, that I've been manipulating you your entire life. It was I who consigned you to the care of your wicked stepparents -\"",
+   "\"My stepparents aren't wicked!\" blurted Harry. \"My <em>parents,</em> I mean!\""
+  ]
+ },
+ {
+  "id": 85,
+  "paras": [
+   413,
+   414,
+   415,
+   416,
+   417
+  ],
+  "summary_en": "Dumbledore is disappointed by non-wicked parents, Harry's Slytherin screams to shut up, and Harry invents dishes and book complaints.",
+  "summary_fa": "دامبلدور از شرور نبودن والدین ناامید می‌شود، اسلیترین هری فریاد می‌زند خفه شو و هری از ظرف شستن و کتاب نخواندن می‌گوید.",
+  "translation_fa": "دامبلدور با تعجب و ناامیدی گفت: «نیستند؟» «حتی کمی شرور؟ این با الگو جور نیست...»\n\nاسلیترین درون هری با تمام توان ذهنش جیغ زد، خفه شو احمق وگرنه تو را از آن‌ها می‌گیرد!\n\nهری گفت: «نه، نه،» با لب‌هایی که در پوزخندی هولناک خشک شده بودند، «فقط می‌خواستم احساساتت را مراعات کنم، آن‌ها در واقع خیلی شرورند...»\n\nدامبلدور به جلو خم شد و خیره به او نگاه کرد. «هستند؟ چه کار می‌کنند؟»\n\nسریع حرف بزن «آن‌ها، آه، باید ظرف بشورم و مسئله‌ها را بشورم و نمی‌گذارند کتاب زیاد بخوانم و ــ»",
+  "verbatim_html": [
+   "\"They aren't?\" Dumbledore said, looking surprised and disappointed. \"Not even a little wicked? That doesn't fit the pattern...\"",
+   "Harry's inner Slytherin screamed at the top of its mental lungs, <em>SHUT UP YOU IDIOT HE'LL TAKE YOU AWAY FROM THEM!</em>",
+   "\"No, no,\" said Harry, lips frozen in a ghastly grimace, \"I was just trying to spare your feelings, they're actually very wicked...\"",
+   "\"They are?\" Dumbledore leaned forward, gazing at him intently. \"What do they do?\"",
+   "<em>Talk fast</em> \"they, ah, I have to do dishes and wash problems and they don't let me read a lot of books and -\""
+  ]
+ },
+ {
+  "id": 86,
+  "paras": [
+   418,
+   419,
+   420,
+   421,
+   422
+  ],
+  "summary_en": "Dumbledore accepts the wickedness report, claims responsibility for all bad things, Harry fake-growls, and Dumbledore tearfully apologises.",
+  "summary_fa": "دامبلدور گزارش شرارت را می‌پذیرد، مسئولیت همه‌ی بدی‌ها را می‌پذیرد، هری غرش ساختگی می‌کند و دامبلدور اشک‌آلود عذر می‌خواهد.",
+  "translation_fa": "دامبلدور گفت: «آه، خوب، شنیدنش خوب است،» و دوباره تکیه داد. با نوعی لبخند غمگین لبخند زد. «پس برای آن عذر می‌خواهم. حالا کجا بودم؟ آه، بله. متأسفم که بگویم، هری، که مسئول عملاً همه‌ی بدی‌هایی هستم که تا حالا برایت اتفاق افتاده. می‌دانم که این احتمالاً تو را خیلی عصبانی می‌کند.»\n\nهری گفت: «بله، خیلی عصبانی‌ام!» «غررر!»\n\nمنتقد درون هری بی‌درنگ جایزه‌ی تمام دوران بدترین بازیگری تاریخ را به او داد.\n\nدامبلدور گفت: «و فقط می‌خواستم بدانی،» «می‌خواستم هرچه زودتر به تو بگویم، در صورتی که بعداً برای یکی از ما اتفاقی بیفتد، که واقعاً، واقعاً متأسفم. برای همه‌ی آنچه تا حالا اتفاق افتاده، و همه‌ی آنچه خواهد شد.»\n\nرطوبت در چشمان جادوگر پیر برق زد.",
+  "verbatim_html": [
+   "\"Ah, good, that's good to hear,\" said Dumbledore, leaning back again. He smiled in a sad sort of way. \"I apologise for <em>that</em>, then. Now where was I? Ah, yes. I'm sorry to say, Harry, that I am responsible for virtually everything bad that has ever happened to you. I know that this will probably make you very angry.\"",
+   "\"Yes, I'm very angry!\" said Harry. \"Grrr!\"",
+   "Harry's Internal Critic promptly awarded him the All-Time Award for the Worst Acting in the History of Ever.",
+   "\"And I just wanted you to know,\" Dumbledore said, \"I wanted to tell you as early as possible, in case something happens to one of us later, that I am truly, truly sorry. For everything that has already happened, and everything that will.\"",
+   "Moisture glistened in the old wizard's eyes."
+  ]
+ },
+ {
+  "id": 87,
+  "paras": [
+   423,
+   424,
+   425,
+   426,
+   427
+  ],
+  "summary_en": "Harry demands anything else before leaving, hears the forbidden third-floor door plus Alohomora hint, and bolts as the scene breaks.",
+  "summary_fa": "هری حرف دیگری پیش از رفتن می‌خواهد، درباره‌ی در ممنوعه‌ی طبقه‌ی سوم و اشاره‌ی آلوهامورا می‌شنود و می‌گریزد و صحنه تمام می‌شود.",
+  "translation_fa": "هری گفت: «و من خیلی عصبانی‌ام!» «آن‌قدر عصبانی که همین حالا می‌خواهم بروم مگر این‌که چیز دیگری برای گفتن داشته باشی!»\n\nاسلیترین، هافلپاف و گریفیندور جیغ زدند: فقط برو پیش از این‌که تو را آتش بزند!\n\nدامبلدور گفت: «می‌فهمم.» «پس یک چیز آخر هری. نباید در ممنوعه‌ی راهروی طبقه‌ی سوم را امتحان کنی. هیچ راهی نیست که بتوانی از همه‌ی تله‌ها بگذری، و نمی‌خواهم بشنوم که موقع تلاش آسیب دیده‌ای. تازه، شک دارم که اصلاً بتوانی در اول را باز کنی، چون قفل است و تو طلسم آلوهامورا را نمی‌دانی ــ»\n\nهری چرخید و با تمام سرعت به سمت خروجی دوید، دستگیره‌ی در در دستش به‌راحتی چرخید و بعد داشت از پله‌های مارپیچ پایین می‌دوید حتی وقتی می‌چرخیدند، پاهایش تقریباً روی هم می‌افتادند، در یک لحظه پایین بود و غول‌تندیس کنار رفت و هری مثل گلوله‌ی توپ از راه‌پله بیرون پرید.\n\n* * *",
+  "verbatim_html": [
+   "\"And I'm very angry!\" said Harry. \"So angry that I want to leave right now unless you've got anything else to say!\"",
+   "<em>Just GO before he sets you on fire!</em> shrieked Slytherin, Hufflepuff, and Gryffindor.",
+   "\"I understand,\" said Dumbledore. \"One last thing then, Harry. You are <em>not</em> to attempt the forbidden door on the third-floor corridor. There's no possible way you could get through all the traps, and I wouldn't want to hear that you'd been hurt trying. Why, I doubt that you could so much as open the first door, since it's locked and you don't know the spell <em>Alohomora -</em>\"",
+   "Harry spun around and bolted for the exit at top speed, the doorknob turned agreeably in his hand and then he was racing down the spiral stairs even as they turned, his feet almost stumbling over themselves, in just a moment he was at the bottom and the gargoyle was walking aside and Harry fired out of the stairwell like a cannonball.",
+   "* * *"
+  ]
+ },
+ {
+  "id": 88,
+  "paras": [
+   428,
+   429,
+   430,
+   431,
+   432
+  ],
+  "summary_en": "The narrator muses something about Harry Potter, then at 6:21pm Harry cannonballs into McGonagall, with wizards noted as impact-resistant.",
+  "summary_fa": "راوی درباره‌ی هری پاتر تأمل می‌کند، بعد ساعت شش‌وبیست‌ویک هری مثل گلوله به مک‌گونگال می‌خورد و به مقاومت جادوگران در برابر ضربه اشاره می‌شود.",
+  "translation_fa": "هری پاتر.\n\nحتماً چیزی درباره‌ی هری پاتر بود.\n\nآخرش برای همه پنج‌شنبه بود، و بااین‌حال به نظر نمی‌رسید این‌جور چیزها برای کس دیگری اتفاق بیفتد.\n\nساعت شش‌وبیست‌ویک عصر پنج‌شنبه بود که هری پاتر، در حالی که مثل گلوله‌ی توپ از راه‌پله بیرون می‌پرید و با تمام سرعت شتاب می‌گرفت، مستقیم به مینروا مک‌گونگال خورد وقتی داشت سر پیچی به سمت دفتر مدیر می‌رفت.\n\nخوشبختانه هیچ‌کدامشان چندان آسیب ندیدند. همان‌طور که کمی زودتر آن روز به هری توضیح داده شده بود ــ وقتی داشت قبول نمی‌کرد دوباره به جارویی نزدیک شود ــ کوییدیچ به گوی‌های آهنی سنگین نیاز داشت تا فقط شانس معقولی برای زخمی کردن بازیکنان داشته باشد، چون جادوگران معمولاً نسبت به ماگل‌ها در برابر ضربه مقاوم‌تر بودند.",
+  "verbatim_html": [
+   "Harry Potter.",
+   "There must have been something about Harry Potter.",
+   "It was Thursday for everyone, after all, and yet this sort of thing didn't seem to happen to anyone else.",
+   "It was 6:21pm on Thursday afternoon when Harry Potter, firing out of the stairwell like a cannonball and accelerating at top speed, ran directly into Minerva McGonagall as she was turning a corner on her way to the Headmaster's office.",
+   "Thankfully neither of them were much hurt. As had been explained to Harry a little earlier in the day - back when he was refusing to go anywhere near a broomstick again - Quidditch needed solid iron Bludgers just to stand a decent chance of injuring the players, since wizards tended to be a lot more resistant than Muggles to impacts."
+  ]
+ },
+ {
+  "id": 89,
+  "paras": [
+   433,
+   434,
+   435,
+   436,
+   437
+  ],
+  "summary_en": "Both end on the floor among parchments, McGonagall shrieks about the office, Harry squeaks nothing, and she asks about the Defence Professor.",
+  "summary_fa": "هر دو میان طومارها روی زمین می‌افتند، مک‌گونگال درباره‌ی دفتر جیغ می‌زند، هری می‌گوید هیچی و او درباره‌ی استاد دفاع می‌پرسد.",
+  "translation_fa": "هری و پروفسور مک‌گونگال هر دو روی زمین افتادند، و طومارهایی که او حمل می‌کرد در راهرو پخش شدند.\n\nمکثی هولناک و هولناک بود.\n\nپروفسور مک‌گونگال از جایی که درست کنار هری روی زمین دراز کشیده بود نفس‌زنان گفت: هری پاتر. صدایش تقریباً به جیغ رسید. در دفتر مدیر چه می‌کردی؟\n\nهری جیغ‌وار گفت: «هیچی!»\n\n«درباره‌ی استاد دفاع حرف می‌زدی؟»",
+  "verbatim_html": [
+   "Harry and Professor McGonagall did both end up on the floor, and the parchments she had been carrying went all over the corridor.",
+   "There was a terrible, terrible pause.",
+   "\"Harry Potter,\" breathed Professor McGonagall from where she was lying on the floor right next to Harry. Her voice rose to nearly a shriek. \"<em>What were you doing in the Headmaster's office?\"</em>",
+   "\"Nothing!\" squeaked Harry.",
+   "<em>\"Were you talking about the Defence Professor?\"</em>"
+  ]
+ },
+ {
+  "id": 90,
+  "paras": [
+   438,
+   439,
+   440,
+   441,
+   442
+  ],
+  "summary_en": "Harry blurts the rock story, McGonagall calms and apologises, and Harry appeals to her sane face.",
+  "summary_fa": "هری ماجرای سنگ را لو می‌دهد، مک‌گونگال آرام می‌شود و عذر می‌خواهد و هری به چهره‌ی عاقل او پناه می‌برد.",
+  "translation_fa": "«نه! دامبلدور مرا بالا خواست و این سنگ بزرگ را به من داد و گفت مال پدرم است و باید همه‌جا حملش کنم!»\n\nمکث هولناک دیگری بود.\n\nپروفسور مک‌گونگال گفت: «می‌بینم،» صدایش کمی آرام‌تر بود. ایستاد، خودش را تکان داد، و به طومارهای پراکنده خیره شد، که به دسته‌ای مرتب پریدند و به دیوار راهرو چسبیدند انگار بخواهند از نگاهش پنهان شوند. «تسلیت می‌گویم، آقای پاتر، و برای این‌که به تو شک کردم عذر می‌خواهم.»\n\nهری گفت: «پروفسور مک‌گونگال.» صدایش می‌لرزید. خودش را از زمین بلند کرد، ایستاد، و به چهره‌ی قابل‌اعتماد و عاقل او نگاه کرد. «پروفسور مک‌گونگال...»\n\n«بله، آقای پاتر؟»",
+  "verbatim_html": [
+   "\"No! Dumbledore called me up there and he gave me this big rock and said it was my father's and I should carry it everywhere!\"",
+   "There was another terrible pause.",
+   "\"I see,\" said Professor McGonagall, her voice a little calmer. She stood up, brushed herself off, and glared at the scattered parchments, which jumped into a neat stack and scurried back against the corridor wall as though to hide from her gaze. \"My sympathies, Mr. Potter, and I apologise for doubting you.\"",
+   "\"Professor McGonagall,\" Harry said. His voice was wavering. He pushed himself off the floor, stood, and looked up at her trustworthy, <em>sane</em> face. \"Professor McGonagall...\"",
+   "\"Yes, Mr. Potter?\""
+  ]
+ },
+ {
+  "id": 91,
+  "paras": [
+   443,
+   444,
+   445,
+   446,
+   447
+  ],
+  "summary_en": "Harry asks about carrying the rock, McGonagall advises against ignoring Dumbledore, and warns a ring Transfiguration needs a month of marshmallow practice.",
+  "summary_fa": "هری درباره‌ی حمل سنگ می‌پرسد، مک‌گونگال نادیده گرفتن دامبلدور را نابخردانه می‌داند و هشدار می‌دهد تبدیل به حلقه نیاز به یک ماه تمرین با مارشملو دارد.",
+  "translation_fa": "هری با صدایی کوچک گفت: «فکر می‌کنی باید؟» «سنگ پدرم را همه‌جا حمل کنم؟»\n\nپروفسور مک‌گونگال آه کشید. «متأسفانه این بین تو و مدیر است.» مکث کرد. «می‌گویم که نادیده گرفتن کامل مدیر تقریباً هیچ‌وقت خردمندانه نیست. متأسفم که از معمایت می‌شنوم، آقای پاتر، و اگر راهی هست که بتوانم در هر تصمیمی کمکت کنم ــ»\n\nهری گفت: «ام،» «در واقع فکر می‌کردم وقتی یاد گرفتم، می‌توانم سنگ را به حلقه‌ای تبدیل کنم و در انگشتم بپوشم. اگر بتوانی به من یاد بدهی چطور تغییرشکل را نگه دارم ــ»\n\nپروفسور مک‌گونگال گفت: «خوب است که اول از من پرسیدی،» چهره‌اش کمی جدی‌تر شد. «اگر کنترل تغییرشکل را از دست بدهی برگشتش انگشتت را قطع می‌کند و احتمالاً دستت را نصف می‌کند. و در سن تو، حتی یک حلقه هدف بزرگی است که بخواهی نامحدود نگهش داری بدون این‌که جادویت را به‌شدت تخلیه کند. ولی می‌توانم حلقه‌ای برایت بسازم با نشیمنی برای نگین، نگینی کوچک، در تماس با پوستت، و می‌توانی نگه داشتن سوژه‌ای بی‌خطر مثل مارشملو را تمرین کنی. وقتی یک ماه کامل موفق شدی نگهش داری، حتی در خوابت، به تو اجازه می‌دهم، آه، سنگ پدرت را تبدیل کنی...» صدای پروفسور مک‌گونگال محو شد. «مدیر واقعاً ــ»\n\n«بله. آه... ام...»",
+  "verbatim_html": [
+   "\"Do you think I should?\" Harry said in a small voice. \"Carry my father's rock everywhere?\"",
+   "Professor McGonagall sighed. \"That is between you and the Headmaster, I'm afraid.\" She hesitated. \"I will say that ignoring the Headmaster completely is almost never wise. I <em>am</em> sorry to hear of your dilemma, Mr. Potter, and if there's any way I <em>can</em> help you with whatever you decide to do -\"",
+   "\"Um,\" Harry said. \"Actually I was thinking that once I know how, I could Transfigure the rock into a ring and wear it on my finger. If you could teach me how to sustain a Transfiguration -\"",
+   "\"It is good that you asked me first,\" Professor McGonagall said, her face growing a bit stern. \"If you lost control of the Transfiguration the reversal would cut off your finger and probably rip your hand in half. And at your age, even a ring is too large a target for you to sustain indefinitely without it being a serious drain on your magic. But I can have a ring forged for you with a setting for a jewel, a <em>small</em> jewel, in contact with your skin, and you can practice sustaining a safe subject, like a marshmallow. When you have kept it up successfully, even in your sleep, for a full month, I will allow you to Transfigure, ah, your father's rock...\" Professor McGonagall's voice trailed off. \"Did the Headmaster <em>really -</em>\"",
+   "\"Yes. Ah... um...\""
+  ]
+ },
+ {
+  "id": 92,
+  "paras": [
+   448,
+   449,
+   450,
+   451,
+   452
+  ],
+  "summary_en": "McGonagall calls it strange even for him, apologises again, heads for the gargoyle, and Harry stalls with ums.",
+  "summary_fa": "مک‌گونگال آن را حتی برای او عجیب می‌داند، دوباره عذر می‌خواهد، به سمت غول‌تندیس می‌رود و هری با ام‌ام معطل می‌کند.",
+  "translation_fa": "پروفسور مک‌گونگال آه کشید. «این حتی برای او هم کمی عجیب است.» خم شد و دسته‌ی طومارها را برداشت. «متأسفم آقای پاتر. دوباره برای بی‌اعتمادی‌ام عذر می‌خواهم. ولی حالا نوبت خودم است که مدیر را ببینم.»\n\n«آه... موفق باشی، حدس می‌زنم. ام...»\n\n«ممنونم، آقای پاتر.»\n\n«ام...»\n\nپروفسور مک‌گونگال به سمت غول‌تندیس رفت، بی‌صدا رمز را گفت، و به پله‌های مارپیچ چرخان قدم گذاشت. شروع کرد به بالا رفتن از دید، و غول‌تندیس شروع به برگشتن کرد ــ",
+  "verbatim_html": [
+   "Professor McGonagall sighed. \"That's a bit strange even for him.\" She stooped and picked up the stack of parchments. \"I'm sorry about this, Mr. Potter. I apologise again for mistrusting you. But now it's my own turn to see the Headmaster.\"",
+   "\"Ah... good luck, I guess. Er...\"",
+   "\"Thank you, Mr. Potter.\"",
+   "\"Um...\"",
+   "Professor McGonagall walked over to the gargoyle, inaudibly spoke the password, and stepped through into the revolving spiral stairs. She began to rise out of sight, and the gargoyle started back -"
+  ]
+ },
+ {
+  "id": 93,
+  "paras": [
+   453,
+   454
+  ],
+  "summary_en": "Harry shouts that the Headmaster set fire to a chicken, and McGonagall starts to exclaim.",
+  "summary_fa": "هری فریاد می‌زند که مدیر به مرغی آتش زده و مک‌گونگال شروع به تعجب می‌کند.",
+  "translation_fa": "«پروفسور مک‌گونگال مدیر به مرغی آتش زد!»\n\n«او چـ ــ»",
+  "verbatim_html": [
+   "\"<em>Professor McGonagall the Headmaster set fire to a chicken!\"</em>",
+   "\"He <em>wha-</em>\""
+  ]
+ }
+]
