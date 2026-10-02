@@ -1,0 +1,938 @@
+[
+ {
+  "id": 1,
+  "paras": [
+   1,
+   2
+  ],
+  "summary_en": "A one-line epigraph names the enemy's gate, followed by a scene break.",
+  "summary_fa": "پیش‌گفتاری تک‌خطی دروازه‌ی دشمن را معرفی می‌کند و بعد جداکننده‌ی صحنه می‌آید.",
+  "translation_fa": "دروازه‌ی دشمن رولینگ است.\n\n* * *",
+  "verbatim_html": [
+   "The enemy's gate is Rowling.",
+   "* * *"
+  ]
+ },
+ {
+  "id": 2,
+  "paras": [
+   3,
+   4
+  ],
+  "summary_en": "An epigraph claims creativity rather than psychopathy, followed by a scene break.",
+  "summary_fa": "پیش‌گفتاری می‌گوید راوی روان‌پریش نیست بلکه خلاق است و بعد جداکننده‌ی صحنه می‌آید.",
+  "translation_fa": "«من روان‌پریش نیستم، فقط خیلی خلاقم.»\n\n* * *",
+  "verbatim_html": [
+   "<em>I'm not a psychopath, I'm just very creative.</em>",
+   "* * *"
+  ]
+ },
+ {
+  "id": 3,
+  "paras": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "summary_en": "Harry walks into an enormous tiered Defence classroom with strange white rectangles on every desk and finds Quirrell slumped and drooling at the teacher's desk.",
+  "summary_fa": "هری وارد کلاس دفاع عظیم و پلکانی با اشیای سفید اسرارآمیز روی میزها می‌شود و کوییرل را ولو و خواب‌آلود پشت میز معلم می‌بیند.",
+  "translation_fa": "به‌محض این‌که چهارشنبه وارد کلاس دفاع شد، هری دانست که این درس متفاوت خواهد بود.\n\nبرای شروع، این بزرگ‌ترین کلاسی بود که تا آن‌وقت در هاگوارتز دیده بود، شبیه کلاس بزرگی دانشگاهی، با ردیف‌های پلکانی میزهایی که رو به صحنه‌ای غول‌پیکر و تخت از مرمر سفید بودند. کلاس بالای قلعه بود ــ در طبقه‌ی پنجم ــ و هری می‌دانست این همه‌ی توضیحی است که درباره‌ی این‌که چنین اتاقی قرار است کجا جا شود می‌گیرد. داشت روشن می‌شد که هاگوارتز اصلاً هندسه ندارد، اقلیدسی یا غیر آن؛ اتصال دارد، نه جهت.\n\nبرخلاف تالار دانشگاه، ردیف‌های صندلی تاشو نبود؛ در عوض میزها و صندلی‌های چوبی کاملاً معمولی هاگوارتز بودند که در هر سطح کلاس در منحنی‌ای چیده شده بودند. جز این‌که روی هر میز شیئی اسرارآمیز، تخت، سفید و مستطیلی تکیه داده شده بود.\n\nدر مرکز سکوی غول‌پیکر، روی سکوی کوچک برجسته‌ای از مرمر تیره‌تر، میز تک معلم بود. که کوییرل روی صندلی‌اش ولو شده بود، سرش به عقب افتاده بود و کمی آب دهان روی ردایش راه افتاده بود.\n\nحالا این مرا یاد چه می‌اندازد...؟",
+  "verbatim_html": [
+   "As soon as he walked into the Defence classroom on Wednesday, Harry knew that <em>this</em> subject was going to be <em>different</em>.",
+   "It was, for a start, the largest classroom he had yet seen at Hogwarts, akin to a major university classroom, with layered tiers of desks facing a gigantic flat stage of white marble. The classroom was high up in the castle - on the fifth floor - and Harry knew that was as much explanation as he'd get for where a room like this was supposed to fit. It was becoming clear that Hogwarts simply did not <em>have</em> a geometry, Euclidean or otherwise; it had connections, not directions.",
+   "Unlike a university hall, there weren't rows of folding seats; instead there were quite ordinary Hogwarts wooden desks and wooden chairs, lined up in a curve across each level of the classroom. Except that each desk had a flat, white, rectangular, mysterious object propped up on it.",
+   "In the center of the gigantic platform, on a small raised dais of darker marble, was a lone teacher's desk. At which Quirrell sat slumped over in his chair, head lolled back, drooling slightly over his robes.",
+   "<em>Now what does that remind me of...?</em>"
+  ]
+ },
+ {
+  "id": 4,
+  "paras": [
+   10,
+   11,
+   12,
+   13,
+   14
+  ],
+  "summary_en": "Harry arrives very early by time travel and reads his Defence book as the room fills, until Draco's unexpected voice greets him and Harry marvels that Draco has minions.",
+  "summary_fa": "هری با سفر در زمان خیلی زود می‌رسد و کتاب دفاعش را می‌خواند تا این‌که صدای غیرمنتظره‌ی دریکو را می‌شنود و از دیدن زیردست‌هایش شگفت‌زده می‌شود.",
+  "translation_fa": "هری آن‌قدر زود به درس رسیده بود که هنوز هیچ دانش‌آموز دیگری آنجا نبود. (زبان انگلیسی وقتی پای توصیف سفر در زمان می‌آمد ناقص بود؛ به‌ویژه هیچ واژه‌ای نداشت که بتواند بیان کند چقدر راحت بود.) کوییرل در آن لحظه کارآمد به نظر نمی‌رسید، و هری هم به‌هرحال چندان حسی نداشت که به کوییرل نزدیک شود.\n\nهری میزی انتخاب کرد، از آن بالا رفت، نشست و کتاب درسی دفاع را بیرون آورد. حدود هفت‌هشتمش را خوانده بود ــ در واقع قصد داشت پیش از این درس کتاب را تمام کند، اما از برنامه عقب بود و امروز دو بار از چرخاننده‌ی زمان استفاده کرده بود.\n\nبه‌زودی صداهایی آمد وقتی کلاس شروع به پر شدن کرد. هری به آن‌ها اعتنا نکرد.\n\n«پاتر؟ تو اینجا چه می‌کنی؟»\n\nآن صدا به اینجا تعلق نداشت. هری بالا را نگاه کرد. «دریکو؟ تو اینجا چه می‌کنی، اوه خدای من تو زیردست داری.»",
+  "verbatim_html": [
+   "Harry had arrived at the lesson so early that no other students were there yet. (The English language was defective when it came to describing time travel; in particular, English lacked any words capable of expressing how convenient it was.) Quirrell didn't seem to be... functional... at the moment, and Harry didn't particularly feel like approaching Quirrell anyway.",
+   "Harry selected a desk, climbed up to it, sat down, and retrieved the Defence textbook. He was around seven-eighths of the way through - he'd planned on finishing the book before this lesson, actually, but he was running behind schedule and had already used the Time-Turner twice today.",
+   "Soon there were sounds as the classroom began to fill up. Harry ignored them.",
+   "\"Potter? What are <em>you</em> doing here?\"",
+   "<em>That</em> voice didn't belong here. Harry looked up. \"Draco? What are <em>you</em> doing in oh my god you have <em>minions</em>.\""
+  ]
+ },
+ {
+  "id": 5,
+  "paras": [
+   15,
+   16,
+   17,
+   18,
+   19
+  ],
+  "summary_en": "Draco smugly introduces his companions Crabbe and Goyle, who make an awkward looming impression, and Harry demands to know where he can get minions.",
+  "summary_fa": "دریکو با نخوت همراهانش کرب و گویل را معرفی می‌کند که تلاش ناشیانه‌ای برای ترسناک بودن می‌کنند، و هری می‌پرسد او از کجا زیردست بگیرد.",
+  "translation_fa": "یکی از پسرهایی که پشت دریکو ایستاده بود برای یازده‌ساله‌ای عضله‌ی نسبتاً زیادی داشت، و دیگری در حالتی مشکوک متوازن ایستاده بود.\n\nپسر موبور سفید لبخند نسبتاً ازخودراضی‌ای زد و به پشت سرش اشاره کرد. «پاتر، آقای کرب را به تو معرفی می‌کنم،» دستش از عضلانی به متعادل حرکت کرد، «آقای گویل. وینسنت، گرگوری، این هری پاتر است.»\n\nآقای گویل سرش را کج کرد و به هری نگاهی انداخت که احتمالاً قرار بود معنایی داشته باشد اما آخرش فقط لوچ به نظر رسید. آقای کرب با لحنی که انگار سعی می‌کرد صدایش را تا جایی که می‌شود پایین ببرد گفت «از آشناییت خوشوقتم».\n\nسایه‌ی گذرایی از پریشانی از چهره‌ی دریکو گذشت، اما زود جایش را به پوزخند برترش داد.\n\nهری تکرار کرد: «تو زیردست داری!» «من از کجا زیردست بگیرم؟»",
+  "verbatim_html": [
+   "One of the lads standing behind Draco seemed to have rather a lot of muscle for an eleven-year-old, and the other was poised in a suspiciously balanced-looking stance.",
+   "The white-blonde-haired boy smiled rather smugly and gestured behind him. \"Potter, I introduce to you Mr. Crabbe,\" his hand moved from Muscles to Balance, \"Mr. Goyle. Vincent, Gregory, this is Harry Potter.\"",
+   "Mr. Goyle tilted his head and gave Harry a look that was probably supposed to mean something but ended up just looking squinty. Mr. Crabbe said \"Please to meetcha\" in a tone that sounded like he was trying to lower his voice as far as it could go.",
+   "A fleeting expression of consternation crossed Draco's face, but was quickly replaced by his superior grin.",
+   "\"You have <em>minions!</em> \" Harry repeated. \"Where do <em>I</em> get minions?\""
+  ]
+ },
+ {
+  "id": 6,
+  "paras": [
+   20,
+   21,
+   22,
+   23,
+   24
+  ],
+  "summary_en": "Draco says minions require Slytherin sorting plus a pre-birth family arrangement, while Crabbe and Goyle loom hard and Harry questions the years-old setup.",
+  "summary_fa": "دریکو می‌گوید زیردست داشتن نیاز به اسلیترین بودن و توافق خانوادگی پیش از تولد دارد، در حالی که کرب و گویل سخت ترسناک‌نمایی می‌کنند و هری از قدمت این ترتیب می‌پرسد.",
+  "translation_fa": "پوزخند دریکو پهن‌تر شد. «می‌ترسم، پاتر، که قدم اول این باشد که در اسلیترین گروه‌بندی شوی ــ»\n\n«چی؟ این عادلانه نیست!»\n\n«ــ و بعد خانواده‌هایتان از پیش از تولدتان توافقی داشته باشند.»\n\nهری به آقای کرب و آقای گویل نگاه کرد. هر دو به نظر می‌رسید سخت تلاش می‌کنند که ترسناک جلوه کنند. یعنی به جلو خم شده بودند، شانه‌هایشان را بالا داده بودند، گردن‌هایشان را بیرون داده بودند و به او زل زده بودند.\n\n«ام... صبر کن،» هری گفت. «این سال‌ها پیش ترتیب داده شده؟»",
+  "verbatim_html": [
+   "Draco's smirk grew wider. \"I'm afraid, Potter, that the first step is to be Sorted into Slytherin -\"",
+   "\"What? That's not fair!\"",
+   "\"- and then for your families to have an arrangement from before you were born.\"",
+   "Harry looked at Mr. Crabbe and Mr. Goyle. They both seemed to be trying very hard to loom. That is, they were leaning forwards, hunching over their shoulders, sticking their necks out and staring at him.",
+   "\"Um... hold on,\" said Harry. \"This was arranged <em>years</em> ago?\""
+  ]
+ },
+ {
+  "id": 7,
+  "paras": [
+   25,
+   26,
+   27,
+   28,
+   29
+  ],
+  "summary_en": "Draco declares Harry out of luck while Goyle cleans his teeth mid-loom; Harry deduces Lucius kept Draco from meeting his bodyguards until school, and notes they spent years fantasising about minions.",
+  "summary_fa": "دریکو می‌گوید هری شانسی ندارد در حالی که گویل وسط ترسناک‌نمایی دندانش را تمیز می‌کند؛ هری حدس می‌زند لوسیوس آن‌ها را تا مدرسه از دریکو دور نگه داشته و آن‌ها سال‌ها رؤیای زیردست بودن را داشته‌اند.",
+  "translation_fa": "«دقیقاً، پاتر. می‌ترسم شانسی نداشته باشی.»\n\nآقای گویل خلال‌دندانی بیرون آورد و شروع به تمیز کردن دندان‌هایش کرد، همچنان ترسناک‌نمایی‌کنان.\n\n«و،» هری گفت، «لوسیوس اصرار داشت که تو قرار نبوده با محافظانت بزرگ شوی، و قرار بوده فقط در روز اول مدرسه آن‌ها را ببینی.»\n\nاین لبخند را از چهره‌ی دریکو پاک کرد. «بله، پاتر، همه می‌دانیم باهوشی، حالا کل مدرسه می‌داند، می‌توانی خودنمایی را بس کنی ــ»\n\n«پس به آن‌ها تمام عمرشان گفته شده که قرار است زیردست‌های تو باشند و آن‌ها سال‌ها تصور کرده‌اند که زیردست‌ها قرار است چه شکلی باشند ــ»",
+  "verbatim_html": [
+   "\"Exactly, Potter. I'm afraid you're out of luck.\"",
+   "Mr. Goyle produced a toothpick and began cleaning his teeth, still looming.",
+   "\"And,\" said Harry, \"Lucius insisted that you were <em>not</em> to grow up knowing your bodyguards, and that you were only to meet them on your first day of school.\"",
+   "That wiped the grin from Draco's face. \"Yes, Potter, we all know you're brilliant, the whole school knows by now, you can stop showing off -\"",
+   "\"So they've been told their <em>whole lives</em> that they're going to be your minions and they've spent <em>years</em> imagining what minions are supposed to be like -\""
+  ]
+ },
+ {
+  "id": 8,
+  "paras": [
+   30,
+   31,
+   32,
+   33,
+   34
+  ],
+  "summary_en": "Draco winces as Harry adds the pair have been practising together; Crabbe and Goyle menace Harry until Draco angrily orders them not to perform in front of Harry Potter.",
+  "summary_fa": "دریکو با شنیدن این‌که آن دو با هم تمرین کرده‌اند اخم می‌کند؛ کرب و گویل هری را تهدید می‌کنند تا این‌که دریکو با عصبانیت دستور می‌دهد جلوی هری پاتر این کار را نکنند.",
+  "translation_fa": "دریکو اخم کرد.\n\n«ــ و بدتر این‌که، آن‌ها همدیگر را می‌شناسند و تمرین کرده‌اند ــ»\n\n«رئیس گفت دهنت را ببند،» آقای کرب غرید. آقای گویل خلال‌دندان را بین دندان‌هایش نگه داشت و با یک دست بندهای دست دیگرش را شکست.\n\n«بهتان گفتم جلوی هری پاتر این کار را نکنید!»\n\nآن دو کمی شرمنده به نظر رسیدند و آقای گویل زود خلال‌دندان را در جیب ردایش برگرداند.",
+  "verbatim_html": [
+   "Draco winced.",
+   "\"- and what's worse, they <em>do</em> know <em>each other</em> and they've been <em>practising</em> -\"",
+   "\"The boss told ya to shut it,\" rumbled Mr. Crabbe. Mr. Goyle bit down on his toothpick, holding it between his teeth, and used one hand to crack the knuckles on the other.",
+   "<em>\"I told you not to do this in front of Harry Potter!\"</em>",
+   "The two looked a bit sheepish and Mr. Goyle quickly put the toothpick back in a pocket of his robes."
+  ]
+ },
+ {
+  "id": 9,
+  "paras": [
+   35,
+   36,
+   37,
+   38,
+   39
+  ],
+  "summary_en": "The pair resume looming once Draco looks away; Draco stiffly apologises for the imbeciles, Harry praises their minion act, and Crabbe suspects a poaching attempt.",
+  "summary_fa": "آن دو به‌محض این‌که دریکو رو برمی‌گرداند دوباره ترسناک‌نمایی می‌کنند؛ دریکو رسماً برای توهین ابلهان عذر می‌خواهد، هری از بازی زیردستی‌شان تعریف می‌کند و کرب به تلاش برای جذب آن‌ها مشکوک می‌شود.",
+  "translation_fa": "اما لحظه‌ای که دریکو از آن‌ها رو برگرداند تا دوباره به هری رو کند، به ترسناک‌نمایی برگشتند.\n\n«عذر می‌خواهم،» دریکو خشک گفت، «برای توهینی که این ابلهان به تو کرده‌اند.»\n\nهری نگاهی معنادار به آقای کرب و آقای گویل انداخت. «می‌گویم کمی با آن‌ها تند هستی، دریکو. فکر می‌کنم دقیقاً همان‌طور رفتار می‌کنند که می‌خواستم زیردست‌های خودم رفتار کنند. یعنی، اگر زیردستی داشتم.»\n\nدهان دریکو باز ماند.\n\n«هی، گرگوری، فکر نمی‌کنی داره سعی می‌کنه ما را از رئیس بقاپه، ها؟»",
+  "verbatim_html": [
+   "But the moment Draco turned away from them to face Harry again, they went back to looming.",
+   "\"I apologise,\" Draco said stiffly, \"for the insult which these <em>imbeciles</em> have offered you.\"",
+   "Harry gave a meaningful look to Mr. Crabbe and Mr. Goyle. \"I'd say you're being a little harsh on them, Draco. <em>I</em> think they're acting exactly the way I'd want <em>my</em> minions to act. I mean, if I had any minions.\"",
+   "Draco's jaw dropped.",
+   "\"Hey, Gregory, you don' think he's tryna lure us away from the boss, do ya?\""
+  ]
+ },
+ {
+  "id": 10,
+  "paras": [
+   40,
+   41,
+   42,
+   43,
+   44
+  ],
+  "summary_en": "Goyle dismisses the poaching worry while Harry smoothly pitches competing offers; after a Ravenclaw jibe, Draco silences them and asks why Harry is in the Slytherin Defence class.",
+  "summary_fa": "گویل نگرانی جذب شدن را رد می‌کند در حالی که هری راحت از پیشنهادهای رقیب حرف می‌زند؛ بعد از تیکه‌ی ریونکلاو، دریکو ساکتشان می‌کند و می‌پرسد هری در کلاس دفاع اسلیترین چه می‌کند.",
+  "translation_fa": "«مطمئنم آقای پاتر آن‌قدر احمق نیست.»\n\n«اوه، خوابش را هم نمی‌بینم،» هری روان گفت. «فقط چیزی است که اگر کارفرمای فعلی‌تان ناسپاس به نظر رسید در ذهن داشته باشید. گذشته از این، داشتن پیشنهادهای دیگر هنگام چانه‌زنی درباره‌ی شرایط کاری ضرری ندارد، درست است؟»\n\n«اون در ریونکلاو چه می‌کنه؟»\n\n«نمی‌توانم تصور کنم، آقای کرب.»\n\n«هر دویتان خفه شوید،» دریکو از میان دندان‌های به‌هم‌فشرده گفت. «این یک دستور است.» با تلاشی آشکار توجهش را دوباره به هری برگرداند. «به‌هرحال، در کلاس دفاع اسلیترین چه می‌کنی؟»",
+  "verbatim_html": [
+   "\"I'm sure Mr. Potter wouldn't be that foolish.\"",
+   "\"Oh, I wouldn't dream of it,\" Harry said smoothly. \"It's just something to keep in mind if your current employer seems unappreciative. Besides, it never hurts to have other offers while you're negotiating your working conditions, right?\"",
+   "\"What's <em>he</em> doin' in Ravenclaw?\"",
+   "\"I can't imagine, Mr. Crabbe.\"",
+   "\"Both of you <em>shut up</em>,\" Draco said through gritted teeth. \"That's an <em>order</em>.\" With a visible effort, he transferred his attention to Harry again. \"Anyway, what're you doing in the Slytherin Defence class?\""
+  ]
+ },
+ {
+  "id": 11,
+  "paras": [
+   45,
+   46,
+   47,
+   48,
+   49
+  ],
+  "summary_en": "Harry checks his timetable and watch, jokes about loving his Time-Turner, and suggests Quirrell combined the classes as Gryffindors arrive; Draco notes Harry is the first Ravenclaw present.",
+  "summary_fa": "هری برنامه و ساعتش را چک می‌کند، با چرخاننده‌ی زمانش شوخی می‌کند و حدس می‌زند کوییرل کلاس‌ها را ادغام کرده وقتی گریفیندوری‌ها می‌رسند؛ دریکو می‌گوید هری اولین ریونکلاوی حاضر است.",
+  "translation_fa": "هری اخم کرد. «صبر کن.» دستش به کیسه‌اش رفت. «برنامه.» به طومار نگاه کرد. «دفاع، ساعت ۲:۳۰ بعدازظهر، و الان ساعت...» هری به ساعت مکانیکی‌اش نگاه کرد که ۱۱:۲۳ را نشان می‌داد. «۲:۲۳ است، مگر این‌که زمان را گم کرده باشم. کرده‌ام؟» اگر کرده بود، خب، هری می‌دانست چطور به هر درسی که قرار بوده در آن باشد برسد. خدا چقدر چرخاننده‌ی زمانش را دوست داشت و روزی، وقتی به سن کافی رسید، با آن ازدواج می‌کرد.\n\n«نه، درست به نظر می‌رسد،» دریکو گفت، گیج به نظر می‌رسید. نگاهش چرخید به باقی تالار که داشت با رداهای سبز پر می‌شد و...\n\n«گریفیندورک‌ها!» دریکو تف کرد. «آن‌ها اینجا چه می‌کنند؟»\n\n«هم،» هری گفت. «پروفسور کوییرل گفت... واژه‌های دقیقش را یادم نیست... که برخی رسوم آموزشی هاگوارتز را نادیده می‌گیرد. شاید فقط همه‌ی کلاس‌هایش را ادغام کرده.»\n\n«هاه،» دریکو گفت. «تو اولین ریونکلاوی هستی که اینجاست.»",
+  "verbatim_html": [
+   "Harry frowned. \"Hold on.\" His hand went into his pouch. \"Timetable.\" He looked over the parchment. \"Defence, 2:30pm, and right now it's...\" Harry looked at his mechanical watch, which read 11:23. \"2:23, unless I've lost track of time. Did I?\" If he had, well, Harry knew how to get to whatever lesson he was <em>supposed</em> to be at. God he loved his Time-Turner and someday, when he was old enough, they would get married.",
+   "\"No, that sounds right,\" Draco said, looking puzzled. His gaze turned to look over the rest of the auditorium, which was filling with green-trimmed robes and...",
+   "\"<em>Gryffindorks!</em> \" spat Draco. \"What're <em>they</em> doing here?\"",
+   "\"Hm,\" Harry said. \"Professor Quirrell did say... I forget his exact words... that he would be ignoring some of the Hogwarts teaching conventions. Maybe he just combined all his classes.\"",
+   "\"Huh,\" said Draco. \"You're the first Ravenclaw in here.\""
+  ]
+ },
+ {
+  "id": 12,
+  "paras": [
+   50,
+   51,
+   52,
+   53,
+   54
+  ],
+  "summary_en": "Harry says he got there early and chose the back row; Draco mocks the distance from the teacher, then presses Harry about hitting Derrick with pies.",
+  "summary_fa": "هری می‌گوید زود رسیده و ردیف عقب نشسته؛ دریکو دوری از معلم را مسخره می‌کند، بعد درباره‌ی زدن دریک با پای از هری می‌پرسد.",
+  "translation_fa": "«آره. زود رسیدم.»\n\n«پس اینجا در ردیف عقب چه می‌کنی؟»\n\nهری پلک زد. «نمی‌دانم، جای خوبی برای نشستن به نظر رسید؟»\n\nدریکو صدای تمسخری کرد. «نمی‌توانستی از معلم دورتر شوی حتی اگر تلاش می‌کردی.» پسر موبور کمی نزدیک‌تر خم شد. «به‌هرحال، درباره‌ی چیزی که به دریک و دارودسته‌اش گفتی درست است؟»\n\n«دریک کیست؟»",
+  "verbatim_html": [
+   "\"Yup. Got here early.\"",
+   "\"What're you doing all the way in the back row, then?\"",
+   "Harry blinked. \"I dunno, seemed like a good place to sit?\"",
+   "Draco made a scoffing sound. \"You couldn't get any further away from the teacher if you tried.\" The blonde-haired boy leaned slightly closer. \"Anyway, is it true about what you said to Derrick and his crew?\"",
+   "\"Who's Derrick?\""
+  ]
+ },
+ {
+  "id": 13,
+  "paras": [
+   55,
+   56,
+   57,
+   58,
+   59
+  ],
+  "verbatim_html": [
+   "\"You hit him with a pie?\"",
+   "\"Two pies, actually. What am I supposed to have said to him?\"",
+   "\"That he wasn't doing anything cunning or ambitious and he was a disgrace to Salazar Slytherin.\" Draco was staring intently at Harry.",
+   "\"That... sounds about right,\" Harry said. \"I think it was more like, 'is this some kind of incredibly clever plot that will gain you a future advantage or is it really as much of a disgrace to the memory of Salazar Slytherin as it looks like' or something like that. I don't remember the exact words.\"",
+   "\"You're confusing everyone, you know,\" said the blonde-haired boy."
+  ],
+  "summary_en": "Draco brings up Harry hitting Derrick with pies and quotes Harry's rebuke that he was un-cunning and a disgrace to Salazar Slytherin. Harry confirms the paraphrase, and Draco says Harry is confusing everyone.",
+  "translation_fa": "«با پای به او زدی؟»\n\n«در واقع دو پای. قرار است به او چه گفته باشم؟»\n\n«این‌که هیچ کار حیله‌گرانه یا جاه‌طلبانه‌ای نمی‌کند و مایه‌ی ننگ سالازار اسلیترین است.» دریکو با خیرگی به هری زل زده بود.\n\n«این... تقریباً درست به نظر می‌رسد،» هری گفت. «فکر می‌کنم بیشتر شبیه این بود، 'آیا این نوعی نقشه‌ی فوق‌العاده زیرکانه است که در آینده برایت مزیتی می‌آورد یا واقعاً به همان اندازه که به نظر می‌رسد مایه‌ی ننگ یاد سالازار اسلیترین است' یا چیزی شبیه این. کلمه‌های دقیق را به یاد ندارم.»\n\n«تو همه را گیج می‌کنی، می‌دانی،» پسر موبور گفت.",
+  "summary_fa": "دریکو ماجرای پای و سرزنش دریک را پیش می‌کشد؛ هری لحن خود درباره‌ی ننگ اسلیترین را تأیید می‌کند و دریکو می‌گوید هری همه را گیج کرده است."
+ },
+ {
+  "id": 14,
+  "paras": [
+   60,
+   61,
+   62,
+   63,
+   64
+  ],
+  "verbatim_html": [
+   "\"Huh?\" Harry said in honest confusion.",
+   "\"Warrington said that spending a long time under the Sorting Hat is one of the warning signs of a major Dark Wizard. Everyone was talking about it, wondering if they should start sucking up to you just in case. Then you went and protected a bunch of <em>Hufflepuffs,</em> for Merlin's sake. <em>Then</em> you told Derrick he's a disgrace to Salazar Slytherin's memory! What's anyone <em>supposed</em> to think?\"",
+   "\"That the Sorting Hat decided to put me in the House of 'Slytherin! Just kidding! Ravenclaw!' and I've been acting accordingly.\"",
+   "Mr. Crabbe and Mr. Goyle both giggled, causing Mr. Goyle to quickly clap a hand to his mouth.",
+   "\"We'd better go get our seats,\" Draco said. He hesitated, straightened a bit, spoke a bit more fomally. \"But I do want to continue our last conversation and I accept your conditions.\""
+  ],
+  "summary_en": "Draco says Slytherins wondered if Harry was a Dark Wizard, then were confused when he protected Hufflepuffs and shamed Derrick in Slytherin's name. Harry jokes he acts like 'Slytherin! Just kidding! Ravenclaw!', Crabbe and Goyle giggle, and Draco leaves for seats while accepting Harry's conditions.",
+  "translation_fa": "«ها؟» هری با سردرگمی صادقانه گفت.\n\n«ورینگتون گفت که مدت طولانی زیر کلاه گروه‌بندی ماندن یکی از نشانه‌های هشداردهنده‌ی یک جادوگر سیاه بزرگ است. همه درباره‌اش حرف می‌زدند، نمی‌دانستند آیا باید برای احتیاط شروع به چاپلوسی از تو کنند یا نه. بعد تو رفتی و از یک مشت هافلپافی دفاع کردی، به‌خاطر مرلین. بعد به دریک گفتی مایه‌ی ننگ یاد سالازار اسلیترین است! قرار است کسی چه فکری بکند؟»\n\n«این‌که کلاه گروه‌بندی تصمیم گرفت مرا در خانه‌ی 'اسلیترین! شوخی کردم! ریونکلاو!' بگذارد و من هم بر همان اساس رفتار کرده‌ام.»\n\nآقای کرب و آقای گویل هر دو خندیدند، به‌طوری که آقای گویل سریع دستش را روی دهانش گذاشت.\n\n«بهتر است برویم صندلی‌هایمان را بگیریم،» دریکو گفت. مکث کرد، کمی صاف ایستاد، کمی رسمی‌تر صحبت کرد. «اما می‌خواهم گفت‌وگوی قبلی‌مان را ادامه دهم و شرایط تو را قبول می‌کنم.»",
+  "summary_fa": "دریکو می‌گوید اسلیترینی‌ها هری را جادوگر سیاه احتمالی می‌دانستند و از دفاع او از هافلپافی‌ها گیج شده‌اند؛ هری شوخی می‌کند مثل 'اسلیترین! شوخی کردم! ریونکلاو!' رفتار کرده و دریکو با پذیرش شرایط او برای گرفتن صندلی می‌رود."
+ },
+ {
+  "id": 15,
+  "paras": [
+   65,
+   66,
+   67,
+   68,
+   69
+  ],
+  "verbatim_html": [
+   "Harry nodded. \"Would you mind terribly if I waited until Saturday afternoon? I'm in a bit of a contest right now.\"",
+   "\"A contest?\"",
+   "\"See if I can read all my textbooks as fast as Hermione Granger did.\"",
+   "\"Granger,\" Draco echoed. His eyes narrowed. \"The mudblood who thinks she's Merlin? If you're trying to show <em>her</em> up then all Slytherin wishes you the <em>very</em> best luck, Potter, and I won't bother you 'til Saturday.\" Draco inclined his head respectfully, and wandered off, tailed by his minions.",
+   "<em>Oh, this is going to be</em> so <em>much fun to juggle, I can already tell.</em>"
+  ],
+  "summary_en": "Harry asks to postpone until Saturday afternoon for his contest to read textbooks as fast as Hermione Granger. Draco scorns Granger, wishes him luck showing her up, and leaves with his minions, and Harry thinks juggling this will be fun.",
+  "translation_fa": "هری سر تکان داد. «خیلی ناراحت می‌شوی اگر تا شنبه بعدازظهر صبر کنم؟ الان وسط یک مسابقه‌ام.»\n\n«مسابقه؟»\n\n«ببینم آیا می‌توانم همه‌ی کتاب‌های درسی‌ام را به همان سرعتی که هرمیون گرنجر خواند بخوانم.»\n\n«گرنجر،» دریکو تکرار کرد. چشم‌هایش تنگ شد. «خون‌گلی که فکر می‌کند مرلین است؟ اگر داری سعی می‌کنی او را ضایع کنی پس همه‌ی اسلیترین بهترین شانس را برایت آرزو می‌کند، پاتر، و تا شنبه مزاحمت نمی‌شوم.» دریکو با احترام سرش را خم کرد و رفت، در حالی که نوچه‌هایش دنبالش بودند.\n\nاوه، این قرار است برای سر و کله زدن خیلی بامزه باشد، از همین حالا می‌توانم بگویم.",
+  "summary_fa": "هری ادامه‌ی گفت‌وگو را به شنبه موکول می‌کند چون مسابقه‌ی کتاب‌خوانی با گرنجر دارد؛ دریکو با تحقیر گرنجر برایش آرزوی موفقیت می‌کند و می‌رود و هری به مدیریت این بازی فکر می‌کند."
+ },
+ {
+  "id": 16,
+  "paras": [
+   70,
+   71,
+   72
+  ],
+  "verbatim_html": [
+   "The classroom was filling up rapidly now with all four colors of trim: green, red, yellow, and blue. Draco and his two friends seemed to be in the midst of trying to acquire three contiguous front-row seats - already occupied, of course. Mr. Crabbe and Mr. Goyle were looming vigorously, but it didn't seem to be having much effect.",
+   "Harry bent over his Defence textbook and continued reading.",
+   "* * *"
+  ],
+  "summary_en": "The hall fills with all four Houses while Draco and his friends fail to get three front-row seats despite looming. Harry returns to his Defence textbook, followed by a scene break.",
+  "translation_fa": "کلاس حالا به‌سرعت با هر چهار رنگ حاشیه پر می‌شد: سبز، قرمز، زرد و آبی. به نظر می‌رسید دریکو و دو دوستش وسط تلاش برای به دست آوردن سه صندلی پیوسته‌ی ردیف جلو هستند ــ که البته قبلاً گرفته شده بودند. آقای کرب و آقای گویل با شدت ترسناک‌نمایی می‌کردند، اما به نظر نمی‌رسید اثر زیادی داشته باشد.\n\nهری روی کتاب درسی دفاعش خم شد و به خواندن ادامه داد.\n\n* * *",
+  "summary_fa": "تالار با هر چهار خانه پر می‌شود و دریکو و نوچه‌هایش با ترسناک‌نمایی صندلی جلو گیرشان نمی‌آید؛ هری به خواندن کتاب دفاع برمی‌گردد و صحنه عوض می‌شود."
+ },
+ {
+  "id": 17,
+  "paras": [
+   73,
+   74,
+   75,
+   76,
+   77
+  ],
+  "verbatim_html": [
+   "At 2:35PM, when most of the seats were taken and no one else seemed to be coming in, Professor Quirrell gave a sudden jerk in his chair and sat up straight, and his face appeared on all the flat, white rectangular objects that were propped up on the students' desks.",
+   "Harry was taken by surprise, both by the sudden appearance of Professor Quirrell's face and by the resemblance to Muggle television. There was something both nostalgic and sad about that, it seemed so much like a piece of home and yet it wasn't really...",
+   "\"Good afternoon, my young apprentices,\" said Professor Quirrell. His voice seemed to come from the desk screen and to be speaking directly to Harry. \"Welcome to your first lesson in Battle Magic, as the founders of Hogwarts would have put it; or, as it happens to be called in the late twentieth century, Defence Against the Dark Arts.\"",
+   "There was a certain amount of frantic scrabbling as students, taken by surprise, reached for their parchment or notebooks.",
+   "\"No,\" Professor Quirrell said. \"Don't bother writing down what this subject was once called. No such pointless question will count toward your marks in any of my lessons. That is a promise.\""
+  ],
+  "summary_en": "At 2:35 Quirrell wakes and his face appears on the white desk screens resembling Muggle television. He welcomes them to Battle Magic, once called Defence Against the Dark Arts, and promises no pointless naming questions will count toward marks.",
+  "translation_fa": "ساعت ۲:۳۵ بعدازظهر، وقتی بیشتر صندلی‌ها گرفته شده بودند و به نظر نمی‌رسید کس دیگری بیاید، پروفسور کویرل ناگهان در صندلی‌اش تکان خورد و صاف نشست، و چهره‌اش روی همه‌ی اشیای سفید مستطیلی مسطحی که روی میزهای دانش‌آموزان گذاشته شده بودند ظاهر شد.\n\nهری غافلگیر شد، هم از ظاهر شدن ناگهانی چهره‌ی پروفسور کویرل و هم از شباهت به تلویزیون مشنگی. چیزی هم نوستالژیک و هم غم‌انگیز در آن بود، خیلی شبیه تکه‌ای از خانه به نظر می‌رسید و با این حال واقعاً نبود...\n\n«بعدازظهر بخیر، شاگردان جوان من،» پروفسور کویرل گفت. صدایش به نظر می‌رسید از صفحه‌ی میز می‌آید و مستقیم با هری صحبت می‌کند. «به اولین درس‌تان در جادوی نبرد خوش آمدید، آن‌طور که بنیان‌گذاران هاگوارتز می‌گفتند؛ یا، آن‌طور که در اواخر قرن بیستم اتفاقاً نامیده می‌شود، دفاع در برابر هنرهای تاریک.»\n\nمقدار معینی دست‌وپا زدن سراسیمه بود وقتی دانش‌آموزان، غافلگیرشده، دنبال پوست‌نوشت یا دفترچه‌هایشان رفتند.\n\n«نه،» پروفسور کویرل گفت. «زحمت نوشتن این‌که این درس زمانی چه نامیده می‌شده نکشید. هیچ سؤال بی‌فایده‌ای در هیچ‌کدام از درس‌های من در نمره‌هایتان حساب نمی‌شود. این یک قول است.»",
+  "summary_fa": "در ساعت ۲:۳۵ کویرل بیدار می‌شود و چهره‌اش روی صفحه‌های سفید میزها شبیه تلویزیون ظاهر می‌شود؛ او به جادوی نبرد خوش‌آمد می‌گوید و قول می‌دهد سؤال‌های بی‌فایده در نمره حساب نمی‌شود."
+ },
+ {
+  "id": 18,
+  "paras": [
+   78,
+   79,
+   80,
+   81,
+   82
+  ],
+  "verbatim_html": [
+   "Many students sat straight up at that, looking rather shocked.",
+   "Professor Quirrell was smiling thinly. \"Those of you who have wasted time by reading your useless first-year Defence textbooks -\"",
+   "Someone made a choking sound. Harry wondered if it was Hermione.",
+   "\"- may have gotten the impression that although this subject is called Defence Against the Dark Arts, it is actually about how to defend against Nightmare Butterflies, which cause mildly bad dreams, or Acid Slugs, which can dissolve all the way through a two-inch wooden beam given most of a day.\"",
+   "Professor Quirrell stood up, shoving his chair back from the desk. The screen on Harry's desk followed his every move. Professor Quirrell strode towards the front of the classroom, and bellowed:"
+  ],
+  "summary_en": "Students sit up shocked as Quirrell calls the first-year Defence textbooks useless. After someone chokes, possibly Hermione, he mocks Nightmare Butterflies and Acid Slugs as textbook Defence, then stands and strides forward bellowing.",
+  "translation_fa": "بسیاری از دانش‌آموزان با این حرف راست نشستند، نسبتاً شوکه به نظر می‌رسیدند.\n\nپروفسور کویرل با لبخندی نازک بود. «آن‌هایی از شما که با خواندن کتاب‌های درسی دفاع سال اولِ بی‌فایده‌تان وقت تلف کرده‌اید ــ»\n\nکسی صدای خفگی درآورد. هری نمی‌دانست آیا هرمیون بود.\n\n«ــ ممکن است این تصور را پیدا کرده باشند که هرچند نام این درس دفاع در برابر هنرهای تاریک است، در واقع درباره‌ی این است که چطور در برابر پروانه‌های کابوس دفاع کنید، که خواب‌های بد خفیف می‌آورند، یا حلزون‌های اسیدی، که می‌توانند با بیشترِ یک روز کل یک تیر چوبی دو اینچی را حل کنند.»\n\nپروفسور کویرل بلند شد، صندلی‌اش را از میز عقب راند. صفحه روی میز هری هر حرکتش را دنبال می‌کرد. پروفسور کویرل به سمت جلوی کلاس قدم برداشت و نعره کشید:",
+  "summary_fa": "دانش‌آموزان شوکه می‌شوند وقتی کویرل کتاب‌های دفاع سال اول را بی‌فایده می‌خواند؛ او پروانه‌های کابوس و حلزون‌های اسیدی را مسخره می‌کند و بعد بلند می‌شود و به جلو می‌رود تا نعره بکشد."
+ },
+ {
+  "id": 19,
+  "paras": [
+   83,
+   84,
+   85,
+   86,
+   87
+  ],
+  "verbatim_html": [
+   "\"The Hungarian Horntail is taller than a dozen men! It breathes fire so quickly and so accurately that it can melt a Snitch in midflight! One Killing Curse will bring it down!\"",
+   "There were gasps from the students.",
+   "\"The Mountain Troll is more dangerous than the Hungarian Horntail! It is strong enough to bite through steel! Its hide is resistant enough to withstand Stunning Hexes and Cutting Charms! Its sense of smell is so acute that it can tell from afar whether its prey is part of a pack, or alone and vulnerable! Most fearsome of all, the troll is unique among magical creatures in continuously maintaining a form of Transfiguration on itself - it is always transforming into its own body. If you somehow succeed in ripping off its arm it will grow another within seconds! Fire and acid will produce scar tissue which can temporarily confuse a troll's regenerative powers - for an hour or two! They are smart enough to use clubs as tools! The mountain troll is the third most perfect killing machine in all Nature! One Killing Curse will bring it down.\"",
+   "The students were looking rather shocked.",
+   "Professor Quirrell was smiling rather grimly. \"Your sad excuse for a third-year Defence textbook will suggest to you that you expose the mountain troll to sunlight, which will freeze it in place. This, my young apprentices, is the sort of useless knowledge you will never find in my lessons. You do not encounter mountain trolls in open daylight! The idea that you should use sunlight to stop them is the result of foolish textbook authors trying to show off their mastery of minutia at the expense of practicality. Just because there is a ridiculously obscure way of dealing with mountain trolls does not mean you should actually try to use it! The Killing Curse is unblockable, unstoppable, and works every single time on anything with a brain. If, as an adult wizard, you find yourself incapable of using the Killing Curse, then you can simply Apparate away! Likewise if you are facing the second most perfect killing machine, a Dementor. You just Apparate away!\""
+  ],
+  "summary_en": "Quirrell describes the Hungarian Horntail and Mountain Troll as fearsome killing machines, each felled by one Killing Curse. He dismisses textbook sunlight against trolls as impractical minutia, saying adults should use the Killing Curse or Apparate away from trolls and Dementors.",
+  "translation_fa": "«هورن‌تیل مجارستانی بلندتر از یک دوجین مرد است! آن‌قدر سریع و دقیق آتش تنفس می‌کند که می‌تواند اسنیچ را وسط پرواز ذوب کند! یک طلسم کشنده آن را می‌اندازد!»\n\nنفس‌های حبس‌شده‌ای از دانش‌آموزان بود.\n\n«ترول کوهستان از هورن‌تیل مجارستانی خطرناک‌تر است! آن‌قدر قوی است که می‌تواند فولاد را گاز بگیرد! پوستش آن‌قدر مقاوم است که در برابر طلسم‌های بیهوشی و افسون‌های برش مقاومت می‌کند! حس بویایی‌اش آن‌قدر تیز است که از دور می‌تواند بگوید آیا شکارش بخشی از گله است، یا تنها و آسیب‌پذیر است! ترسناک‌تر از همه، ترول در میان موجودات جادویی بی‌همتاست در این‌که پیوسته نوعی تغییرشکل را روی خودش نگه می‌دارد ــ همیشه در حال تبدیل شدن به بدن خودش است. اگر به نحوی موفق شوی بازویش را بکنی ظرف چند ثانیه یکی دیگر درمی‌آورد! آتش و اسید بافت زخمی تولید می‌کند که می‌تواند موقتاً قدرت باززایی ترول را گیج کند ــ برای یک یا دو ساعت! آن‌ها آن‌قدر باهوش‌اند که از چماق به‌عنوان ابزار استفاده می‌کنند! ترول کوهستان سومین ماشین کشتار کامل در کل طبیعت است! یک طلسم کشنده آن را می‌اندازد.»\n\nدانش‌آموزان نسبتاً شوکه به نظر می‌رسیدند.\n\nپروفسور کویرل با لبخندی نسبتاً عبوس بود. «بهانه‌ی تأسف‌بار شما برای کتاب درسی دفاع سال سوم به شما پیشنهاد می‌کند که ترول کوهستان را در معرض نور خورشید قرار دهید، که آن را در جایش منجمد می‌کند. این، شاگردان جوان من، نوع دانش بی‌فایده‌ای است که هرگز در درس‌های من نخواهید یافت. شما در روشنایی روز با ترول‌های کوهستان روبه‌رو نمی‌شوید! این ایده که باید از نور خورشید برای متوقف کردنشان استفاده کنید نتیجه‌ی نویسندگان احمق کتاب درسی است که سعی می‌کنند به قیمت کاربردی بودن، تسلطشان بر جزئیات را به رخ بکشند. فقط چون راهی به‌طرز مسخره مبهم برای برخورد با ترول‌های کوهستان هست به این معنا نیست که واقعاً باید سعی کنید از آن استفاده کنید! طلسم کشنده غیرقابل دفع، غیرقابل توقف است و هر بار روی هر چیزی که مغز دارد جواب می‌دهد. اگر، به‌عنوان جادوگر بالغ، خود را ناتوان از استفاده از طلسم کشنده یافتی، آن‌وقت می‌توانی به‌سادگی ظاهر شوی و بروی! همین‌طور اگر با دومین ماشین کشتار کامل، دیوانه‌ساز، روبه‌رو هستی. فقط ظاهر می‌شوی و می‌روی!»",
+  "summary_fa": "کویرل هورن‌تیل و ترول کوهستان را ماشین کشتار کامل توصیف می‌کند و می‌گوید هر دو با یک طلسم کشنده می‌افتند؛ او راه نور خورشید را جزئیات غیرکاربردی کتاب می‌داند و می‌گوید جادوگر بالغ یا طلسم کشنده می‌زند یا آپارات می‌کند."
+ },
+ {
+  "id": 20,
+  "paras": [
+   88,
+   89,
+   90,
+   91,
+   92
+  ],
+  "verbatim_html": [
+   "\"Unless, of course,\" Professor Quirrell said, his voice now lower and harder, \"you are under the influence of an anti-Apparition jinx. No, there is exactly one monster which can threaten you once you are fully grown. The single most dangerous monster in all the world, so dangerous that nothing else comes close. The Dark Wizard. That is the only thing that will still be able to threaten you.\"",
+   "Professor Quirrell's lips were set in a thin line. \"I will reluctantly teach you enough trivia for a passing mark on the Ministry-mandated portions of your first-year finals. Since your exact mark on these sections will make no difference to your future life, anyone who wants more than a passing mark is welcome to waste their own time studying our pathetic excuse for a textbook. The title of this subject is not Defence Against Minor Pests. You are here to learn how to defend yourselves against the Dark Arts. Which means, let us be very clear on this, defending yourselves against Dark Wizards. People with wands who want to hurt you and who will likely succeed in doing so unless you hurt them first! There is no defence without offence! There is no defence without fighting! This reality is deemed too harsh for eleven-year-olds by the fat, overpaid, Auror-guarded politicians who mandated your curriculum. To the abyss with those fools! You are here for the subject that has been taught at Hogwarts for eight hundred years! Welcome to your first year of Battle Magic!\"",
+   "Harry started applauding. He couldn't help himself, it was too inspiring.",
+   "Once Harry started clapping there was some scattered response from Gryffindor, and more from Slytherin, but most students simply seemed too stunned to react.",
+   "Professor Quirrell made a cutting gesture, and the applause died instantly. \"Thank you very much,\" said Professor Quirrell. \"Now to practicalities. I have combined all my first-year Battle classes into one, which allows me to offer you twice as much classroom time as Doubles sessions -\""
+  ],
+  "summary_en": "Quirrell warns only the Dark Wizard threatens grown wizards under anti-Apparition, promises only enough trivia to pass Ministry finals, and declares Battle Magic means offence and fighting. Harry applauds with scattered support, and Quirrell silences them to explain combined classes.",
+  "translation_fa": "«مگر، البته،» پروفسور کویرل گفت، صدایش حالا پایین‌تر و سخت‌تر بود، «این‌که تحت تأثیر طلسم ضد-ظهور باشی. نه، دقیقاً یک هیولا هست که وقتی کاملاً بزرگ شدی می‌تواند تهدیدت کند. تنها خطرناک‌ترین هیولای جهان، آن‌قدر خطرناک که هیچ‌چیز دیگری نزدیکش هم نمی‌شود. جادوگر تاریک. آن تنها چیزی است که هنوز می‌تواند تهدیدت کند.»\n\nلب‌های پروفسور کویرل در خطی نازک قرار گرفته بود. «من با بی‌میلی به شما به‌اندازه‌ی کافی دانستنی‌های بی‌فایده یاد می‌دهم برای نمره‌ی قبولی در بخش‌های اجباری وزارتخانه در امتحان‌های پایانی سال اولتان. چون نمره‌ی دقیق شما در این بخش‌ها هیچ تفاوتی در زندگی آینده‌تان نمی‌کند، هر کس که بیش از نمره‌ی قبولی می‌خواهد خوش آمد که وقت خودش را با مطالعه‌ی بهانه‌ی رقت‌انگیز ما برای کتاب درسی تلف کند. عنوان این درس دفاع در برابر آفت‌های کوچک نیست. شما اینجا هستید تا یاد بگیرید چطور از خودتان در برابر هنرهای تاریک دفاع کنید. که یعنی، بگذارید در این خیلی روشن باشیم، دفاع از خودتان در برابر جادوگران تاریک. آدم‌هایی با چوبدستی که می‌خواهند به شما آسیب بزنند و احتمالاً موفق می‌شوند مگر این‌که اول شما به آن‌ها آسیب بزنید! هیچ دفاعی بدون حمله نیست! هیچ دفاعی بدون جنگیدن نیست! این واقعیت از نظر سیاستمداران چاق، پرحقوق و محافظت‌شده با اورور که برنامه‌ی درسی شما را دیکته کرده‌اند برای یازده‌ساله‌ها خیلی خشن دانسته می‌شود. به مغاک با آن احمق‌ها! شما اینجا هستید برای درسی که هشتصد سال در هاگوارتز تدریس شده است! به اولین سال جادوی نبردتان خوش آمدید!»\n\nهری شروع به دست زدن کرد. نتوانست جلوی خودش را بگیرد، خیلی الهام‌بخش بود.\n\nوقتی هری شروع به کف زدن کرد پاسخی پراکنده از گریفیندور بود، و بیشتر از اسلیترین، اما بیشتر دانش‌آموزان به نظر می‌رسید خیلی مبهوت‌اند که واکنش نشان دهند.\n\nپروفسور کویرل حرکتی برنده کرد، و تشویق فوراً مرد. «خیلی ممنونم،» پروفسور کویرل گفت. «حالا به کارهای عملی. من همه‌ی کلاس‌های نبرد سال اولم را در یکی ترکیب کرده‌ام، که به من امکان می‌دهد دو برابر زمان کلاس به شما بدهم به‌صورت جلسات دوبل ــ»",
+  "summary_fa": "کویرل هشدار می‌دهد تنها جادوگر تاریک تهدید واقعی است و این درس جادوی نبرد بدون دفاعِ بدون حمله است؛ هری دست می‌زند، دیگران مردد همراهی می‌کنند و کویرل برای توضیح کلاس‌های ترکیبی ساکتشان می‌کند."
+ },
+ {
+  "id": 21,
+  "paras": [
+   93,
+   94,
+   95,
+   96,
+   97
+  ],
+  "verbatim_html": [
+   "There were gasps of horror.",
+   "\"- an increased load which I will make up to you by not assigning any homework.\"",
+   "The gasps of horror cut off abruptly.",
+   "\"Yes, you heard me correctly. I will teach you to fight, not to write twelve inches on fighting due Monday.\"",
+   "Harry desperately wished he'd sat next to Hermione so he could see the look on her face now, but on the other hand he was pretty sure he was imagining it accurately."
+  ],
+  "summary_en": "Students gasp at doubled class time until Quirrell adds there will be no homework. He says he will teach fighting, not essays, and Harry imagines Hermione's face.",
+  "translation_fa": "نفس‌های حبس‌شده‌ی وحشت بود.\n\n«ــ بار بیشتری که با ندادن هیچ تکلیفی به شما جبران می‌کنم.»\n\nنفس‌های حبس‌شده‌ی وحشت ناگهان قطع شد.\n\n«بله، درست شنیدید. به شما یاد می‌دهم بجنگید، نه این‌که دوازده اینچ درباره‌ی جنگیدن بنویسید که دوشنبه تحویل بدهید.»\n\nهری شدیداً آرزو می‌کرد کاش کنار هرمیون نشسته بود تا بتواند حالا نگاه چهره‌اش را ببیند، اما از طرف دیگر کاملاً مطمئن بود که دقیقاً دارد آن را تصور می‌کند.",
+  "summary_fa": "دانش‌آموزان از دو برابر شدن ساعت وحشت می‌کنند تا این‌که کویرل می‌گوید تکلیفی نیست؛ او می‌گوید جنگیدن یاد می‌دهد نه انشا و هری چهره‌ی هرمیون را تصور می‌کند."
+ },
+ {
+  "id": 22,
+  "paras": [
+   98,
+   99,
+   100,
+   101,
+   102
+  ],
+  "verbatim_html": [
+   "Also Harry was in love. It would be a three-way wedding: him, the Time-Turner, and Professor Quirrell.",
+   "\"For those of you who so choose, I have arranged some after-school activities that I think you will find quite interesting as well as educational. Do you want to show the world your <em>own</em> abilities instead of watching fourteen other people play Quidditch? More than seven people can fight in an army.\"",
+   "Hot <em>damn.</em>",
+   "\"These and other after-school activities will also earn you Quirrell points. What are Quirrell points, you ask? The House point system does not suit my needs, because it makes House points too rare. I prefer to let my students know how they are doing more frequently than that. And on the rare occasions I offer you a written test, it will mark itself as you go along, and if you get too many related questions wrong, your test will show the names of students who got those questions right, and those students will be able to earn Quirrell points by helping you.\"",
+   "...wow. Why didn't the other professors use a system like that?"
+  ],
+  "summary_en": "Harry loves Quirrell's approach and hears about optional after-school armies for more than seven fighters. Quirrell introduces frequent Quirrell points and self-marking tests that name peer helpers, which Harry finds impressive.",
+  "translation_fa": "همچنین هری عاشق شده بود. عروسی سه‌نفره‌ای می‌بود: او، چرخاننده‌ی زمان و پروفسور کویرل.\n\n«برای آن‌هایی از شما که چنین انتخاب می‌کنند، من چند فعالیت فوق‌برنامه ترتیب داده‌ام که فکر می‌کنم هم جالب و هم آموزشی می‌یابید. آیا می‌خواهید به دنیا توانایی‌های خودتان را نشان بدهید به‌جای این‌که چهارده نفر دیگر را تماشا کنید که کوییدیچ بازی می‌کنند؟ بیش از هفت نفر می‌توانند در یک ارتش بجنگند.»\n\nلعنتی داغ.\n\n«این و دیگر فعالیت‌های فوق‌برنامه برایتان امتیاز کویرل هم می‌آورند. امتیازهای کویرل چیست، می‌پرسید؟ سیستم امتیاز خانه به نیازهای من نمی‌خورد، چون امتیازهای خانه را خیلی کمیاب می‌کند. ترجیح می‌دهم بگذارم دانش‌آموزانم پی‌درپی‌تر بدانند چطور پیش می‌روند. و در موارد نادری که به شما امتحان کتبی می‌دهم، خودش همان‌طور که پیش می‌روید نمره می‌دهد، و اگر سؤال‌های مرتبط زیادی را غلط بزنید، امتحانتان نام دانش‌آموزانی را نشان می‌دهد که آن سؤال‌ها را درست جواب داده‌اند، و آن دانش‌آموزان می‌توانند با کمک به شما امتیاز کویرل بگیرند.»\n\n...وای. چرا بقیه‌ی پروفسورها از سیستمی مثل این استفاده نکردند؟",
+  "summary_fa": "هری شیفته‌ی روش کویرل می‌شود؛ او از ارتش‌های فوق‌برنامه و امتیازهای کویرل برای بازخورد پی‌درپی و کمک همتایان از طریق امتحان خودتصحیح می‌گوید."
+ },
+ {
+  "id": 23,
+  "paras": [
+   103
+  ],
+  "verbatim_html": [
+   "\"What good are Quirrell points, you wonder? For a start, ten Quirrell points will be worth one House point. But they will earn you other favors as well. Would you like to take your exam at an unusual time? Is there a particular session you would very much prefer to skip? You will find that I can be very flexible on behalf of students who have accumulated enough Quirrell points. Quirrell points will control the generalship of the armies. And for Christmas - just before the Christmas break - I will grant someone a wish. Any school-related feat that lies within my power, my influence, or above all, my ingenuity. Yes, I was in Slytherin and I am offering to formulate a cunning plot on your behalf, if that is what it takes to accomplish your desire. This wish will go to whoever has earned the most Quirrell points within all seven years.\""
+  ],
+  "summary_en": "Quirrell says ten Quirrell points equal one House point plus favors like exam flexibility and army generalship, with a Christmas wish for any school feat going to the top earner across all seven years.",
+  "translation_fa": "«امتیازهای کویرل به چه درد می‌خورند، می‌پرسید؟ برای شروع، ده امتیاز کویرل برابر یک امتیاز خانه می‌ارزد. اما لطف‌های دیگری هم برایتان می‌آورند. آیا می‌خواهید امتحانتان را در زمانی غیرمعمول بدهید؟ آیا جلسه‌ی خاصی هست که خیلی ترجیح بدهید جا بیندازید؟ می‌بینید که من می‌توانم برای دانش‌آموزانی که امتیاز کویرل کافی جمع کرده‌اند خیلی انعطاف‌پذیر باشم. امتیازهای کویرل فرماندهی ارتش‌ها را کنترل می‌کنند. و برای کریسمس ــ درست پیش از تعطیلات کریسمس ــ به یک نفر آرزو می‌دهم. هر شاهکار مربوط به مدرسه که در توانم، نفوذم، یا بالاتر از همه، نبوغم باشد. بله، من در اسلیترین بودم و پیشنهاد می‌دهم نقشه‌ی زیرکانه‌ای از طرف شما طرح کنم، اگر برای انجام خواسته‌تان لازم باشد. این آرزو به کسی می‌رسد که بیشترین امتیاز کویرل را در هر هفت سال به دست آورده باشد.»",
+  "summary_fa": "کویرل می‌گوید ده امتیاز او یک امتیاز خانه است به‌علاوه انعطاف امتحانی و فرماندهی ارتش، و جایزه‌ی آرزوی کریسمس برای برترین هر هفت سال وعده می‌دهد."
+ },
+ {
+  "id": 24,
+  "paras": [
+   104,
+   105,
+   106
+  ],
+  "verbatim_html": [
+   "That would be Harry.",
+   "\"Now leave your books and loose items at your desks - they will be safe, the screens will watch over them for you - and come down onto this platform. It's time to play a game called Who's the Most Dangerous Student in the Classroom.\"",
+   "* * *"
+  ],
+  "summary_en": "Harry assumes he will win the wish, Quirrell orders them to leave belongings under screen watch and come down to play Who's the Most Dangerous Student in the Classroom, and the scene breaks.",
+  "translation_fa": "آن هری می‌بود.\n\n«حالا کتاب‌ها و وسایل شل‌تان را روی میزهایتان بگذارید ــ امن‌اند، صفحه‌ها برایتان از آن‌ها نگهبانی می‌کنند ــ و بیایید پایین روی این سکو. وقت بازی‌ای است به نام چه کسی خطرناک‌ترین دانش‌آموز کلاس است.»\n\n* * *",
+  "summary_fa": "هری خود را برنده می‌داند؛ کویرل می‌خواهد وسایل را بگذارند و برای بازی خطرناک‌ترین دانش‌آموز کلاس پایین بیایند و صحنه عوض می‌شود."
+ },
+ {
+  "id": 25,
+  "paras": [
+   107,
+   108,
+   109,
+   110,
+   111
+  ],
+  "verbatim_html": [
+   "Harry twisted his wand in his right hand and said \"<em>Ma-ha-su!</em> \"",
+   "There was another high-pitched \"bing\" from the floating blue sphere that Professor Quirrell had assigned to Harry as his target. That particular sound meant a perfect strike, which Harry had been gotten on nine out of his last ten attempts.",
+   "Somewhere Professor Quirrell had dug up a spell that was incredibly easy to pronounce, <em>and</em> had a ridiculously simple wand motion, <em>and</em> had a tendency to hit wherever you were currently looking at. Professor Quirrell had disdainfully proclaimed that real battle magic was far more difficult than this. That the hex was entirely useless in actual combat. That it was a barely ordered burst of magic whose only real content was the aiming, and that it would produce, when it hit, a pain briefly equivalent to being punched hard in the nose. That the sole purpose of this test was to see who was a fast learner, since Professor Quirrell was certain no one would have previously encountered this hex or anything like it.",
+   "Harry didn't care about any of that.",
+   "\"<em>Ma-ha-su!</em> \""
+  ],
+  "summary_en": "Harry practices the easy Sumerian Simple Strike Hex Ma-ha-su, scoring perfect bings on nine of ten tries. Though Quirrell calls it useless in real combat and only a fast-learner test, Harry loves feeling like a real wizard.",
+  "translation_fa": "هری چوبدستی‌اش را در دست راستش چرخاند و گفت «ما-ها-سو!»\n\nصدای «بینگ» زیر دیگری از گوی شناور آبی بود که پروفسور کویرل به هری به‌عنوان هدفش داده بود. آن صدای خاص به معنای ضربه‌ی کامل بود، که هری در نه تا از ده تلاش آخرش گرفته بود.\n\nجایی پروفسور کویرل طلسمی پیدا کرده بود که فوق‌العاده راحت تلفظ می‌شد، و حرکتی به‌طرز مسخره ساده با چوبدستی داشت، و گرایش داشت به هر جا که الان نگاه می‌کردی بخورد. پروفسور کویرل با تحقیر اعلام کرده بود که جادوی نبرد واقعی خیلی دشوارتر از این است. این‌که این افسون در نبرد واقعی کاملاً بی‌فایده است. این‌که انفجاری به‌زحمت مرتب‌شده از جادو بود که تنها محتوای واقعی‌اش نشانه‌گیری بود، و وقتی می‌خورد، دردی کوتاه معادل مشت محکم خوردن در بینی تولید می‌کرد. این‌که تنها هدف این آزمون دیدن این بود که چه کسی سریع یاد می‌گیرد، چون پروفسور کویرل مطمئن بود هیچ‌کس قبلاً با این افسون یا چیزی شبیهش روبه‌رو نشده است.\n\nهری به هیچ‌کدام از آن‌ها اهمیت نمی‌داد.\n\n«ما-ها-سو!»",
+  "summary_fa": "هری افسون ساده‌ی سومری ما-ها-سو را تمرین می‌کند و بینگ‌های کامل می‌گیرد؛ با این‌که کویرل آن را در نبرد واقعی بی‌فایده و فقط آزمون یادگیری سریع می‌داند، هری حس جادوگر واقعی بودن دارد."
+ },
+ {
+  "id": 26,
+  "paras": [
+   112,
+   113,
+   114,
+   115,
+   116
+  ],
+  "summary_en": "Harry lands red bolts on his target with satisfying bings, feels like a real wizard for the first time, and experiments with moving, skipping, and quick-drawing between shots.",
+  "summary_fa": "هری با پرتوهای سرخ به هدفش می‌زند و برای اولین بار حس جادوگر واقعی بودن می‌کند و با حرکت و کشیدن سریع چوبدستی میان شلیک‌ها آزمایش می‌کند.",
+  "translation_fa": "پرتوی سرخ انرژی از چوبدستی‌اش بیرون زد و به هدف خورد و گوی آبی بار دیگر آن بنگ را درآورد که یعنی طلسم واقعاً برایش کار کرده بود.\n\nهری برای اولین بار از وقتی به هاگوارتز آمده بود حس می‌کرد جادوگر واقعی است. آرزو می‌کرد هدف مثل گوی‌های کوچکی که بن کنوبی برای تمرین لوک استفاده کرده بود جاخالی بدهد، اما به دلیلی پروفسور کویرل همه‌ی دانش‌آموزان و هدف‌ها را در صف‌های مرتبی چیده بود که مطمئن شود به هم شلیک نمی‌کنند.\n\nپس هری چوبدستی‌اش را پایین آورد، به راست جست زد، چوبدستی‌اش را بالا برد و چرخاند و فریاد زد: «ماهاسو!»\n\n«دانگ»ای بم‌تر آمد که یعنی تقریباً درست انجامش داده بود.\n\nهری چوبدستی‌اش را در جیبش گذاشت، به چپ برگشت و کشید و پرتوی سرخ انرژی دیگری شلیک کرد.",
+  "verbatim_html": [
+   "A <em>red bolt of energy</em> shot out of his wand and struck the target and the blue sphere once again made the bing which meant the spell had <em>actually worked for him.</em>",
+   "Harry was feeling like a real wizard for the first time since he'd come to Hogwarts. He wished the target would dodge like the little spheres that Ben Kenobi had used for training Luke, but for some reason Professor Quirrell had instead lined up all the students and targets in neat orders which made sure they wouldn't fire on each other.",
+   "So Harry lowered his wand, skipped to the right, snapped up his wand and twisted and shouted \"<em>Ma-ha-su!</em> \"",
+   "There was a lower-pitched \"dong\" which meant he'd gotten it almost right.",
+   "Harry put his wand into his pocket, skipped back to the left and drew and fired another red bolt of energy."
+  ]
+ },
+ {
+  "id": 27,
+  "paras": [
+   117,
+   118,
+   119,
+   120,
+   121
+  ],
+  "summary_en": "Harry exults over another perfect bing amid the class chant; Quirrell calls enough, floats the target-spheres to the ceiling, and announces the Who's-the-Most-Dangerous-Student game with its fastest learner.",
+  "summary_fa": "هری از بنگ کامل دیگری در میان هم‌خوانی کلاس سرمست می‌شود؛ کویرل پایان می‌دهد، گوی‌ها را بالا می‌فرستد و بازی خطرناک‌ترین دانش‌آموز کلاس را با سریع‌ترین یادگیرنده اعلام می‌کند.",
+  "translation_fa": "بنگ زیر و بلندی که به دنبالش آمد به‌راحتی یکی از رضایت‌بخش‌ترین صداهایی بود که در زندگی‌اش شنیده بود. هری می‌خواست از پیروزی با تمام ریه‌هایش جیغ بزند. می‌توانم جادو کنم! از من بترسید، قوانین فیزیک، دارم می‌آیم تا نقضتان کنم!\n\n«ماهاسو!» صدای هری بلند بود، اما در میان سرود پیوسته‌ی فریادهای مشابه از سراسر سکوی کلاس به‌سختی به گوش می‌رسید.\n\n«کافی است،» صدای تقویت‌شده‌ی پروفسور کویرل گفت. (بلند به نظر نمی‌رسید. مثل صدای معمولی به نظر می‌رسید، که از درست پشت شانه‌ی چپت می‌آمد، فرقی نمی‌کرد نسبت به پروفسور کویرل کجا ایستاده باشی.) «می‌بینم که همه‌تان حالا دست‌کم یک بار موفق شده‌اید.» گوی‌های هدف سرخ شدند و شروع کردند به بالا رفتن به سمت سقف.\n\nپروفسور کویرل روی سکوی برآمده‌ی وسط سکو ایستاده بود، با یک دست کمی به میز معلمی‌اش تکیه داده بود.\n\n«گفتم،» پروفسور کویرل گفت، «که بازی‌ای می‌کنیم به نام خطرناک‌ترین دانش‌آموز کلاس کیست. یک دانش‌آموز در این کلاس هست که طلسم ضربه‌ی ساده‌ی سومری را سریع‌تر از بقیه یاد گرفت ــ»",
+  "verbatim_html": [
+   "The high-pitched bing which resulted was easily one of the most satisfying sounds he'd heard in his life. Harry wanted to scream in triumph at the top of his lungs. <em>I CAN DO MAGIC! FEAR ME, LAWS OF PHYSICS, I'M COMING TO VIOLATE YOU!</em>",
+   "\"<em>Ma-ha-su!</em> \" Harry's voice was loud, but hardly noticeable over the steady chant of similar cries from around the classroom platform.",
+   "\"Enough,\" said Professor Quirrell's amplified voice. (It didn't sound loud. It sounded like normal volume, coming from just behind your left shoulder, no matter where you were standing relative to Professor Quirrell.) \"I see that all of you have succeeded at least once now.\" The target-spheres turned red and began to drift up towards the ceiling.",
+   "Professor Quirrell was standing on the raised dais in the center of the platform, leaning slightly on his teacher's desk with one hand.",
+   "\"I told you,\" Professor Quirrell said, \"that we would play a game called Who's the Most Dangerous Student in the Classroom. There is one student in this classroom who mastered the Sumerian Simple Strike Hex faster than anyone else -\""
+  ]
+ },
+ {
+  "id": 28,
+  "paras": [
+   122,
+   123,
+   124,
+   125,
+   126
+  ],
+  "summary_en": "Quirrell names Hermione Granger, fastest learner and helper of seven students, awarding the year's first seven Quirrell points; Harry is annoyed and fears she is simply smarter, clinging to the excuse of her extra reading and Waffling's weak textbook.",
+  "summary_fa": "کویرل هرماینی گرنجر را سریع‌ترین یادگیرنده و کمک‌کننده به هفت دانش‌آموز معرفی می‌کند و هفت امتیاز کویرل می‌دهد؛ هری آزرده می‌شود و می‌ترسد او ساده‌تر باهوش‌تر باشد و به بهانه‌ی مطالعه‌ی بیشتر و ضعف کتاب وافلینگ می‌چسبد.",
+  "translation_fa": "اوه فلان فلان فلان.\n\n«ــ و به هفت دانش‌آموز دیگر کمک کرد. که برای آن اولین هفت امتیاز کویرل اعطاشده به سال شما را گرفته است. جلو بیا، هرماینی گرنجر. وقت مرحله‌ی بعدی بازی است.»\n\nهرماینی گرنجر با گام‌های بلند جلو آمد، با نگاهی آمیخته از پیروزی و نگرانی بر چهره‌اش. ریونکلاوی‌ها با افتخار نگاه می‌کردند، اسلیترین‌ها با اخم، و هری با آزردگی آشکار. هری این بار خوب عمل کرده بود. احتمالاً حتی در نیمه‌ی بالای کلاس بود، حالا که همه با طلسمی به یک اندازه ناآشنا روبه‌رو شده بودند و هری تمام نظریه‌ی جادویی آدالبرت وافلینگ را خوانده بود. و با این حال هرماینی هنوز داشت بهتر عمل می‌کرد.\n\nجایی در پس ذهنش ترس این بود که هرماینی ساده‌تر از او باهوش‌تر است.\n\nاما فعلاً هری می‌خواست امیدش را به حقایق معلومی بدوزد که (الف) هرماینی خیلی بیشتر از کتاب‌های درسی استاندارد خوانده و (ب) آدالبرت وافلینگ آدم بی‌ذوقی است که نظریه‌ی جادو را نوشته تا به مذاق هیئت مدرسه‌ای خوش بیاید که فکر چندانی درباره‌ی یازده‌ساله‌ها نمی‌کند.",
+  "verbatim_html": [
+   "Oh blah blah blah.",
+   "\"- and went on to help seven other students. For which she has earned the first seven Quirrell points awarded to your year. Come forth, Hermione Granger. It is time for the next stage of the game.\"",
+   "Hermione Granger began striding forwards, a mixed look of triumph and apprehension on her face. The Ravenclaws looked on proudly, the Slytherins with glares, and Harry with frank annoyance. Harry had done fine this time. He was probably even in the upper half of the class, now that everyone had been faced with an equally unfamiliar spell and Harry had read all the way through Adalbert Waffling's <em>Magical Theory</em>. And yet <em>Hermione was still doing better</em>.",
+   "Somewhere in the back of his mind was the fear that Hermione was simply smarter than him.",
+   "But for now Harry was going to pin his hopes on the known facts that (a) Hermione had read a lot more than the standard textbooks and (b) Adalbert Waffling was an uninspired sod who'd written <em>Magical Theory</em> to pander to a school board that didn't think much of eleven-year-olds."
+  ]
+ },
+ {
+  "id": 29,
+  "paras": [
+   127,
+   128,
+   129,
+   130,
+   131
+  ],
+  "summary_en": "Hermione steps onto the dais as Quirrell praises her two-minute mastery and asks whether intelligence makes her most dangerous; he then orders her to cast the Simple Strike Hex on a chosen student, and she freezes.",
+  "summary_fa": "هرماینی روی سکو می‌رود و کویرل از تسلط دو دقیقه‌ای او بر طلسمی ناآشنا می‌گوید و می‌پرسد آیا هوش او را خطرناک‌ترین می‌کند؛ بعد دستور می‌دهد به دانش‌آموزی طلسم بزند و او خشکش می‌زند.",
+  "translation_fa": "هرماینی به سکوی مرکزی رسید و بالا رفت.\n\n«هرماینی گرنجر بر طلسمی کاملاً ناآشنا در دو دقیقه مسلط شد، تقریباً یک دقیقه‌ی کامل سریع‌تر از نفر دوم.» پروفسور کویرل آهسته در جا چرخید تا به همه‌ی دانش‌آموزانی که آن‌ها را تماشا می‌کردند نگاه کند. «آیا هوش دوشیزه گرنجر می‌تواند او را خطرناک‌ترین دانش‌آموز کلاس کند؟ خب؟ چه فکر می‌کنید؟»\n\nبه نظر می‌رسید هیچ‌کس در آن لحظه چیزی فکر نمی‌کند. حتی هری هم مطمئن نبود چه بگوید.\n\n«بفهمیم، باشد؟» پروفسور کویرل گفت. رو به هرماینی برگشت و به سمت کلاس بزرگ‌تر اشاره کرد. «هر دانش‌آموزی را که دوست داری انتخاب کن و طلسم ضربه‌ی ساده را رویش اجرا کن.»\n\nهرماینی همان‌جا که ایستاده بود خشکش زد.",
+  "verbatim_html": [
+   "Hermione reached the central dais and stepped up.",
+   "\"Hermione Granger mastered a completely unfamiliar spell in two minutes, almost a full minute faster than the next runner-up.\" Professor Quirrell turned slowly in place to look at all the students watching them. \"Could Miss Granger's intelligence make her the most dangerous student in the classroom? Well? What do you think?\"",
+   "No one seemed to be thinking anything at the moment. Even Harry wasn't sure what to say.",
+   "\"Let's find out, shall we?\" said Professor Quirrell. He turned back to Hermione, and gestured toward the wider class. \"Select any student you like and cast the Simple Strike Hex on them.\"",
+   "Hermione froze where she stood."
+  ]
+ },
+ {
+  "id": 30,
+  "paras": [
+   132,
+   133,
+   134,
+   135,
+   136
+  ],
+  "summary_en": "Quirrell presses Hermione with a direct order, insisting the hex is brief and harmless, then threatens a lost Quirrell point; Harry silently offers himself as target, but Hermione's wand twitches and she lowers it.",
+  "summary_fa": "کویرل با دستور مستقیم هرماینی را تحت فشار می‌گذارد و می‌گوید طلسم کوتاه و کم‌آزار است، بعد به کم کردن امتیاز تهدید می‌کند؛ هری در سکوت خودش را هدف پیشنهاد می‌دهد، اما چوبدستی هرماینی تکان می‌خورد و آن را پایین می‌آورد.",
+  "translation_fa": "«یالا،» پروفسور کویرل نرم گفت. «این طلسم را بیش از پنجاه بار بی‌نقص اجرا کرده‌ای. دائمی آسیب‌زننده نیست یا حتی آن‌قدرها دردناک نیست. به اندازه‌ی مشت محکمی درد دارد و فقط چند ثانیه طول می‌کشد.» صدای پروفسور کویرل سخت‌تر شد. «این دستوری مستقیم از استادت است، دوشیزه گرنجر. هدفی انتخاب کن و طلسم ضربه‌ی ساده را شلیک کن.»\n\nچهره‌ی هرماینی از وحشت جمع شده بود و چوبدستی‌اش در دستش می‌لرزید. انگشت‌های خودِ هری هم از همدردی چوبدستی خودش را محکم می‌فشردند. با این‌که می‌توانست ببیند پروفسور کویرل دارد چه کار می‌کند. با این‌که می‌توانست ببیند پروفسور کویرل دارد چه نکته‌ای را ثابت می‌کند.\n\n«اگر چوبدستی‌ات را بلند نکنی و شلیک نکنی، دوشیزه گرنجر، یک امتیاز کویرل از دست می‌دهی.»\n\nهری به هرماینی خیره شده بود، وادارش می‌کرد به سمت او نگاه کند. دست راستش آرام سینه‌ی خودش را می‌زد. من را انتخاب کن، من نمی‌ترسم...\n\nچوبدستی هرماینی در دستش تکان خورد؛ بعد چهره‌اش آرام شد، و چوبدستی‌اش را پایین آورد کنار بدنش.",
+  "verbatim_html": [
+   "\"Come now,\" Professor Quirrell said smoothly. \"You have cast this spell perfectly over fifty times. It is not permanently harmful or even all that painful. It hurts as much as a hard punch and lasts only a few seconds.\" Professor Quirrell's voice grew harder. \"This is a direct order from your professor, Miss Granger. Choose a target and fire a Simple Strike Hex.\"",
+   "Hermione's face was screwed up in horror and her wand was trembling in her hand. Harry's own fingers were clenching his own wand hard in sympathy. Even though he could see what Professor Quirrell was trying to do. Even though he could see the point Professor Quirrell was trying to make.",
+   "\"If you do <em>not</em> raise your wand and fire, Miss Granger, you will lose a Quirrell point.\"",
+   "Harry stared at Hermione, willing her to look in his direction. His right hand was softly tapping his own chest. <em>Pick me, I'm not afraid...</em>",
+   "Hermione's wand twitched in her hand; then her face relaxed, and she lowered her wand to her side."
+  ]
+ },
+ {
+  "id": 31,
+  "paras": [
+   137,
+   138,
+   139,
+   140,
+   141
+  ],
+  "summary_en": "Hermione calmly refuses; Quirrell deducts a point and declares she failed the test, telling her that mere knowledge is not enough and that one who cannot give and take stubbed-toe-level violence cannot pass Defence.",
+  "summary_fa": "هرماینی آرام خودداری می‌کند؛ کویرل امتیازی کم می‌کند و می‌گوید در آزمون رد شده و دانستن صرف کافی نیست و کسی که نتواند خشونت در حد نوک پا به در را بدهد و بگیرد در دفاع رد می‌شود.",
+  "translation_fa": "«نه،» هرماینی گرنجر گفت.\n\nصدایش آرام بود، و با این‌که بلند نبود، همه در سکوت آن را شنیدند.\n\n«پس باید یک امتیاز از تو کم کنم،» پروفسور کویرل گفت. «این آزمون است، و تو در آن رد شده‌ای.»\n\nآن به او رسید. هری می‌توانست ببیند. اما شانه‌هایش را صاف نگه داشت.\n\nصدای پروفسور کویرل همدلانه بود و به نظر می‌رسید کل اتاق را پر می‌کند. «دانستن چیزها همیشه کافی نیست، دوشیزه گرنجر. اگر نتوانی خشونتی در حد نوک پا به در خوردن را بدهی و بگیری، آن‌وقت نمی‌توانی از خودت دفاع کنی و در دفاع قبول نمی‌شوی. لطفاً به هم‌کلاسی‌هایت بپیوند.»",
+  "verbatim_html": [
+   "\"No,\" said Hermione Granger.",
+   "Her voice was calm, and even though it wasn't loud, everyone heard it in the silence.",
+   "\"Then I must deduct one point from you,\" said Professor Quirrell. \"This is a test, and you have failed it.\"",
+   "That reached her. Harry could see it. But she kept her shoulders straight.",
+   "Professor Quirrell's voice was sympathetic and seemed to fill the whole room. \"Knowing things isn't always enough, Miss Granger. If you cannot give and receive violence on the order of stubbing your toe, then you cannot defend yourself and you will not pass Defence. Please rejoin your classmates.\""
+  ]
+ },
+ {
+  "id": 32,
+  "paras": [
+   142,
+   143,
+   144,
+   145,
+   146
+  ],
+  "summary_en": "Hermione returns peacefully to the Ravenclaws while Harry oddly wants to applaud though Quirrell was right; Quirrell rules her out as most dangerous, the class looks to Slytherin, and he calls Draco Malfoy forward, who steps up proudly.",
+  "summary_fa": "هرماینی آرام به ریونکلاوی‌ها برمی‌گردد و هری به‌طرز عجیبی می‌خواهد دست بزند هرچند کویرل حق داشت؛ کویرل او را از خطرناک‌ترین بودن کنار می‌گذارد، کلاس به اسلیترین نگاه می‌کند و دراکو مالفوی را جلو می‌خواند که با غرور بالا می‌رود.",
+  "translation_fa": "هرماینی به سمت دسته‌ی ریونکلاو برگشت. چهره‌اش آرام به نظر می‌رسید و هری، به دلیلی عجیب، می‌خواست شروع به دست زدن کند. با این‌که پروفسور کویرل حق داشت.\n\n«خب،» پروفسور کویرل گفت. «روشن می‌شود که هرماینی گرنجر خطرناک‌ترین دانش‌آموز کلاس نیست. فکر می‌کنید واقعاً چه کسی ممکن است خطرناک‌ترین آدم اینجا باشد؟ ــ گذشته از خودم، البته.»\n\nبی‌آنکه حتی فکر کند، هری برگشت تا به دسته‌ی اسلیترین نگاه کند.\n\n«دراکو، از خاندان شریف و باستانی مالفوی،» پروفسور کویرل گفت. «به نظر می‌رسد خیلی از هم‌شاگردی‌هایت به سمت تو نگاه می‌کنند. جلو بیا، اگر مایلی.»\n\nدراکو چنین کرد، با غروری در رفتارش راه رفت. روی سکو رفت و با لبخند به پروفسور کویرل نگاه کرد.",
+  "verbatim_html": [
+   "Hermione walked back towards the Ravenclaw cluster. Her face looked peaceful and Harry, for some odd reason, wanted to start clapping. Even though Professor Quirrell had been <em>right</em>.",
+   "\"So,\" Professor Quirrell said. \"It becomes clear that Hermione Granger is not the most dangerous student in the classroom. Who do you think might actually be the most dangerous person here? - besides me, of course.\"",
+   "Without even thinking, Harry turned to look at the Slytherin contingent.",
+   "\"Draco, of the Noble and Most Ancient House of Malfoy,\" said Professor Quirrell. \"It seems that many of your fellow pupils are looking in your direction. Come forth, if you would.\"",
+   "Draco did so, walking with a certain pride in his bearing. He stepped onto the dais and looked up at Professor Quirrell with a smile."
+  ]
+ },
+ {
+  "id": 33,
+  "paras": [
+   147,
+   148,
+   149,
+   150,
+   151
+  ],
+  "summary_en": "At Quirrell's single word Draco spins and instantly hexes Hermione, earning two Quirrell points; asked why he chose her, he answers after a pause that she stood out the most.",
+  "summary_fa": "با یک کلمه‌ی کویرل دراکو می‌چرخد و بی‌درنگ به هرماینی طلسم می‌زند و دو امتیاز می‌گیرد؛ وقتی پرسیده می‌شود چرا او را زد، بعد از مکثی می‌گوید چون از همه بیشتر به چشم می‌آمد.",
+  "translation_fa": "«آقای مالفوی،» پروفسور کویرل گفت. «شلیک کن.»\n\nهری اگر وقت بود سعی می‌کرد جلویش را بگیرد اما دراکو در یک حرکت نرم به سمت دسته‌ی ریونکلاو چرخید و چوبدستی‌اش را بلند کرد و گفت «ماهاسو!» انگار همه یک هجا بود و هرماینی داشت می‌گفت «آخ!» و همین بود و تمام.\n\n«خوب زده شد،» پروفسور کویرل گفت. «دو امتیاز کویرل برای تو. اما بگو، چرا دوشیزه گرنجر را هدف گرفتی؟»\n\nمکثی شد.\n\nسرانجام دراکو گفت، «چون از همه بیشتر به چشم می‌آمد.»",
+  "verbatim_html": [
+   "\"Mr. Malfoy,\" Professor Quirrell said. \"Fire.\"",
+   "Harry would have tried to stop it if there'd been time but in one smooth motion Draco spun on the Ravenclaw contingent and raised his wand and said \"<em>Mahasu!</em> \" like it was all one syllable and Hermione was saying \"Ow!\" and that was that.",
+   "\"Well struck,\" said Professor Quirrell. \"Two Quirrell points to you. But tell me, why did you target Miss Granger?\"",
+   "There was a pause.",
+   "Finally Draco said, \"Because she stood out the most.\""
+  ]
+ },
+ {
+  "id": 34,
+  "paras": [
+   152
+  ],
+  "summary_en": "Quirrell explains Draco is dangerous because he knows whom to strike and whom to spare, making allies without making enemies, and awards him two more Quirrell points plus a House point to Slytherin for exemplary Slytherin virtue.",
+  "summary_fa": "کویرل توضیح می‌دهد دراکو خطرناک است چون می‌داند به چه کسی بزند و به چه کسی نزند و بی‌دشمن‌تراشی متحد می‌سازد، و دو امتیاز کویرل دیگر به‌علاوه‌ی یک امتیاز خانه به اسلیترین برای فضیلت نمونه‌ی اسلیترینی می‌دهد.",
+  "translation_fa": "لب‌های پروفسور کویرل به لبخندی نازک خم شد. «و این دلیل واقعی خطرناک بودن دراکو مالفوی است. اگر کس دیگری را انتخاب می‌کرد، آن بچه به احتمال بیشتر از این‌که جدا شده رنجیده می‌شد، و آقای مالفوی به احتمال بیشتر دشمنی می‌ساخت. و در حالی که آقای مالفوی ممکن بود توجیه دیگری برای انتخاب او بدهد، آن جز این‌که بعضی از شما را از خود براند برایش فایده‌ای نداشت، در حالی که دیگران از قبل دارند برایش هورا می‌کشند چه چیزی بگوید چه نگوید. یعنی این‌که آقای مالفوی خطرناک است چون می‌داند به چه کسی بزند و به چه کسی نزند، چطور متحد بسازد و از دشمن ساختن بپرهیزد. دو امتیاز کویرل دیگر برای تو، آقای مالفوی. و چون فضیلت نمونه‌ی اسلیترین را نشان دادی، فکر می‌کنم خاندان سالازار هم امتیازی گرفته است. می‌توانی به دوستانت بپیوندی.»",
+  "verbatim_html": [
+   "Professor Quirrell's lips turned up in a thin smile. \"And that is the true reason why Draco Malfoy is dangerous. Had he selected any other, that child would more likely resent being singled out, and Mr. Malfoy would more probably make an enemy. And while Mr. Malfoy might have given some other justification for selecting her, that would have served him no purpose save to alienate some of you, while others are already cheering him whether he says anything or not. Which is to say that Mr. Malfoy is dangerous because he knows who to strike and who not to strike, how to make allies and avoid making enemies. Two more Quirrell points to you, Mr. Malfoy. And as you have demonstrated an exemplary virtue of Slytherin, I think that Salazar's House has earned a point as well. You may rejoin your friends.\""
+  ]
+ },
+ {
+  "id": 35,
+  "paras": [
+   153,
+   154,
+   155,
+   156,
+   157
+  ],
+  "summary_en": "Draco bows and returns amid Slytherin clapping that Quirrell silences; Quirrell teases that one student remains more dangerous than the Malfoy scion, all eyes turn, and he summons Harry Potter, which bodes ill.",
+  "summary_fa": "دراکو تعظیم می‌کند و میان دست زدن اسلیترین برمی‌گردد که کویرل ساکتش می‌کند؛ کویرل می‌گوید یک دانش‌آموز از نواده‌ی مالفوی خطرناک‌تر مانده، همه نگاه می‌کنند و هری پاتر را احضار می‌کند که نشانه‌ی خوبی نیست.",
+  "translation_fa": "دراکو کمی تعظیم کرد و به سمت دسته‌ی اسلیترین برگشت. دست زدنی از رداهای سبزلبه شروع شد، اما پروفسور کویرل اشاره‌ی سکوت کرد و دوباره سکوت افتاد.\n\n«شاید به نظر برسد بازی‌مان تمام شده،» پروفسور کویرل گفت. «و با این حال یک دانش‌آموز در این کلاس هست که از نواده‌ی مالفوی خطرناک‌تر است.»\n\nو حالا به دلیلی به نظر می‌رسید خیلی‌ها دارند به... نگاه می‌کنند...\n\n«هری پاتر. جلو بیا.»\n\nاین نشانه‌ی خوبی نداشت.",
+  "verbatim_html": [
+   "Draco bowed slightly and walked back to the Slytherin contingent. Some clapping started from the green-trimmed robes, but Professor Quirrell made a cutting gesture and silence fell again.",
+   "\"It might seem that our game is done,\" said Professor Quirrell. \"And yet there is a single student in this classroom who is more dangerous than the scion of Malfoy.\"",
+   "And <em>now</em> for some reason there seemed to be an awful lot of people looking at...",
+   "\"Harry Potter. Come forth.\"",
+   "This did not bode well."
+  ]
+ },
+ {
+  "id": 36,
+  "paras": [
+   158,
+   159,
+   160,
+   161,
+   162
+  ],
+  "summary_en": "Harry reluctantly approaches, bracing for a spell, Dark Lord, or Killing Curse test; Quirrell dismisses the Boy-Who-Lived fame as luck at age one and instead cites eyewitness reports of Harry facing five older Slytherins as proof he is the most dangerous student.",
+  "summary_fa": "هری بی‌میل نزدیک می‌شود و برای آزمون طلسم، ارباب تاریکی یا طلسم مرگ آماده می‌شود؛ کویرل شهرت پسر-زنده‌مانده را شانس یک‌سالگی می‌داند و در عوض گزارش‌های شاهدان از ایستادگی هری برابر پنج اسلیترین بزرگ‌تر را دلیل خطرناک‌ترین بودنش می‌آورد.",
+  "translation_fa": "هری بی‌میل به سمت جایی رفت که پروفسور کویرل روی سکوی برآمده‌اش ایستاده بود، هنوز کمی به میز معلمی‌اش تکیه داده بود.\n\nعصبی بودنِ در کانون توجه بودن به نظر می‌رسید هوش هری را تیزتر می‌کند وقتی به سکو نزدیک می‌شد، و ذهنش داشت امکان‌ها را برای این‌که پروفسور کویرل چه چیزی را گواه خطرناکی هری می‌داند زیرورو می‌کرد. از او خواسته می‌شود طلسمی بزند؟ ارباب تاریکی را شکست دهد؟\n\nنمایش مصونیت ادعایی‌اش در برابر طلسم مرگ؟ بی‌گمان پروفسور کویرل برای آن خیلی باهوش‌تر از این بود...\n\nهری خیلی مانده به سکو ایستاد، و پروفسور کویرل از او نخواست نزدیک‌تر بیاید.\n\n«طنز این است،» پروفسور کویرل گفت، «همه‌تان به آدم درست نگاه کردید به دلایل کاملاً غلط. دارید فکر می‌کنید،» لب‌های پروفسور کویرل کج شد، «که هری پاتر ارباب تاریکی را شکست داده، پس باید خیلی خطرناک باشد. به. او یک ساله بود. هر تصادف سرنوشتی که ارباب تاریکی را کشت احتمالاً ربط کمی به توانایی‌های آقای پاتر به‌عنوان مبارز داشت. اما بعد از این‌که شایعه‌هایی شنیدم درباره‌ی یک ریونکلاوی که برابر پنج اسلیترین بزرگ‌تر ایستاده، با چند شاهد عینی مصاحبه کردم و به این نتیجه رسیدم که هری پاتر خطرناک‌ترین دانش‌آموزم خواهد بود.»",
+  "verbatim_html": [
+   "Harry reluctantly walked towards where Professor Quirrell stood on his raised dais, still leaning slightly against his teacher's desk.",
+   "The nervousness of being put into the spotlight seemed to be sharpening Harry's wits as he approached the dais, and his mind was ruffling through possibilities for what Professor Quirrell might think could demonstrate Harry's dangerousness. Would he be asked to cast a spell? To defeat a Dark Lord?",
+   "Demonstrate his supposed immunity to the Killing Curse? Surely Professor Quirrell was too smart for <em>that</em>...",
+   "Harry stopped well short of the dais, and Professor Quirrell didn't ask him to come any closer.",
+   "\"The irony is,\" said Professor Quirrell, \"you all looked at the right person for entirely the wrong reasons. You are thinking,\" Professor Quirrell's lips twisted, \"that Harry Potter has defeated the Dark Lord, and so must be very dangerous. Bah. He was one year old. Whatever quirk of fate killed the Dark Lord likely had little to do with Mr. Potter's abilities as a fighter. But after I heard rumors of one Ravenclaw facing down five older Slytherins, I interviewed several eyewitnesses and came to the conclusion that Harry Potter would be my most dangerous student.\""
+  ]
+ },
+ {
+  "id": 37,
+  "paras": [
+   163,
+   164,
+   165,
+   166,
+   167
+  ],
+  "summary_en": "Adrenaline jolts Harry as he starts to protest; an amused Quirrell tells him to expect better, then demands ten unaccustomed combat uses of room objects, leaving Harry speechless at being understood before ideas pour out.",
+  "summary_fa": "آدرنالین به هری می‌جهد وقتی شروع به اعتراض می‌کند؛ کویرلِ سرگرم‌شده می‌گوید انتظار بهتری از او داشته باش، بعد ده کاربرد ناآشنای اشیای اتاق در نبرد می‌خواهد و هری را از این‌که فهمیده شده مبهوت می‌گذارد پیش از این‌که ایده‌ها سرازیر شوند.",
+  "translation_fa": "جهشی آدرنالین به بدن هری ریخت و او را راست‌تر نگه داشت. نمی‌دانست پروفسور کویرل به چه نتیجه‌ای رسیده، اما آن نمی‌توانست خوب باشد.\n\n«آه، پروفسور کویرل ــ» هری شروع به گفتن کرد.\n\nپروفسور کویرل سرگرم به نظر می‌رسید. «داری فکر می‌کنی که من جواب غلطی درآورده‌ام، نه، آقای پاتر؟ یاد می‌گیری از من بهتر انتظار داشته باشی.» پروفسور کویرل از جایی که به میز تکیه داده بود راست شد. «آقای پاتر، همه‌چیز کاربردهای عادی خودش را دارد. ده کاربرد ناآشنای اشیای این اتاق را برای نبرد به من بده!»\n\nبرای لحظه‌ای هری از شوک خام و نابِ فهمیده شدن ناتوان از سخن شد.\n\nو بعد ایده‌ها شروع به سرازیر شدن کردند.",
+  "verbatim_html": [
+   "A jolt of adrenaline poured into Harry's system, making him stand up straighter. He didn't know what conclusion Professor Quirrell had come to, but that couldn't be good.",
+   "\"Ah, Professor Quirrell -\" Harry started to say.",
+   "Professor Quirrell looked amused. \"You're thinking that I've come up with a wrong answer, aren't you, Mr. Potter? You will learn to expect better of <em>me</em>.\" Professor Quirrell straightened from where he had leaned on the desk. \"Mr. Potter, all things have their accustomed uses. Give me ten unaccustomed uses of objects in this room for combat!\"",
+   "For a moment Harry was rendered speechless by the sheer, raw shock of having been understood.",
+   "And then the ideas started to pour out."
+  ]
+ },
+ {
+  "id": 38,
+  "paras": [
+   168,
+   169,
+   170,
+   171,
+   172
+  ],
+  "summary_en": "Harry names desks, chairs, and air as deadly weapons; Quirrell counts three, then six after Harry adds the floor, ceiling, and walls, noting the class thinks he has exhausted the room.",
+  "summary_fa": "هری میزها، صندلی‌ها و هوا را به‌عنوان سلاح مرگبار می‌شمارد؛ کویرل تا سه و بعد شش می‌شمارد و می‌گوید کلاس فکر می‌کند او همه‌ی اتاق را تمام کرده است.",
+  "translation_fa": "«میزهایی هستند که به‌اندازه‌ای سنگین‌اند که اگر از ارتفاع زیاد رها شوند کشنده باشند. صندلی‌هایی با پایه‌های فلزی هستند که اگر به‌شدت رانده شوند می‌توانند کسی را سوراخ کنند. هوای این کلاس با نبودش کشنده می‌بود، چون آدم‌ها در خلأ می‌میرند، و می‌تواند به‌عنوان حاملی برای گازهای سمی به کار رود.»\n\nهری مجبور شد برای نفس گرفتن کمی مکث کند، و در آن مکث پروفسور کویرل گفت:\n\n«این سه‌تاست. به ده‌تا نیاز داری. بقیه‌ی کلاس فکر می‌کنند تو از قبل کل محتویات کلاس را مصرف کرده‌ای.»\n\n«ها! کف را می‌شود برداشت تا گودال نیزه‌داری برای افتادن در آن درست کرد، سقف را می‌شود روی کسی فرو ریخت، دیوارها می‌توانند به‌عنوان ماده‌ی خام برای تبدیل به هر تعداد چیز کشنده به کار روند ــ مثلاً چاقوها.»\n\n«این شش‌تاست. اما حتماً حالا داری ته ظرف را می‌تراشی؟»",
+  "verbatim_html": [
+   "\"There are desks which are heavy enough to be fatal if dropped from a great height. There are chairs with metal legs that could impale someone if driven hard enough. The air in this classroom would be deadly by its absence, since people die in vacuum, and it can serve as a carrier for poison gases.\"",
+   "Harry had to stop briefly for breath, and into that pause Professor Quirrell said:",
+   "\"That's three. You need ten. The rest of the class thinks that you've already used up the whole contents of the classroom.\"",
+   "\"<em>Ha!</em> The floor can be removed to create a spike pit to fall into, the ceiling can be collapsed on someone, the walls can serve as raw material for Transfiguration into any number of deadly things - knives, say.\"",
+   "\"That's six. But surely you're scraping the bottom of the barrel now?\""
+  ]
+ },
+ {
+  "id": 39,
+  "paras": [
+   173,
+   174,
+   175,
+   176,
+   177
+  ],
+  "summary_en": "Harry turns to the people in the room, proposing to use Gryffindors, blood, Ravenclaw organs, thrown Slytherins, and sharpened Hufflepuff bones; the class stares in horror as Quirrell grants him ten and offers extra credit.",
+  "summary_fa": "هری به آدم‌های اتاق رو می‌کند و حمله‌ی گریفیندورها، خون، اعضای ریونکلاوی‌ها، پرتاب اسلیترین‌ها و استخوان‌های تیزکرده‌ی هافلپافی‌ها را پیشنهاد می‌دهد؛ کلاس با وحشت خیره می‌شود و کویرل ده امتیاز می‌دهد و امتیاز اضافه پیشنهاد می‌کند.",
+  "translation_fa": "«من هنوز شروع هم نکرده‌ام! فقط به همه‌ی آدم‌ها نگاه کن! واداشتن یک گریفیندور به حمله به دشمن کاربردی عادی است، البته ــ»\n\n«آن را حساب نمی‌کنم.»\n\n«ــ اما خونشان را هم می‌شود برای غرق کردن کسی به کار برد. ریونکلاوی‌ها به مغزشان معروف‌اند، اما اعضای داخلی‌شان را می‌شود در بازار سیاه به‌اندازه‌ای فروخت که با پولش قاتل اجیر کرد. اسلیترین‌ها فقط به‌عنوان قاتل مفید نیستند، آن‌ها را می‌شود با سرعت کافی پرتاب کرد تا دشمن را له کنند. و هافلپافی‌ها، علاوه بر این‌که سخت‌کوش‌اند، استخوان‌هایی هم دارند که می‌شود درآورد، تیز کرد و برای چاقو زدن به کسی به کار برد.»\n\nتا این‌جا بقیه‌ی کلاس با کمی وحشت به هری خیره شده بودند. حتی اسلیترین‌ها هم شوکه به نظر می‌رسیدند.\n\n«این ده‌تا شد، هرچند در شمردن مال ریونکلاو سخاوتمندم. حالا، برای نمره‌ی اضافه، یک امتیاز کویرل برای هر کاربرد اشیای این اتاق که هنوز نام نبرده‌ای.» پروفسور کویرل با لبخندی دوستانه به هری لطف کرد. «بقیه‌ی کلاست فکر می‌کنند تو حالا به دردسر افتاده‌ای، چون همه‌چیز را نام برده‌ای جز هدف‌ها و هیچ ایده‌ای نداری که با آن‌ها چه می‌شود کرد.»",
+  "verbatim_html": [
+   "\"I haven't even started! Just look at all the people! Having a Gryffindor attack the enemy is an <em>ordinary</em> use, of course -\"",
+   "\"I will not count that one.\"",
+   "\"- but their blood can also be used to drown someone. Ravenclaws are known for their brains, but their internal organs could be sold on the black market for enough money to hire an assassin. Slytherins aren't just useful as assassins, they can also be thrown at sufficient velocity to crush an enemy. And Hufflepuffs, in addition to being hard workers, also contain bones that can be removed, sharpened, and used to stab someone.\"",
+   "By now the rest of the class was staring at Harry in some horror. Even the Slytherins looked shocked.",
+   "\"That's ten, though I'm being generous in counting the Ravenclaw one. Now, for extra credit, one Quirrell point for each use of objects in this room which you have not yet named.\" Professor Quirrell favored Harry with a companionable smile. \"The rest of your class thinks you are in trouble now, since you've named everything except the targets and you have no idea what may be done with those.\""
+  ]
+ },
+ {
+  "id": 40,
+  "paras": [
+   178,
+   179,
+   180,
+   181,
+   182
+  ],
+  "summary_en": "Harry earns extra points with his robes, Hermione's robes as rope, Draco's robes as fuel, his wand through an eye socket, and his wristwatch down a throat; Quirrell awards points while banning further clothing and wands.",
+  "summary_fa": "هری با ردایش، ردای هرماینی به‌عنوان طناب، ردای دریکو به‌عنوان سوخت، چوبدستی در حدقه‌ی چشم و ساعتش در گلو امتیاز اضافه می‌گیرد؛ کویرل امتیاز می‌دهد و لباس و چوبدستی بیشتر را ممنوع می‌کند.",
+  "translation_fa": "«په! همه‌ی آدم‌ها را نام برده‌ام، اما ردای خودم را نه، که می‌شود از آن برای خفه کردن دشمن استفاده کرد اگر به‌اندازه‌ی کافی دور سرشان پیچیده شود، یا ردای هرماینی گرینجر را، که می‌شود آن را نوارنوار پاره کرد و به طناب بست و برای حلق‌آویز کردن کسی به کار برد، یا ردای دریکو مالفوی را، که می‌شود از آن برای روشن کردن آتش استفاده کرد ــ»\n\n«سه امتیاز،» پروفسور کویرل گفت، «دیگر لباس نه.»\n\n«می‌شود چوبدستی‌ام را از راه حدقه‌ی چشم در مغز دشمن فرو کرد» و کسی صدای وحشت‌زده و خفه‌ای درآورد.\n\n«چهار امتیاز، دیگر چوبدستی نه.»\n\n«ساعت مچی‌ام می‌تواند کسی را خفه کند اگر در گلویش فرو شود ــ»",
+  "verbatim_html": [
+   "\"Bah! I've named all the people, but not my robes, which can be used to suffocate an enemy if wrapped around their head enough times, or Hermione Granger's robes, which can be torn into strips and tied into a rope and used to hang someone, or Draco Malfoy's robes, which can be used to start a fire -\"",
+   "\"Three points,\" said Professor Quirrell, \"no more clothing now.\"",
+   "\"My wand can be pushed into an enemy's brain through their eye socket\" and someone made a horrified, strangling sound.",
+   "\"Four points, no more wands.\"",
+   "\"My wristwatch could suffocate someone if jammed down their throat -\""
+  ]
+ },
+ {
+  "id": 41,
+  "paras": [
+   183,
+   184,
+   185,
+   186,
+   187
+  ],
+  "summary_en": "Quirrell stops Harry at five points; Harry protests he could win the House Cup from his pockets and the red spheres, and Quirrell asks the class what makes Harry dangerous until Terry Boot ventures that he is creative.",
+  "summary_fa": "کویرل هری را در پنج امتیاز نگه می‌دارد؛ هری اعتراض می‌کند که می‌توانست با جیب‌هایش و گوی‌های قرمز جام خانه را ببرد و کویرل از کلاس می‌پرسد چه چیزی هری را خطرناک می‌کند تا تری بوت حدس می‌زند خلاقیتش.",
+  "translation_fa": "«پنج امتیاز، و کافی است.»\n\n«هومف،» هری گفت. «ده امتیاز کویرل به یک امتیاز خانه، درست است؟ باید می‌گذاشتی ادامه بدهم تا جام خانه را برده بودم، هنوز حتی درباره‌ی کاربردهای نامتعارف همه‌ی چیزهایی که در جیب‌هایم دارم شروع نکرده‌ام» یا خودِ کیسه‌ی موکسکین و نمی‌توانست درباره‌ی چرخاننده‌ی زمان یا شنل نامرئی‌کننده حرف بزند اما باید چیزی می‌بود که بتواند درباره‌ی آن گوی‌های قرمز بگوید...\n\n«کافی است، آقای پاتر. خب، فکر می‌کنید می‌فهمید چه چیزی آقای پاتر را خطرناک‌ترین دانش‌آموز کلاس می‌کند؟»\n\nزمزمه‌ی آرامی از تأیید بود.\n\n«لطفاً بلند بگویید. تری بوت، چه چیزی هم‌اتاقی‌ات را خطرناک می‌کند؟»",
+  "verbatim_html": [
+   "\"Five points, and enough.\"",
+   "\"Hmph,\" Harry said. \"Ten Quirrell points to one House point, right? You should have let me keep going until I'd won the House Cup, I haven't even started yet on the unaccustomed uses of everything I've got in my pockets\" or the mokeskin pouch itself and he couldn't talk about the Time-Turner or the invisibility cloak but there had to be <em>something</em> he could say about those red spheres...",
+   "\"<em>Enough,</em> Mr. Potter. Well, do you all think you understand what makes Mr. Potter the most dangerous student in the classroom?\"",
+   "There was a low murmur of assent.",
+   "\"Say it out loud, please. Terry Boot, what makes your dorm-mate dangerous?\""
+  ]
+ },
+ {
+  "id": 42,
+  "paras": [
+   188,
+   189,
+   190,
+   191,
+   192
+  ],
+  "summary_en": "Terry answers creativity; Quirrell slams his desk bellowing Wrong and calls all Harry's ideas worse than useless, and Harry indignantly protests he was told to think outside the box and asks how Quirrell would kill with classroom objects.",
+  "summary_fa": "تری پاسخ می‌دهد خلاقیت؛ کویرل با کوبیدن مشت فریاد می‌زند اشتباه و همه‌ی ایده‌های هری را بدتر از بی‌مصرف می‌خواند و هری معترض می‌پرسد اگر بنا بر خارج از جعبه فکر کردن بود کویرل خودش با اشیای کلاس چطور می‌کشت.",
+  "translation_fa": "«اه... ام... او خلاق است؟»\n\n«اشتباه!» پروفسور کویرل غرید، و مشتش با صدای تقویت‌شده‌ای محکم روی میزش فرود آمد که همه پریدند. «همه‌ی ایده‌های آقای پاتر بدتر از بی‌مصرف بودند!»\n\nهری از تعجب از جا پرید.\n\n«کف را برداریم تا تله‌ی نیزه‌دار درست کنیم؟ مسخره است! در نبرد آن‌جور وقت آماده‌سازی نداری و اگر داشتی صد کاربرد بهتر می‌بود! از دیوارها ماده برای تبدیل بگیری؟ آقای پاتر نمی‌تواند تبدیل انجام دهد! آقای پاتر دقیقاً یک ایده داشت که می‌توانست فوراً استفاده کند، همین حالا، بدون آماده‌سازی گسترده یا دشمن همکاری‌کننده یا جادویی که بلد نیست. آن ایده این بود که چوبدستی‌اش را در حدقه‌ی چشم دشمنش فرو کند. که بیشتر محتمل بود چوبدستی‌اش را بشکند تا حریفش را بکشد! خلاصه، آقای پاتر، می‌ترسم که پیشنهادهای تو یکدست افتضاح بودند.»\n\n«چی؟» هری با خشم گفت. «تو ایده‌های نامتعارف خواستی، نه کاربردی! داشتم خارج از جعبه فکر می‌کردم! تو چطور از چیزی در این کلاس برای کشتن کسی استفاده می‌کردی؟»",
+  "verbatim_html": [
+   "\"Ah... um... he's creative?\"",
+   "\"<em>Wrong!</em> \" bellowed Professor Quirrell, and his fist came down sharply on his desk with an amplified sound that made everyone jump. \"All of Mr. Potter's ideas were worse than useless!\"",
+   "Harry started in surprise.",
+   "\"Remove the floor to create a spike trap? Ridiculous! In combat you do not have that sort of preparation time and if you did there would be a hundred better uses! Transfigure material from the walls? Mr. Potter cannot perform Transfiguration! Mr. Potter had exactly one idea which he could use immediately, right now, without extensive preparation or a cooperative enemy or magic he does not know. That idea was to jam his wand through his enemy's eye socket. Which would be more likely to break his wand than kill his opponent! In short, Mr. Potter, I'm afraid that your proposals were uniformly awful.\"",
+   "\"What?\" Harry said indignantly. \"You <em>asked</em> for unusual ideas, not practical ones! I was thinking outside the box! How would <em>you</em> use something in this classroom to kill someone?\""
+  ]
+ },
+ {
+  "id": 43,
+  "paras": [
+   193,
+   194,
+   195,
+   196,
+   197
+  ],
+  "summary_en": "Quirrell says he never asked for killing and would hit the neck with a chair edge, to Slytherin laughter and others' horror; he explains every one of Harry's uses was offensive and fatal rather than defensive, leaving Harry dizzy searching for a counterexample.",
+  "summary_fa": "کویرل می‌گوید هرگز حرف از کشتن نزده و با لبه‌ی صندلی به گردن می‌زد، با خنده‌ی اسلیترین‌ها و وحشت بقیه؛ او توضیح می‌دهد هر کاربرد هری تهاجمی و مرگبار بود نه دفاعی و هری سرگیجه‌گرفته دنبال مثال نقض می‌گردد.",
+  "translation_fa": "حالت پروفسور کویرل ناراضی بود، اما دور چشم‌هایش چین لبخند بود. «آقای پاتر، من هرگز نگفتم که بکشی. زمان و مکانی برای زنده گرفتن دشمنت هست، و درون کلاس هاگوارتز معمولاً یکی از آن جاهاست. اما برای پاسخ به سؤالت، با لبه‌ی صندلی به گردنش می‌زدم.»\n\nخنده‌ای از اسلیترین‌ها بود، اما داشتند با هری می‌خندیدند، نه به او.\n\nبقیه نسبتاً وحشت‌زده به نظر می‌رسیدند.\n\n«اما آقای پاتر حالا نشان داده که چرا خطرناک‌ترین دانش‌آموز کلاس است. من کاربردهای نامتعارف اشیای این اتاق را برای نبرد خواستم. آقای پاتر می‌توانست پیشنهاد بدهد از میز برای سد کردن طلسم استفاده کند، یا با صندلی دشمن نزدیک‌شونده را به زمین بزند، یا پارچه دور بازویش بپیچد تا سپری دست‌ساز درست کند. در عوض، هر کاربردی که آقای پاتر نام برد تهاجمی بود نه تدافعی، و یا کشنده یا بالقوه کشنده.»\n\nچی؟ صبر کن، این نمی‌تواند درست باشد... هری حس سرگیجه‌ی ناگهانی کرد وقتی سعی کرد دقیقاً به یاد بیاورد چه پیشنهاد داده بود، حتماً باید مثال نقضی می‌بود...",
+  "verbatim_html": [
+   "Professor Quirrell's expression was disapproving, but there were smile crinkles around his eyes. \"Mr. Potter, I never said you were to <em>kill.</em> There is a time and a place for taking your enemy alive, and inside a Hogwarts classroom is usually one of those places. But to answer your question, hit them on the neck with the edge of a chair.\"",
+   "There was some laughter from the Slytherins, but they were laughing with Harry, not at him.",
+   "Everyone else was looking rather horrified.",
+   "\"But Mr. Potter has now demonstrated why he is the most dangerous student in the classroom. I asked for unaccustomed uses of items in this room for combat. Mr. Potter could have suggested using a desk to block a curse, or using a chair to trip an oncoming enemy, or wrapping cloth around his arm to create an improvised shield. Instead, every single use that Mr. Potter named was offensive rather than defensive, and either fatal or potentially fatal.\"",
+   "What? Wait, that couldn't be true... Harry had a sudden sense of vertigo as he tried to remember what exactly he'd suggested, surely there had to be a counterexample..."
+  ]
+ },
+ {
+  "id": 44,
+  "paras": [
+   198
+  ],
+  "summary_en": "Quirrell names Harry's quality intent to kill, claiming Harry thinks purely of killing without flinching unlike Malfoy, and awards a final point to Ravenclaw for this requisite of a true fighting wizard.",
+  "summary_fa": "کویرل این ویژگی هری را قصد کشتن می‌نامد و ادعا می‌کند هری برخلاف مالفوی صرفاً به کشتن دشمن فکر می‌کند بی‌آنکه جا بخورد و امتیاز پایانی به ریونکلاو می‌دهد به‌عنوان بایسته‌ی جادوگر جنگی واقعی.",
+  "translation_fa": "«و این،» پروفسور کویرل گفت، «دلیل این است که ایده‌های آقای پاتر این‌قدر عجیب و بی‌مصرف بودند ــ چون مجبور بود به اعماق غیرعملی برسد تا معیار کشتن دشمن را برآورده کند. برای او، هر ایده‌ای که به آن نمی‌رسید ارزش بررسی نداشت. این بازتاب کیفیتی است که می‌توانیم آن را قصد کشتن بنامیم. من آن را دارم. هری پاتر آن را دارد، و برای همین توانست به پنج اسلیترین بزرگ‌تر از خودش خیره شود. دریکو مالفوی آن را ندارد، هنوز نه. آقای مالفوی از حرف زدن درباره‌ی قتل معمولی جا نمی‌خورد، اما حتی او هم شوکه شد ــ بله شدی آقای مالفوی، داشتم صورتت را نگاه می‌کردم ــ وقتی آقای پاتر توصیف کرد چطور از بدن هم‌کلاسی‌هایش به‌عنوان ماده‌ی خام استفاده کند. سانسورهایی درون ذهنت هستند که تو را از فکرهایی مثل آن دور می‌کنند. آقای پاتر صرفاً به کشتن دشمن فکر می‌کند، به هر وسیله‌ای برای این کار چنگ می‌زند، جا نمی‌خورد، سانسورهایش خاموش‌اند. با این‌که نبوغ جوانش این‌قدر بی‌انضباط و غیرعملی است که بی‌مصرف باشد، قصد کشتنش هری پاتر را خطرناک‌ترین دانش‌آموز کلاس می‌کند. یک امتیاز پایانی به او ــ نه، بگذار آن را امتیازی به ریونکلاو کنیم ــ برای این بایسته‌ی ضروری جادوگر جنگی واقعی.»",
+  "verbatim_html": [
+   "\"And that,\" Professor Quirrell said, \"is why Mr. Potter's ideas were so strange and useless - because he had to reach far into the impractical in order to meet his standard of <em>killing the enemy.</em> To him, any idea which fell short of that was not worth considering. This reflects a quality that we might call <em>intent to kill</em>. I have it. Harry Potter has it, which is how he could stare down five older Slytherins. Draco Malfoy does not have it, not yet. Mr. Malfoy would hardly shrink from talk of ordinary murder, but even he was shocked - yes you were Mr. Malfoy, I was watching your face - when Mr. Potter described how to use his classmates' bodies as raw material. There are censors inside your mind which make you flinch away from thoughts like that. Mr. Potter thinks <em>purely</em> of killing the enemy, he will grasp at any means to do so, he does not flinch, his censors are off. Even though his youthful genius is so undisciplined and impractical as to be useless, his <em>intent to kill</em> makes Harry Potter the Most Dangerous Student in the Classroom. One final point to him - no, let us make that a point to Ravenclaw - for this indispensable requisite of a true fighting wizard.\""
+  ]
+ },
+ {
+  "id": 45,
+  "paras": [
+   199,
+   200,
+   201,
+   202,
+   203
+  ],
+  "summary_en": "Harry gapes, unable to deny the label as classmates believe it, settling only on I'm not a psychopath; Quirrell orders him to fire, and when nothing happens commands him to hex a student before dismissal or lose House points.",
+  "summary_fa": "هری مبهوت دهان باز می‌کند و نمی‌تواند در برابر باوری که در هم‌کلاسی‌ها شکل می‌گیرد انکار قانع‌کننده‌ای بیابد جز این‌که روانی نیست؛ کویرل دستور شلیک می‌دهد و وقتی چیزی نمی‌شود فرمان می‌دهد پیش از پایان کلاس به دانش‌آموزی طلسم بزند وگرنه امتیاز کم می‌کند.",
+  "translation_fa": "دهان هری از شوک بی‌کلام باز ماند وقتی دیوانه‌وار دنبال چیزی برای گفتن به این می‌گشت. این کاملاً چیزی نیست که من درباره‌اش باشم!\n\nاما می‌توانست ببیند که بقیه‌ی دانش‌آموزان داشتند شروع به باور کردنش می‌کردند. ذهن هری داشت انکارهای ممکن را ورق می‌زد و چیزی پیدا نمی‌کرد که بتواند در برابر صدای مقتدر پروفسور کویرل بایستد. بهترین چیزی که هری به ذهنش رسیده بود این بود که «من روانی نیستم، فقط خیلی خلاقم» و آن کمی شوم به نظر می‌رسید. لازم داشت چیزی غیرمنتظره بگوید، چیزی که آدم‌ها را وادارد مکث کنند و بازنگری کنند ــ\n\n«و حالا،» پروفسور کویرل گفت. «آقای پاتر. شلیک کن.»\n\nالبته هیچ اتفاقی نیفتاد.\n\n«آه، خب،» پروفسور کویرل گفت. آهی کشید. «گمان می‌کنم همه‌مان باید از جایی شروع کنیم. آقای پاتر، هر دانش‌آموزی را که می‌خواهی برای طلسم ضربه‌ی ساده انتخاب کن. این کار را پیش از این‌که کلاست را تعطیل کنم خواهی کرد. اگر نکنی، شروع به کم کردن امتیازهای خانه می‌کنم، و کم کردن را ادامه می‌دهم تا انجامش بدهی.»",
+  "verbatim_html": [
+   "Harry's mouth gaped open in speechless shock as he searched frantically for something to say to this. <em>That is so completely not what I am about!</em>",
+   "But he could see that the other students were starting to believe it. Harry's mind was flipping through possible denials and not finding anything that could stand up against the authoritative voice of Professor Quirrell. The best Harry had come up with was \"I'm not a psychopath, I'm just very creative\" and that sounded kind of ominous. He needed to say something unexpected, something that would make people stop and reconsider -",
+   "\"And now,\" Professor Quirrell said. \"Mr. Potter. Fire.\"",
+   "Nothing happened, of course.",
+   "\"Ah, well,\" said Professor Quirrell. He sighed. \"I suppose we must all start somewhere. Mr. Potter, select any student you please for a Simple Strike Hex. You <em>will</em> do so before I dismiss your class for the day. If you do not, I will begin deducting House points, and I will keep on deducting them until you do.\""
+  ]
+ },
+ {
+  "id": 46,
+  "paras": [
+   204,
+   205,
+   206,
+   207,
+   208
+  ],
+  "summary_en": "Harry raises his wand to avoid instant deductions, turns toward the Slytherins, and meets Draco's unafraid eyes; Quirrell presses that there is only one obvious choice.",
+  "summary_fa": "هری برای جلوگیری از کسر فوری امتیاز چوبدستی‌اش را بلند می‌کند، به سمت اسلیترین‌ها می‌چرخد و با چشم‌های نترس دریکو روبه‌رو می‌شود؛ کویرل اصرار می‌کند که فقط یک انتخاب بدیهی هست.",
+  "translation_fa": "هری بااحتیاط چوبدستی‌اش را بلند کرد. مجبور بود دست‌کم آن‌قدر کار کند، وگرنه پروفسور کویرل ممکن بود فوراً شروع به کم کردن امتیازهای خانه کند.\n\nآهسته، انگار روی سینی کباب، هری چرخید تا با اسلیترین‌ها روبه‌رو شود.\n\nو چشم‌های هری به دریکو رسید.\n\nدریکو مالفوی ذره‌ای ترسیده به نظر نمی‌رسید. پسر موبور هیچ نشانه‌ی آشکار رضایتی مثل آنچه هری به هرماینی داده بود نشان نمی‌داد، اما خب به‌سختی می‌شد از او انتظار داشت چنین کند. اسلیترین‌های دیگر آن را نسبتاً عجیب می‌دیدند.\n\n«چرا تردید؟» پروفسور کویرل گفت. «حتماً فقط یک انتخاب بدیهی هست.»",
+  "verbatim_html": [
+   "Harry carefully raised his wand. He had to do that much, or Professor Quirrell might start deducting House points right away.",
+   "Slowly, as though on a roasting platter, Harry turned to face the Slytherins.",
+   "And Harry's eyes met Draco's.",
+   "Draco Malfoy didn't look the slightest bit afraid. The blonde-haired boy wasn't giving any visible sign of assent such as Harry had given Hermione, but then he could hardly be expected to do so. The other Slytherins would think that rather odd.",
+   "\"Why the hesitation?\" said Professor Quirrell. \"Surely there's only one obvious choice.\""
+  ]
+ },
+ {
+  "id": 47,
+  "paras": [
+   209,
+   210,
+   211,
+   212,
+   213
+  ],
+  "summary_en": "Harry agrees there is only one obvious choice, casts Ma-ha-su on himself, and shakes his stinging left arm amid complete classroom silence.",
+  "summary_fa": "هری تأیید می‌کند فقط یک انتخاب بدیهی هست، ما-ها-سو را به خودش می‌زند و در سکوت کامل کلاس بازوی چپ سوزش‌دارش را تکان می‌دهد.",
+  "translation_fa": "«بله،» هری گفت. «فقط یک انتخاب بدیهی.»\n\nهری چوبدستی را چرخاند و گفت «ما-ها-سو!»\n\nسکوت کامل در کلاس بود.\n\nهری بازوی چپش را تکان داد، سعی کرد از سوزشِ ماندگار خلاص شود.\n\nسکوت بیشتری بود.",
+  "verbatim_html": [
+   "\"Yes,\" Harry said. \"Only one <em>obvious</em> choice.\"",
+   "Harry twisted the wand and said \"<em>Ma-ha-su!</em> \"",
+   "There was complete silence in the classroom.",
+   "Harry shook his left arm, trying to get rid of the lingering sting.",
+   "There was more silence."
+  ]
+ },
+ {
+  "id": 48,
+  "paras": [
+   214,
+   215,
+   216,
+   217,
+   218
+  ],
+  "summary_en": "Quirrell calls the self-hex ingenious but lesson-dodging, docks Ravenclaw a point, and dismisses class; Harry shouts Just kidding RAVENCLAW to a roar of talk and turns to confront Quirrell.",
+  "summary_fa": "کویرل خودزنی طلسمی را مبتکرانه اما فرار از درس می‌خواند، از ریونکلاو امتیاز کم می‌کند و کلاس را تعطیل می‌کند؛ هری فریاد می‌زند شوخی کردم ریونکلاو و در میان غوغای گفت‌وگو به سمت کویرل برمی‌گردد.",
+  "translation_fa": "سرانجام پروفسور کویرل آهی کشید. «بله، کاملاً مبتکرانه، اما درسی بود که باید آموخته می‌شد و تو از آن جاخالی دادی. یک امتیاز از ریونکلاو برای نمایش هوش خودت به قیمت هدف واقعی. کلاس تعطیل است.»\n\nو پیش از این‌که کس دیگری بتواند چیزی بگوید، هری آوازخوان گفت:\n\n«شوخی کردم! ریونکلاو!»\n\nبعد از آن لحظه‌ای کوتاه سکوت بود، صدای آدم‌هایی که فکر می‌کردند، و بعد پچ‌پچه‌ها شروع شدند و به‌سرعت به غرش گفت‌وگو بالا گرفتند.\n\nهری به سمت پروفسور کویرل چرخید، آن دو لازم بود حرف بزنند ــ",
+  "verbatim_html": [
+   "Finally Professor Quirrell sighed. \"Yes, quite ingenious, but there was a lesson to be taught and you dodged it. One point from Ravenclaw for showing off your own cleverness at the expense of the actual goal. Class dismissed.\"",
+   "And before anyone else could say anything, Harry sang out:",
+   "\"Just kidding! RAVENCLAW!\"",
+   "There was silence for a brief moment after that, a sound of people thinking, and then the murmurs started and rapidly rose to a roar of conversation.",
+   "Harry turned towards Professor Quirrell, the two of them needed to talk -"
+  ]
+ },
+ {
+  "id": 49,
+  "paras": [
+   219,
+   220,
+   221,
+   222,
+   223
+  ],
+  "summary_en": "Quirrell slumps back to his chair in his zombie act; Harry starts forward, is halted by a dizzying inner WRONG DON'T BAD IDEA warning, and is then swarmed by Ravenclaws for discussion.",
+  "summary_fa": "کویرل با نقش زامبی‌اش به صندلی برمی‌گردد؛ هری جلو می‌رود، با هشدار سرگیجه‌آور درونی اشتباه نه ایده‌ی بدی متوقف می‌شود و بعد موجی از ریونکلاوی‌ها برای بحث دورش می‌ریزند.",
+  "translation_fa": "کویرل ولو شده بود و به سمت صندلی‌اش برمی‌گشت.\n\nنه. قابل قبول نیست. آن‌ها واقعاً لازم بود حرف بزنند. بگذار نقش زامبی را کنار بگذارد، پروفسور کویرل احتمالاً بیدار می‌شد اگر هری یکی دو بار او را نوک می‌زد. هری جلو رفت ــ\n\nاشتباه نکن ایده‌ی بدی است\n\nهری تاب خورد و سر جایش ایستاد، احساس سرگیجه کرد.\n\nو بعد دسته‌ای از ریونکلاوی‌ها بر او فرود آمدند و بحث‌ها آغاز شدند.",
+  "verbatim_html": [
+   "Quirrell had slumped over and was trudging back to his chair.",
+   "No. Not acceptable. They <em>really</em> needed to talk. Stuff the zombie act, Professor Quirrell would probably wake up if Harry poked him a couple of times. Harry started forward -",
+   "<em>WRONG<br/>DON'T<br/>BAD IDEA</em>",
+   "Harry swayed and stopped in his tracks, feeling dizzy.",
+   "And then a flock of Ravenclaws descended on him and the discussions began."
+  ]
+ }
+]
