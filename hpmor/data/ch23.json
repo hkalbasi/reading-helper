@@ -1,0 +1,988 @@
+[
+  {
+    "id": 1,
+    "paras": [
+      1,
+      2
+    ],
+    "verbatim_html": [
+      "Everybody wants a rock to wind a piece of string around J. K. Rowling.",
+      "* * *"
+    ],
+    "summary_en": "An epigraph saying everybody wants a rock to wind string around J. K. Rowling, followed by a scene break.",
+    "translation_fa": "همه یک سنگ می‌خواهند تا تکه نخی دور جی. کی. رولینگ بپیچند.\n\n* * *",
+    "summary_fa": "پیش‌گفتاری که می‌گوید همه سنگی می‌خواهند تا نخی دور جی. کی. رولینگ بپیچند، و سپس جداکننده‌ی صحنه."
+  },
+  {
+    "id": 2,
+    "paras": [
+      3,
+      4,
+      5
+    ],
+    "verbatim_html": [
+      "\"And then Janet was a Squib,\" said the portrait of a short young woman with a gold-trimmed hat.",
+      "Draco wrote it down. That was only twenty-eight but it was time to go back and meet Harry.",
+      "He'd needed to ask other portraits to help translating, English had changed a lot, but the oldest portraits had described first-year spells that sounded an awful lot like the ones they had now. Draco had recognized around half of them and the other half didn't sound any more powerful."
+    ],
+    "summary_en": "Draco records a portrait's Squib story as his twenty-eighth case and notes the oldest portraits' first-year spells sound no stronger than modern ones.",
+    "translation_fa": "«و بعد جنت یک اسکویب بود،» پرتره‌ی زن جوان کوتاه‌قدی با کلاه طلادوزی‌شده گفت.\n\nدراکو یادداشت کرد. این فقط بیست‌وهشتمین بود ولی وقت آن بود که برگردد و هری را ببیند.\n\nاو مجبور شده بود از پرتره‌های دیگر برای کمک به ترجمه بخواهد، انگلیسی خیلی تغییر کرده بود، ولی قدیمی‌ترین پرتره‌ها طلسم‌های سال اولی را توصیف کرده بودند که خیلی شبیه همان‌هایی بودند که حالا دارند. دراکو حدود نیمی از آن‌ها را شناخت و نیم دیگر هیچ قدرتمندتر به نظر نمی‌رسیدند.",
+    "summary_fa": "دراکو داستان اسکویب دیگری را از یک پرتره یادداشت می‌کند و درمی‌یابد طلسم‌های باستانی سال اولی هیچ قوی‌تر از طلسم‌های امروزی نیستند."
+  },
+  {
+    "id": 3,
+    "paras": [
+      6,
+      7,
+      8
+    ],
+    "verbatim_html": [
+      "The sick feeling in his stomach had grown with each answer until finally, unable to take it any more, he'd gone off and asked other portraits Harry Potter's strange question about Squib marriages, instead. The first five portraits hadn't known anyone and finally he'd asked those portraits to ask <em>their</em> acquaintances to ask <em>their</em> acquaintances and so managed to find some people who'd actually admit to being friends with Squibs.",
+      "(The first-year Slytherin had explained he was working on an important project with a Ravenclaw and the Ravenclaw had told him they needed this information and then run off without saying why. This had garnered many sympathetic looks.)",
+      "Draco's feet were heavy as he walked through the corridors of Hogwarts. He should have been running but he couldn't seem to muster the energy. He kept on thinking that he didn't want to know about this, he didn't want to be involved in any of this, he didn't want this to be his responsibility, just let Harry Potter do it, if magic was fading let Harry Potter take care of it..."
+    ],
+    "summary_en": "Feeling sick, Draco traces Squib acquaintances through chains of portraits under a cover story, then drags himself back to Harry wishing magic's fading were Harry's problem alone.",
+    "translation_fa": "حس تهوع در معده‌اش با هر جواب بیشتر شده بود تا بالاخره، چون دیگر نتوانست تحمل کند، رفته بود و در عوض سؤال عجیب هری پاتر درباره ازدواج‌های اسکویب‌ها را از پرتره‌های دیگر پرسیده بود. پنج پرتره‌ی اول هیچ‌کس را نمی‌شناختند و بالاخره از آن پرتره‌ها خواسته بود از آشنایانشان بخواهند از آشنایانشان بپرسند و این‌طور موفق شده بود کسانی را پیدا کند که واقعاً قبول می‌کردند با اسکویب‌ها دوست بوده‌اند.\n\n(اسلیترینی سال اولی توضیح داده بود که دارد روی پروژه‌ی مهمی با یک ریونکلایی کار می‌کند و ریونکلایی به او گفته بود به این اطلاعات نیاز دارند و بعد بدون گفتن چرا فرار کرده بود. این باعث نگاه‌های دلسوزانه‌ی زیادی شده بود.)\n\nپاهای دراکو سنگین بود وقتی در راهروهای هاگوارتز قدم می‌زد. باید می‌دوید ولی انگار نمی‌توانست انرژی‌اش را جمع کند. مدام فکر می‌کرد که نمی‌خواهد درباره‌ی این بداند، نمی‌خواهد در هیچ‌کدام از این‌ها دخیل باشد، نمی‌خواهد این مسئولیت او باشد، فقط بگذار هری پاتر انجامش دهد، اگر جادو داشت محو می‌شد بگذار هری پاتر مراقبش باشد...",
+    "summary_fa": "دراکو که حالش بد است تحت پوششی از طریق زنجیره‌ای از پرتره‌ها سراغ آشنایان اسکویب‌ها را می‌گیرد و بعد با بی‌میلی به‌سوی هری برمی‌گردد و آرزو می‌کند محو شدن جادو فقط مشکل هری بود."
+  },
+  {
+    "id": 4,
+    "paras": [
+      9,
+      10,
+      11
+    ],
+    "verbatim_html": [
+      "But Draco knew that wasn't right.",
+      "Chill the dungeons of Slytherin, gray the stone walls, Draco usually liked the atmosphere, but now it seemed too much like fading.",
+      "His hand on the doorknob, Harry Potter already inside and waiting, wearing his cowled cloak."
+    ],
+    "summary_en": "Draco admits dodging responsibility would be wrong, finds the Slytherin dungeons gloomily suggestive of fading, and joins the cloaked Harry waiting inside.",
+    "translation_fa": "اما دراکو می‌دانست که این درست نیست.\n\nسرد دخمه‌های اسلیترین، خاکستری دیوارهای سنگی؛ دراکو معمولاً این فضا را دوست داشت، ولی حالا خیلی شبیه محو شدن به نظر می‌رسید.\n\nدستش روی دستگیره‌ی در، هری پاتر از قبل داخل بود و منتظر، شنل کلاه‌دارش را پوشیده بود.",
+    "summary_fa": "دراکو قبول می‌کند که شانه خالی کردن درست نیست، دخمه‌های اسلیترین را به‌شکلی غم‌انگیز یادآور محو شدن می‌بیند و به هری شنل‌پوش که داخل منتظر است می‌پیوندد."
+  },
+  {
+    "id": 5,
+    "paras": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "verbatim_html": [
+      "\"The ancient first-year spells,\" Harry Potter said. \"What did you find?\"",
+      "\"They're no more powerful than the spells we use now.\"",
+      "Harry Potter's fist struck a desk, hard. \"Damn it. All right. My own experiment was a failure, Draco. There's something called the Interdict of Merlin -\"",
+      "Draco hit himself on the forehead, realizing."
+    ],
+    "summary_en": "Draco reports the ancient spells match modern ones; Harry slams a desk over his own failed experiment and names the Interdict of Merlin, which Draco instantly grasps.",
+    "translation_fa": "«طلسم‌های باستانی سال اولی،» هری پاتر گفت. «چه پیدا کردی؟»\n\n«هیچ قدرتمندتر از طلسم‌هایی نیستند که ما حالا استفاده می‌کنیم.»\n\nمشت هری پاتر محکم به میزی خورد. «لعنت. خیلی خب. آزمایش خودم هم شکست خورد، دراکو. چیزی هست به اسم تحریم مرلین ــ»\n\nدراکو به پیشانی‌اش زد، چون فهمید.",
+    "summary_fa": "دراکو گزارش می‌دهد طلسم‌های باستانی با امروزی‌ها برابرند؛ هری از شکست آزمایش خودش ناراحت می‌شود و تحریم مرلین را نام می‌برد که دراکو فوراً منظورش را می‌فهمد."
+  },
+  {
+    "id": 6,
+    "paras": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "verbatim_html": [
+      "\"\\- which stops anyone from getting knowledge of powerful spells out of books, even if you find and read a powerful wizard's notes they won't make sense to you, it has to go from one living mind to another. I couldn't find any powerful spells that we had the instructions for but couldn't cast. But if you can't get them out of old books, why would anyone bother passing them on by word of mouth after they stopped working? Did you get the data on the Squib couples?\"",
+      "Draco started to hand the parchment over -",
+      "But Harry Potter held up a hand. \"Law of science, Draco. First I tell you the theory and the prediction. Then you show me the data. That way you know I'm not just making up a theory to fit; you know that the theory actually predicted the data in <em>advance.</em> I have to explain this to you anyway, so I have to explain it <em>before</em> you show me the data. That's the rule. So put on your cloak and let's sit down.\"",
+      "Harry Potter sat down at a desk with torn scraps of paper arranged across its surface. Draco drew his cloak out of his bookbag, drew it on, and sat down across from Harry on the other side, giving the paper scraps a puzzled look. They were arranged in two rows and the rows were about twenty scraps long."
+    ],
+    "summary_en": "Harry explains the Interdict of Merlin blocks learning lost spells from books, then invokes the law of science: theory and prediction first, data after, before sitting down to teach Draco.",
+    "translation_fa": "«ـ که جلوی به دست آوردن دانش طلسم‌های قدرتمند از کتاب‌ها را می‌گیرد، حتی اگر یادداشت‌های یک جادوگر قدرتمند را پیدا کنی و بخوانی برایت معنی‌دار نخواهند بود، باید از یک ذهن زنده به ذهن دیگر منتقل شود. نتوانستم هیچ طلسم قدرتمندی پیدا کنم که دستورش را داشته باشیم ولی نتوانیم اجرا کنیم. ولی اگر نتوان طلسم‌ها را از کتاب‌های قدیمی بیرون کشید، چرا کسی بعد از این‌که کار نکردند به خودش زحمت انتقال شفاهی‌شان را بدهد؟ داده‌های زوج‌های اسکویب را گرفتی؟»\n\nدراکو شروع کرد به دادن پوست‌نوشت ــ\n\nولی هری پاتر دستش را بالا گرفت. «قانون علم، دراکو. اول نظریه و پیش‌بینی را به تو می‌گویم. بعد تو داده‌ها را به من نشان می‌دهی. این‌طوری می‌دانی که فقط نظریه‌ای برای جور شدن با داده‌ها از خودم درنمی‌آورم؛ می‌دانی که نظریه واقعاً داده‌ها را از قبل پیش‌بینی کرده بود. به‌هرحال باید این را برایت توضیح دهم، پس باید قبل از این‌که داده‌ها را نشانم دهی توضیحش دهم. این قانون است. پس شنلت را بپوش و بنشینیم.»\n\nهری پاتر پشت میزی نشست که تکه‌کاغذهای پاره روی سطحش چیده شده بود. دراکو شنلش را از کیف کتابش بیرون کشید، پوشید، و آن‌طرف روبه‌روی هری نشست، با نگاهی متحیر به تکه‌کاغذها. در دو ردیف چیده شده بودند و ردیف‌ها حدود بیست تکه بودند.",
+    "summary_fa": "هری توضیح می‌دهد تحریم مرلین یادگیری طلسم‌های گمشده از کتاب‌ها را ناممکن می‌کند، بعد قانون علم را یادآوری می‌کند: اول نظریه و پیش‌بینی، بعد داده‌ها، و برای آموزش دراکو می‌نشیند."
+  },
+  {
+    "id": 7,
+    "paras": [
+      20
+    ],
+    "verbatim_html": [
+      "\"The secret of blood,\" said Harry Potter, an intense look on his face, \"is something called deoxyribonucleic acid. You don't say that name in front of anyone who's not a scientist. Deoxyribonucleic acid is the recipe that tells your body how to grow, two legs, two arms, short or tall, whether you have brown eyes or green. It's a material thing, you can <em>see</em> it if you have microscopes, which are like telescopes only they look at things that are very small instead of very far away. And that recipe has two copies of everything, always, in case one copy is broken. Imagine two long rows of pieces of paper. At each place in the row, there are two pieces of paper, and when you have children, your body selects one piece of paper at random from each place in the row, and the mother's body will do the same, and so the child also gets two pieces of paper at each place in the row. Two copies of everything, one from your mother, one from your father, and when you have children they get one piece of paper from you at random in each place.\""
+    ],
+    "summary_en": "Harry teaches Draco Muggle genetics: DNA is a doubled recipe, with each parent contributing one randomly chosen copy at every position.",
+    "translation_fa": "«راز خون،» هری پاتر گفت، با نگاهی پرشور در چهره‌اش، «چیزی است به اسم دئوکسی‌ریبونوکلئیک اسید. این اسم را جلوی کسی که دانشمند نیست نمی‌گویی. دئوکسی‌ریبونوکلئیک اسید دستورپختی است که به بدنت می‌گوید چطور رشد کند، دو پا، دو دست، کوتاه یا بلند، این‌که چشم‌های قهوه‌ای داری یا سبز. چیزی مادی است، می‌توانی ببینیش اگر میکروسکوپ داشته باشی، که مثل تلسکوپ‌اند فقط به چیزهایی نگاه می‌کنند که خیلی کوچک‌اند به‌جای خیلی دور. و آن دستورپخت همیشه دو نسخه از همه‌چیز دارد، در صورتی که یک نسخه خراب باشد. دو ردیف بلند از تکه‌کاغذ را تصور کن. در هر جای ردیف، دو تکه‌کاغذ هست، و وقتی بچه‌دار می‌شوی، بدنت به‌تصادف یک تکه‌کاغذ از هر جای ردیف انتخاب می‌کند، و بدن مادر هم همین کار را می‌کند، و پس بچه هم در هر جای ردیف دو تکه‌کاغذ می‌گیرد. دو نسخه از همه‌چیز، یکی از مادرت، یکی از پدرت، و وقتی بچه‌دار شوی در هر جا به‌تصادف یک تکه‌کاغذ از تو می‌گیرند.»",
+    "summary_fa": "هری ژنتیک ماگلی را به دراکو می‌آموزد: دی‌ان‌ای دستورپختی دوتایی است که هر والد در هر جایگاه یک نسخه‌ی تصادفی از آن را به فرزند می‌دهد."
+  },
+  {
+    "id": 8,
+    "paras": [
+      21,
+      22
+    ],
+    "verbatim_html": [
+      "As Harry spoke, his fingers ranged over the paired scraps of paper, pointing to one part of the pair when he said \"from your mother\", the other when he said \"from your father\". And as Harry talked about picking a piece of paper at random, his hand pulled a Knut out of his robes and flipped it; Harry looked at the coin, and then pointed to the top piece of paper. All without a pause in the speech.",
+      "\"Now when it comes to something like being short or tall, there's a <em>lot</em> of places in the recipe that make <em>little</em> differences. So if a tall father marries a short mother, the child gets some pieces of paper saying 'tall' and some pieces of paper saying 'short', and usually the child ends up middle-sized. But not always. By luck, the child might get a lot of pieces saying 'tall', and not many papers saying 'short', and grow up pretty tall. You could have a tall father with five papers saying 'tall' and a tall mother with five papers saying 'tall' and by amazing luck the child gets <em>all ten</em> papers saying 'tall' and ends up taller than both of them. You see? Blood isn't a perfect fluid, it doesn't mix perfectly. Deoxyribonucleic acid is made up of lots of little pieces, like a glass of pebbles instead of a glass of water. That's why a child isn't always exactly in the middle of the parents.\""
+    ],
+    "summary_en": "Using paired paper scraps and coin flips, Harry shows how many small hereditary factors blend imperfectly, like pebbles rather than water.",
+    "translation_fa": "همان‌طور که هری حرف می‌زد، انگشتانش روی تکه‌کاغذهای جفت حرکت می‌کرد، وقتی می‌گفت «از مادرت» به یک قسمت جفت اشاره می‌کرد، وقتی می‌گفت «از پدرت» به دیگری. و وقتی درباره‌ی انتخاب تصادفی تکه‌کاغذ حرف می‌زد، دستش سکه‌ای از ردایش بیرون کشید و پرت کرد؛ هری به سکه نگاه کرد، و بعد به تکه‌کاغذ بالایی اشاره کرد. همه بدون مکثی در سخنرانی.\n\n«حالا وقتی بحث چیزی مثل کوتاه یا بلند بودن است، جاهای زیادی در دستورپخت هست که تفاوت‌های کوچک ایجاد می‌کنند. پس اگر پدری بلند با مادری کوتاه ازدواج کند، بچه تعدادی تکه‌کاغذ می‌گیرد که می‌گویند «بلند» و تعدادی که می‌گویند «کوتاه»، و معمولاً بچه متوسط‌قد می‌شود. ولی نه همیشه. از روی شانس، بچه ممکن است تعداد زیادی کاغذ «بلند» بگیرد، و کاغذهای «کوتاه» زیادی نگیرد، و نسبتاً بلند بزرگ شود. ممکن است پدری بلند با پنج کاغذ «بلند» و مادری بلند با پنج کاغذ «بلند» داشته باشی و از شانسی شگفت‌انگیز بچه هر ده کاغذ «بلند» را بگیرد و بلندتر از هر دویشان شود. می‌بینی؟ خون مایع کاملی نیست، کامل مخلوط نمی‌شود. دئوکسی‌ریبونوکلئیک اسید از تکه‌های کوچک زیادی ساخته شده، مثل لیوانی از سنگ‌ریزه به‌جای لیوانی از آب. برای همین بچه همیشه دقیقاً وسط والدینش نیست.»",
+    "summary_fa": "هری با تکه‌کاغذهای جفت و پرتاب سکه نشان می‌دهد که چگونه عوامل ارثی کوچک به‌طور ناقص ترکیب می‌شوند، مثل سنگ‌ریزه نه آب."
+  },
+  {
+    "id": 9,
+    "paras": [
+      23,
+      24
+    ],
+    "verbatim_html": [
+      "Draco listened with his mouth open. How in Merlin's name had the Muggles figured all this out? They could <em>see</em> the recipe?",
+      "\"Now,\" Harry Potter said, \"suppose that, just like with tallness, there's lots of little places in the recipe where you can have a piece of paper that says 'magic' or 'not magic'. If you have enough pieces of paper saying 'magic' you're a wizard, if you have a <em>lot</em> of pieces of paper you're a powerful wizard, if you have too few you're a Muggle, and in between you're a Squib. Then, when two Squibs marry, most of the time the children should also be Squibs, but once in a while a child will get lucky and get most of the father's magic papers <em>and</em> most of the mother's magic papers, and be strong enough to be a wizard. But probably not a very powerful one. If you started out with a lot of powerful wizards and they married only each other, they would stay powerful. But if they started marrying Muggleborns who were just barely magical, or Squibs... you see? The blood wouldn't mix perfectly, it would be a glass of pebbles, not a glass of water, because that's just the way blood works. There would still be powerful wizards now and then, when they got a lot of magic papers by luck. But they wouldn't be as powerful as the most powerful wizards from earlier.\""
+    ],
+    "summary_en": "Draco marvels that Muggles discovered DNA, and Harry lays out the blending hypothesis: wizardry dilutes as many small magical factors mix with Muggle and Squib blood.",
+    "translation_fa": "دراکو با دهان باز گوش می‌داد. ماگل‌ها به اسم مرلین چطور همه‌ی این‌ها را فهمیده بودند؟ آن‌ها می‌توانستند دستورپخت را ببینند؟\n\n«حالا،» هری پاتر گفت، «فرض کن، درست مثل بلندی، جاهای کوچک زیادی در دستورپخت هست که در آن می‌توانی تکه‌کاغذی داشته باشی که می‌گوید «جادو» یا «نه جادو». اگر به‌اندازه‌ی کافی تکه‌کاغذ «جادو» داشته باشی جادوگری، اگر تکه‌کاغذهای «جادو» زیادی داشته باشی جادوگر قدرتمندی هستی، اگر خیلی کم داشته باشی ماگلی، و بین این دو اسکویبی. بعد، وقتی دو اسکویب ازدواج کنند، بیشتر وقت‌ها بچه‌ها هم باید اسکویب باشند، ولی گاهی بچه‌ای شانس می‌آورد و بیشتر کاغذهای جادوی پدر و بیشتر کاغذهای جادوی مادر را می‌گیرد، و به‌اندازه‌ی کافی قوی می‌شود که جادوگر باشد. ولی احتمالاً نه جادوگر خیلی قدرتمندی. اگر با تعداد زیادی جادوگر قدرتمند شروع می‌کردی و آن‌ها فقط با هم ازدواج می‌کردند، قدرتمند می‌ماندند. ولی اگر شروع می‌کردند به ازدواج با ماگل‌زاده‌هایی که به‌زور جادویی بودند، یا اسکویب‌ها... می‌بینی؟ خون کامل مخلوط نمی‌شد، لیوانی از سنگ‌ریزه می‌بود، نه لیوانی از آب، چون خون همین‌طور کار می‌کند. هنوز گاهی جادوگران قدرتمند بودند، وقتی از روی شانس کاغذهای جادوی زیادی می‌گرفتند. ولی به قدرتمندی قدرتمندترین جادوگران قبلی نبودند.»",
+    "summary_fa": "دراکو شگفت‌زده می‌شود که ماگل‌ها دی‌ان‌ای را کشف کرده‌اند و هری فرضیه‌ی ترکیب را مطرح می‌کند: جادوگری با مخلوط شدن عوامل جادویی کوچک با خون ماگل و اسکویب رقیق می‌شود."
+  },
+  {
+    "id": 10,
+    "paras": [
+      25,
+      26
+    ],
+    "verbatim_html": [
+      "Draco nodded slowly. He'd never heard it explained that way before. There was a surprising beauty to how exactly it fit.",
+      "\"<em>But,</em>\" Harry said. \"That's only <em>one</em> hypothesis. Suppose that instead there's only a <em>single</em> place in the recipe that makes you a wizard. Only <em>one</em> place where a piece of paper can say 'magic' or 'not magic'. And there are two copies of everything, always. So then there are only three possibilities. Both copies can say 'magic'. One copy can say 'magic' and one copy can say 'not magic'. Or both copies can say 'not magic'. Wizards, Squibs, and Muggles. Two copies and you can cast spells, one copy and you can still use potions or magic devices, and zero copies means you might even have trouble looking straight at magic. Muggleborns wouldn't really be born to Muggles, they would be born to two Squibs, two parents each with one magic copy who'd grown up in the Muggle world. Now imagine a witch marries a Squib. Each child will get one paper saying 'magic' from the mother, always, it doesn't matter which piece gets picked at random, both say 'magic'. But like flipping a coin, half the time the child will get a paper saying 'magic' from the father, and half the time the child will get the father's paper saying 'not magic'. When a witch marries a Squib, the result won't be a lot of weak wizarding children. Half the children will be wizards and witches just as powerful as their mother, and half the children will be Squibs. Because if there's just <em>one</em> place in the recipe that makes you a wizard, then magic isn't like a glass of pebbles that can mix. It's like a single magical pebble, a sorcerer's stone.\""
+    ],
+    "summary_en": "Draco admits the theory fits beautifully, and Harry counters with the single-gene hypothesis: wizard, Squib, or Muggle depending on one doubled factor, like a single sorcerer's stone.",
+    "translation_fa": "دراکو آرام سر تکان داد. هرگز نشنیده بود این‌طور توضیحش دهند. زیبایی غافلگیرکننده‌ای در این بود که دقیقاً چقدر جور درمی‌آمد.\n\n«ولی،» هری گفت. «این فقط یک فرضیه است. فرض کن به‌جاش فقط یک جای واحد در دستورپخت هست که تو را جادوگر می‌کند. فقط یک جا که تکه‌کاغذی می‌تواند بگوید «جادو» یا «نه جادو». و همیشه دو نسخه از همه‌چیز هست. پس فقط سه امکان هست. هر دو نسخه می‌توانند بگویند «جادو». یک نسخه می‌تواند بگوید «جادو» و یک نسخه «نه جادو». یا هر دو نسخه می‌توانند بگویند «نه جادو». جادوگران، اسکویب‌ها، و ماگل‌ها. دو نسخه و می‌توانی طلسم بزنی، یک نسخه و هنوز می‌توانی از معجون‌ها یا ابزارهای جادویی استفاده کنی، و صفر نسخه یعنی حتی ممکن است در نگاه مستقیم به جادو مشکل داشته باشی. ماگل‌زاده‌ها واقعاً از ماگل‌ها به دنیا نمی‌آمدند، از دو اسکویب به دنیا می‌آمدند، دو والدی که هر کدام یک نسخه‌ی جادو دارند و در دنیای ماگل بزرگ شده‌اند. حالا تصور کن جادوگری با اسکویبی ازدواج کند. هر بچه همیشه یک کاغذ «جادو» از مادر می‌گیرد، مهم نیست کدام تکه به‌تصادف انتخاب شود، هر دو می‌گویند «جادو». ولی مثل پرتاب سکه، نیمی از وقت‌ها بچه کاغذ «جادو» را از پدر می‌گیرد، و نیمی از وقت‌ها کاغذ «نه جادو»ی پدر را می‌گیرد. وقتی جادوگری با اسکویبی ازدواج کند، نتیجه تعداد زیادی بچه‌ی جادوگر ضعیف نخواهد بود. نیمی از بچه‌ها جادوگر و ساحره‌هایی به قدرتمندی مادرشان خواهند بود، و نیمی اسکویب خواهند بود. چون اگر فقط یک جا در دستورپخت باشد که تو را جادوگر می‌کند، آن‌وقت جادو مثل لیوان سنگ‌ریزه نیست که بتواند مخلوط شود. مثل یک سنگ‌ریزه‌ی جادویی واحد است، سنگ جادوگر.»",
+    "summary_fa": "دراکو قبول می‌کند نظریه زیبا جور درمی‌آید و هری فرضیه‌ی رقیب تک‌ژنی را مطرح می‌کند: جادوگر، اسکویب یا ماگل بسته به یک عامل دوتایی، مثل یک سنگ جادوگر واحد."
+  },
+  {
+    "id": 11,
+    "paras": [
+      27,
+      28,
+      29,
+      30
+    ],
+    "verbatim_html": [
+      "Harry arranged three pairs of papers side by side. On one pair he wrote 'magic' and 'magic'. On another pair he wrote 'magic' on the top paper only. And the third pair he left blank.",
+      "\"In which case,\" Harry said, \"either you have two stones or you don't. Either you're a wizard or not. Powerful wizards would get that way by studying harder and practicing more. And if wizards get <em>inherently</em> less powerful, not because of spells being lost but because people can't cast them... then maybe they're eating the wrong foods or something. But if it's gotten steadily worse over eight hundred years, then that could mean magic itself is fading out of the world.\"",
+      "Harry arranged another two pairs of papers side by side, and took out a quill. Soon each pair had one piece of paper saying 'magic' and the other paper blank.",
+      "\"And that brings me to the prediction,\" said Harry. \"What happens when two Squibs marry. Flip a coin twice. It can come up heads and heads, heads and tails, tails and heads, or tails and tails. So one quarter of the time you'll get two heads, one quarter of the time you'll get two tails, and half the time you'll get one heads and one tail. Same thing if two Squibs marry. One quarter of the children would come up magic and magic, and be wizards. One quarter would come up not-magic and not-magic, and be Muggles. The other half would be Squibs. It's a very old and very classic pattern. It was discovered by Gregor Mendel who is not forgotten, and it was the first hint ever uncovered for how the recipe worked. Anyone who knows anything about blood science would recognize that pattern in an instant. It wouldn't be exact, any more than if you flip a coin twice forty times you'll always get exactly ten pairs of two heads. But if it's seven or thirteen wizards out of forty children that'll be a strong indicator. That's the test I had you do. Now let's see your data.\""
+    ],
+    "summary_en": "Harry demonstrates the all-or-nothing model with labeled papers and derives Mendel's prediction: Squib marriages should yield roughly a quarter wizards, a quarter Muggles, and half Squibs.",
+    "translation_fa": "هری سه جفت کاغذ را کنار هم چید. روی یک جفت نوشت «جادو» و «جادو». روی جفت دیگر فقط روی کاغذ بالایی نوشت «جادو». و جفت سوم را خالی گذاشت.\n\n«در این صورت،» هری گفت، «یا دو سنگ داری یا نداری. یا جادوگری یا نه. جادوگران قدرتمند با سخت‌تر درس خواندن و بیشتر تمرین کردن قدرتمند می‌شدند. و اگر جادوگران ذاتاً کم‌قدرت‌تر شوند، نه به‌خاطر گم شدن طلسم‌ها بلکه چون مردم نمی‌توانند اجرایشان کنند... آن‌وقت شاید دارند غذاهای اشتباهی می‌خورند یا چیزی. ولی اگر در طول هشتصد سال پیوسته بدتر شده باشد، آن‌وقت می‌تواند یعنی جادو خودش دارد از جهان محو می‌شود.»\n\nهری دو جفت کاغذ دیگر را کنار هم چید، و پرّی بیرون آورد. به‌زودی هر جفت یک تکه‌کاغذ داشت که می‌گفت «جادو» و کاغذ دیگر خالی بود.\n\n«و این مرا به پیش‌بینی می‌رساند،» هری گفت. «چه اتفاقی می‌افتد وقتی دو اسکویب ازدواج کنند. دو بار سکه بینداز. می‌تواند شیر و شیر بیاید، شیر و خط، خط و شیر، یا خط و خط. پس یک‌چهارم وقت‌ها دو شیر می‌گیری، یک‌چهارم وقت‌ها دو خط، و نیمی از وقت‌ها یک شیر و یک خط می‌گیری. اگر دو اسکویب ازدواج کنند هم همین‌طور. یک‌چهارم بچه‌ها جادو و جادو می‌آمدند، و جادوگر می‌شدند. یک‌چهارم نه-جادو و نه-جادو می‌آمدند، و ماگل می‌شدند. نیم دیگر اسکویب می‌شدند. الگویی خیلی قدیمی و خیلی کلاسیک است. گرگور مندل کشفش کرد که فراموش نشده، و اولین سرنخی بود که تا حالا برای این‌که دستورپخت چطور کار می‌کند کشف شد. هرکسی که چیزی درباره‌ی علم خون بداند آن الگو را فوراً می‌شناسد. دقیق نخواهد بود، همان‌طور که اگر سکه را چهل بار دو بار بیندازی همیشه دقیقاً ده جفت دو شیر نمی‌گیری. ولی اگر از چهل بچه هفت یا سیزده جادوگر باشد نشانه‌ی قوی خواهد بود. این همان آزمایشی است که وادارت کردم انجام دهی. حالا بگذار داده‌هایت را ببینم.»",
+    "summary_fa": "هری با کاغذهای برچسب‌دار مدل همه‌یا-هیچ را نشان می‌دهد و پیش‌بینی مندل را استخراج می‌کند: ازدواج اسکویب‌ها باید تقریباً یک‌چهارم جادوگر، یک‌چهارم ماگل و نصف اسکویب بدهد."
+  },
+  {
+    "id": 12,
+    "paras": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "verbatim_html": [
+      "And before Draco could even think, Harry Potter had taken the parchment out of Draco's hand.",
+      "Draco's throat was very dry.",
+      "Twenty-eight children.",
+      "He wasn't sure of the exact number but he was pretty sure around a fourth had been wizards.",
+      "\"Six wizards out of twenty-eight children,\" Harry Potter said after a moment. \"Well, that's that, then. And first-years were casting the same spells at the same power level eight centuries ago, too. Your test and my test both came out the same way.\""
+    ],
+    "summary_en": "Harry snatches the parchment: six wizards out of twenty-eight children, matching Mendel's quarter, and both their tests agree.",
+    "translation_fa": "و قبل از این‌که دراکو حتی بتواند فکر کند، هری پاتر پوست‌نوشت را از دست دراکو گرفته بود.\n\nگلوی دراکو خیلی خشک بود.\n\nبیست‌وهشت بچه.\n\nاز عدد دقیق مطمئن نبود ولی نسبتاً مطمئن بود که حدود یک‌چهارمشان جادوگر بوده‌اند.\n\n«شش جادوگر از بیست‌وهشت بچه،» هری پاتر بعد از لحظه‌ای گفت. «خب، پس تمام شد. و سال اولی‌ها هشت قرن پیش هم همان طلسم‌ها را با همان قدرت اجرا می‌کردند. آزمایش تو و آزمایش من هر دو یک‌طور درآمدند.»",
+    "summary_fa": "هری پوست‌نوشت را می‌قاپد: شش جادوگر از بیست‌وهشت بچه که با یک‌چهارم مندل می‌خواند، و هر دو آزمایش آن‌ها هم‌نتیجه‌اند."
+  },
+  {
+    "id": 13,
+    "paras": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "verbatim_html": [
+      "There was a long silence in the classroom.",
+      "\"What now?\" Draco whispered.",
+      "He'd never been so terrified.",
+      "\"It's not definite yet,\" said Harry Potter. \"My experiment failed, remember? I need you to design another test, Draco.\"",
+      "\"I, I...\" Draco said. His voice was breaking. \"I can't do this Harry, it's too much for me.\""
+    ],
+    "summary_en": "In a long terrified silence Draco asks what now, and Harry insists the case isn't closed: Draco must design another test, though Draco says it's too much for him.",
+    "translation_fa": "سکوت طولانی در کلاس بود.\n\n«حالا چه؟» دراکو زمزمه کرد.\n\nهرگز تا این حد وحشت‌زده نبوده بود.\n\n«هنوز قطعی نیست،» هری پاتر گفت. «آزمایش من شکست خورد، یادت هست؟ باید آزمایش دیگری طراحی کنی، دراکو.»\n\n«مـ، من...» دراکو گفت. صدایش می‌شکست. «نمی‌توانم این کار را بکنم هری، برایم خیلی زیاد است.»",
+    "summary_fa": "در سکوتی طولانی و وحشت‌زده دراکو می‌پرسد حالا چه، و هری اصرار می‌کند هنوز قطعی نیست: دراکو باید آزمایش دیگری طراحی کند، هرچند دراکو می‌گوید برایش خیلی سنگین است."
+  },
+  {
+    "id": 14,
+    "paras": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "verbatim_html": [
+      "Harry's look was fierce. \"Yes you can, because you have to. I thought about it myself, too, after I found out about the Interdict of Merlin. Draco, is there any way of observing the strength of magic directly? Some way that doesn't have anything to do with wizards' blood or the spells we learn?\"",
+      "Draco's mind was just blank.",
+      "\"Anything that affects magic affects wizards,\" said Harry. \"But then we can't tell if it's the wizards or the magic. What does magic affect that <em>isn't</em> a wizard?\"",
+      "\"Magical creatures, obviously,\" said Draco without even thinking about it."
+    ],
+    "summary_en": "Harry demands a way to measure magic's strength independent of wizards, and Draco blurts out the answer without thinking: magical creatures.",
+    "translation_fa": "نگاه هری خشن بود. «بله می‌توانی، چون مجبوری. خودم هم بعد از این‌که درباره‌ی تحریم مرلین فهمیدم بهش فکر کردم. دراکو، هیچ راهی هست که قدرت جادو را مستقیم مشاهده کرد؟ راهی که هیچ ربطی به خون جادوگران یا طلسم‌هایی که یاد می‌گیریم نداشته باشد؟»\n\nذهن دراکو کاملاً خالی بود.\n\n«هر چیزی که روی جادو اثر بگذارد روی جادوگران اثر می‌گذارد،» هری گفت. «ولی آن‌وقت نمی‌توانیم بگوییم جادوگران‌اند یا جادو. جادو روی چه چیزی اثر می‌گذارد که جادوگر نیست؟»\n\n«موجودات جادویی، معلوم است،» دراکو بدون این‌که حتی فکرش را بکند گفت.",
+    "summary_fa": "هری راهی برای سنجش مستقیم قدرت جادو مستقل از جادوگران می‌خواهد و دراکو بی‌درنگ جواب را می‌گوید: موجودات جادویی."
+  },
+  {
+    "id": 15,
+    "paras": [
+      45,
+      46,
+      47,
+      48
+    ],
+    "verbatim_html": [
+      "Harry Potter slowly smiled. \"Draco, that's <em>brilliant.</em>\"",
+      "<em>It's the sort of dumb question you'd only ask in the first place if you'd been raised by Muggles.</em>",
+      "Then the sickness in Draco's stomach got even worse as he realized what it would mean if magical creatures <em>were</em> getting weaker. They would know for certain then that magic was fading, and there was a part of Draco that was already sure that was exactly what they would find. He didn't want to see this, he didn't want to know...",
+      "Harry Potter was already halfway to the door. \"Come <em>on</em>, Draco! There's a portrait not far from here, we'll just ask them to go get someone old and find out right away! We're cloaked, if someone sees us we can just run away! Let's go!\""
+    ],
+    "summary_en": "Harry calls Draco's idea brilliant, Draco dreads confirmation that magic is fading, and Harry rushes him off to consult an old portrait.",
+    "translation_fa": "هری پاتر آرام لبخند زد. «دراکو، این درخشان است.»\n\nاز آن سؤال‌های احمقانه‌ای است که فقط اگر با ماگل‌ها بزرگ شده باشی اصلاً می‌پرسی.\n\nبعد تهوع در معده‌ی دراکو بدتر شد وقتی فهمید اگر موجودات جادویی ضعیف‌تر می‌شدند چه معنی می‌داد. آن‌وقت یقین می‌دانستند که جادو دارد محو می‌شود، و بخشی از دراکو از قبل مطمئن بود که دقیقاً همین را خواهند یافت. نمی‌خواست این را ببیند، نمی‌خواست بداند...\n\nهری پاتر از قبل نیمه‌راه در بود. «بیا دراکو! پرتره‌ای نه چندان دور از این‌جا هست، فقط ازشان می‌خواهیم بروند کسی قدیمی را بیاورند و فوراً بفهمیم! شنل‌پوشیم، اگر کسی ما را ببیند فقط فرار می‌کنیم! برویم!»",
+    "summary_fa": "هری ایده‌ی دراکو را درخشان می‌خواند، دراکو از تأیید محو شدن جادو وحشت دارد و هری او را برای پرسیدن از پرتره‌ای قدیمی می‌برد."
+  },
+  {
+    "id": 16,
+    "paras": [
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "verbatim_html": [
+      "* * *",
+      "It didn't take long after that.",
+      "It was a wide portrait, but the three people in it were looking rather crowded. There was a middle-aged man from the twelfth century, dressed in black swathes of cloth; who spoke to a sad-looking young woman from the fourteenth century, with hair that seemed to constantly frizz about her head as if she'd been charged up by a static spell; and she spoke to a dignified, wizened old man from the seventeenth century with a solid gold bowtie; and him they could understand.",
+      "They had asked about Dementors.",
+      "They had asked about phoenixes."
+    ],
+    "summary_en": "After a scene break, the boys quickly find a crowded portrait chaining translators across centuries and start asking about Dementors and phoenixes.",
+    "translation_fa": "* * *\n\nبعد از آن زیاد طول نکشید.\n\nپرتره‌ی پهنی بود، ولی سه نفر داخلش نسبتاً تنگ به نظر می‌رسیدند. مردی میانسال از قرن دوازدهم بود، با قواره‌های سیاه پارچه پوشیده؛ که با زن جوان غمگینی از قرن چهاردهم حرف می‌زد، با مویی که انگار مدام دور سرش وز می‌کرد چنان‌که گویی طلسم الکتریسیته‌ی ساکن به او زده بودند؛ و او با پیرمرد موقر و چروکیده‌ای از قرن هفدهم با پاپیون طلایی یکدست حرف می‌زد؛ و او را می‌توانستند بفهمند.\n\nدرباره‌ی دمنتورها پرسیده بودند.\n\nدرباره‌ی ققنوس‌ها پرسیده بودند.",
+    "summary_fa": "بعد از جداکننده‌ی صحنه، پسرها به‌سرعت پرتره‌ای شلوغ با زنجیره‌ای از مترجمان در قرن‌ها پیدا می‌کنند و پرسیدن درباره‌ی دمنتورها و ققنوس‌ها را شروع می‌کنند."
+  },
+  {
+    "id": 17,
+    "paras": [
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "verbatim_html": [
+      "They had asked about dragons and trolls and house elves.",
+      "Harry had frowned, pointed out that creatures which needed the most magic could just be dying out entirely, and had asked for the most powerful magical creatures known.",
+      "There wasn't anything unfamiliar on the list, except for a species of Dark creature called mind flayers which the translator noted had finally been exterminated by Harold Shea, and those didn't sound half as scary as Dementors.",
+      "Magical creatures were as powerful now as they'd ever been, apparently.",
+      "The sickness in Draco's stomach was easing, and now he just felt confused."
+    ],
+    "summary_en": "They ask about dragons, trolls, and elves, then the most powerful creatures known; nothing has weakened, and Draco's dread eases into confusion.",
+    "translation_fa": "درباره‌ی اژدهاها و ترول‌ها و جن‌های خانگی پرسیده بودند.\n\nهری اخم کرده بود، اشاره کرده بود که موجوداتی که بیشترین جادو را نیاز دارند ممکن است فقط کاملاً در حال انقراض باشند، و قدرتمندترین موجودات جادویی شناخته‌شده را خواسته بود.\n\nچیز ناآشنایی در فهرست نبود، جز گونه‌ای از موجودات تاریک به اسم مایند فلیر که مترجم خاطرنشان کرد هارولد شی بالاخره منقرضشان کرده بود، و آن‌ها نصف دمنتورها هم ترسناک به نظر نمی‌رسیدند.\n\nموجودات جادویی ظاهراً به قدرتمندی همیشه‌شان بودند.\n\nتهوع در معده‌ی دراکو داشت آرام می‌شد، و حالا فقط گیج بود.",
+    "summary_fa": "آن‌ها درباره‌ی اژدهاها و ترول‌ها و الف‌ها می‌پرسند، بعد قدرتمندترین موجودات شناخته‌شده؛ هیچ‌چیز ضعیف نشده و وحشت دراکو به سردرگمی بدل می‌شود."
+  },
+  {
+    "id": 18,
+    "paras": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "verbatim_html": [
+      "\"Harry,\" Draco said in the middle of the old man translating a list of all eleven powers of a beholder's eyes, \"what does this mean?\"",
+      "Harry held up a finger and the old man finished the list.",
+      "Then Harry thanked all the portraits for helping - Draco, pretty much on automatic, did so as well and more graciously - and they headed back to the classroom.",
+      "And Harry brought out the original parchment with the hypotheses, and began scribbling."
+    ],
+    "summary_en": "Draco asks what it all means; Harry lets the beholder list finish, thanks the portraits, and returns to scribble on his hypotheses parchment.",
+    "translation_fa": "«هری،» دراکو وسط ترجمه‌ی پیرمرد از فهرست هر یازده قدرت چشم‌های یک بیننده گفت، «این یعنی چه؟»\n\nهری انگشتی بالا گرفت و پیرمرد فهرست را تمام کرد.\n\nبعد هری از همه‌ی پرتره‌ها برای کمک تشکر کرد ــ دراکو، تقریباً خودکار، همین کار را کرد و مؤدبانه‌تر ــ و به کلاس برگشتند.\n\nو هری پوست‌نوشت اصلی با فرضیه‌ها را بیرون آورد، و شروع به خط‌خطی کرد.",
+    "summary_fa": "دراکو می‌پرسد همه‌ی این‌ها یعنی چه؛ هری می‌گذارد فهرست بیننده تمام شود، از پرتره‌ها تشکر می‌کند و برمی‌گردد تا روی پوست‌نوشت فرضیه‌ها خط‌خطی کند."
+  },
+  {
+    "id": 19,
+    "paras": [
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "verbatim_html": [
+      "<em>Observation:</em>",
+      "<em>Wizardry isn't as powerful now as it was when Hogwarts was founded.</em>",
+      "<em>Hypotheses:</em>",
+      "<em>1</em>. Magic itself is fading.  <br/>2. Wizards are interbreeding with Muggles and Squibs.  <br/>3. Knowledge to cast powerful spells is being lost.  <br/>4\\. Wizards are eating the wrong foods as children, or something else besides blood is making them grow up weaker.  <br/>5\\. Muggle technology is interfering with magic. (Since 800 years ago?)  <br/>6\\. Stronger wizards are having fewer children. (Draco = only child? Check if 3 powerful wizards, Quirrell / Dumbledore / Dark Lord, had any children.)",
+      "<em>Tests:</em>"
+    ],
+    "summary_en": "Harry writes up the observation that wizardry has weakened, lists six hypotheses from fading magic to fewer children of the strong, and heads the tests section.",
+    "translation_fa": "مشاهده:\n\nجادوگری حالا به قدرتمندی زمان تأسیس هاگوارتز نیست.\n\nفرضیه‌ها:\n\n۱. خود جادو دارد محو می‌شود. ۲. جادوگران با ماگل‌ها و اسکویب‌ها وصلت می‌کنند. ۳. دانش اجرای طلسم‌های قدرتمند دارد گم می‌شود. ۴. جادوگران در بچگی غذاهای اشتباهی می‌خورند، یا چیزی غیر از خون باعث می‌شود ضعیف‌تر بزرگ شوند. ۵. فناوری ماگل دارد با جادو تداخل می‌کند. (از ۸۰۰ سال پیش؟) ۶. جادوگران قوی‌تر بچه‌های کمتری دارند. (دراکو = تک‌فرزند؟ بررسی کن آیا ۳ جادوگر قدرتمند، کویرل / دامبلدور / لرد سیاه، بچه‌ای داشتند.)\n\nآزمایش‌ها:",
+    "summary_fa": "هری مشاهده‌ی ضعیف شدن جادوگری را می‌نویسد، شش فرضیه را از محو شدن جادو تا بچه‌های کمتر قدرتمندان فهرست می‌کند و بخش آزمایش‌ها را شروع می‌کند."
+  },
+  {
+    "id": 20,
+    "paras": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "verbatim_html": [
+      "<em>A. Are there spells we know but can't cast (1 or 2) or are the lost spells no longer known (3)? Result: Inconclusive due to Interdict of Merlin. No known uncastable spell, but could simply have not been passed on.</em>",
+      "<em>B. Did ancient first-year students cast the same sort of spells, with the same power, as now? (Weak evidence for 1 over 2, but blood could also be losing powerful wizardry only.) Result: Same level of first-year spells then as now.</em>",
+      "<em>C. Additional test that distinguishes 1 and 2 using scientific knowledge of blood, will explain later. Result: There's only one place in the recipe that makes you a wizard, and either you have two papers saying 'magic' or you don't.</em>",
+      "<em>D. Are magical creatures losing their powers? Distinguishes 1 from (2 or 3). Result: Magical creatures seem to be as strong as they ever were.</em>",
+      "\"A failed,\" said Harry Potter. \"B is weak evidence for 1 over 2. C falsifies 2. D falsifies 1. 4 was unlikely and B argues against 4 as well. 5 was unlikely and D argues against it. 6 is falsified along with 2. That leaves 3. Interdict of Merlin or not, I didn't actually find any known spell that couldn't be cast. So when you add it all up, it looks like knowledge is being lost.\""
+    ],
+    "summary_en": "Harry scores the four tests: A inconclusive, B weak, C falsifies blending, D falsifies fading magic, leaving lost knowledge as the surviving hypothesis.",
+    "translation_fa": "الف. آیا طلسم‌هایی هست که بدانیم ولی نتوانیم اجرا کنیم (۱ یا ۲) یا طلسم‌های گمشده دیگر دانسته نیستند (۳)؟ نتیجه: به‌خاطر تحریم مرلین بی‌نتیجه. طلسم شناخته‌شده‌ی اجرانکردنی نیست، ولی ممکن است ساده منتقل نشده باشد.\n\nب. آیا دانش‌آموزان باستانی سال اولی همان‌جور طلسم‌ها را، با همان قدرت، اجرا می‌کردند؟ (شاهد ضعیف برای ۱ در برابر ۲، ولی خون هم ممکن است فقط جادوگری قدرتمند را از دست بدهد.) نتیجه: همان سطح طلسم‌های سال اولی آن زمان مثل حالا.\n\nج. آزمایش تکمیلی که با دانش علمی خون ۱ و ۲ را جدا می‌کند، بعداً توضیح می‌دهم. نتیجه: فقط یک جا در دستورپخت هست که تو را جادوگر می‌کند، و یا دو کاغذ «جادو» داری یا نداری.\n\nد. آیا موجودات جادویی قدرتشان را از دست می‌دهند؟ ۱ را از (۲ یا ۳) جدا می‌کند. نتیجه: موجودات جادویی به نظر به همان قوت همیشه‌شان‌اند.\n\n«الف شکست خورد،» هری پاتر گفت. «ب شاهد ضعیفی برای ۱ در برابر ۲ است. ج ۲ را ابطال می‌کند. د ۱ را ابطال می‌کند. ۴ نامحتمل بود و ب هم علیه ۴ استدلال می‌کند. ۵ نامحتمل بود و د علیه آن استدلال می‌کند. ۶ همراه با ۲ ابطال می‌شود. فقط ۳ می‌ماند. تحریم مرلین یا نه، واقعاً هیچ طلسم شناخته‌شده‌ای پیدا نکردم که نشود اجرا کرد. پس وقتی همه را جمع می‌زنی، به نظر می‌رسد دانش دارد گم می‌شود.»",
+    "summary_fa": "هری چهار آزمایش را نمره می‌دهد: الف بی‌نتیجه، ب ضعیف، ج ترکیب را ابطال می‌کند، د محو شدن جادو را ابطال می‌کند، و فقط گم شدن دانش باقی می‌ماند."
+  },
+  {
+    "id": 21,
+    "paras": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "verbatim_html": [
+      "And the trap snapped shut.",
+      "As soon as the panic went away, as soon as Draco understood that magic <em>wasn't</em> fading out, it took all of five seconds to realize.",
+      "Draco shoved himself away from the desk and stood up so hard that his chair skittered with a scraping noise across the floor and fell over.",
+      "\"So it was all just a stupid trick, then.\""
+    ],
+    "summary_en": "The trap snaps shut: the instant Draco's fear lifts he realizes it was all a trick, and he leaps up knocking his chair over.",
+    "translation_fa": "و تله بسته شد.\n\nبه‌محض این‌که وحشت رفت، به‌محض این‌که دراکو فهمید جادو دارد محو نمی‌شود، پنج ثانیه طول کشید تا بفهمد.\n\nدراکو خودش را از میز عقب راند و آن‌قدر محکم بلند شد که صندلی‌اش با صدای کشیده روی زمین سُرخورد و افتاد.\n\n«پس همه‌اش فقط یک حقه‌ی احمقانه بود، ها.»",
+    "summary_fa": "تله بسته می‌شود: به‌محض این‌که ترس دراکو می‌ریزد می‌فهمد همه‌اش حقه بوده و با عصبانیت بلند می‌شود و صندلی‌اش را می‌اندازد."
+  },
+  {
+    "id": 22,
+    "paras": [
+      77,
+      78,
+      79
+    ],
+    "verbatim_html": [
+      "Harry Potter stared at him for a moment, still sitting. When he spoke, his voice was quiet. \"It was a fair test, Draco. If it had come out a different way, I would have accepted it. That's not something I would ever cheat on. Ever. I didn't look at your data before I made my predictions. I told you up front when the Interdict of Merlin invalidated the first experiment -\"",
+      "\"Oh,\" Draco said, the anger starting to come out into his voice, \"you didn't know how the whole thing was going to come out?\"",
+      "\"I didn't <em>know</em> anything you didn't know,\" Harry said, still quietly. \"I admit that I suspected. Hermione Granger was too powerful, she should have been barely magical and she wasn't, how can a Muggleborn be the best spellcaster in Hogwarts? And she's getting the best grades on her essays too, it's too much coincidence for one girl to be the strongest magically <em>and</em> academically unless there's a single cause. Hermione Granger's existence pointed to there being only one thing that makes you a wizard, something you either have or you don't, and the power differences coming from how much we know and how much we practice. And there weren't different classes for purebloods and Muggleborns, and so on. There were too many ways the world didn't look the way it would look if you were right. But Draco, I didn't see anything you couldn't see too. I didn't perform any tests I didn't tell you about. I didn't cheat, Draco. I wanted us to work out the answer together. And I never thought that magic might be fading out of the world until you said it. It was a scary idea for me, too.\""
+    ],
+    "summary_en": "Harry insists the test was fair and never cheated, admitting he only suspected the answer because Hermione Granger's power and brilliance pointed to a single all-or-nothing cause.",
+    "translation_fa": "هری پاتر لحظه‌ای خیره‌اش شد، هنوز نشسته. وقتی حرف زد، صدایش آرام بود. «آزمایش منصفانه‌ای بود، دراکو. اگر جور دیگری درمی‌آمد، قبولش می‌کردم. در چنین چیزی هرگز تقلب نمی‌کنم. هرگز. قبل از این‌که پیش‌بینی‌هایم را بکنم به داده‌هایت نگاه نکردم. از اول بهت گفتم وقتی تحریم مرلین آزمایش اول را باطل کرد ــ»\n\n«اوه،» دراکو گفت، خشم داشت وارد صدایش می‌شد، «نمی‌دانستی کل ماجرا چطور درمی‌آید؟»\n\n«هیچ‌چیز نمی‌دانستم که تو نمی‌دانستی،» هری هنوز آرام گفت. «قبول می‌کنم که حدس می‌زدم. هرماینی گرنجر خیلی قدرتمند بود، باید به‌زور جادویی می‌بود و نبود، چطور ماگل‌زاده‌ای می‌تواند بهترین طلسم‌زن هاگوارتز باشد؟ و بهترین نمره‌ها را هم در انشاها می‌گیرد، تصادف زیادی است که یک دختر هم از نظر جادویی قوی‌ترین باشد و هم از نظر درسی مگر این‌که علتی واحد باشد. وجود هرماینی گرنجر اشاره می‌کرد که فقط یک چیز هست که تو را جادوگر می‌کند، چیزی که یا داری یا نداری، و تفاوت‌های قدرت از این می‌آید که چقدر می‌دانیم و چقدر تمرین می‌کنیم. و کلاس‌های جدا برای اصیل‌زاده‌ها و ماگل‌زاده‌ها نبود، و از این قبیل. راه‌های زیادی بود که جهان شبیه آن‌چه اگر تو درست می‌گفتی می‌بود به نظر نمی‌رسید. ولی دراکو، چیزی ندیدم که تو هم نتوانی ببینی. هیچ آزمایشی انجام ندادم که بهت نگفته باشم. تقلب نکردم، دراکو. می‌خواستم جواب را با هم پیدا کنیم. و هرگز فکر نکرده بودم که جادو ممکن است دارد از جهان محو می‌شود تا وقتی تو گفتی. برای من هم ایده‌ی ترسناکی بود.»",
+    "summary_fa": "هری اصرار می‌کند آزمایش منصفانه بود و تقلبی نکرده، و قبول می‌کند فقط حدس می‌زده چون قدرت و درخشش هرماینی گرنجر به علتی واحد و همه‌یا-هیچ اشاره می‌کرد."
+  },
+  {
+    "id": 23,
+    "paras": [
+      80,
+      81,
+      82,
+      83
+    ],
+    "verbatim_html": [
+      "\"Whatever,\" Draco said. He was working very hard to control his voice and not just start screaming at Harry. \"You claim you're not going to run off and tell anyone else about this.\"",
+      "\"Not without consulting you first,\" Harry said. He opened his hands in a pleading gesture. \"Draco, I'm being as nice as I can but <em>the world turned out to just not be that way</em>.\"",
+      "\"Fine. Then you and I are through. I'm going to just walk away and forget any of this ever happened.\"",
+      "Draco spun around, feeling the burning sensation in his throat, the sense of betrayal, and that was when he realized he really <em>had</em> liked Harry Potter, and that thought didn't slow him down for a moment as he strode toward the classroom door."
+    ],
+    "summary_en": "Draco demands secrecy, declares them finished, and storms toward the door, realizing as he goes that he really had liked Harry.",
+    "translation_fa": "«هرچه،» دراکو گفت. خیلی سخت تلاش می‌کرد صدایش را کنترل کند و فقط سر هری داد نکشد. «ادعا می‌کنی که نمی‌روی فرار کنی و به کس دیگری درباره‌ی این بگویی.»\n\n«بدون مشورت با تو اول نه،» هری گفت. دست‌هایش را در ژستی ملتمسانه باز کرد. «دراکو، تا جایی که می‌توانم خوبم ولی جهان فقط این‌طور از آب درآمد که آن‌طور نیست.»\n\n«باشد. پس تو و من تمام شدیم. می‌روم و فراموش می‌کنم هیچ‌کدام از این‌ها اتفاق افتاده.»\n\nدراکو چرخید، احساس سوزش در گلویش، حس خیانت را حس کرد، و همان‌وقت فهمید که واقعاً هری پاتر را دوست داشته، و آن فکر لحظه‌ای هم سرعتش را کم نکرد وقتی به‌سوی در کلاس قدم برداشت.",
+    "summary_fa": "دراکو رازداری می‌خواهد، اعلام می‌کند رابطه‌شان تمام شده و به‌سوی در می‌رود، و در راه می‌فهمد واقعاً هری را دوست داشته است."
+  },
+  {
+    "id": 24,
+    "paras": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "verbatim_html": [
+      "And Harry Potter's voice came, now louder, and worried:",
+      "\"Draco... you <em>can't</em> forget. Don't you understand? That was your sacrifice.\"",
+      "Draco stopped in midstride and turned around. \"<em>What</em> are you talking about?\"",
+      "But there was already a freezing coldness in Draco's spine.",
+      "He knew even before Harry Potter said it."
+    ],
+    "summary_en": "Harry's worried voice stops Draco cold: he cannot forget, because that was his sacrifice.",
+    "translation_fa": "و صدای هری پاتر آمد، حالا بلندتر، و نگران:\n\n«دراکو... نمی‌توانی فراموش کنی. نمی‌فهمی؟ آن قربانی تو بود.»\n\nدراکو وسط قدم ایستاد و برگشت. «درباره‌ی چه حرف می‌زنی؟»\n\nولی از قبل سرمای یخی در ستون فقرات دراکو بود.\n\nحتی قبل از این‌که هری پاتر بگوید می‌دانست.",
+    "summary_fa": "صدای نگران هری دراکو را میخکوب می‌کند: نمی‌تواند فراموش کند، چون آن قربانی او بود."
+  },
+  {
+    "id": 25,
+    "paras": [
+      89,
+      90
+    ],
+    "verbatim_html": [
+      "\"To become a scientist. You questioned one of your beliefs, not just a small belief but something that had great significance to you. You did experiments, gathered data, and the outcome proved the belief was wrong. You saw the results and understood what they meant.\" Harry Potter's voice was faltering. \"Remember, Draco, you can't sacrifice a <em>true</em> belief that way, because the experiments will confirm it instead of falsifying it. Your sacrifice to become a scientist was your <em>false</em> belief that wizard blood was mixing and getting weaker.\"",
+      "\"<em>That's not true!</em>\" said Draco. \"I didn't sacrifice the belief. I still believe that!\" His voice was getting louder, and the chill was getting worse."
+    ],
+    "summary_en": "Harry names Draco's sacrifice: questioning a cherished belief and watching experiments falsify it, which Draco loudly denies.",
+    "translation_fa": "«برای دانشمند شدن. یکی از باورهایت را زیر سؤال بردی، نه فقط باوری کوچک بلکه چیزی که برایت اهمیت زیادی داشت. آزمایش کردی، داده جمع کردی، و نتیجه ثابت کرد باور اشتباه بود. نتایج را دیدی و فهمیدی چه معنی می‌دهند.» صدای هری پاتر می‌لرزید. «یادت هست، دراکو، نمی‌توانی باور درستی را این‌طور قربانی کنی، چون آزمایش‌ها به‌جای ابطالش تأییدش می‌کنند. قربانی تو برای دانشمند شدن باور نادرستت بود که خون جادوگر دارد مخلوط و ضعیف‌تر می‌شود.»\n\n«این درست نیست!» دراکو گفت. «من باور را قربانی نکردم. هنوز بهش باور دارم!» صدایش داشت بلندتر می‌شد، و لرز بدتر می‌شد.",
+    "summary_fa": "هری قربانی دراکو را نام می‌برد: زیر سؤال بردن باوری عزیز و دیدن ابطالش در آزمایش‌ها، که دراکو با فریاد انکارش می‌کند."
+  },
+  {
+    "id": 26,
+    "paras": [
+      91
+    ],
+    "verbatim_html": [
+      "Harry Potter shook his head. His voice came in a whisper. \"Draco... I'm sorry, Draco, you <em>don't</em> believe it, not anymore.\" Harry's voice rose again. \"I'll prove it to you. Imagine that someone tells you they're keeping a dragon in their house. You tell them you want to see it. They say it's an invisible dragon. You say fine, you'll listen to it move. They say it's an inaudible dragon. You say you'll throw some cooking flour into the air and see the outline of the dragon. They say the dragon is permeable to flour. And the telling thing is that they know, in <em>advance,</em> exactly which experimental results they'll have to explain away. They <em>know</em> everything will come out the way it does if there's no dragon, they know in <em>advance</em> just which excuses they'll have to make. So maybe they <em>say</em> there's a dragon. Maybe they <em>believe</em> they believe there's a dragon, it's called belief-in-belief. But they don't actually believe it. You can be mistaken about what you believe, most people never realize there's a difference between believing something and thinking it's good to believe it.\" Harry Potter had risen from the desk now, and taken a few steps toward Draco. \"And Draco, you don't believe any more in blood purism, I'll show you that you don't. If blood purism is true, then Hermione Granger doesn't make sense, so what could explain her? Maybe she's a wizarding orphan raised by Muggles, just like I was? I could go to Granger and ask to see pictures of her parents, to see if she looks like them. Would you expect her to look different? Should we go perform that test?\""
+    ],
+    "summary_en": "Harry delivers the invisible-dragon parable of belief-in-belief and challenges Draco to test whether Hermione is really Muggleborn.",
+    "translation_fa": "هری پاتر سرش را تکان داد. صدایش نجوایی آمد. «دراکو... متأسفم، دراکو، دیگر باور نداری.» صدای هری دوباره بالا رفت. «بهت ثابت می‌کنم. تصور کن کسی بهت بگوید در خانه‌اش اژدهایی نگه می‌دارد. بهش می‌گویی می‌خواهی ببینیش. می‌گوید اژدهایی نامرئی است. می‌گویی باشد، به حرکتش گوش می‌دهی. می‌گوید اژدهایی ناشنیدنی است. می‌گویی کمی آرد آشپزی در هوا می‌پاشی و طرح اژدها را می‌بینی. می‌گوید اژدها در برابر آرد نفوذپذیر است. و نکته‌ی گویا این است که از قبل دقیقاً می‌دانند کدام نتایج آزمایشی را باید توجیه کنند. می‌دانند همه‌چیز همان‌طور درمی‌آید که اگر اژدهایی نباشد درمی‌آید، از قبل می‌دانند دقیقاً چه بهانه‌هایی باید بیاورند. پس شاید بگویند اژدهایی هست. شاید باور کنند که باور دارند اژدهایی هست، بهش می‌گویند باور-به-باور. ولی واقعاً باورش ندارند. ممکن است درباره‌ی این‌که به چه باور داری اشتباه کنی، بیشتر مردم هرگز نمی‌فهمند تفاوتی هست بین باور داشتن چیزی و خوب دانستن باور داشتنش.» هری پاتر حالا از پشت میز بلند شده بود، و چند قدم به‌سوی دراکو برداشته بود. «و دراکو، تو دیگر به خلوص خون باور نداری، نشانت می‌دهم که نداری. اگر خلوص خون درست باشد، آن‌وقت هرماینی گرنجر معنی نمی‌دهد، پس چه چیزی می‌تواند توضیحش دهد؟ شاید یتیم جادوگری است که ماگل‌ها بزرگش کرده‌اند، درست مثل من؟ می‌توانم بروم پیش گرنجر و بخواهم عکس‌های والدینش را ببینم، ببینم آیا شبیه‌شان است. انتظار داری متفاوت به نظر برسد؟ برویم آن آزمایش را انجام دهیم؟»",
+    "summary_fa": "هری تمثیل اژدهای نامرئی درباره‌ی باور-به-باور را می‌گوید و دراکو را به چالش می‌کشد که آزمایش کند آیا هرماینی واقعاً ماگل‌زاده است."
+  },
+  {
+    "id": 27,
+    "paras": [
+      92,
+      93,
+      94,
+      95,
+      96
+    ],
+    "verbatim_html": [
+      "\"They would have put her with relatives,\" Draco said, his voice trembling. \"They'll still look the same.\"",
+      "\"You see. You already know what experimental result you'll have to excuse. If you still believed in blood purism you would say, sure, let's go take a look, I bet she won't look like her parents, she's too powerful to be a real Muggleborn -\"",
+      "\"They <em>would</em> have put her with relatives!\"",
+      "\"Scientists can do tests to check for sure if someone is the true child of a father. Granger would probably do it if I paid her family enough. <em>She</em> wouldn't be afraid of the results. So what do you expect that test to show? Tell me to run it and we will. But you already know what the test will say. You'll always know. You won't ever be able to forget. You might <em>wish</em> you believed in blood purism, but you'll always <em>expect to see happen</em> just exactly what would happen if there was only one thing that made you a wizard. That was your sacrifice to become a scientist.\"",
+      "Draco's breathing was ragged. \"Do you realize <em>what you've done?</em>\" Draco surged forward and he seized Harry by the collar of his robes. His voice rose to a scream, it sounded unbearably loud in the closed classroom and the silence. \"<em>Do you realize what you've done?</em>\""
+    ],
+    "summary_en": "Draco excuses the parentage test in advance, proving Harry's point, then seizes Harry by the collar screaming about what he has done.",
+    "translation_fa": "«با خویشاوندانش می‌گذاشتندش،» دراکو گفت، صدایش می‌لرزید. «هنوز هم‌شکل به نظر می‌رسند.»\n\n«می‌بینی. از قبل می‌دانی کدام نتیجه‌ی آزمایشی را باید توجیه کنی. اگر هنوز به خلوص خون باور داشتی می‌گفتی، حتماً، برویم نگاهی بیندازیم، شرط می‌بندم شبیه والدینش نیست، خیلی قدرتمند است که ماگل‌زاده‌ی واقعی باشد ــ»\n\n«با خویشاوندانش می‌گذاشتندش!»\n\n«دانشمندان می‌توانند آزمایش کنند تا مطمئن شوند کسی واقعاً فرزند حقیقی پدری هست. گرنجر احتمالاً قبول می‌کند اگر به خانواده‌اش به‌اندازه‌ی کافی پول بدهم. از نتایج نمی‌ترسد. پس انتظار داری آن آزمایش چه نشان دهد؟ بهم بگو اجراش کن و می‌کنیم. ولی از قبل می‌دانی آزمایش چه می‌گوید. همیشه می‌دانی. هرگز نمی‌توانی فراموش کنی. ممکن است آرزو کنی به خلوص خون باور داشتی، ولی همیشه انتظار می‌بینی دقیقاً همان اتفاق بیفتد که اگر فقط یک چیز تو را جادوگر می‌کرد می‌افتاد. آن قربانی تو برای دانشمند شدن بود.»\n\nنفس کشیدن دراکو بریده‌بریده بود. «می‌فهمی چه کرده‌ای؟» دراکو جلو جهید و هری را از یقه‌ی ردایش گرفت. صدایش به جیغ بلند شد، در کلاس بسته و سکوت به‌طرزی تحمل‌ناپذیر بلند به نظر می‌رسید. «می‌فهمی چه کرده‌ای؟»",
+    "summary_fa": "دراکو از قبل برای آزمایش نسب بهانه می‌آورد و حرف هری را ثابت می‌کند، بعد هری را از یقه می‌گیرد و جیغ می‌کشد که می‌فهمی چه کرده‌ای."
+  },
+  {
+    "id": 28,
+    "paras": [
+      97,
+      98,
+      99
+    ],
+    "verbatim_html": [
+      "Harry's voice was shaky. \"You had a belief. The belief was false. I helped you see that. What's true is already so, owning up to it doesn't make it worse -\"",
+      "The fingers on Draco's right hand clenched into a fist and that hand dropped down and blasted up unstoppably and punched Harry Potter in the jaw so hard that his body went crashing back into a desk and then to the floor.",
+      "\"<em>Idiot!</em>\" screamed Draco. \"<em>Idiot! Idiot!</em>\""
+    ],
+    "summary_en": "As Harry says owning up to truth doesn't make it worse, Draco punches him to the floor and screams idiot.",
+    "translation_fa": "صدای هری لرزان بود. «باوری داشتی. باور نادرست بود. کمکت کردم ببینی. آن‌چه درست است از قبل همین است، قبول کردنش بدترش نمی‌کند ــ»\n\nانگشتان دست راست دراکو مشت شد و آن دست پایین رفت و غیرقابل‌توقف بالا انفجار کرد و آن‌قدر محکم به فک هری پاتر زد که بدنش به میزی کوبید و بعد به زمین افتاد.\n\n«احمق!» دراکو جیغ کشید. «احمق! احمق!»",
+    "summary_fa": "همان‌طور که هری می‌گوید قبول حقیقت بدترش نمی‌کند، دراکو او را با مشت به زمین می‌زند و احمق خطابش می‌کند."
+  },
+  {
+    "id": 29,
+    "paras": [
+      100,
+      101,
+      102,
+      103
+    ],
+    "verbatim_html": [
+      "\"Draco,\" whispered Harry from the floor, \"Draco, I'm sorry, I didn't think this would happen for months, I didn't expect you to awaken as a scientist this quickly, I thought I would have longer to prepare you, teach you the techniques that make it hurt less to admit you're wrong -\"",
+      "\"What about Father?\" Draco said. His voice trembled with rage. \"Were you going to prepare <em>him</em> or did you just not <em>care</em> what happened after this?\"",
+      "\"You can't tell <em>him!</em>\" Harry said, his voice rising in alarm. \"He's not a scientist! You promised, Draco!\"",
+      "For a moment the thought of Father not knowing came as a relief."
+    ],
+    "summary_en": "Harry apologizes from the floor for awakening Draco too soon, Draco rages about his father, and Harry forbids telling him, which briefly relieves Draco.",
+    "translation_fa": "«دراکو،» هری از روی زمین زمزمه کرد، «دراکو، متأسفم، فکر نمی‌کردم این تا ماه‌ها اتفاق بیفتد، انتظار نداشتم این‌قدر زود به‌عنوان دانشمند بیدار شوی، فکر می‌کردم وقت بیشتری دارم تا آماده‌ات کنم، تکنیک‌هایی یادت دهم که پذیرفتن اشتباه را کم‌دردتر می‌کنند ــ»\n\n«پدر چه؟» دراکو گفت. صدایش از خشم می‌لرزید. «می‌خواستی او را آماده کنی یا فقط برایت مهم نبود بعد از این چه می‌شود؟»\n\n«نمی‌توانی به او بگویی!» هری گفت، صدایش از هشدار بالا رفت. «او دانشمند نیست! قول دادی، دراکو!»\n\nبرای لحظه‌ای فکر این‌که پدر نداند تسکینی بود.",
+    "summary_fa": "هری از روی زمین عذر می‌خواهد که دراکو را زود بیدار کرده، دراکو درباره‌ی پدرش خشمگین است و هری گفتن به او را ممنوع می‌کند که لحظه‌ای به دراکو آرامش می‌دهد."
+  },
+  {
+    "id": 30,
+    "paras": [
+      104,
+      105,
+      106,
+      107
+    ],
+    "verbatim_html": [
+      "And then the real anger started to rise.",
+      "\"So you planned for me to lie to him and tell him I still believe,\" Draco said, voice shaking. \"I'll always have to lie to him, and now when I grow up I can't be a Death Eater, and I won't even be able to tell him why not.\"",
+      "\"If your father really loves you,\" whispered Harry from the floor, \"he'll still love you even if you don't become a Death Eater, and it sounds like your father <em>does</em> really love you, Draco -\"",
+      "\"<em>Your</em> stepfather is a scientist,\" Draco said. The words coming out like biting knives. \"If <em>you</em> weren't going to be a scientist, he would still love you. But you'd be a <em>little less special</em> to him.\""
+    ],
+    "summary_en": "Draco realizes he must lie to his father forever and can never become a Death Eater, and answers Harry's comfort with a cutting jab about Harry's own scientist stepfather.",
+    "translation_fa": "و بعد خشم واقعی شروع به بالا آمدن کرد.\n\n«پس برنامه ریختی که به او دروغ بگویم و بگویم هنوز باور دارم،» دراکو گفت، صدایش می‌لرزید. «همیشه باید به او دروغ بگویم، و حالا وقتی بزرگ شوم نمی‌توانم مرگ‌خوار شوم، و حتی نمی‌توانم به او بگویم چرا نه.»\n\n«اگر پدرت واقعاً دوستت دارد،» هری از روی زمین زمزمه کرد، «هنوز دوستت خواهد داشت حتی اگر مرگ‌خوار نشوی، و به نظر می‌رسد پدرت واقعاً دوستت دارد، دراکو ــ»\n\n«ناپدری تو دانشمند است،» دراکو گفت. کلمات مثل چاقوهای گازگیر بیرون می‌آمدند. «اگر قرار نبود دانشمند شوی، هنوز دوستت می‌داشت. ولی کمی کمتر برایش خاص می‌بودی.»",
+    "summary_fa": "دراکو می‌فهمد باید برای همیشه به پدرش دروغ بگوید و هرگز نمی‌تواند مرگ‌خوار شود، و به دلداری هری با نیشی درباره‌ی ناپدری دانشمند خود هری جواب می‌دهد."
+  },
+  {
+    "id": 31,
+    "paras": [
+      108,
+      109,
+      110
+    ],
+    "verbatim_html": [
+      "Harry flinched. The boy opened his mouth, as if to say 'I'm sorry', and then closed his mouth, seeming to think better of it, which was either very smart of him or very lucky, because Draco might have tried to kill him.",
+      "\"You should have warned me,\" Draco said. His voice rose. \"<em>You should have warned me!</em>\"",
+      "\"I... I did... every time I told you about the power, I told you about the price. I said, you have to admit you're wrong. I said this would be the hardest path for you. That this was the sacrifice anyone had to make to become a scientist. I said, what if the experiment says one thing and your family and friends say another -\""
+    ],
+    "summary_en": "Harry flinches at Draco's jab and swallows an apology; Draco demands he should have been warned, and Harry insists he did warn about the price of admitting error.",
+    "translation_fa": "هری جا خورد. پسر دهانش را باز کرد، چنان‌که گویی بگوید «متأسفم»، و بعد دهانش را بست، انگار بهترش را فکر کرد، که یا خیلی هوشمندانه بود یا خیلی خوش‌شانس، چون دراکو ممکن بود سعی کند بکشدش.\n\n«باید بهم هشدار می‌دادی،» دراکو گفت. صدایش بالا رفت. «باید بهم هشدار می‌دادی!»\n\n«مـ، من کردم... هر بار که درباره‌ی قدرت بهت گفتم، درباره‌ی بهایش بهت گفتم. گفتم، باید قبول کنی که اشتباه می‌کنی. گفتم این سخت‌ترین مسیر برای تو خواهد بود. که این قربانی بود که هرکسی باید برای دانشمند شدن می‌داد. گفتم، اگر آزمایش چیزی بگوید و خانواده و دوستانت چیزی دیگر ــ»",
+    "summary_fa": "هری از نیش دراکو جا می‌خورد و عذرخواهی را قورت می‌دهد؛ دراکو می‌گوید باید هشدار می‌داد و هری اصرار می‌کند که درباره‌ی بهای پذیرفتن اشتباه هشدار داده بود."
+  },
+  {
+    "id": 32,
+    "paras": [
+      111,
+      112,
+      113
+    ],
+    "verbatim_html": [
+      "\"<em>You call that a warning?</em>\" Draco was screaming now. \"<em>You call that a warning? When we're doing a ritual that calls for a permanent sacrifice?</em>\"",
+      "\"I... I...\" The boy on the floor swallowed. \"I guess maybe it wasn't clear. I'm sorry. But that which can be destroyed by the truth should be.\"",
+      "Hitting him wasn't enough."
+    ],
+    "summary_en": "Draco screams that was no warning for a ritual demanding permanent sacrifice, Harry apologizes and quotes that truth should destroy what it can, and Draco finds hitting him insufficient.",
+    "translation_fa": "«به این می‌گویی هشدار؟» دراکو حالا جیغ می‌کشید. «به این می‌گویی هشدار؟ وقتی داریم آیینی انجام می‌دهیم که قربانی دائمی می‌خواهد؟»\n\n«مـ، من...» پسر روی زمین آب دهانش را قورت داد. «حدس می‌زنم شاید واضح نبود. متأسفم. ولی آن‌چه را حقیقت می‌تواند نابود کند باید نابود شود.»\n\nزدن او کافی نبود.",
+    "summary_fa": "دراکو جیغ می‌کشد که این برای آیینی با قربانی دائمی هشدار نبود، هری عذر می‌خواهد و می‌گوید آن‌چه حقیقت می‌تواند نابود کند باید شود، و دراکو زدن او را کافی نمی‌بیند."
+  },
+  {
+    "id": 33,
+    "paras": [
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "verbatim_html": [
+      "\"You're wrong about one thing,\" Draco said, his voice deadly. \"Granger isn't the strongest student in Hogwarts. She just gets the best grades in class. You're about to find out the difference.\"",
+      "Sudden shock showed in Harry's face, and he tried to roll quickly to his feet -",
+      "It was already too late for him.",
+      "\"<em>Expelliarmus!</em>\"",
+      "Harry's wand flew across the room."
+    ],
+    "summary_en": "Draco promises to show the difference between grades and strength, then disarms Harry before he can rise.",
+    "translation_fa": "«در یک چیز اشتباه می‌کنی،» دراکو گفت، صدایش مرگبار بود. «گرنجر قوی‌ترین دانش‌آموز هاگوارتز نیست. فقط بهترین نمره‌ها را در کلاس می‌گیرد. داری تفاوت را می‌فهمی.»\n\nشوک ناگهانی در چهره‌ی هری نمایان شد، و سعی کرد سریع به پاهایش بغلتد ــ\n\nبرایش خیلی دیر شده بود.\n\n«اکسپلیارموس!»\n\nچوب‌دستی هری در اتاق پرواز کرد.",
+    "summary_fa": "دراکو قول می‌دهد تفاوت نمره و قدرت را نشان دهد، بعد قبل از این‌که هری بلند شود خلع‌سلاحش می‌کند."
+  },
+  {
+    "id": 34,
+    "paras": [
+      119,
+      120,
+      121,
+      122,
+      123
+    ],
+    "verbatim_html": [
+      "\"<em>Gom jabbar!</em>\"",
+      "A pulse of inky blackness struck Harry's left hand.",
+      "\"That's a torture spell,\" said Draco. \"It's for getting information out of people. I'm just going to leave it on you and lock the door behind me when I go. Maybe I'll set the locking spell to wear off after a few hours. Maybe it won't wear off until you die in here. Have fun.\"",
+      "Draco moved smoothly backward, wand still on Harry. Draco's hand dipped down, picked up his bookbag, without his aim wavering.",
+      "The pain was already showing in Harry Potter's face as he spoke. \"Malfoys are above the underage magic laws, I take it? It's not because your blood is stronger. It's because you already practiced. In the beginning you were as weak as any of us. Is my prediction wrong?\""
+    ],
+    "summary_en": "Draco hits Harry with a torture spell and prepares to lock him in, while Harry gasps out one last prediction: Malfoys evade underage laws through practice, not stronger blood.",
+    "translation_fa": "«گام جبّار!»\n\nموجی از سیاهی مرکبی به دست چپ هری خورد.\n\n«این طلسم شکنجه است،» دراکو گفت. «برای گرفتن اطلاعات از مردم است. فقط می‌گذارمش رویت و وقتی رفتم در را پشت سرم قفل می‌کنم. شاید طلسم قفل را بگذارم بعد از چند ساعت از بین برود. شاید تا وقتی این‌جا بمیری از بین نرود. خوش بگذرد.»\n\nدراکو روان عقب رفت، چوب‌دستی هنوز روی هری. دست دراکو پایین رفت، کیف کتابش را برداشت، بدون این‌که نشانه‌اش بلرزد.\n\nدرد از قبل در چهره‌ی هری پاتر نمایان بود وقتی حرف زد. «مالفوی‌ها بالاتر از قوانین جادوی زیر سن‌اند، این‌طور برداشت می‌کنم؟ نه به‌خاطر این‌که خونتان قوی‌تر است. به‌خاطر این‌که از قبل تمرین کرده‌اید. در ابتدا به ضعیفی هرکدام از ما بودید. پیش‌بینی‌ام اشتباه است؟»",
+    "summary_fa": "دراکو طلسم شکنجه به هری می‌زند و آماده می‌شود او را حبس کند، درحالی‌که هری با درد آخرین پیش‌بینی را می‌گوید: مالفوی‌ها با تمرین از قوانین زیر سن می‌گریزند نه خون قوی‌تر."
+  },
+  {
+    "id": 35,
+    "paras": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "verbatim_html": [
+      "Draco's hand whitened on his wand, but his aim stayed steady.",
+      "\"Just so you know,\" Harry said through gritted teeth, \"if you'd told me I was wrong I would have listened. <em>I</em> won't ever torture <em>you</em> when you show me that I'm wrong. And you <em>will</em>. Someday. You're awakened as a scientist now, and even if you never learn to use your power, you'll always,\" Harry gasped, \"be looking, for ways, to test, your beliefs -\"",
+      "Draco's backing away was less smooth, now, a little faster, and he had to work to keep his wand on Harry as he reached back to open the door and stepped back out of the classroom.",
+      "Then Draco shut the door again."
+    ],
+    "summary_en": "Harry vows through gritted teeth never to torture Draco for proving him wrong, and Draco backs out and shuts the door.",
+    "translation_fa": "دست دراکو روی چوب‌دستی سفید شد، ولی نشانه‌اش ثابت ماند.\n\n«فقط که بدانی،» هری از میان دندان‌های به‌هم‌فشرده گفت، «اگر بهم می‌گفتی اشتباه می‌کنم گوش می‌دادم. هرگز وقتی نشانم دهی اشتباه می‌کنم شکنجه‌ات نمی‌کنم. و خواهی کرد. روزی. حالا به‌عنوان دانشمند بیدار شده‌ای، و حتی اگر هرگز یاد نگیری از قدرتت استفاده کنی، همیشه،» هری نفس‌نفس زد، «دنبال راه‌هایی خواهی بود، برای آزمودن باورهایت ــ»\n\nعقب‌رفتن دراکو حالا کمتر روان بود، کمی سریع‌تر، و باید تلاش می‌کرد چوب‌دستی‌اش را روی هری نگه دارد وقتی دستش را عقب برد تا در را باز کند و به بیرون کلاس قدم گذاشت.\n\nبعد دراکو دوباره در را بست.",
+    "summary_fa": "هری از میان دندان‌های به‌هم‌فشرده قسم می‌خورد هرگز دراکو را برای اثبات اشتباهش شکنجه نکند و دراکو عقب‌عقب بیرون می‌رود و در را می‌بندد."
+  },
+  {
+    "id": 36,
+    "paras": [
+      128,
+      129,
+      130,
+      131
+    ],
+    "verbatim_html": [
+      "He cast the most powerful locking Charm he knew.",
+      "Draco waited until he heard Harry's first scream before casting the <em>Quietus.</em>",
+      "And then he walked away.",
+      "* * *"
+    ],
+    "summary_en": "Draco seals the door with his strongest locking charm, waits for Harry's first scream before Silencing it, walks away, and the scene breaks.",
+    "translation_fa": "قوی‌ترین طلسم قفلی را که می‌دانست زد.\n\nدراکو صبر کرد تا اولین جیغ هری را شنید قبل از این‌که کوایتوس بزند.\n\nو بعد رفت.\n\n* * *",
+    "summary_fa": "دراکو در را با قوی‌ترین طلسم قفلش می‌بندد، تا اولین جیغ هری صبر می‌کند بعد ساکتش می‌کند، می‌رود و صحنه عوض می‌شود."
+  },
+  {
+    "id": 37,
+    "paras": [
+      132,
+      133,
+      134,
+      135
+    ],
+    "verbatim_html": [
+      "\"<em>Aaahhhhh! Finite Incantatem! Aaaahhh!</em>\"",
+      "Harry's left hand had been put into a pot of boiling cooking oil and left there. He'd put everything he had into the <em>Finite Incantatem</em> and it still wasn't working.",
+      "Some hexes required specific counters or you couldn't undo them, or maybe it was just that Draco was that much stronger.",
+      "\"<em>Aaaaahhhh!</em>\""
+    ],
+    "summary_en": "Harry screams through the torture spell as his Finite Incantatem fails against pain like boiling oil.",
+    "translation_fa": "«آآآه! فاینایت اینکانتاتم! آآآه!»\n\nدست چپ هری داخل دیگی از روغن آشپزی جوشان گذاشته شده و همان‌جا رها شده بود. همه‌ی توانش را در فاینایت اینکانتاتم گذاشته بود و هنوز کار نمی‌کرد.\n\nبعضی طلسم‌ها ضدطلسم‌های خاص می‌خواستند وگرنه نمی‌توانستی خنثی‌شان کنی، یا شاید فقط دراکو آن‌قدر قوی‌تر بود.\n\n«آآآه!»",
+    "summary_fa": "هری زیر طلسم شکنجه جیغ می‌کشد درحالی‌که فاینایت اینکانتاتمش در برابر دردی مثل روغن جوشان ناکام است."
+  },
+  {
+    "id": 38,
+    "paras": [
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "verbatim_html": [
+      "Harry's hand was really starting to hurt, now, and that was interfering with his attempts to think creatively.",
+      "But a few screams later, Harry realized what he had to do.",
+      "His pouch, unfortunately, was on the wrong side of his body, and it took some twisting to reach into it, especially with his other arm flailing around in a reflex, unstoppable attempt to fling off the source of pain. By the time he managed it his other arm had managed to throw away his wand again.",
+      "\"Medical <em>ahhhhh</em> kit! Medical kit!\"",
+      "On the floor, the green light was too dim to see by."
+    ],
+    "summary_en": "Through mounting pain Harry decides he needs his medical kit, wrestles his pouch one-handed, and finds the green light too dim to see by.",
+    "translation_fa": "دست هری حالا واقعاً داشت درد می‌گرفت، و این با تلاش‌هایش برای خلاقانه فکر کردن تداخل می‌کرد.\n\nولی چند جیغ بعد، هری فهمید چه باید بکند.\n\nکیفش، متأسفانه، در سمت اشتباه بدنش بود، و رسیدن به داخلش کمی پیچیدن می‌خواست، مخصوصاً با بازوی دیگرش که دور خودش می‌چرخید در تلاشی بازتابی و غیرقابل‌توقف برای پرت کردن منبع درد. وقتی موفق شد بازوی دیگرش موفق شده بود چوب‌دستی‌اش را دوباره پرت کند.\n\n«کیت پزشکی آآآه! کیت پزشکی!»\n\nروی زمین، نور سبز خیلی کم‌سو بود که بتوان با آن دید.",
+    "summary_fa": "در میان درد فزاینده هری تصمیم می‌گیرد کیت پزشکی‌اش را لازم دارد، یک‌دستی با کیفش کلنجار می‌رود و نور سبز را برای دیدن کم‌سو می‌یابد."
+  },
+  {
+    "id": 39,
+    "paras": [
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "verbatim_html": [
+      "Harry couldn't stand. He couldn't crawl. He rolled across the floor to where he thought his wand was, and it wasn't there, and with one hand he managed to raise himself high enough to see his wand, and he rolled there, and got the wand, and rolled back to where the medical kit was opened. There was also a good deal of screaming, and a bit of throwing up.",
+      "It took eight tries before Harry could cast <em>Lumos.</em>",
+      "And then, well, the package wasn't designed to be opened one-handed, because all wizards were idiots, that was why. Harry had to use his teeth and so it took a while before Harry finally managed to wrap the Numbcloth over his left hand.",
+      "When all feeling in his left hand was finally gone, Harry let his mind come apart, and lay motionless on the floor, and cried for a while.",
+      "<em>Well,</em> Harry's mind said silently into itself, when it had recovered enough to think in words again. <em>Was it worth it?</em>"
+    ],
+    "summary_en": "Harry rolls across the floor for his wand, manages Lumos after eight tries, wraps his hand in Numbcloth, collapses weeping, and asks himself if it was worth it.",
+    "translation_fa": "هری نمی‌توانست بایستد. نمی‌توانست بخزد. در زمین به جایی که فکر می‌کرد چوب‌دستی‌اش هست غلتید، و آن‌جا نبود، و با یک دست خودش را به‌اندازه‌ی کافی بالا کشید که چوب‌دستی‌اش را ببیند، و به آن‌جا غلتید، و چوب‌دستی را گرفت، و به جایی که کیت پزشکی باز بود برگشت. جیغ زیادی هم بود، و کمی استفراغ.\n\nهشت تلاش طول کشید قبل از این‌که هری بتواند لوموس بزند.\n\nو بعد، خب، بسته برای باز شدن یک‌دستی طراحی نشده بود، چون همه‌ی جادوگران احمق بودند، به همین خاطر. هری مجبور شد از دندان‌هایش استفاده کند و پس مدتی طول کشید قبل از این‌که هری بالاخره موفق شود پارچه‌ی بی‌حسی را دور دست چپش بپیچد.\n\nوقتی همه‌ی حس در دست چپش بالاخره رفت، هری گذاشت ذهنش از هم بپاشد، و بی‌حرکت روی زمین دراز کشید، و مدتی گریه کرد.\n\nخب، ذهن هری ساکت به خودش گفت، وقتی به‌اندازه‌ی کافی بهبود یافته بود که دوباره با کلمات فکر کند. ارزشش را داشت؟",
+    "summary_fa": "هری در زمین برای چوب‌دستی‌اش می‌غلتد، بعد از هشت تلاش لوموس می‌زند، دستش را در پارچه‌ی بی‌حسی می‌پیچد، گریان از هم می‌پاشد و از خود می‌پرسد ارزشش را داشت؟"
+  },
+  {
+    "id": 40,
+    "paras": [
+      146,
+      147,
+      148,
+      149,
+      150
+    ],
+    "verbatim_html": [
+      "Slowly, Harry's functional hand reached up to a desk.",
+      "Harry pulled himself to his feet.",
+      "Took a deep breath.",
+      "Exhaled.",
+      "Smiled."
+    ],
+    "summary_en": "Slowly Harry pulls himself to his feet, breathes deeply, and smiles.",
+    "translation_fa": "آرام، دست سالم هری به‌سوی میزی بالا رفت.\n\nهری خودش را به پاهایش کشید.\n\nنفسی عمیق کشید.\n\nبازدم کرد.\n\nلبخند زد.",
+    "summary_fa": "هری آرام خودش را به پاهایش می‌کشد، عمیق نفس می‌کشد و لبخند می‌زند."
+  },
+  {
+    "id": 41,
+    "paras": [
+      151,
+      152,
+      153,
+      154
+    ],
+    "verbatim_html": [
+      "It wasn't much of a smile, but it was a smile nonetheless.",
+      "<em>Thank you, Professor Quirrell, I couldn't have lost without you.</em>",
+      "He hadn't redeemed Draco yet, not even close. Contrary to what Draco himself might now believe, Draco was still the child of a Death Eater, through and through. Still a boy who'd grown up thinking \"rape\" was something the cool older kids did. But it was one heck of a start.",
+      "Harry couldn't claim it had all gone just as planned. It had all gone just as completely made up on the spot. The <em>plan</em> hadn't called for this to happen until December or thereabouts, after Harry had taught Draco the techniques not to deny the evidence when he saw it."
+    ],
+    "summary_en": "Managing a small smile, Harry thanks Quirrell for teaching him how to lose, and admits Draco's awakening came months early and entirely improvised.",
+    "translation_fa": "لبخند چندانی نبود، ولی به‌هرحال لبخند بود.\n\nممنون، پروفسور کویرل، بدون تو نمی‌توانستم ببازم.\n\nهنوز دراکو را نجات نداده بود، حتی نزدیکش هم نبود. برخلاف آن‌چه خود دراکو حالا ممکن است باور کند، دراکو هنوز از سر تا پا بچه‌ی یک مرگ‌خوار بود. هنوز پسری که بزرگ شده بود فکر می‌کرد «تجاوز» چیزی است که بچه‌های باحال بزرگ‌تر انجام می‌دهند. ولی شروعی جهنمی بود.\n\nهری نمی‌توانست ادعا کند همه‌چیز دقیقاً طبق نقشه پیش رفته بود. همه‌چیز دقیقاً همان‌طور پیش رفته بود که کاملاً فی‌البداهه ساخته شده بود. نقشه نخواسته بود این تا حدود دسامبر اتفاق بیفتد، بعد از این‌که هری به دراکو تکنیک‌های انکار نکردن شواهد را وقتی دید یاد داده بود.",
+    "summary_fa": "هری با لبخندی کوچک از کویرل برای یاد دادن باختن تشکر می‌کند و قبول می‌کند بیداری دراکو ماه‌ها زود و کاملاً فی‌البداهه اتفاق افتاده است."
+  },
+  {
+    "id": 42,
+    "paras": [
+      155,
+      156,
+      157
+    ],
+    "verbatim_html": [
+      "But he'd seen the look of fear on Draco's face, realized that Draco was <em>already</em> taking an alternative hypothesis seriously, and seized the moment. One case of true curiosity had the same sort of redeeming power in rationality that one case of true love had in movies.",
+      "In retrospect, Harry had given himself hours to make the most important discovery in the history of magic, and months to break through the undeveloped mental barriers of an eleven-year-old boy. This could indicate that Harry had some sort of major cognitive deficit with respect to estimating task completion times.",
+      "Was Harry going to Science Hell for what he'd done? Harry wasn't sure. He'd contrived to keep Draco's mind on the possibility that magic was fading, made sure Draco would carry out the part of the experiment that would seem at first to point in that direction. He'd waited until after explaining genetics to prompt Draco into realizing about magical creatures (though Harry had thought in terms of ancient artifacts like the Sorting Hat, which no one could duplicate anymore, but which continued to function). But Harry hadn't actually exaggerated any evidence, hadn't distorted the meaning of any results. When the Interdict of Merlin had invalidated the test that should have been definitive, he'd told Draco up front."
+    ],
+    "summary_en": "Harry reflects that he seized on Draco's genuine curiosity, jokes about his terrible time estimates, and wonders if steering the experiment without distorting evidence will damn him to Science Hell.",
+    "translation_fa": "ولی نگاه ترس را در چهره‌ی دراکو دیده بود، فهمیده بود که دراکو از قبل فرضیه‌ی جایگزین را جدی می‌گیرد، و لحظه را غنیمت شمرده بود. یک مورد کنجکاوی واقعی همان‌قدر قدرت رستگاری در عقلانیت داشت که یک مورد عشق واقعی در فیلم‌ها.\n\nدر گذشته‌نگری، هری به خودش ساعت‌ها وقت داده بود تا مهم‌ترین کشف تاریخ جادو را بکند، و ماه‌ها تا موانع ذهنی توسعه‌نیافته‌ی پسری یازده‌ساله را بشکند. این می‌تواند نشان دهد که هری نوعی نقص شناختی عمده در برآورد زمان تکمیل کارها دارد.\n\nآیا هری به جهنم علم می‌رفت برای آن‌چه کرده بود؟ هری مطمئن نبود. ترتیب داده بود که ذهن دراکو روی این امکان بماند که جادو دارد محو می‌شود، مطمئن شده بود دراکو آن بخش آزمایش را انجام دهد که اول به نظر می‌رسید در آن جهت اشاره می‌کند. صبر کرده بود تا بعد از توضیح ژنتیک تا دراکو را به فهمیدن موجودات جادویی وادارد (هرچند هری به مصنوعات باستانی مثل کلاه گروه‌بندی فکر کرده بود، که هیچ‌کس دیگر نمی‌تواند تکثیرشان کند، ولی همچنان کار می‌کنند). ولی هری واقعاً هیچ شاهدی را اغراق نکرده بود، معنای هیچ نتیجه‌ای را تحریف نکرده بود. وقتی تحریم مرلین آزمایشی را که باید قطعی می‌بود باطل کرد، از اول به دراکو گفته بود.",
+    "summary_fa": "هری تأمل می‌کند که کنجکاوی واقعی دراکو را غنیمت شمرده، به برآوردهای زمانی افتضاحش می‌خندد و می‌پرسد آیا هدایت آزمایش بدون تحریف شواهد او را به جهنم علم می‌فرستد."
+  },
+  {
+    "id": 43,
+    "paras": [
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    "verbatim_html": [
+      "And then there was the part <em>after</em> that...",
+      "But he hadn't actually <em>lied</em> to Draco. Draco had believed it, and <em>that would make it true.</em>",
+      "The end, admittedly, had not been fun.",
+      "Harry turned, and staggered toward the door.",
+      "Time to test Draco's locking spell."
+    ],
+    "summary_en": "Harry admits the ending wasn't fun but insists he never lied, then staggers to test Draco's locking spell.",
+    "translation_fa": "و بعد بخشی بود بعد از آن...\n\nولی واقعاً به دراکو دروغ نگفته بود. دراکو باورش کرده بود، و آن باعث می‌شد درست شود.\n\nپایان، باید قبول کرد، جالب نبود.\n\nهری چرخید، و به‌سوی در تلوتلو رفت.\n\nوقت آزمایش طلسم قفل دراکو بود.",
+    "summary_fa": "هری قبول می‌کند پایان جالب نبود ولی اصرار می‌کند دروغ نگفته، بعد تلوتلو به‌سوی در می‌رود تا طلسم قفل دراکو را بیازماید."
+  },
+  {
+    "id": 44,
+    "paras": [
+      163,
+      164,
+      165,
+      166,
+      167
+    ],
+    "verbatim_html": [
+      "The first step was simply trying to turn the doorknob. Draco could have been bluffing.",
+      "Draco hadn't been bluffing.",
+      "\"<em>Finite Incantatem.</em>\" Harry's voice came out rather hoarse, and he could feel that the spell hadn't taken.",
+      "So Harry tried it again, and that time it felt true. But another twist at the doorknob showed it hadn't worked. No surprise there.",
+      "Time to bring out the big guns. Harry drew a deep breath. This spell was one of the most powerful he'd learned so far."
+    ],
+    "summary_en": "The doorknob won't turn and two Finite Incantatem attempts fail, so Harry prepares one of his most powerful spells.",
+    "translation_fa": "قدم اول فقط سعی در چرخاندن دستگیره بود. دراکو ممکن بود بلوف بزند.\n\nدراکو بلوف نزده بود.\n\n«فاینایت اینکانتاتم.» صدای هری نسبتاً خشن درآمد، و حس می‌کرد طلسم نگرفته است.\n\nپس هری دوباره امتحان کرد، و آن بار حس درست بودن داشت. ولی چرخش دیگری به دستگیره نشان داد کار نکرده است. جای تعجب نبود.\n\nوقت آوردن توپ‌های بزرگ بود. هری نفسی عمیق کشید. این طلسم یکی از قدرتمندترین‌هایی بود که تا حالا یاد گرفته بود.",
+    "summary_fa": "دستگیره نمی‌چرخد و دو تلاش فاینایت اینکانتاتم شکست می‌خورد، پس هری یکی از قدرتمندترین طلسم‌هایش را آماده می‌کند."
+  },
+  {
+    "id": 45,
+    "paras": [
+      168,
+      169,
+      170,
+      171,
+      172
+    ],
+    "verbatim_html": [
+      "\"<em>Alohomora!</em>\"",
+      "Harry staggered a little after saying it.",
+      "And the classroom door still didn't open.",
+      "That shocked Harry. Harry hadn't been planning to go anywhere near Dumbledore's forbidden corridor, of course. But a spell to open magical locks had seemed like a useful sort of spell anyway, and so Harry had learned it. Was Dumbledore's forbidden corridor meant to lure people so stupid that they didn't notice the security was worse than what Draco Malfoy could put on it?",
+      "Fear was creeping back into Harry's system. The placard in the medical kit had said the Numbcloth could only safely be used for up to thirty minutes. After that it would come off automatically, and not be reusable for 24 hours. Right now it was 6:51pm. He'd put on the Numbcloth about five minutes ago."
+    ],
+    "summary_en": "Even Alohomora fails to open the door, and Harry realizes with returning fear that his Numbcloth has under thirty minutes left.",
+    "translation_fa": "«آلوهومورا!»\n\nهری کمی بعد از گفتنش تلوتلو خورد.\n\nو در کلاس هنوز باز نشد.\n\nاین هری را شوکه کرد. هری برنامه نداشت به‌هرحال به راهروی ممنوعه‌ی دامبلدور نزدیک شود، البته. ولی طلسمی برای باز کردن قفل‌های جادویی نوعی طلسم مفید به نظر رسیده بود، و پس هری یادش گرفته بود. آیا راهروی ممنوعه‌ی دامبلدور قرار بود کسانی را فریب دهد که آن‌قدر احمق‌اند که متوجه نمی‌شوند امنیت از آن‌چه دراکو مالفوی می‌تواند بگذارد بدتر است؟\n\nترس داشت به سیستم هری برمی‌گشت. برچسب داخل کیت پزشکی گفته بود پارچه‌ی بی‌حسی فقط تا سی دقیقه می‌شود با امنیت استفاده کرد. بعد از آن خودکار می‌افتد، و تا ۲۴ ساعت قابل‌استفاده‌ی مجدد نیست. حالا ساعت ۶:۵۱ عصر بود. حدود پنج دقیقه پیش پارچه‌ی بی‌حسی را گذاشته بود.",
+    "summary_fa": "حتی آلوهومورا در را باز نمی‌کند و هری با ترسی که برمی‌گردد می‌فهمد پارچه‌ی بی‌حسی‌اش کمتر از سی دقیقه وقت دارد."
+  },
+  {
+    "id": 46,
+    "paras": [
+      173,
+      174,
+      175,
+      176,
+      177
+    ],
+    "verbatim_html": [
+      "So Harry took a step back, and considered the door. It was a solid panel of dark oaken wood, interrupted only by the brass metal doorknob.",
+      "Harry didn't know any explosive or cutting or smashing spells, and Transfiguring explosive would have violated the rule against Transfiguring things to be burned. Acid was a liquid and would have made fumes...",
+      "But that was no obstacle to a <em>creative thinker.</em>",
+      "Harry laid his wand against one of the door's brass hinges, and concentrated on the form of cotton as a pure abstraction apart from any material cotton, and also on the pure material apart from the pattern that made it a brass hinge, and brought the two concepts together, imposing shape on substance. An hour of Transfiguration practice every day for a month had gotten Harry to the point where he could Transfigure a subject of five cubic centimeters in just under a minute.",
+      "After two minutes the hinge hadn't changed at all."
+    ],
+    "summary_en": "Sizing up the oak door, Harry attempts an ambitious Transfiguration of a brass hinge into cotton, but after two minutes nothing has changed.",
+    "translation_fa": "پس هری قدمی عقب رفت، و در را بررسی کرد. صفحه‌ای یکدست از چوب بلوط تیره بود، که فقط دستگیره‌ی برنجی فلزی قطعش می‌کرد.\n\nهری هیچ طلسم انفجاری یا برشی یا خردکننده‌ای نمی‌دانست، و تبدیل ماده‌ی منفجره قانون ممنوعیت تبدیل چیزها برای سوزاندن را نقض می‌کرد. اسید مایع بود و دود می‌ساخت...\n\nولی این مانعی برای متفکر خلاق نبود.\n\nهری چوب‌دستی‌اش را به یکی از لولاهای برنجی در چسباند، و روی شکل پنبه به‌عنوان انتزاعی خالص جدا از هر پنبه‌ی مادی تمرکز کرد، و همچنین روی ماده‌ی خالص جدا از الگویی که آن را لولای برنجی می‌کرد، و دو مفهوم را به هم آورد، شکل را بر ماده تحمیل کرد. یک ساعت تمرین تبدیل هر روز به مدت یک ماه هری را به جایی رسانده بود که می‌توانست سوژه‌ای پنج سانتی‌مترمکعبی را در کمتر از یک دقیقه تبدیل کند.\n\nبعد از دو دقیقه لولا اصلاً تغییر نکرده بود.",
+    "summary_fa": "هری در بلوطی را بررسی می‌کند و تبدیل بلندپروازانه‌ی لولای برنجی به پنبه را امتحان می‌کند، ولی بعد از دو دقیقه هیچ‌چیز تغییر نکرده است."
+  },
+  {
+    "id": 47,
+    "paras": [
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "verbatim_html": [
+      "Whoever had designed Draco's locking spell, they'd thought of that, too. Or the door was part of Hogwarts and the castle was immune.",
+      "A glance showed the walls to be solid stone. So was the floor. So was the ceiling. You couldn't separately Transfigure a part of something that was a solid whole; Harry would have needed to try Transfiguring the whole wall, which would have taken hours or maybe days of continuous effort, if he could have done it at all, and if the wall wasn't contiguous with the rest of the whole castle...",
+      "Harry's Time-Turner wouldn't open until 9pm. After that he could go back to 6pm, before the door was locked.",
+      "How long would the torture spell last?",
+      "Harry swallowed hard. Tears were coming into his eyes again."
+    ],
+    "summary_en": "Transfiguration can't beat the lock or the solid stone walls, the Time-Turner won't open until 9pm, and Harry wonders tearfully how long the torture spell will last.",
+    "translation_fa": "هرکسی طلسم قفل دراکو را طراحی کرده بود، به آن هم فکر کرده بود. یا در بخشی از هاگوارتز بود و قلعه مصون بود.\n\nنگاهی نشان داد دیوارها سنگ یکدست‌اند. کف هم بود. سقف هم بود. نمی‌توانستی بخشی از چیزی را جداگانه تبدیل کنی که کلی یکدست بود؛ هری باید سعی می‌کرد کل دیوار را تبدیل کند، که ساعت‌ها یا شاید روزها تلاش پیوسته می‌خواست، اگر اصلاً می‌توانست انجامش دهد، و اگر دیوار با بقیه‌ی کل قلعه پیوسته نبود...\n\nساعت‌برگردان هری تا ۹ شب باز نمی‌شد. بعد از آن می‌توانست به ۶ عصر برگردد، قبل از این‌که در قفل شود.\n\nطلسم شکنجه چقدر طول می‌کشید؟\n\nهری محکم آب دهانش را قورت داد. اشک‌ها دوباره به چشم‌هایش می‌آمدند.",
+    "summary_fa": "تبدیل نمی‌تواند بر قفل یا دیوارهای سنگی یکدست غلبه کند، ساعت‌برگردان تا ۹ شب باز نمی‌شود و هری اشک‌ریزان می‌پرسد طلسم شکنجه چقدر طول می‌کشد."
+  },
+  {
+    "id": 48,
+    "paras": [
+      183,
+      184,
+      185,
+      186,
+      187
+    ],
+    "verbatim_html": [
+      "His brilliantly creative mind had just offered the ingenious suggestion that Harry could cut his hand off using the hacksaw in the toolset stored in his pouch, which would hurt, obviously, but might hurt a lot less than Draco's pain spell, since the nerves would be gone; and he had tourniquets in the healer's kit.",
+      "And that was obviously a hideously stupid idea that Harry would regret the rest of his entire life.",
+      "But Harry didn't know if he could hold out for two hours under torture.",
+      "He wanted <em>out</em> of this classroom, he wanted out of this classroom <em>now,</em> he didn't want to wait in here screaming for two hours until he could use the Time-Turner, he needed to <em>get out</em> and find someone to get the torture spell off his hand...",
+      "<em>Think!</em> Harry screamed at his brain. <em>Think! Think!</em>"
+    ],
+    "summary_en": "Harry's brain proposes sawing off his own hand, which he rejects as hideously stupid, yet doubts he can endure two hours until the Time-Turner opens.",
+    "translation_fa": "ذهن درخشان خلاقش تازه پیشنهاد نابغانه‌ای داده بود که هری می‌تواند با اره‌ی دستی در جعبه‌ی ابزار ذخیره‌شده در کیفش دستش را قطع کند، که درد می‌داشت، معلوم است، ولی ممکن است خیلی کمتر از طلسم درد دراکو درد داشته باشد، چون عصب‌ها می‌رفتند؛ و باندهای فشار در کیت شفابخش داشت.\n\nو این آشکارا ایده‌ای به‌طرز هولناک احمقانه بود که هری بقیه‌ی کل عمرش پشیمان می‌شد.\n\nولی هری نمی‌دانست آیا می‌تواند دو ساعت زیر شکنجه دوام بیاورد.\n\nمی‌خواست از این کلاس بیرون برود، می‌خواست همین حالا از این کلاس بیرون برود، نمی‌خواست این‌جا بماند و دو ساعت جیغ بکشد تا بتواند از ساعت‌برگردان استفاده کند، باید بیرون می‌رفت و کسی را پیدا می‌کرد تا طلسم شکنجه را از دستش بردارد...\n\nفکر کن! هری سر مغزش جیغ کشید. فکر کن! فکر کن!",
+    "summary_fa": "مغز هری پیشنهاد می‌دهد دست خودش را اره کند که آن را احمقانه می‌داند، ولی شک دارد بتواند دو ساعت تا باز شدن ساعت‌برگردان زیر شکنجه دوام بیاورد."
+  },
+  {
+    "id": 49,
+    "paras": [
+      188,
+      189,
+      190,
+      191,
+      192
+    ],
+    "verbatim_html": [
+      "* * *",
+      "The Slytherin dorm was mostly empty. People were at dinner. For some reason Draco himself wasn't feeling very hungry.",
+      "Draco closed the door to his private room, locked it, Charmed it shut, Quieted it, sat down on his bed, and started to cry.",
+      "It wasn't fair.",
+      "It wasn't fair."
+    ],
+    "summary_en": "After the scene break, Draco locks himself in his empty dorm room and cries that it isn't fair.",
+    "translation_fa": "* * *\n\nخوابگاه اسلیترین بیشتر خالی بود. مردم سر شام بودند. به دلیلی خود دراکو خیلی گرسنه نبود.\n\nدراکو در اتاق خصوصی‌اش را بست، قفلش کرد، با طلسم بستش، ساکتش کرد، روی تختش نشست، و شروع به گریه کرد.\n\nمنصفانه نبود.\n\nمنصفانه نبود.",
+    "summary_fa": "بعد از جداکننده‌ی صحنه، دراکو خودش را در اتاق خالی خوابگاه حبس می‌کند و گریه می‌کند که منصفانه نیست."
+  },
+  {
+    "id": 50,
+    "paras": [
+      193,
+      194,
+      195,
+      196
+    ],
+    "verbatim_html": [
+      "It was the first time Draco had ever really <em>lost</em> before, Father had warned him that losing for real would hurt the first time it happened, but he'd lost <em>so much</em>, it wasn't fair, it wasn't fair for him to lose <em>everything</em> the very first time he lost.",
+      "Somewhere in the dungeons, a boy Draco had actually liked was screaming in pain. Draco had never hurt anyone he'd liked before. Punishing people who deserved it was supposed to be fun, but this just felt sick inside. Father hadn't warned him about that, and Draco wondered if it was a hard lesson everyone had to learn when they grew up, or if Draco was just weak.",
+      "Draco wished it were Pansy screaming. That would have felt better.",
+      "And the worst part was knowing that it might have been a mistake to hurt Harry Potter."
+    ],
+    "summary_en": "Draco mourns losing everything the first time he ever truly lost, feels sick hearing a boy he liked screaming, and fears hurting Harry was a mistake.",
+    "translation_fa": "اولین باری بود که دراکو واقعاً باخته بود، پدر به او هشدار داده بود که باختن واقعی اولین بار که اتفاق می‌افتد درد می‌دهد، ولی خیلی باخته بود، منصفانه نبود، منصفانه نبود که اولین باری که می‌بازد همه‌چیز را ببازد.\n\nجایی در دخمه‌ها، پسری که دراکو واقعاً دوستش داشت داشت از درد جیغ می‌کشید. دراکو هرگز کسی را که دوست داشت آزار نداده بود. تنبیه کسانی که مستحقش بودند قرار بود جالب باشد، ولی این فقط حس تهوع داخل می‌داد. پدر درباره‌ی آن هشدار نداده بود، و دراکو فکر می‌کرد آیا درس سختی است که همه باید وقتی بزرگ می‌شوند یاد بگیرند، یا دراکو فقط ضعیف است.\n\nدراکو آرزو می‌کرد پنسی بود که جیغ می‌کشید. آن حس بهتری می‌داد.\n\nو بدترین بخش دانستن این بود که شاید آزار دادن هری پاتر اشتباه بوده باشد.",
+    "summary_fa": "دراکو عزادار است که اولین باری که واقعاً باخت همه‌چیز را باخت، از شنیدن جیغ پسری که دوستش داشت حالش بد است و می‌ترسد آزار هری اشتباه بوده باشد."
+  },
+  {
+    "id": 51,
+    "paras": [
+      197,
+      198,
+      199,
+      200
+    ],
+    "verbatim_html": [
+      "Who else was there for Draco now? Dumbledore? After what he'd done? Draco would sooner have been burned alive.",
+      "Draco would have to go back to Harry Potter because there was nowhere else for him to go. And if Harry Potter said he didn't want him, then Draco would be nothing, just a pathetic little boy who could never be a Death Eater, never join Dumbledore's faction, never learn science.",
+      "The trap had been perfectly set, perfectly executed. Father had warned Draco over and over that what you sacrificed to Dark rituals couldn't be regained. But Father hadn't known that the accursed Muggles had invented rituals that didn't need wands, rituals you could be tricked into doing without knowing it, and that was only one of the terrible secrets which scientists knew and which Harry Potter had brought with him.",
+      "Draco started crying harder, then."
+    ],
+    "summary_en": "With Dumbledore unthinkable and nowhere else to go, Draco sees the trap was perfectly set by a wandless Muggle ritual he never knew existed, and cries harder.",
+    "translation_fa": "حالا برای دراکو چه کسی دیگری بود؟ دامبلدور؟ بعد از آن‌چه کرده بود؟ دراکو ترجیح می‌داد زنده سوزانده شود.\n\nدراکو باید به هری پاتر برمی‌گشت چون جای دیگری برای رفتن نداشت. و اگر هری پاتر می‌گفت او را نمی‌خواهد، آن‌وقت دراکو هیچ‌چیز می‌بود، فقط پسربچه‌ای رقت‌انگیز که هرگز نمی‌توانست مرگ‌خوار شود، هرگز به جناح دامبلدور بپیوندد، هرگز علم یاد بگیرد.\n\nتله کاملاً گذاشته شده بود، کاملاً اجرا شده بود. پدر بارها و بارها به دراکو هشدار داده بود که آن‌چه به آیین‌های تاریک قربانی می‌کنی قابل‌بازگشت نیست. ولی پدر نمی‌دانست که ماگل‌های ملعون آیین‌هایی اختراع کرده‌اند که چوب‌دستی نمی‌خواهند، آیین‌هایی که می‌شود بدون دانستن فریب خورد و انجامشان داد، و آن فقط یکی از رازهای وحشتناکی بود که دانشمندان می‌دانستند و هری پاتر با خودش آورده بود.\n\nدراکو بعد بلندتر گریه کرد.",
+    "summary_fa": "با غیرممکن بودن دامبلدور و نداشتن جای دیگری، دراکو می‌بیند تله با آیین بدون‌چوب‌دستی ماگلی که نمی‌شناخت کامل اجرا شده و بلندتر گریه می‌کند."
+  },
+  {
+    "id": 52,
+    "paras": [
+      201,
+      202,
+      203,
+      204,
+      205
+    ],
+    "verbatim_html": [
+      "He didn't want this, he <em>didn't want this</em> but there was no turning back. It was too late. He was already a scientist.",
+      "Draco knew he should go back and free Harry Potter and apologize. It would have been the smart thing to do.",
+      "Instead Draco stayed in his bed and sobbed.",
+      "He'd already hurt Harry Potter. It might be the only time Draco ever got to hurt him, and he would have to hold to that one memory for the rest of his life.",
+      "Let him keep screaming."
+    ],
+    "summary_en": "Draco knows he is already a scientist with no way back, knows he should apologize, but stays sobbing in bed, telling himself to let Harry keep screaming.",
+    "translation_fa": "این را نمی‌خواست، این را نمی‌خواست ولی راه برگشتی نبود. خیلی دیر بود. از قبل دانشمند بود.\n\nدراکو می‌دانست باید برگردد و هری پاتر را آزاد کند و عذر بخواهد. کار هوشمندانه همین می‌بود.\n\nبه‌جاش دراکو در تختش ماند و هق‌هق کرد.\n\nاز قبل هری پاتر را آزار داده بود. ممکن بود تنها باری باشد که دراکو تا حالا موفق شود آزارش دهد، و باید آن یک خاطره را بقیه‌ی عمرش نگه می‌داشت.\n\nبگذار جیغ بکشد.",
+    "summary_fa": "دراکو می‌داند از قبل دانشمند است بدون راه برگشت، می‌داند باید عذر بخواهد، ولی در تخت هق‌هق می‌ماند و به خود می‌گوید بگذار هری جیغ بکشد."
+  },
+  {
+    "id": 53,
+    "paras": [
+      206,
+      207,
+      208,
+      209
+    ],
+    "verbatim_html": [
+      "* * *",
+      "Harry dropped the remnants of his hacksaw to the ground. The brass hinges had proved impervious, not even scratched, and Harry was beginning to suspect that even the desperation act of trying to Transfigure acid or explosives would have failed to open this door. On the plus side, the attempt had destroyed the hacksaw.",
+      "His watch said it was 7:02pm, with less than fifteen minutes left, and Harry tried to remember if there were any other sharp things in his pouch that needed destroying, and felt another fit of tears welling up. If only, when his Time-Turner opened, he could go back and <em>prevent</em> -",
+      "And that was when Harry realized he was being <em>silly</em>."
+    ],
+    "summary_en": "After the break, Harry's hacksaw lies destroyed against the impervious hinges, and at 7:02pm he realizes he is being silly.",
+    "translation_fa": "* * *\n\nهری بقایای اره‌ی دستی‌اش را به زمین انداخت. لولاهای برنجی نفوذناپذیر ثابت شده بودند، حتی خراشیده هم نشده بودند، و هری داشت شک می‌کرد که حتی اقدام ناامیدانه‌ی تبدیل اسید یا مواد منفجره هم نمی‌توانست این در را باز کند. از جنبه‌ی مثبت، این تلاش اره را نابود کرده بود.\n\nساعتش می‌گفت ۷:۰۲ عصر است، با کمتر از پانزده دقیقه مانده، و هری سعی کرد یادش بیاید آیا چیزهای تیز دیگری در کیفش هست که نیاز به نابودی داشته باشند، و حس کرد اشک دیگری می‌آید. ای کاش، وقتی ساعت‌برگردانش باز می‌شد، می‌توانست برگردد و جلوی ــ را بگیرد\n\nو همان‌وقت بود که هری فهمید دارد احمقانه رفتار می‌کند.",
+    "summary_fa": "بعد از جدایی صحنه، اره‌ی هری در برابر لولاهای نفوذناپذیر نابود شده و ساعت ۷:۰۲ عصر می‌فهمد دارد احمقانه رفتار می‌کند."
+  },
+  {
+    "id": 54,
+    "paras": [
+      210,
+      211,
+      212,
+      213
+    ],
+    "verbatim_html": [
+      "It wasn't the first time he'd been locked in a room.",
+      "Professor McGonagall had already told him the correct way to do this.",
+      "...she'd also told him not to use the Time-Turner for this sort of thing.",
+      "Would Professor McGonagall realize that this occasion really <em>did</em> warrant a special exception? Or just take away the Time-Turner entirely?"
+    ],
+    "summary_en": "Harry remembers McGonagall taught him the right way out of locked rooms, though she forbade using the Time-Turner for it, and wonders if she'd grant an exception.",
+    "translation_fa": "اولین باری نبود که در اتاقی حبس شده بود.\n\nپروفسور مک‌گونگال از قبل راه درست این کار را به او گفته بود.\n\n...او همچنین به او گفته بود که از ساعت‌برگردان برای این‌جور چیزها استفاده نکند.\n\nآیا پروفسور مک‌گونگال می‌فهمید که این مورد واقعاً استثنای خاصی را ایجاب می‌کند؟ یا فقط ساعت‌برگردان را کامل می‌گیرد؟",
+    "summary_fa": "هری یادش می‌آید مک‌گونگال راه درست بیرون آمدن از اتاق‌های قفل را یادش داده، هرچند استفاده از ساعت‌برگردان را برایش ممنوع کرده بود، و می‌پرسد آیا استثنا قائل می‌شود."
+  },
+  {
+    "id": 55,
+    "paras": [
+      214,
+      215,
+      216,
+      217,
+      218
+    ],
+    "verbatim_html": [
+      "Harry gathered up all his things, all the evidence, into his pouch. A <em>Scourgify</em> took care of the vomit on the floor, though not the sweat that had soaked his robes. He left the overturned desks overturned, it wasn't important enough to be worth doing with one hand.",
+      "When he was done, Harry glanced down at his watch. 7:04pm.",
+      "And then Harry waited. Seconds passed, feeling like years.",
+      "At 7:07pm, the door opened.",
+      "Professor Flitwick's puff-bearded face looked rather concerned. \"Are you all right, Harry?\" said the squeaky voice of Ravenclaw's Head of House. \"I got a note saying you'd been locked in here -\""
+    ],
+    "summary_en": "Harry tidies the evidence, waits until 7:07pm, and the door opens on a concerned Professor Flitwick with a note about his imprisonment.",
+    "translation_fa": "هری همه‌ی چیزهایش، همه‌ی شواهد را در کیفش جمع کرد. اسکورجیفای استفراغ روی زمین را تمیز کرد، هرچند نه عرقی را که رداهایش را خیس کرده بود. میزهای واژگون را واژگون گذاشت، به‌اندازه‌ی کافی مهم نبود که با یک دست ارزش انجام داشته باشد.\n\nوقتی تمام شد، هری به ساعتش نگاه کرد. ۷:۰۴ عصر.\n\nو بعد هری منتظر ماند. ثانیه‌ها گذشتند، مثل سال‌ها حس می‌شدند.\n\nساعت ۷:۰۷ عصر، در باز شد.\n\nچهره‌ی ریش‌پف‌دار پروفسور فلیت‌ویک نسبتاً نگران به نظر می‌رسید. «حالت خوب است، هری؟» صدای جیغ‌جیغوی رئیس خانه‌ی ریونکلا گفت. «یادداشتی گرفتم که می‌گفت این‌جا حبست کرده‌اند ــ»",
+    "summary_fa": "هری شواهد را جمع می‌کند، تا ۷:۰۷ عصر منتظر می‌ماند و در به روی پروفسور فلیت‌ویک نگران با یادداشتی درباره‌ی حبسش باز می‌شود."
+  }
+]
