@@ -1,0 +1,1050 @@
+[
+  {
+    "id": 1,
+    "paras": [
+      1,
+      2
+    ],
+    "verbatim_html": [
+      "Yakka foob mog. Grug pubbawup zink wattoom gazork. Chumble spuzz J. K. Rowling.",
+      "* * *"
+    ],
+    "summary_en": "A nonsense epigraph toasts J. K. Rowling, followed by a scene break.",
+    "translation_fa": "یکا فوب ماگ. گروگ پاباواپ زینک واتوم گازورک. چامبل اسپاز جی. کی. رولینگ!\n\n* * *",
+    "summary_fa": "پیش‌گفتاری بی‌معنی به رولینگ درود می‌فرستد و سپس جداکننده‌ی صحنه می‌آید."
+  },
+  {
+    "id": 2,
+    "paras": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "verbatim_html": [
+      "Professor Quirrell's office hours consisted of 11:40 to 11:55 AM on Thursday. That was for all of his students in all years. It cost a Quirrell point just to knock on the door, and if he didn't think your reason was worth his time, you would lose another fifty.",
+      "Harry knocked on the door.",
+      "There was a pause. Then a biting voice said, \"I suppose you may as well come in, Mr. Potter.\"",
+      "And before Harry could touch the doorknob, the door slammed open, hitting the wall with a sharp crack that sounded like something might have broken in the wood, or the stone, or both.",
+      "Professor Quirrell was leaning back in his chair and reading a suspiciously old-looking book, bound in night-blue leather with silver runes on the spine. His eyes had not moved from the pages. \"I am not in a good mood, Mr. Potter. And when I am not a good mood, I am not a pleasant person to be around. For your own sake, conduct your business quickly and depart.\""
+    ],
+    "summary_en": "Quirrell holds office hours only 11:40-11:55 Thursday for the whole school at a point per knock; Harry knocks, is invited in by a biting voice, and the door slams open as Quirrell reads an old book and warns Harry to be quick.",
+    "translation_fa": "ساعات ملاقات پروفسور کویرل پنجشنبه‌ها از ۱۱:۴۰ تا ۱۱:۵۵ بود. برای همه‌ی دانش‌آموزانش در همه‌ی سال‌ها. فقط در زدن یک امتیاز کویرل خرج داشت، و اگر دلیلت ارزش وقتش را نداشت، پنجاه امتیاز دیگر از دست می‌دادی.\n\nهری در زد.\n\nمکثی شد. بعد صدایی گزنده گفت: «فکر کنم بهتر است بیایی تو، آقای پاتر.»\n\nو پیش از آن‌که هری بتواند دستگیره را لمس کند، در با ضربه باز شد و با صدای تیزی به دیوار خورد که انگار چیزی در چوب یا سنگ یا هر دو شکسته باشد.\n\nپروفسور کویرل به صندلی‌اش تکیه داده بود و کتابی با ظاهری مشکوک‌قدیمی می‌خواند، با جلد چرم آبی‌شبانه و رون‌های نقره‌ای بر عطف. چشم‌هایش از صفحه‌ها تکان نخورده بود. «حال خوشی ندارم، آقای پاتر. و وقتی حال خوشی ندارم، آدم خوش‌معاشرتی نیستم. به‌خاطر خودت، کارت را زود انجام بده و برو.»",
+    "summary_fa": "کویرل فقط پنجشنبه‌ها پانزده دقیقه ملاقات می‌دهد و هری با در زدن وارد می‌شود؛ کویرل که کتابی قدیمی می‌خواند، با لحنی تند هشدار می‌دهد زود کارش را بکند و برود."
+  },
+  {
+    "id": 3,
+    "paras": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "verbatim_html": [
+      "A cold chill seeped from the room, as though it contained something that cast darkness the way lamps cast light, and which hadn't been fully shaded.",
+      "Harry was a bit taken aback. <em>Not in a good mood</em> didn't quite seem to cover it. What could be bothering Professor Quirrell this much...?",
+      "Well, you didn't just walk out on friends when they were feeling down. Harry cautiously advanced into the room. \"Is there anything I can do to help -\"",
+      "\"No,\" said Professor Quirrell, still not looking up from the book.",
+      "\"I mean, if you've been dealing with idiots and want someone sane to talk to...\""
+    ],
+    "summary_en": "A cold darkness seeps from the room; taken aback, Harry stays to help, is refused, and offers himself as someone sane to talk to after dealing with idiots.",
+    "translation_fa": "سرمای سردی از اتاق نشت می‌کرد، چنان‌که گویی چیزی در آن بود که تاریکی می‌پراکند همان‌طور که چراغ‌ها نور می‌پراکنند، و کاملاً پوشیده نشده بود.\n\nهری کمی جا خورد. «حال خوشی ندارم» چندان پوشش‌دهنده به نظر نمی‌رسید. چه چیزی می‌توانست پروفسور کویرل را تا این حد آزار بدهد...؟\n\nخب، آدم دوست‌هایش را وقتی حالشان گرفته است ول نمی‌کند و نمی‌رود. هری با احتیاط وارد اتاق شد. «کاری هست که بتوانم برای کمک بکنم ــ»\n\n«نه،» گفت پروفسور کویرل، همچنان بدون آن‌که از کتاب چشم بردارد.\n\n«منظورم این است، اگر با احمق‌ها سر و کار داشته‌ای و کسی عاقل برای حرف زدن می‌خواهی...»",
+    "summary_fa": "سرمایی تاریک از اتاق می‌آید و هری جا می‌خورد ولی می‌ماند؛ پیشنهاد کمکش رد می‌شود و خودش را هم‌صحبتی عاقل معرفی می‌کند."
+  },
+  {
+    "id": 4,
+    "paras": [
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "verbatim_html": [
+      "There was a surprisingly long pause.",
+      "Professor Quirrell slammed the book shut and it vanished with a small whispering sound. He looked up, then, and Harry flinched.",
+      "\"I suppose an intelligent conversation would be pleasant for <em>me</em> at this point,\" said Professor Quirrell in the same biting tone that had invited Harry to enter. \"<em>You</em> are not likely to find it so, be warned.\"",
+      "Harry drew a deep breath. \"I promise I won't mind if you snap at me. What happened?\"",
+      "The cold in the room seemed to deepen. \"A sixth-year Gryffindor cast a curse at one of my more promising students, a sixth-year Slytherin.\""
+    ],
+    "summary_en": "After a long pause Quirrell shuts the book, warns an intelligent conversation won't be pleasant for Harry, and reveals a sixth-year Gryffindor cursed one of his promising sixth-year Slytherins.",
+    "translation_fa": "مکثی به‌طرز غافلگیرکننده‌ای طولانی شد.\n\nپروفسور کویرل کتاب را با ضربه بست و کتاب با صدای خش‌خش کوچکی ناپدید شد. بعد سرش را بالا گرفت و هری از جا پرید.\n\n«فکر کنم در این لحظه یک گفت‌وگوی هوشمندانه برای من خوشایند باشد،» گفت پروفسور کویرل با همان لحن گزنده‌ای که هری را به ورود دعوت کرده بود. «ولی برای تو احتمالاً خوشایند نخواهد بود، هشدار می‌دهم.»\n\nهری نفسی عمیق کشید. «قول می‌دهم اگر سرم داد بزنی ناراحت نشوم. چه اتفاقی افتاده؟»\n\nسرمای اتاق انگار عمیق‌تر شد. «یک گریفندوری سال ششمی به یکی از امیدوارکننده‌ترین دانش‌آموزانم، یک اسلیترینی سال ششمی، نفرین زده است.»",
+    "summary_fa": "پس از مکثی طولانی کویرل کتاب را می‌بندد و هشدار می‌دهد گفت‌وگو برای هری خوشایند نخواهد بود؛ بعد فاش می‌کند گریفندوری سال ششمی به اسلیترینی سال ششمی نفرین زده است."
+  },
+  {
+    "id": 5,
+    "paras": [
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "verbatim_html": [
+      "Harry swallowed. \"What... sort of curse?\"",
+      "And the fury on Professor Quirrell's face was no longer contained. \"Why bother to ask an unimportant question like that, Mr. Potter? Our friend the sixth-year Gryffindor did not think it was important!\"",
+      "\"Are you <em>serious?</em> \" Harry said before he could stop himself.",
+      "\"No, I'm in a terrible mood today for no particular reason. <em>Yes I'm serious, you fool!</em> He didn't know. He <em>actually didn't know.</em> I didn't believe it until the Aurors confirmed it under Veritaserum. He is in his <em>sixth year at Hogwarts</em> and he cast a high-level Dark curse <em>without knowing what it did.</em>\"",
+      "\"You don't mean,\" Harry said, \"that he was <em>mistaken</em> about what it did, that he somehow read the wrong spell description -\""
+    ],
+    "summary_en": "Harry asks what curse; Quirrell erupts that the caster never thought the question important, confirmed under Veritaserum: a sixth-year cast a high Dark curse without knowing what it did, not even mistaken about it.",
+    "translation_fa": "هری آب دهانش را قورت داد. «چه... جور نفرینی؟»\n\nو خشم صورت پروفسور کویرل دیگر مهار نشد. «چرا سؤال بی‌اهمیتی مثل این را می‌پرسی، آقای پاتر؟ دوست ما، گریفندوری سال ششمی، فکر نمی‌کرد مهم باشد!»\n\n«جدی می‌گویی؟» هری پیش از آن‌که بتواند جلوی خودش را بگیرد گفت.\n\n«نه، امروز بی‌دلیل خاصی بداخلاقم. بله جدی می‌گویم، ای احمق! او نمی‌دانست. واقعاً نمی‌دانست. باور نکردم تا این‌که آورورها زیر وریتاسرم تأییدش کردند. او سال ششم هاگوارتز است و نفرین تاریک سطح‌بالایی انداخته بدون آن‌که بداند چه می‌کند.»\n\n«منظورت این نیست،» گفت هری، «که اشتباه می‌کرده درباره‌ی کارش، که somehow توضیح اشتباه طلسم را خوانده بوده ــ»",
+    "summary_fa": "هری نوع نفرین را می‌پرسد و کویرل منفجر می‌شود: مهاجم زیر وریتاسرم ثابت شده که اصلاً نمی‌دانسته نفرین چه می‌کند، نه این‌که اشتباه فهمیده باشد."
+  },
+  {
+    "id": 6,
+    "paras": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "verbatim_html": [
+      "\"All he knew was that it was meant to be directed at an enemy. He <em>knew</em> that was all he knew.\"",
+      "And that had been enough to cast the spell. \"I do not understand how anything with that small a brain could walk upright.\"",
+      "\"Indeed, Mr. Potter,\" said Professor Quirrell.",
+      "There was a pause. Professor Quirrell leaned forward and picked up the silver inkwell from his desk, turning it around in his hands, staring at it as though wondering how he could go about torturing an inkwell to death.",
+      "\"Was the sixth-year Slytherin seriously hurt?\" said Harry."
+    ],
+    "summary_en": "All the caster knew was that it targeted an enemy; Quirrell marvels such a brain walks upright, then toys with an inkwell as Harry learns the Slytherin victim was seriously hurt.",
+    "translation_fa": "«تنها چیزی که می‌دانست این بود که قرار است به دشمن directed شود. او می‌دانست که همین تنها چیزی است که می‌داند.»\n\nو همین برای انداختن طلسم کافی بوده است. «نمی‌فهمم چیزی با چنین مغز کوچکی چطور می‌تواند راست راه برود.»\n\n«درست است، آقای پاتر،» گفت پروفسور کویرل.\n\nمکثی شد. پروفسور کویرل به جلو خم شد و دوات نقره‌ای روی میزش را برداشت و در دست‌هایش چرخاند، و به آن خیره شد چنان‌که گویی در فکر این بود که چطور می‌تواند دواتی را تا سرحد مرگ شکنجه بدهد.\n\n«اسلیترینی سال ششمی به‌شدت آسیب دیده؟» گفت هری.",
+    "summary_fa": "مهاجم فقط می‌دانسته طلسم برای دشمن است؛ کویرل از این‌که چنین مغزی راه می‌رود ابراز شگفتی می‌کند و هری می‌فهمد قربانی به‌شدت آسیب دیده است."
+  },
+  {
+    "id": 7,
+    "paras": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "verbatim_html": [
+      "\"Yes.\"",
+      "\"Was the sixth-year Gryffindor raised by Muggles?\"",
+      "\"<em>Yes.</em>\"",
+      "\"Is Dumbledore refusing to expel him because the poor boy didn't know?\"",
+      "Professor Quirrell's hands whitened on the inkwell. \"<em>Do you have a point, Mr. Potter, or are you just stating the obvious?</em> \""
+    ],
+    "summary_en": "Yes, the victim was hurt; yes, the caster was Muggle-raised; yes, Dumbledore won't expel him — and Quirrell's whitening grip demands Harry's point.",
+    "translation_fa": "«بله.»\n\n«گریفندوری سال ششمی بزرگ‌شده‌ی ماگل‌ها بوده؟»\n\n«بله.»\n\n«دامبلدور حاضر نیست اخراجش کند چون بچه‌ی بیچاره نمی‌دانسته؟»\n\nدست‌های پروفسور کویرل بر دوات سفید شد. «نکته‌ای داری، آقای پاتر، یا فقط داری بدیهیات را بیان می‌کنی؟»",
+    "summary_fa": "قربانی آسیب دیده، مهاجم ماگل‌زاده است و دامبلدور اخراجش نمی‌کند؛ کویرل با دست‌هایی سفیدشده از هری نکته‌اش را می‌خواهد."
+  },
+  {
+    "id": 8,
+    "paras": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "verbatim_html": [
+      "\"Professor Quirrell,\" said Harry gravely, \"all the Muggle-raised students in Hogwarts need a safety lecture in which they are told the things so ridiculously obvious that no wizardborn would ever think to mention them. Don't cast curses if you don't know what they do, if you discover something dangerous don't tell the world about it, don't brew high-level potions without supervision in a bathroom, the reason why there are underage magic laws, all the basics.\"",
+      "\"Why?\" said Professor Quirrell. \"Let the stupid ones die before they breed.\"",
+      "\"If you don't mind losing a few sixth-year Slytherins along with them.\"",
+      "The inkwell caught fire in Professor Quirrell's hands and burned with a terrible slowness, hideous black-orange flames tearing at the metal and seeming to take tiny bites from it, the silver twisting as it melted, as though it were trying and failing to escape. There was a tinny shrieking sound, as though the metal were screaming.",
+      "\"I suppose you are right,\" Professor Quirrell said with a resigned smile. \"I shall design a lecture to ensure that Muggleborns who are too stupid to live do not take anyone valuable with them as they depart.\""
+    ],
+    "summary_en": "Harry proposes a safety lecture of ridiculously obvious basics for Muggle-raised students; Quirrell says let the stupid die, relents to protect valuable Slytherins, and sets the inkwell hideously burning.",
+    "translation_fa": "«پروفسور کویرل،» گفت هری با جدیت، «همه‌ی دانش‌آموزان بزرگ‌شده‌ی ماگل در هاگوارتز به یک سخنرانی ایمنی نیاز دارند که در آن چیزهای به‌طرز مضحکی بدیهی گفته شود که هیچ جادوزاده‌ای هرگز به فکرش نمی‌رسد آن‌ها را ذکر کند. اگر نمی‌دانی نفرینی چه می‌کند آن را نینداز، اگر چیز خطرناکی کشف کردی به دنیا نگو، بدون نظارت در حمام معجون سطح‌بالا نپز، دلیل قوانین جادوی زیر سن، همه‌ی مبانی.»\n\n«چرا؟» گفت پروفسور کویرل. «بگذار احمق‌ها پیش از تولیدمثل بمیرند.»\n\n«اگر ناراحت نیستی چند اسلیترینی سال ششمی هم همراهشان از دست بروند.»\n\nدوات در دست‌های پروفسور کویرل آتش گرفت و با کندی هولناکی سوخت، شعله‌های سیاه-نارنجی زشت فلز را می‌دریدند و انگار گازهای کوچکی از آن می‌گرفتند، نقره هنگام ذوب شدن می‌پیچید، چنان‌که گویی تلاش می‌کرد و نمی‌توانست فرار کند. صدای جیغ فلزی نازکی بود، چنان‌که گویی فلز فریاد می‌کشید.\n\n«فکر کنم حق با توست،» گفت پروفسور کویرل با لبخند تسلیم‌شده. «سخنرانی‌ای طراحی خواهم کرد تا مطمئن شوم ماگل‌زاده‌هایی که برای زندگی کردن زیادی احمق‌اند، هنگام رفتن کسی ارزشمند را با خود نمی‌برند.»",
+    "summary_fa": "هری سخنرانی ایمنی مبانی بدیهی برای ماگل‌زاده‌ها پیشنهاد می‌کند؛ کویرل اول می‌گوید بگذار احمق‌ها بمیرند ولی برای حفظ اسلیترینی‌های ارزشمند می‌پذیرد، در حالی که دوات را در دستش می‌سوزاند."
+  },
+  {
+    "id": 9,
+    "paras": [
+      38,
+      39,
+      40,
+      41,
+      42
+    ],
+    "verbatim_html": [
+      "The inkwell went on screaming and burning in Professor Quirrell's hands, tiny droplets of metal, still on fire, now dripping to the desk, as though the inkwell were crying.",
+      "\"You're not running away,\" observed Professor Quirrell.",
+      "Harry opened his mouth -",
+      "\"If you're about to say you're not scared of me,\" said Professor Quirrell, \"<em>don't.</em>\"",
+      "\"You are the scariest person I know,\" Harry said, \"and one of the top reasons for that is your control. I simply can't imagine hearing that you'd hurt someone you had not made a deliberate decision to hurt.\""
+    ],
+    "summary_en": "The burning inkwell seems to cry as Quirrell notes Harry isn't fleeing; forbidden to claim fearlessness, Harry calls Quirrell the scariest person he knows because of his control.",
+    "translation_fa": "دوات همچنان در دست‌های پروفسور کویرل جیغ می‌کشید و می‌سوخت، قطره‌های کوچک فلز، همچنان در آتش، اکنون روی میز می‌چکیدند، چنان‌که گویی دوات گریه می‌کرد.\n\n«تو فرار نمی‌کنی،» مشاهده کرد پروفسور کویرل.\n\nهری دهانش را باز کرد ــ\n\n«اگر می‌خواهی بگویی از من نمی‌ترسی،» گفت پروفسور کویرل، «نگو.»\n\n«تو ترسناک‌ترین آدمی هستی که می‌شناسم،» گفت هری، «و یکی از مهم‌ترین دلایلش کنترل توست. اصلاً نمی‌توانم تصور کنم بشنوم به کسی آسیب زده‌ای که تصمیم آگاهانه برای آسیب زدنش نگرفته باشی.»",
+    "summary_fa": "دوات گریان می‌سوزد و کویرل توجه می‌کند هری فرار نکرده است؛ هری می‌گوید کویرل ترسناک‌ترین آشنایش است دقیقاً به‌خاطر خویشتن‌داری‌اش."
+  },
+  {
+    "id": 10,
+    "paras": [
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "verbatim_html": [
+      "The fire in Professor Quirrell's hands winked out, and he carefully placed the ruined inkwell on his desk. \"You say the nicest things, Mr. Potter. Have you been taking lessons in flattery? From, perhaps, Mr. Malfoy?\"",
+      "Harry kept his expression blank, and realized one second too late that it might as well have been a signed confession. Professor Quirrell didn't care what your expression looked like, he cared which states of mind made it likely.",
+      "\"I see,\" said Professor Quirrell. \"Mr. Malfoy is a useful friend to have, Mr. Potter, and there is much he can teach you, but I hope you have not made the mistake of trusting him with too many confidences.\"",
+      "\"He knows nothing which I fear becoming known,\" said Harry.",
+      "\"Well done,\" said Professor Quirrell, smiling slightly. \"So what was your original business here?\""
+    ],
+    "summary_en": "Quirrell douses the ruined inkwell, suspects Malfoy taught Harry flattery, reads the blank face as confession, warns against trusting Malfoy, and asks Harry's original business.",
+    "translation_fa": "آتش در دست‌های پروفسور کویرل خاموش شد و او دوات ویران‌شده را با دقت روی میزش گذاشت. «چیزهای خوشایندی می‌گویی، آقای پاتر. در چاپلوسی درس گرفته‌ای؟ از، شاید، آقای مالفوی؟»\n\nهری چهره‌اش را بی‌حالت نگه داشت و یک ثانیه دیرتر فهمید که این هم به‌اندازه‌ی اعتراف امضاشده گویا بوده است. پروفسور کویرل برایش مهم نبود چهره‌ات چطور به نظر می‌رسد، برایش مهم بود کدام حالت‌های ذهنی آن را محتمل می‌کنند.\n\n«می‌بینم،» گفت پروفسور کویرل. «آقای مالفوی دوست مفیدی است، آقای پاتر، و چیزهای زیادی می‌تواند به تو بیاموزد، ولی امیدوارم اشتباه نکرده باشی و رازهای زیادی به او اعتماد نکرده باشی.»\n\n«او هیچ‌چیز نمی‌داند که از فاش شدنش بترسم،» گفت هری.\n\n«آفرین،» گفت پروفسور کویرل با لبخند خفیفی. «خب کارت اصلی‌ات اینجا چه بود؟»",
+    "summary_fa": "کویرل آتش را خاموش می‌کند و حدس می‌زند مالفوی چاپلوسی یاد هری داده است؛ چهره‌ی بی‌حالت هری را اعتراف می‌داند، درباره‌ی اعتماد به مالفوی هشدار می‌دهد و کار اصلی هری را می‌پرسد."
+  },
+  {
+    "id": 11,
+    "paras": [
+      48,
+      49,
+      50,
+      51,
+      52
+    ],
+    "verbatim_html": [
+      "\"I think I'm done with the preliminary exercises in Occlumency and ready for the tutor.\"",
+      "Professor Quirrell nodded. \"I shall conduct you to Gringotts this Sunday.\" He paused, looking at Harry, and smiled. \"And we might even make it a little outing, if you like. I've just had a pleasant thought.\"",
+      "Harry nodded, smiling back.",
+      "As Harry left the office, he heard Professor Quirrell humming a small tune.",
+      "Harry was glad he'd been able to cheer him up."
+    ],
+    "summary_en": "Harry is ready for an Occlumency tutor; Quirrell will take him to Gringotts Sunday with a pleasant thought in mind, and leaves humming as Harry glows at cheering him up.",
+    "translation_fa": "«فکر کنم تمرین‌های مقدماتی ذهن‌بندی را تمام کرده‌ام و برای معلم خصوصی آماده‌ام.»\n\nپروفسور کویرل سر تکان داد. «این یکشنبه تو را به گرینگوتز خواهم برد.» مکثی کرد، به هری نگاه کرد و لبخند زد. «و حتی ممکن است کمی گردشش کنیم، اگر دوست داری. تازه فکر خوشایندی به سرم زده است.»\n\nهری لبخندزنان سر تکان داد.\n\nوقتی هری دفتر را ترک می‌کرد، شنید که پروفسور کویرل آهنگ کوچکی زمزمه می‌کند.\n\nهری خوشحال بود که توانسته بود او را سرحال بیاورد.",
+    "summary_fa": "هری برای معلم ذهن‌بندی آماده است؛ کویرل وعده‌ی یکشنبه‌ی گرینگوتز و گردشی کوچک می‌دهد و زمزمه‌کنان می‌ماند و هری از این‌که سرحالش آورده خوشحال است."
+  },
+  {
+    "id": 12,
+    "paras": [
+      53,
+      54,
+      55,
+      56,
+      57
+    ],
+    "verbatim_html": [
+      "* * *",
+      "That Sunday there seemed to be a rather large number of people whispering in the hallways, at least when Harry Potter walked past them.",
+      "And a lot of pointed fingers.",
+      "And a great deal of female giggling.",
+      "It had started at breakfast, when someone had asked Harry if he'd heard the news, and Harry had quickly interrupted and said that if the news was written by Rita Skeeter then he didn't want to <em>hear</em> about it, he wanted to read it in the paper himself."
+    ],
+    "summary_en": "After a scene break, Sunday finds Hogwarts whispering and giggling at Harry, who refuses secondhand news and insists on reading Rita Skeeter's article himself.",
+    "translation_fa": "* * *\n\nآن یکشنبه به نظر می‌رسید تعداد نسبتاً زیادی آدم در راهروها پچ‌پچ می‌کنند، دست‌کم وقتی هری پاتر از کنارشان رد می‌شد.\n\nو خیلی انگشت اشاره.\n\nو مقدار زیادی خنده‌ی خفه‌ی دخترانه.\n\nاز صبحانه شروع شده بود، وقتی کسی از هری پرسیده بود آیا خبر را شنیده است، و هری سریع حرفش را قطع کرده و گفته بود اگر خبر را ریتا اسکیتر نوشته، نمی‌خواهد درباره‌اش بشنود، می‌خواهد خودش در روزنامه بخواندش.",
+    "summary_fa": "پس از جداکننده، یکشنبه همه در هاگوارتز به هری پچ‌پچ و خنده می‌کنند ولی هری حاضر نیست خبر را دست‌دوم بشنود و می‌خواهد مقاله‌ی اسکیتر را خودش بخواند."
+  },
+  {
+    "id": 13,
+    "paras": [
+      58,
+      59,
+      60,
+      61,
+      62
+    ],
+    "verbatim_html": [
+      "It had then developed that not many students at Hogwarts got copies of the <em>Daily Prophet,</em> and that the copies which had not already been bought up from their owners were being passed around in some sort of complicated order and nobody really knew who had one at the moment...",
+      "So Harry had used a Quieting Charm and gone on to eat his breakfast, trusting to his seat-mates to wave off the many, many questioners, and doing his best to ignore the incredulity, the laughter, the congratulatory smiles, the pitying looks, the fearful glances, and the dropped plates as new people came down for breakfast and heard.",
+      "Harry was feeling <em>rather</em> curious, but it <em>really</em> wouldn't have done to spoil the artistry by hearing it secondhand.",
+      "He'd done homework in the safety of his trunk for the next couple of hours, after telling his dormmates to come get him if anyone found him an original newspaper.",
+      "Harry was still ignorant at 10AM, when he'd left Hogwarts in a carriage with Professor Quirrell, who was in the front right, and currently slumped over in zombie-mode. Harry was sitting diagonally across, as far away as the carriage allowed, in the back left. Even so, Harry had a constant feeling of doom as the carriage rattled over a small path through a section of non-forbidden forest. It made it a bit hard to read, especially since the material was difficult, and Harry suddenly wished he was reading one of his childhood science fiction books instead -"
+    ],
+    "summary_en": "Scarce Prophet copies circulate mysteriously; Harry breakfasts under a Quieting Charm, hides in his trunk doing homework, then rides doom-haunted with zombie-mode Quirrell toward Diagon Alley.",
+    "translation_fa": "بعد معلوم شده بود که خیلی از دانش‌آموزان هاگوارتز نسخه‌های دیلی پرافت نمی‌گیرند، و نسخه‌هایی که از صاحبانشان خریده نشده بودند در نوعی ترتیب پیچیده دست‌به‌دست می‌شدند و هیچ‌کس واقعاً نمی‌دانست در این لحظه کدام نسخه دست کیست...\n\nپس هری از طلسم سکوت استفاده کرده و به خوردن صبحانه‌اش ادامه داده بود، و به هم‌نشین‌هایش اعتماد کرده بود که سؤال‌کننده‌های بسیار بسیار را دست‌به‌سر کنند، و تمام تلاشش را می‌کرد که ناباوری، خنده، لبخندهای تبریک، نگاه‌های دلسوزانه، نگاه‌های ترسیده و بشقاب‌های افتاده را نادیده بگیرد وقتی آدم‌های جدید برای صبحانه پایین می‌آمدند و می‌شنیدند.\n\nهری احساس کنجکاوی نسبتاً زیادی می‌کرد، ولی واقعاً درست نبود که هنرمندی کار را با شنیدن دست‌دوم خراب کند.\n\nبرای یکی دو ساعت بعد در امنیت صندوقش مشق نوشته بود، پس از آن‌که به هم‌اتاقی‌هایش گفته بود اگر روزنامه‌ی اصلی پیدا کردند بیایند سراغش.\n\nهری همچنان در ساعت ۱۰ صبح بی‌خبر بود، وقتی هاگوارتز را با کالسکه‌ای با پروفسور کویرل ترک کرد، که جلو سمت راست بود و فعلاً در حالت زامبی ولو شده بود. هری به‌صورت قطری آن‌طرف‌تر نشسته بود، تا جایی که کالسکه اجازه می‌داد دور، عقب سمت چپ. با این حال، هری احساس مداوم عذابی داشت وقتی کالسکه روی مسیر کوچکی از بخشی از جنگل غیرممنوعه تکان می‌خورد. خواندن را کمی سخت می‌کرد، به‌ویژه چون مطلب دشوار بود، و هری ناگهان آرزو کرد کاش به‌جایش یکی از کتاب‌های علمی-تخیلی کودکی‌اش را می‌خواند ــ",
+    "summary_fa": "نسخه‌های کمیاب پیامبر دست‌به‌دست می‌شود؛ هری زیر طلسم سکوت صبحانه می‌خورد، در صندوقش قایم می‌شود و سپس با کویرل زامبی‌حالت، در حس عذاب، به‌سوی دایگون‌الی می‌رود."
+  },
+  {
+    "id": 14,
+    "paras": [
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
+    "verbatim_html": [
+      "\"We're outside the wards, Mr. Potter,\" said Professor Quirrell's voice from the front. \"Time to go.\"",
+      "Professor Quirrell carefully disembarked from the carriage, bracing himself as he stepped down. Harry, on his own side, jumped off.",
+      "Harry was wondering exactly how they'd get there when Professor Quirrell said \"Catch!\" and threw a bronze Knut at him, and Harry caught it without thinking.",
+      "A giant intangible hook caught at Harry's abdomen and yanked him back, hard, only without any sense of acceleration, and an instant later Harry was standing in the middle of Diagon Alley.",
+      "(<em>Excuse me, what?</em> said his brain.)"
+    ],
+    "summary_en": "Outside the wards they disembark; Quirrell tosses Harry a Knut Portkey that hooks him to Diagon Alley, leaving his brain protesting.",
+    "translation_fa": "«از حصارها بیرونیم، آقای پاتر،» صدای پروفسور کویرل از جلو گفت. «وقت رفتن است.»\n\nپروفسور کویرل با احتیاط از کالسکه پیاده شد و هنگام پایین آمدن تکیه داد. هری هم از سمت خودش بیرون پرید.\n\nهری داشت فکر می‌کرد دقیقاً چطور خواهند رفت که پروفسور کویرل گفت «بگیر!» و یک نات برنزی به‌سویش پرت کرد و هری بی‌فکر آن را گرفت.\n\nقلاب ناملموس غولی به شکم هری گیر کرد و او را محکم به عقب کشید، فقط بدون هیچ حس شتابی، و لحظه‌ای بعد هری وسط دایگون‌الی ایستاده بود.\n\n(«ببخشید، چی؟» گفت مغزش.)",
+    "summary_fa": "بیرون حصارها پیاده می‌شوند؛ کویرل یک نات پورتکی به هری می‌دهد که او را به دایگون‌الی می‌کشاند و مغز هری اعتراض می‌کند."
+  },
+  {
+    "id": 15,
+    "paras": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "verbatim_html": [
+      "(<em>We just teleported,</em> explained Harry.)",
+      "(<em>That didn't used to happen in the ancestral environment,</em> Harry's brain complained, and disoriented him.)",
+      "Harry staggered as his feet adjusted to the brick of the street instead of the dirt of the forest corridor they had been traversing. He straightened, still dizzy, with the bustling witches and wizards seeming to sway slightly, and the cries of the shopkeepers seeming to move around in his hearing, as his brain tried to place a world to be located in.",
+      "Moments later, there was a sort of sucking-popping sound from a few paces behind Harry, and when Harry turned to look Professor Quirrell was there.",
+      "\"Do you mind -\" said Harry, at the same time as Professor Quirrell said, \"I'm afraid I -\""
+    ],
+    "summary_en": "Harry's inner dialogue processes teleportation and ancestral environments while dizzy in Diagon Alley; Quirrell pops in behind and both start apologizing at once.",
+    "translation_fa": "(«ما تازه تله‌پورت کردیم،» توضیح داد هری.)\n\n(«این در محیط اجدادی رخ نمی‌داد،» مغز هری شکایت کرد و او را گیج کرد.)\n\nهری تلوتلو خورد وقتی پاهایش به آجر خیابان عادت کردند به‌جای خاک راهروی جنگلی که طی می‌کردند. راست ایستاد، همچنان گیج، در حالی که جادوگران شلوغ به نظر می‌رسید کمی تاب می‌خورند و فریادهای مغازه‌دارها انگار در شنوایی‌اش جابه‌جا می‌شدند، وقتی مغزش تلاش می‌کرد دنیایی را که باید در آن قرار گیرد مشخص کند.\n\nلحظاتی بعد، نوعی صدای مکش-ترکیدن از چند قدمی پشت هری آمد، و وقتی هری برگشت تا نگاه کند، پروفسور کویرل آنجا بود.\n\n«اشکالی ندارد ــ» گفت هری، هم‌زمان که پروفسور کویرل گفت: «می‌ترسم من ــ»",
+    "summary_fa": "گفت‌وگوی درونی هری تله‌پورت را پردازش می‌کند و هری گیج در دایگون‌الی می‌ایستد؛ کویرل پشت سرش ظاهر می‌شود و هر دو هم‌زمان شروع به حرف زدن می‌کنند."
+  },
+  {
+    "id": 16,
+    "paras": [
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "verbatim_html": [
+      "Harry stopped, Professor Quirrell didn't.",
+      "\"- need to go off and set something in motion, Mr. Potter. As it has been thoroughly explained to me that I am responsible for anything whatsoever that happens to you, I'll be leaving you with -\"",
+      "\"Newsstand,\" Harry said.",
+      "\"Pardon?\"",
+      "\"Or anywhere I can buy a copy of the <em>Daily Prophet.</em> Put me there and I'll be happy.\""
+    ],
+    "summary_en": "Quirrell must go set something in motion but is responsible for Harry, so Harry asks to be left at a newsstand with the Daily Prophet.",
+    "translation_fa": "هری ایستاد، پروفسور کویرل نه.\n\n«ــ باید بروم و چیزی را به حرکت درآورم، آقای پاتر. چون به‌طور کامل به من توضیح داده شده که مسئول هرچه برای تو رخ بدهد هستم، تو را با ــ می‌گذارم»\n\n«دکه‌ی روزنامه،» گفت هری.\n\n«ببخشید؟»\n\n«یا هرجا که بتوانم نسخه‌ای از دیلی پرافت بخرم. مرا آنجا بگذار و خوشحال خواهم بود.»",
+    "summary_fa": "کویرل باید برود چیزی را راه بیندازد ولی مسئول هری است، پس هری می‌خواهد او را سر دکه‌ی روزنامه‌ی دیلی پرافت بگذارد."
+  },
+  {
+    "id": 17,
+    "paras": [
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "verbatim_html": [
+      "Shortly after, Harry had been delivered into a bookstore, accompanied by several quietly spoken, ambiguous threats. And the shopkeeper had gotten <em>less</em> ambiguous threats, judging by the way he had cringed, and how his eyes now kept darting between Harry and the entrance.",
+      "If the bookstore burned down, Harry was going to stick around in the middle of the fire until Professor Quirrell got back.",
+      "Meanwhile -",
+      "Harry took a quick glance around.",
+      "The bookstore seemed rather small and shoddy, with only four rows of bookcases visible, and the nearest shelf Harry's eyes had jumped to seemed to deal with narrow, cheaply bound books with grim titles like <em>The Massacre of Albania in the Fifteenth Century.</em>"
+    ],
+    "summary_en": "Quirrell deposits Harry in a shoddy bookstore under ambiguous threats; Harry resolves to sit in any fire till Quirrell returns and surveys the grim little shop.",
+    "translation_fa": "کمی بعد، هری به کتابفروشی‌ای تحویل داده شده بود، همراه با چند تهدید آرام‌گفته‌ی مبهم. و مغازه‌دار تهدیدهای کم‌ابهام‌تری گرفته بود، از روی این‌که چطور جا خورده بود و چشم‌هایش حالا چطور بین هری و ورودی می‌چرخید.\n\nاگر کتابفروشی می‌سوخت، هری می‌خواست وسط آتش بماند تا پروفسور کویرل برگردد.\n\nدر این میان ــ\n\nهری نگاه سریعی به اطراف انداخت.\n\nکتابفروشی نسبتاً کوچک و ژنده به نظر می‌رسید، با فقط چهار ردیف قفسه‌ی کتاب قابل‌مشاهده، و نزدیک‌ترین قفسه‌ای که چشم‌های هری به آن پریده بود به نظر می‌رسید با کتاب‌های باریک و ارزان‌صحافی با عنوان‌های تاریکی مثل کشتار آلبانی در قرن پانزدهم سر و کار دارد.",
+    "summary_fa": "کویرل هری را با تهدیدهایی مبهم در کتابفروشی ژنده‌ای می‌گذارد؛ هری تصمیم می‌گیرد در هر آتشی بماند تا کویرل برگردد و مغازه‌ی کوچک تاریک را برانداز می‌کند."
+  },
+  {
+    "id": 18,
+    "paras": [
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "verbatim_html": [
+      "First things first. Harry stepped over to the seller's counter.",
+      "\"Pardon me,\" said Harry, \"One copy of the <em>Daily Prophet,</em> please.\"",
+      "\"Five Sickles,\" said the shopkeeper. \"Sorry, kid, I've only got three left.\"",
+      "Five Sickles dropped onto the counter. Harry had the feeling he could have bargained him down a couple of points, but at this point he didn't really care.",
+      "The shopkeeper's eyes widened and he seemed to really notice Harry for the first time. \"<em>You!</em> \""
+    ],
+    "summary_en": "Harry buys a Prophet for five Sickles without bargaining; the shopkeeper finally recognizes him with a shocked You!",
+    "translation_fa": "اول کارها. هری به‌سوی پیشخوان فروشنده رفت.\n\n«ببخشید،» گفت هری، «یک نسخه از دیلی پرافت، لطفاً.»\n\n«پنج سیکل،» گفت مغازه‌دار. «ببخشید بچه، فقط سه تا مانده است.»\n\nپنج سیکل روی پیشخوان افتاد. هری حس می‌کرد می‌توانست چند امتیاز چانه بزند، ولی در این لحظه واقعاً برایش مهم نبود.\n\nچشم‌های مغازه‌دار گشاد شد و به نظر رسید هری را برای اولین بار واقعاً شناخت. «تو!»",
+    "summary_fa": "هری بدون چانه‌زنی پیامبر را پنج سیکل می‌خرد؛ مغازه‌دار تازه او را می‌شناسد و با «تو!» جا می‌خورد."
+  },
+  {
+    "id": 19,
+    "paras": [
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "verbatim_html": [
+      "\"<em>Me!</em> \"",
+      "\"Is it <em>true?</em> Are you <em>really</em> -\"",
+      "\"<em>Shut up!</em> Sorry, I've been waiting <em>all day</em> to read this in the original newspaper instead of hearing about it secondhand, so please just <em>hand it over</em>, all right?\"",
+      "The shopkeeper stared at Harry for a moment, then wordlessly reached under the counter and passed over one folded copy of the <em>Daily Prophet</em>.",
+      "The headline read:"
+    ],
+    "summary_en": "Me! True? — Harry shushes the starstruck shopkeeper, demands the paper he's waited all day to read firsthand, and gets it as the headline looms.",
+    "translation_fa": "«من!»\n\n«واقعیت دارد؟ واقعاً تو ــ»\n\n«خفه شو! ببخشید، تمام روز صبر کرده‌ام تا این را در روزنامه‌ی اصلی بخوانم به‌جای آن‌که دست‌دوم بشنوم، پس لطفاً فقط بدهش، باشه؟»\n\nمغازه‌دار لحظه‌ای به هری خیره شد، بعد بی‌کلام دست زیر پیشخوان برد و یک نسخه‌ی تاشده‌ی دیلی پرافت را رد کرد.\n\nتیتر می‌خواند:",
+    "summary_fa": "مغازه‌دار ذوق‌زده می‌پرسد واقعیت دارد؟ و هری ساکتش می‌کند و روزنامه‌ای را که تمام روز منتظرش بوده می‌گیرد؛ تیتر در راه است."
+  },
+  {
+    "id": 20,
+    "paras": [
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "verbatim_html": [
+      "<em>HARRY POTTER<br/> SECRETLY BETROTHED<br/> TO GINEVRA WEASLEY</em>",
+      "Harry stared.",
+      "He lifted the newspaper off the counter, softly, reverently, like he was handling an original Escher artwork, and unbent it to read...",
+      "...about the evidence that had convinced Rita Skeeter.",
+      "...and some interesting further details."
+    ],
+    "summary_en": "HARRY POTTER SECRETLY BETROTHED TO GINEVRA WEASLEY — Harry stares and reverently unfolds the paper to study Skeeter's evidence and details.",
+    "translation_fa": "هری پاتر مخفیانه با جینورا ویزلی نامزد شده\n\nهری خیره شد.\n\nروزنامه را از روی پیشخوان بلند کرد، آرام، با احترام، مثل این‌که دارد اثر اصلی اشر را دست می‌گیرد، و آن را باز کرد تا بخواند...\n\n...درباره‌ی شواهدی که ریتا اسکیتر را متقاعد کرده بود.\n\n...و چند جزئیات جالب دیگر.",
+    "summary_fa": "تیتر: نامزدی مخفی هری پاتر با جینورا ویزلی ــ هری خیره می‌شود و روزنامه را با احترام باز می‌کند تا شواهد و جزئیات اسکیتر را بخواند."
+  },
+  {
+    "id": 21,
+    "paras": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "verbatim_html": [
+      "...and yet more evidence.",
+      "Fred and George had cleared it with their sister first, surely? Yes, of course they had. There was a picture of Ginevra Weasley sighing longingly over what Harry could see, looking closely, was a photo of himself. That had to have been staged.",
+      "But <em>how</em> on <em>Earth...?</em>",
+      "Harry was sitting in a cheap folding chair, rereading the newspaper for the fourth time, when the door whispered softly and Professor Quirrell came back into the shop.",
+      "\"My apologies for - <em>what</em> in Merlin's name are you reading?\""
+    ],
+    "summary_en": "More evidence mounts, including a staged photo of a longing Ginny that Fred and George surely cleared; baffled, Harry is on his fourth reread when Quirrell returns.",
+    "translation_fa": "...و باز هم شواهد بیشتر.\n\nفرد و جورج اول با خواهرشان هماهنگ کرده بودند، حتماً؟ بله، البته که کرده بودند. عکسی از جینورا ویزلی بود که با اشتیاق به چیزی آه می‌کشید که هری می‌توانست ببیند، با نگاه دقیق، عکس خودش بود. حتماً صحنه‌سازی شده بود.\n\nولی چطور در دنیا...؟\n\nهری روی صندلی تاشوی ارزانی نشسته بود و برای چهارمین بار روزنامه را بازخوانی می‌کرد که در به‌آرامی خش‌خش کرد و پروفسور کویرل به مغازه برگشت.\n\n«عذرمی‌خواهم بابت ــ به نام مرلین داری چه می‌خوانی؟»",
+    "summary_fa": "شواهد بیشتر می‌شود از جمله عکس صحنه‌سازی‌شده‌ی جینی که فرد و جورج حتماً هماهنگش کرده‌اند؛ هری مات چهارمین بازخوانی است که کویرل برمی‌گردد."
+  },
+  {
+    "id": 22,
+    "paras": [
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "verbatim_html": [
+      "\"It would seem,\" said Harry, awe in his voice, \"that one Mr. Arthur Weasley was placed under the Imperius Curse by a Death Eater whom my father killed, thus creating a debt to House Potter, which my father demanded be repaid by the hand in marriage of the recently born Ginevra Weasley. Do people actually do that sort of thing around here?\"",
+      "\"How could Miss Skeeter <em>possibly</em> be fool enough to believe -\"",
+      "And Professor Quirrell's voice cut off.",
+      "Harry had been reading the newspaper held vertically and unfolded, which meant that Professor Quirrell, from where he was standing, could see the text underneath the headline.",
+      "The look of shock on Professor Quirrell's face was a work of art almost on par with the newspaper itself."
+    ],
+    "summary_en": "Harry marvels at the Imperius-debt betrothal tale; Quirrell starts to scoff, sees the text, and his voice cuts off in a shock to rival the paper itself.",
+    "translation_fa": "«به نظر می‌رسد،» گفت هری با حیرت در صدایش، «که آقای آرتور ویزلی زیر طلسم ایمپریوس مرگ‌خواری قرار گرفته که پدرم او را کشت، و بدین ترتیب دینی به خاندان پاتر ایجاد شد که پدرم خواست بازپرداختش دست جینورا ویزلیِ تازه‌متولدشده در ازدواج باشد. مردم واقعاً این‌جور کارها را اینجا می‌کنند؟»\n\n«خانم اسکیتر چطور ممکن است آن‌قدر احمق باشد که باور کند ــ»\n\nو صدای پروفسور کویرل قطع شد.\n\nهری روزنامه را عمودی و بازشده نگه داشته بود، یعنی پروفسور کویرل از جایی که ایستاده بود می‌توانست متن زیر تیتر را ببیند.\n\nنگاه شوک روی صورت پروفسور کویرل اثری هنری تقریباً هم‌سنگ خود روزنامه بود.",
+    "summary_fa": "هری داستان بدهی ایمپریوس و نامزدی را با حیرت نقل می‌کند؛ کویرل می‌خواهد مسخره کند ولی با دیدن متن صدایش قطع می‌شود و شوکش هم‌سنگ خود روزنامه است."
+  },
+  {
+    "id": 23,
+    "paras": [
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "verbatim_html": [
+      "\"Don't worry,\" said Harry cheerfully, \"it's all fake.\"",
+      "From elsewhere in the store, he heard the shopkeeper gasp. There was the sound of a stack of books falling over.",
+      "\"Mr. Potter...\" Professor Quirrell said slowly, \"are you <em>sure</em> of that?\"",
+      "\"Quite sure. Shall we go?\"",
+      "Professor Quirrell nodded, looking rather abstracted, and Harry folded the newspaper back up, and followed him out of the door."
+    ],
+    "summary_en": "It's all fake, Harry chirps, toppling book stacks; Quirrell doubts, Harry insists, and they leave amid rising silence.",
+    "translation_fa": "«نگران نباش،» گفت هری شادمانه، «همه‌اش جعلی است.»\n\nاز جای دیگری در مغازه، شنید که مغازه‌دار نفسش را حبس کرد. صدای افتادن توده‌ای کتاب آمد.\n\n«آقای پاتر...» پروفسور کویرل به‌آرامی گفت، «مطمئنی؟»\n\n«کاملاً مطمئنم. برویم؟»\n\nپروفسور کویرل سر تکان داد، نسبتاً متفکرانه به نظر می‌رسید، و هری روزنامه را دوباره تا کرد و دنبالش از در بیرون رفت.",
+    "summary_fa": "هری شادمانه می‌گوید همه‌اش جعلی است و مغازه‌دار جا می‌خورد؛ کویرل تردید می‌کند، هری اصرار می‌کند و متفکرانه بیرون می‌روند."
+  },
+  {
+    "id": 24,
+    "paras": [
+      113,
+      114,
+      115,
+      116,
+      117
+    ],
+    "verbatim_html": [
+      "For some reason Harry didn't seem to be hearing any street noises now.",
+      "They walked in silence for thirty seconds before Professor Quirrell spoke. \"Miss Skeeter viewed the original proceedings of the restricted Wizengamot session.\"",
+      "\"Yes.\"",
+      "\"The <em>original proceedings of the Wizengamot.</em>\"",
+      "\"Yes.\""
+    ],
+    "summary_en": "Street noises fade as they walk; Quirrell probes that Skeeter viewed the original restricted Wizengamot proceedings — twice confirmed.",
+    "translation_fa": "به دلیلی هری به نظر نمی‌رسید دیگر هیچ صدای خیابانی بشنود.\n\nسی ثانیه در سکوت راه رفتند پیش از آن‌که پروفسور کویرل حرف بزند. «خانم اسکیتر صورت‌جلسات اصلی نشست محدود ویزنگاموت را دیده است.»\n\n«بله.»\n\n«صورت‌جلسات اصلی ویزنگاموت.»\n\n«بله.»",
+    "summary_fa": "صداهای خیابان محو می‌شود؛ کویرل می‌گوید اسکیتر صورت‌جلسات اصلی نشست محدود ویزنگاموت را دیده و هری دو بار تأیید می‌کند."
+  },
+  {
+    "id": 25,
+    "paras": [
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "verbatim_html": [
+      "\"<em>I</em> would have trouble doing that.\"",
+      "\"Really?\" said Harry. \"Because if my suspicions are correct, this was done by a Hogwarts student.\"",
+      "\"That is beyond impossible,\" Professor Quirrell said flatly. \"Mr. Potter... I regret to say that this young lady expects to marry you.\"",
+      "\"But <em>that</em> is improbable,\" said Harry. \"To quote Douglas Adams, the impossible often has a kind of integrity which the merely improbable lacks.\"",
+      "\"I see your point,\" Professor Quirrell said slowly. \"But... no, Mr. Potter. It may be impossible, but I can <em>imagine</em> tampering with the Wizengamot proceedings. It is <em>unimaginable</em> that the Grand Manager of Gringotts should affix the seal of his office in witness to a false betrothal contract, and Miss Skeeter personally verified that seal.\""
+    ],
+    "summary_en": "Even Quirrell would struggle with that; Harry blames a Hogwarts student, Quirrell calls it beyond impossible yet notes Ginny expects to marry him, countered by Douglas Adams on the improbable.",
+    "translation_fa": "«من هم برای آن کار به دردسر می‌افتادم.»\n\n«واقعاً؟» گفت هری. «چون اگر حدسم درست باشد، این کار دانش‌آموز هاگوارتز بوده است.»\n\n«آن فراتر از ناممکن است،» پروفسور کویرل بی‌روح گفت. «آقای پاتر... متأسفم بگویم که این خانم جوان انتظار دارد با تو ازدواج کند.»\n\n«ولی آن نامحتمل است،» گفت هری. «به قول داگلاس آدامز، ناممکن اغلب نوعی یکپارچگی دارد که صرفاً نامحتمل فاقد آن است.»\n\n«نکته‌ات را می‌فهمم،» پروفسور کویرل به‌آرامی گفت. «ولی... نه، آقای پاتر. ممکن است ناممکن باشد، ولی می‌توانم دستکاری صورت‌جلسات ویزنگاموت را تصور کنم. تصورناپذیر است که مدیرکل گرینگوتز مهر دفترش را به‌عنوان شاهد بر قرارداد نامزدی جعلی بزند، و خانم اسکیتر شخصاً آن مهر را راستی‌آزمایی کرده است.»",
+    "summary_fa": "حتی کویرل هم با آن به دردسر می‌افتد؛ هری دانش‌آموز هاگوارتز را مقصر می‌داند و کویرل ناممکن می‌خوانَدش ولی از مهر راستی‌آزمایی‌شده‌ی گرینگوتز می‌گوید و هری با داگلاس آدامز جواب می‌دهد."
+  },
+  {
+    "id": 26,
+    "paras": [
+      123,
+      124,
+      125,
+      126,
+      127
+    ],
+    "verbatim_html": [
+      "\"Indeed,\" said Harry, \"you would expect the Grand Manager of Gringotts to get involved with that much money changing hands. It seems Mr. Weasley was greatly in debt, and so demanded an additional payment of ten thousand Galleons -\"",
+      "\"<em>Ten thousand</em> Galleons for a <em>Weasley?</em> You could buy the daughter of a Noble House for that!\"",
+      "\"Excuse me,\" Harry said. \"I really have to ask at this point, do people actually do that sort of thing around here -\"",
+      "\"Rarely,\" said Professor Quirrell, with a frown on his face. \"And not at all, I suspect, since the Dark Lord departed. I suppose that according to the newspaper, your father just paid it?\"",
+      "\"He didn't have any choice,\" said Harry. \"Not if he wanted to fulfill the conditions of the prophecy.\""
+    ],
+    "summary_en": "Ten thousand Galleons for a Weasley stuns Quirrell — enough for a Noble daughter; betrothal customs are rare since the Dark Lord fell, and Harry's father supposedly paid to fulfill a prophecy.",
+    "translation_fa": "«درست است،» گفت هری، «انتظار داری مدیرکل گرینگوتز با این‌همه پول در حال جابه‌جایی درگیر شود. به نظر می‌رسد آقای ویزلی به‌شدت بدهکار بوده و پس پرداخت اضافی ده هزار گالیون خواسته ــ»\n\n«ده هزار گالیون برای یک ویزلی؟ می‌توانستی با آن دختر خاندان نجیبی را بخری!»\n\n«ببخشید،» گفت هری. «واقعاً باید در این نقطه بپرسم، مردم واقعاً این‌جور کارها را اینجا می‌کنند ــ»\n\n«به‌ندرت،» گفت پروفسور کویرل با اخم. «و اصلاً حدس می‌زنم، از وقتی ارباب تاریکی رفت. فکر کنم طبق روزنامه، پدرت فقط پرداختش کرد؟»\n\n«چاره‌ای نداشت،» گفت هری. «نه اگر می‌خواست شرایط پیشگویی را برآورده کند.»",
+    "summary_fa": "ده هزار گالیون برای یک ویزلی کویرل را مبهوت می‌کند ــ پول دختر خاندان نجیب؛ چنین رسم‌هایی از رفتن ارباب تاریکی نادر شده و پدر هری گویا برای پیشگویی پرداخته است."
+  },
+  {
+    "id": 27,
+    "paras": [
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "verbatim_html": [
+      "\"<em>Give me that,</em>\" said Professor Quirrell, and the newspaper leaped out of Harry's hand so fast that he got a paper cut.",
+      "Harry automatically put the finger in his mouth to suck on, feeling rather shocked, and turned to remonstrate with Professor Quirrell -",
+      "Professor Quirrell had stopped short in the middle of the street, and his eyes were flickering rapidly back and forth as an invisible force held the newspaper suspended before him.",
+      "Harry watched, gaping in open awe, as the newspaper opened to reveal pages two and three. And not much long after, four and five. It was like the man had cast off a pretense of mortality.",
+      "And after a troublingly short time, the paper neatly folded itself up again. Professor Quirrell plucked it from the air and tossed it to Harry, who caught it in sheer reflex; and then Professor Quirrell started walking again, and Harry automatically trudged after."
+    ],
+    "summary_en": "Quirrell snatches the paper with a paper cut, freezes mid-street reading with flickering eyes as pages turn themselves, then strides on.",
+    "translation_fa": "«بدهش به من،» گفت پروفسور کویرل، و روزنامه آن‌قدر سریع از دست هری پرید که انگشتش برید.\n\nهری خودکار انگشت را در دهانش گذاشت تا بمکد، نسبتاً شوکه احساس می‌کرد، و برگشت تا به پروفسور کویرل اعتراض کند ــ\n\nپروفسور کویرل وسط خیابان خشکش زده بود و چشم‌هایش به‌سرعت به این‌سو و آن‌سو می‌پرید وقتی نیرویی نامرئی روزنامه را معلق پیش رویش نگه داشته بود.\n\nهری تماشا کرد، با حیرت دهان‌باز، وقتی روزنامه باز شد تا صفحه‌های دو و سه را نشان بدهد. و چندان طول نکشید، چهار و پنج. انگار مرد وانمود مرگ‌پذیری را کنار گذاشته بود.\n\nو پس از مدت کوتاهی نگران‌کننده، کاغذ دوباره مرتب خودش را تا کرد. پروفسور کویرل آن را از هوا قاپید و به‌سوی هری پرت کرد که در بازتاب محض گرفتش؛ و بعد پروفسور کویرل دوباره راه افتاد و هری خودکار دنبالش به راه افتاد.",
+    "summary_fa": "کویرل روزنامه را با چنان سرعتی می‌قاپد که انگشت هری می‌برد؛ وسط خیابان خشکش می‌زند و صفحه‌ها خودشان ورق می‌خورند و بعد راه می‌افتد."
+  },
+  {
+    "id": 28,
+    "paras": [
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "verbatim_html": [
+      "\"No,\" said Professor Quirrell, \"that prophecy didn't sound quite right to me either.\"",
+      "Harry nodded, still stunned.",
+      "\"The centaurs could have been put under an <em>Imperius</em>,\" Professor Quirrell said, frowning, \"<em>that</em> seems understandable. What magic can make, magic can corrupt, and it is not unthinkable that the Great Seal of Gringotts could be twisted to another's hand. The Unspeakable could have been impersonated with Polyjuice, likewise the Bavarian seer. And with <em>enough</em> effort it might be possible to tamper with the proceedings of the Wizengamot. Do you have any idea how that was done?\"",
+      "\"I do not have one single plausible hypothesis,\" said Harry. \"I do know it was done on a total budget of forty Galleons.\"",
+      "Professor Quirrell stopped short and whirled on Harry. His expression was now completely incredulous. \"Forty Galleons will pay a competent ward-breaker to open a path into a home you wish to burglarize! Forty <em>thousand</em> Galleons <em>might</em> pay a team of the greatest professional criminals in the world to tamper with the proceedings of the Wizengamot!\""
+    ],
+    "summary_en": "The prophecy sounds off to both; Quirrell lists corruptible magics for each impossible proof, and Harry's forty-Galleon budget stuns him against forty thousand.",
+    "translation_fa": "«نه،» گفت پروفسور کویرل، «آن پیشگویی به نظرم هم چندان درست نیامد.»\n\nهری سر تکان داد، همچنان مبهوت.\n\n«قنطورس‌ها می‌توانستند زیر ایمپریوس باشند،» پروفسور کویرل گفت، اخم کرده، «آن قابل‌فهم به نظر می‌رسد. آنچه جادو می‌تواند بسازد، جادو می‌تواند فاسد کند، و ناممکن نیست که مهر بزرگ گرینگوتز به دست دیگری چرخیده باشد. ناگفتنی می‌توانست با پولی‌جوس جعل شده باشد، همین‌طور پیشگوی باواریایی. و با تلاش کافی ممکن باشد صورت‌جلسات ویزنگاموت دستکاری شود. ایده‌ای داری چطور انجام شد؟»\n\n«یک فرضیه‌ی معقول هم ندارم،» گفت هری. «ولی می‌دانم با بودجه‌ی کل چهل گالیون انجام شد.»\n\nپروفسور کویرل خشکش زد و به‌سوی هری چرخید. حالتش اکنون کاملاً ناباورانه بود. «چهل گالیون به یک شکافنده‌ی حصار شایسته می‌دهد تا راهی به خانه‌ای که می‌خواهی دزدی کنی باز کند! چهل هزار گالیون شاید به تیمی از بزرگ‌ترین جنایتکاران حرفه‌ای دنیا بدهد تا صورت‌جلسات ویزنگاموت را دستکاری کنند!»",
+    "summary_fa": "پیشگویی به هر دو نادرست می‌نماید؛ کویرل برای هر شاهد ناممکن جادوی فاسدشدنی می‌شمارد ولی بودجه‌ی چهل گالیونی هری در برابر چهل هزار گالیون مبهوتش می‌کند."
+  },
+  {
+    "id": 29,
+    "paras": [
+      138,
+      139,
+      140,
+      141,
+      142
+    ],
+    "verbatim_html": [
+      "Harry shrugged helplessly. \"I'll remember that the next time I want to save thirty-nine thousand, nine hundred and sixty Galleons by finding the right contractor.\"",
+      "\"I do not say this often,\" said Professor Quirrell. \"I am impressed.\"",
+      "\"Likewise,\" said Harry.",
+      "\"And who is this incredible Hogwarts student?\"",
+      "\"I'm afraid I couldn't say.\""
+    ],
+    "summary_en": "Harry jokes about saving 39,960 Galleons with the right contractor; mutual admiration follows, but the student's name stays secret without objection.",
+    "translation_fa": "هری بیچاره شانه بالا انداخت. «به خاطر خواهم سپرد دفعه‌ی بعد که خواستم سی‌ونه هزار و نه‌صد و شصت گالیون ذخیره کنم با پیدا کردن پیمانکار درست.»\n\n«اغلب این را نمی‌گویم،» گفت پروفسور کویرل. «تحت تأثیر قرار گرفتم.»\n\n«همچنین،» گفت هری.\n\n«و این دانش‌آموز شگفت‌انگیز هاگوارتز کیست؟»\n\n«می‌ترسم نتوانم بگویم.»\n\nتا حدی به تعجب هری، پروفسور کویرل به این اعتراضی نکرد.",
+    "summary_fa": "هری درباره‌ی ذخیره‌ی ۳۹٬۹۶۰ گالیون با پیمانکار درست شوخی می‌کند؛ تحسین دوطرفه می‌شود ولی نام دانش‌آموز مخفی می‌ماند و کویرل اعتراضی نمی‌کند."
+  },
+  {
+    "id": 30,
+    "paras": [
+      143,
+      144,
+      145,
+      146,
+      147
+    ],
+    "verbatim_html": [
+      "Somewhat to Harry's surprise, Professor Quirrell made no objection to this.",
+      "They walked in the direction of the Gringotts building, thinking, for they were neither of them the sort of person who would give up on the problem without considering it for at least five minutes.",
+      "\"I have a feeling,\" Harry said finally, \"that we're coming at this from the wrong angle. There's a tale I once heard about some students who came into a physics class, and the teacher showed them a large metal plate near a fire. She ordered them to feel the metal plate, and they felt that the metal nearer the fire was cooler, and the metal further away was warmer. And she said, write down your guess for why this happens. So some students wrote down 'because of how the metal conducts heat', and some students wrote down 'because of how the air moves', and no one said 'this just seems impossible', and the real answer was that before the students came into the room, the teacher turned the plate around.\"",
+      "\"Interesting,\" said Professor Quirrell. \"That does sound similar. Is there a moral?\"",
+      "\"That your strength as a rationalist is your ability to be more confused by fiction than by reality,\" said Harry. \"If you're equally good at explaining any outcome, you have zero knowledge. The students thought they could use words like 'because of heat conduction' to explain anything, even a metal plate being cooler on the side nearer the fire. So they didn't notice how confused they were, and that meant they couldn't be more confused by falsehood than by truth. If you tell me that the centaurs were under the <em>Imperius</em> Curse, I still have the feeling of something being not quite right. I notice that I'm still confused even after hearing your explanation.\""
+    ],
+    "summary_en": "Walking and thinking, Harry tells the turned metal-plate tale and draws the moral: a rationalist's strength is being more confused by fiction than reality.",
+    "translation_fa": "تا حدی به تعجب هری، پروفسور کویرل به این اعتراضی نکرد.\n\nبه‌سوی ساختمان گرینگوتز راه می‌رفتند، فکر می‌کردند، چون هیچ‌کدامشان از آن دست آدم‌ها نبودند که بدون دست‌کم پنج دقیقه بررسی از مسئله دست بکشند.\n\n«حسی دارم،» هری سرانجام گفت، «که از زاویه‌ی اشتباه به این نزدیک می‌شویم. حکایتی شنیده‌ام درباره‌ی دانش‌آموزانی که به کلاس فیزیک آمدند و معلم صفحه‌ی فلزی بزرگی نزدیک آتش به آن‌ها نشان داد. به آن‌ها دستور داد صفحه‌ی فلزی را لمس کنند و حس کردند فلز نزدیک‌تر به آتش خنک‌تر است و فلز دورتر گرم‌تر. و گفت، حدست را بنویس چرا این رخ می‌دهد. پس بعضی دانش‌آموزان نوشتند «به‌خاطر رسانش گرمایی فلز» و بعضی نوشتند «به‌خاطر حرکت هوا»، و هیچ‌کس نگفت «این فقط ناممکن به نظر می‌رسد»، و جواب واقعی این بود که پیش از آمدن دانش‌آموزان به اتاق، معلم صفحه را برگردانده بود.»\n\n«جالب است،» گفت پروفسور کویرل. «شبیه به نظر می‌رسد. اخلاقی دارد؟»\n\n«این‌که توان تو به‌عنوان عقل‌گرا توانایی‌ات است که از داستان بیشتر گیج شوی تا از واقعیت،» گفت هری. «اگر به یک اندازه در توضیح هر نتیجه‌ای خوبی، دانش صفر داری. دانش‌آموزان فکر می‌کردند می‌توانند از کلماتی مثل «به‌خاطر رسانش گرما» برای توضیح هرچیزی استفاده کنند، حتی صفحه‌ی فلزی خنک‌تر در سمت نزدیک‌تر به آتش. پس متوجه نشدند چقدر گیج‌اند، و یعنی نمی‌توانستند از دروغ بیشتر از حقیقت گیج شوند. اگر به من بگویی قنطورس‌ها زیر طلسم ایمپریوس بودند، همچنان حس چیزی نه‌چندان درست دارم. متوجه‌ام که پس از شنیدن توضیحت همچنان گیجم.»",
+    "summary_fa": "در راه رفتن و فکر کردن، هری حکایت صفحه‌ی فلزی برگردانده‌شده را می‌گوید و اخلاقش را می‌گیرد: توان عقل‌گرا این است که از داستان بیشتر از واقعیت گیج شود."
+  },
+  {
+    "id": 31,
+    "paras": [
+      148,
+      149,
+      150,
+      151,
+      152
+    ],
+    "verbatim_html": [
+      "\"Hm,\" said Professor Quirrell.",
+      "They walked on further.",
+      "\"I don't suppose,\" said Harry, \"that it's possible to <em>actually</em> swap people into alternate universes? Like, this isn't our own Rita Skeeter, or they temporarily sent her somewhere else?\"",
+      "\"If <em>that</em> was possible,\" Professor Quirrell said, his voice rather dry, \"would I still be <em>here?</em> \"",
+      "And just as they were almost to the huge white front of the Gringotts building, Professor Quirrell said:"
+    ],
+    "summary_en": "Hm, they walk on; Harry's alternate-universe swap theory earns Quirrell's dry retort — would he still be here? — as Gringotts looms and Quirrell announces insight.",
+    "translation_fa": "«هوم،» گفت پروفسور کویرل.\n\nبیشتر راه رفتند.\n\n«حدس نزنم،» گفت هری، «که واقعاً ممکن باشد آدم‌ها را به دنیاهای موازی عوض کرد؟ مثل این‌که، این ریتا اسکیتر خودمان نیست، یا موقتاً او را جای دیگری فرستاده‌اند؟»\n\n«اگر آن ممکن بود،» پروفسور کویرل گفت، صدایش نسبتاً خشک، «آیا من هنوز اینجا بودم؟»\n\nو درست وقتی تقریباً به نمای سفید عظیم ساختمان گرینگوتز رسیده بودند، پروفسور کویرل گفت:",
+    "summary_fa": "پس از «هوم» و ادامه‌ی راه، نظریه‌ی تعویض دنیای موازی هری پاسخ خشک کویرل را می‌گیرد ــ آیا هنوز اینجا بود؟ ــ و نزدیک گرینگوتز کویرل از بصیرت خبر می‌دهد."
+  },
+  {
+    "id": 32,
+    "paras": [
+      153,
+      154,
+      155,
+      156,
+      157
+    ],
+    "verbatim_html": [
+      "\"Ah. Of <em>course.</em> I see it now. Let me guess, the Weasley twins?\"",
+      "\"<em>What?</em> \" said Harry, his voice going up another octave in pitch. \"<em>How?</em> \"",
+      "\"I'm afraid I couldn't say.\"",
+      "\"...That is <em>not</em> fair.\"",
+      "\"I think it is extremely fair,\" said Professor Quirrell, and they entered through the bronze doors."
+    ],
+    "summary_en": "Of course — the Weasley twins; Harry's outraged How? meets a mirrored I'm afraid I couldn't say, and fair is fair through the bronze doors.",
+    "translation_fa": "«آه. البته. اکنون می‌بینمش. حدس بزنم، دوقلوهای ویزلی؟»\n\n«چی؟» گفت هری، صدایش یک اکتاو بالاتر رفت. «چطور؟»\n\n«می‌ترسم نتوانم بگویم.»\n\n«...این عادلانه نیست.»\n\n«فکر کنم به‌شدت عادلانه است،» گفت پروفسور کویرل، و از درهای برنزی وارد شدند.",
+    "summary_fa": "البته ــ دوقلوهای ویزلی؛ «چطور؟» خشمگین هری با آینه‌ی «نمی‌توانم بگویم» روبه‌رو می‌شود و عادلانه از درهای برنزی می‌گذرند."
+  },
+  {
+    "id": 33,
+    "paras": [
+      158,
+      159,
+      160,
+      161,
+      162
+    ],
+    "verbatim_html": [
+      "* * *",
+      "The time was just before noon, and Harry and Professor Quirrell were seated at the foot and head of a wide, long, flat table, in a sumptuously appointed private room with thoroughly cushioned couches and chairs along the walls, and soft curtains hanging everywhere.",
+      "They were about to eat lunch in Mary's Place, which Professor Quirrell had said was known to him as one of the best restaurants in Diagon Alley, especially for - his voice had dropped meaningfully - <em>certain purposes.</em>",
+      "It was the nicest restaurant that Harry had ever been in, and it was really eating away at Harry that Professor Quirrell was treating <em>him</em> to the meal.",
+      "The first part of the mission, to find an Occlumency instructor, had been a success. Professor Quirrell, smiling evilly, had told Griphook to recommend the best he knew, and not worry about the expense, since Dumbledore was paying it; and the goblin had smiled in return. There might have been a certain amount of smiling on Harry's part as well."
+    ],
+    "summary_en": "After a break, lunch in scry-proof Mary's Room at Mary's Place: Quirrell treats a nettled Harry, the Occlumency hire succeeded at Dumbledore's expense.",
+    "translation_fa": "* * *\n\nزمان کمی پیش از ظهر بود، و هری و پروفسور کویرل در پا و سر میز پهن، دراز و تختی نشسته بودند، در اتاق خصوصی مجللی با مبل‌ها و صندلی‌های کاملاً بالشتی در امتداد دیوارها و پرده‌های نرمی که همه‌جا آویزان بودند.\n\nداشتند در مکان مری ناهار بخورند که پروفسور کویرل گفته بود به‌عنوان یکی از بهترین رستوران‌های دایگون‌الی می‌شناسدش، به‌ویژه برای ــ صدایش معنادار پایین رفته بود ــ مقاصد خاص.\n\nشیک‌ترین رستورانی بود که هری تابه‌حال در آن بوده بود، و واقعاً هری را می‌خورد که پروفسور کویرل او را به غذا مهمان می‌کند.\n\nبخش اول مأموریت، یافتن مربی ذهن‌بندی، موفق بوده بود. پروفسور کویرل، شرورانه لبخندزنان، به گریپ‌هوک گفته بود بهترینی را که می‌شناسد توصیه کند و نگران هزینه نباشد، چون دامبلدور پرداختش می‌کند؛ و گابلین در جواب لبخند زده بود. ممکن بود مقدار خاصی لبخند از سوی هری هم بوده باشد.",
+    "summary_fa": "پس از جداکننده، ناهار در اتاق ضدجاسوسی مری: کویرل هریِ آزرده را مهمان می‌کند و استخدام مربی ذهن‌بندی به خرج دامبلدور موفق بوده است."
+  },
+  {
+    "id": 34,
+    "paras": [
+      163,
+      164,
+      165,
+      166,
+      167
+    ],
+    "verbatim_html": [
+      "The second part of the plan had been a complete failure.",
+      "Harry was not allowed to take money out of his vault without Headmaster Dumbledore or some other school official present, and Professor Quirrell had not been given the vault key. Harry's Muggle parents could not authorize it because they were Muggles, and Muggles had around the same legal standing as children or kittens: they were cute, so if you tortured them in public you could get arrested, but they weren't <em>people</em>. Some reluctant provision had been made for recognizing the parents of Muggleborns as human in a limited sense, but Harry's adoptive parents did not fall into that legal category.",
+      "It seemed that Harry was effectively an orphan in the eyes of the wizarding world. As such, the Headmaster of Hogwarts, or his designees <em>within</em> the school system, were Harry's guardians until he graduated. Harry <em>could</em> breathe without Dumbledore's permission, but only so long as the Headmaster did not specifically prohibit it.",
+      "Harry had then asked if he could simply <em>tell</em> Griphook how to diversify his investments beyond stacks of gold coins sitting in his vault.",
+      "Griphook had stared blankly and asked what 'diversify' meant."
+    ],
+    "summary_en": "The money half failed: Harry is a legal orphan under Hogwarts guardianship, Muggle parents count as kittens, and Griphook doesn't know diversify.",
+    "translation_fa": "بخش دوم نقشه کاملاً شکست خورده بود.\n\nبه هری اجازه داده نمی‌شد بدون حضور مدیر هاگوارتز یا مقام مدرسه‌ی دیگری از صندوقش پول بردارد، و کلید صندوق به پروفسور کویرل داده نشده بود. والدین ماگل هری نمی‌توانستند مجوز بدهند چون ماگل بودند، و ماگل‌ها تقریباً همان جایگاه قانونی کودکان یا بچه‌گربه‌ها را داشتند: بامزه بودند، پس اگر در ملأعام شکنجه‌شان می‌کردی دستگیر می‌شدی، ولی آدم نبودند. تدارک بی‌میلی برای به رسمیت شناختن والدین ماگل‌زاده‌ها به‌عنوان انسان به معنای محدود دیده شده بود، ولی والدین خوانده‌ی هری در آن دسته‌ی قانونی نمی‌گنجیدند.\n\nبه نظر می‌رسید هری عملاً در چشم دنیای جادوگری یتیم است. به این ترتیب، مدیر هاگوارتز یا منصوبانش درون نظام مدرسه، سرپرستان هری بودند تا فارغ‌التحصیل شود. هری می‌توانست بدون اجازه‌ی دامبلدور نفس بکشد، ولی فقط تا وقتی مدیر به‌طور خاص منعش نکرده باشد.\n\nهری بعد پرسیده بود آیا می‌تواند ساده به گریپ‌هوک بگوید چطور سرمایه‌گذاری‌هایش را فراتر از توده‌های سکه‌ی طلای نشسته در صندوقش متنوع کند.\n\nگریپ‌هوک خیره‌ی تهی مانده و پرسیده بود «متنوع» یعنی چه.",
+    "summary_fa": "نیمه‌ی مالی شکست خورد: هری یتیم قانونی زیر سرپرستی هاگوارتز است، والدین ماگلش حکم بچه‌گربه دارند و گریپ‌هوک «متنوع‌سازی» را نمی‌فهمد."
+  },
+  {
+    "id": 35,
+    "paras": [
+      168,
+      169,
+      170,
+      171,
+      172
+    ],
+    "verbatim_html": [
+      "Banks, it seemed, did not make investments. Banks stored your gold coins in secure vaults for an annual fee.",
+      "The wizarding world did not have a concept of stock. Or equity. Or corporations. Businesses were run by families out of their personal vaults.",
+      "Loans were made by rich people, not banks. Though Gringotts would witness the contract, for a fee, and enforce its collection, for a much larger fee.",
+      "Good rich people let their friends borrow money and pay it back whenever. <em>Bad</em> rich people charged you <em>interest.</em>",
+      "There was no secondary market in loans."
+    ],
+    "summary_en": "Wizarding finance appalls: banks only store coins, no stock or corporations, loans come from rich people, and bad rich charge interest with no secondary market.",
+    "translation_fa": "به نظر می‌رسید بانک‌ها سرمایه‌گذاری نمی‌کنند. بانک‌ها سکه‌های طلایت را در صندوق‌های امن با کارمزد سالانه نگه می‌دارند.\n\nدنیای جادوگری مفهوم سهام نداشت. یا سرمایه. یا شرکت‌ها. کسب‌وکارها را خانواده‌ها از صندوق‌های شخصی‌شان اداره می‌کردند.\n\nوام‌ها را آدم‌های پولدار می‌دادند، نه بانک‌ها. گرچه گرینگوتز قرارداد را شهادت می‌داد، با کارمزدی، و وصولش را اجرا می‌کرد، با کارمزد بسیار بزرگ‌تری.\n\nآدم‌های پولدار خوب می‌گذاشتند دوستانشان پول قرض بگیرند و هروقت شد پس بدهند. پولدارهای بد به تو بهره می‌گرفتند.\n\nبازار ثانویه‌ای در وام‌ها نبود.",
+    "summary_fa": "مالیات جادوگری هولناک است: بانک‌ها فقط سکه نگه می‌دارند، سهام و شرکت نیست، وام را پولدارها می‌دهند و پولدار بد بهره می‌گیرد و بازار ثانویه نیست."
+  },
+  {
+    "id": 36,
+    "paras": [
+      173,
+      174,
+      175,
+      176,
+      177
+    ],
+    "verbatim_html": [
+      "Evil rich people charged you annual interest rates of at least 20%.",
+      "Harry had stood up, turned away, and rested his head against the wall.",
+      "Harry had asked if he needed the Headmaster's permission before he could start a bank.",
+      "Professor Quirrell had interrupted at this point, saying that it was time for lunch, and swiftly conducted a fuming Harry out of the bronze doors of Gringotts, through Diagon Alley, and to a fine restaurant called Mary's Place, where a room had been reserved for them. The owner had looked shocked at seeing Professor Quirrell accompanied by Harry Potter, but had conducted them to the room without complaint.",
+      "And Professor Quirrell had quite deliberately announced that he would pay the bill, seeming to rather enjoy the look on Harry's face."
+    ],
+    "summary_en": "Evil rich charge 20%; Harry fumes about founding a bank till Quirrell reroutes him to Mary's Place, pointedly paying the bill himself.",
+    "translation_fa": "پولدارهای شرور نرخ بهره‌ی سالانه‌ی دست‌کم ۲۰٪ می‌گرفتند.\n\nهری بلند شده، برگشته و سرش را به دیوار تکیه داده بود.\n\nهری پرسیده بود آیا پیش از آن‌که بتواند بانکی راه بیندازد به اجازه‌ی مدیر نیاز دارد.\n\nپروفسور کویرل در این نقطه وسط آمده بود و گفته بود وقت ناهار است و به‌سرعت هری خشمگین را از درهای برنزی گرینگوتز، از میان دایگون‌الی، به رستوران خوبی به نام مکان مری برده بود که اتاقی برایشان رزرو شده بود. صاحب رستوران از دیدن پروفسور کویرل همراه هری پاتر شوکه به نظر رسیده بود ولی بدون شکایت آن‌ها را به اتاق برده بود.\n\nو پروفسور کویرل کاملاً عمدی اعلام کرده بود که خودش صورتحساب را می‌پردازد، و به نظر می‌رسید از نگاه صورت هری لذت می‌برد.",
+    "summary_fa": "شرورها ۲۰٪ می‌گیرند؛ هری خشمگین از تأسیس بانک می‌گوید تا کویرل او را به مکان مری می‌برد و عمداً خودش صورتحساب را می‌پردازد."
+  },
+  {
+    "id": 37,
+    "paras": [
+      178,
+      179,
+      180,
+      181,
+      182
+    ],
+    "verbatim_html": [
+      "\"No,\" said Professor Quirrell to the waitress, \"we will not require menus. I will have the daily special accompanied by a bottle of Chianti, and Mr. Potter will have the Diracawl soup to start, followed by a plate of Roopo balls, and treacle pudding for dessert.\"",
+      "The waitress, clad in robes that still looked severe and formal while being rather shorter than usual, bowed respectfully and departed, shutting the door behind her.",
+      "Professor Quirrell waved a hand in the direction of the door, and a bolt slid shut. \"Note the bolt on the inside. This room, Mr. Potter, is known as Mary's Room. It happens to be proof against all scrying, and I do mean <em>all;</em> Dumbledore himself could detect nothing of what happens here. Mary's Room is used by two kinds of people. The first sort are engaged in illicit dalliances. And the second sort lead interesting lives.\"",
+      "\"<em>Really,</em>\" said Harry.",
+      "Professor Quirrell nodded."
+    ],
+    "summary_en": "Quirrell orders extravagantly without menus; the bolted Mary's Room defeats all scrying and serves dalliers and interesting lives — Really.",
+    "translation_fa": "«نه،» گفت پروفسور کویرل به پیشخدمت، «منو لازم نخواهیم داشت. من غذای ویژه‌ی روز را با بطری کیانتی می‌خورم و آقای پاتر سوپ دیراکاول برای شروع، بعد بشقاب توپ‌های روپو و پودینگ شیره برای دسر.»\n\nپیشخدمت، پوشیده در رداهایی که همچنان جدی و رسمی به نظر می‌رسیدند در حالی که نسبتاً کوتاه‌تر از معمول بودند، محترمانه تعظیم کرد و رفت و در را پشت سرش بست.\n\nپروفسور کویرل دستی به‌سوی در تکان داد و چفتی بسته شد. «به چفت داخل توجه کن. این اتاق، آقای پاتر، به اتاق مری معروف است. اتفاقاً ضد همه‌ی جاسوسی‌هاست، و منظورم واقعاً همه است؛ خود دامبلدور هم نمی‌توانست چیزی از آنچه اینجا رخ می‌دهد تشخیص بدهد. اتاق مری را دو جور آدم استفاده می‌کنند. دسته‌ی اول درگیر روابط نامشروع‌اند. و دسته‌ی دوم زندگی‌های جالبی دارند.»\n\n«واقعاً،» گفت هری.\n\nپروفسور کویرل سر تکان داد.",
+    "summary_fa": "کویرل بدون منو سفارش مفصل می‌دهد؛ اتاق چفت‌شده‌ی مری ضد هر جاسوسی است و به درد روابط نامشروع و زندگی‌های جالب می‌خورد ــ واقعاً."
+  },
+  {
+    "id": 38,
+    "paras": [
+      183,
+      184,
+      185,
+      186,
+      187
+    ],
+    "verbatim_html": [
+      "Harry's lips were parted in anticipation. \"It would be a waste to just sit here and eat lunch, then, without doing anything special.\"",
+      "Professor Quirrell grinned, then took out his wand and flicked it in the direction of the door. \"Of course,\" he said, \"people who lead interesting lives take precautions more <em>thorough</em> than the dalliers. I have just sealed us in. Nothing will now pass in or out of this room - through the crack under the door, for example. And...\"",
+      "Professor Quirrell then spoke no fewer than four different Charms, none of which Harry recognized.",
+      "\"Even that does not <em>really</em> suffice,\" said Professor Quirrell. \"If we were doing anything of truly great import, it would be necessary to perform another twenty-three checks besides those. If, say, Rita Skeeter knew or guessed that we would come here, it is possible that she could be in this room wearing the true Cloak of Invisibility. Or she could be an Animagus with a tiny form, perhaps. There are tests to rule out such rare possibilities, but to perform all of them would be arduous. Still, I wonder if I should do them anyway, just so as not to teach you bad habits?\" And Professor Quirrell tapped a finger on his cheek, looking abstracted.",
+      "\"It's fine,\" Harry said, \"I understand, and I'll remember.\" Though he was a little disappointed that they weren't doing anything of truly great import."
+    ],
+    "summary_en": "Quirrell seals the room beyond dalliers' precautions, muses about twenty-three more checks against Skeeter under Cloaks or as Animagus, and Harry files it away, faintly disappointed.",
+    "translation_fa": "لب‌های هری در انتظار باز بود. «حیف است فقط اینجا بنشینیم و ناهار بخوریم، بعد، بدون انجام کار خاصی.»\n\nپروفسور کویرل پوزخند زد، بعد چوبدستی‌اش را درآورد و به‌سوی در تکانش داد. «البته،» گفت، «آدم‌هایی که زندگی‌های جالبی دارند احتیاط‌های کامل‌تری از هرزه‌ها می‌کنند. تازه ما را مهر و موم کردم. دیگر هیچ‌چیز از این اتاق داخل یا خارج نمی‌شود ــ از شکاف زیر در، مثلاً. و...»\n\nپروفسور کویرل بعد کمتر از چهار طلسم مختلف نگفت که هیچ‌کدام را هری نمی‌شناخت.\n\n«حتی آن واقعاً کافی نیست،» گفت پروفسور کویرل. «اگر کار واقعاً مهمی می‌کردیم، لازم بود بیست‌وسه بررسی دیگر علاوه بر آن‌ها انجام شود. اگر، مثلاً، ریتا اسکیتر می‌دانست یا حدس می‌زد که به اینجا می‌آییم، ممکن است با شنل نامرئی‌کننده‌ی واقعی در این اتاق باشد. یا شاید انیماگوس با شکل کوچکی باشد. آزمون‌هایی برای رد چنین احتمال‌های نادری هست، ولی انجام همه‌شان طاقت‌فرسا بود. با این حال، نمی‌دانم به‌هرحال انجامشان بدهم، فقط تا عادت‌های بد به تو یاد ندهم؟» و پروفسور کویرل انگشتی به گونه‌اش زد، متفکرانه به نظر می‌رسید.\n\n«اشکالی ندارد،» گفت هری، «می‌فهمم و به خاطر خواهم سپرد.» گرچه کمی ناامید بود که کار واقعاً مهمی نمی‌کردند.",
+    "summary_fa": "کویرل اتاق را فراتر از احتیاط هرزه‌ها مهر می‌کند و از بیست‌وسه بررسی دیگر علیه اسکیتر نامرئی یا انیماگوس می‌گوید و هری کمی ناامید به خاطر می‌سپارد."
+  },
+  {
+    "id": 39,
+    "paras": [
+      188,
+      189,
+      190,
+      191,
+      192
+    ],
+    "verbatim_html": [
+      "\"Very well,\" Professor Quirrell said. He leaned back in his chair, smiling broadly. \"You wrought quite well today, Mr. Potter. The basic notion was yours, I'm sure, even if you delegated the execution. I don't think we'll be hearing much more from Rita Skeeter after this. Lucius Malfoy will not be pleased with her failure. If she's smart, she'll flee the country the instant she realizes she's been fooled.\"",
+      "A sinking sensation began to dawn in Harry's stomach. \"Lucius was behind Rita Skeeter...?\"",
+      "\"Oh, you didn't realize that?\" said Professor Quirrell.",
+      "Harry hadn't thought about what would happen to Rita Skeeter afterward.",
+      "At all."
+    ],
+    "summary_en": "Quirrell credits Harry's notion, predicts Skeeter's flight from an angry Lucius — and Harry realizes Lucius was behind her and never considered her fate.",
+    "translation_fa": "«بسیار خوب،» گفت پروفسور کویرل. به صندلی‌اش تکیه داد، پهن لبخندزنان. «امروز خوب بافتی، آقای پاتر. ایده‌ی پایه مال تو بود مطمئنم، حتی اگر اجرا را واگذار کرده باشی. فکر نکنم پس از این از ریتا اسکیتر زیاد بشنویم. لوسیوس مالفوی از شکستش خشنود نخواهد شد. اگر باهوش باشد، لحظه‌ای که بفهمد فریب خورده از کشور می‌گریزد.»\n\nحس فرورفتنی در معده‌ی هری شروع به دمیدن کرد. «لوسیوس پشت ریتا اسکیتر بود...؟»\n\n«اوه، متوجه نشده بودی؟» گفت پروفسور کویرل.\n\nهری به این‌که پس از آن چه بر سر ریتا اسکیتر می‌آید فکر نکرده بود.\n\nاصلاً.\n\nذره‌ای.",
+    "summary_fa": "کویرل ایده را از هری می‌داند و گریز اسکیتر از لوسیوس خشمگین را پیش‌بینی می‌کند ــ و هری می‌فهمد لوسیوس پشت او بوده و اصلاً به سرنوشتش فکر نکرده بود."
+  },
+  {
+    "id": 40,
+    "paras": [
+      193,
+      194,
+      195,
+      196,
+      197
+    ],
+    "verbatim_html": [
+      "Not in the slightest.",
+      "But she would get fired from her job, <em>of course</em> she would be fired, she might have children going through Hogwarts for all Harry knew, and now it was worse, much worse -",
+      "\"Is Lucius going to have her killed?\" Harry said in a barely audible voice. Somewhere in his head, the Sorting Hat was screaming at him.",
+      "Professor Quirrell smiled dryly. \"If you have not dealt with journalists before, take it from me that the world gets a little brighter every time one dies.\"",
+      "Harry jumped out of his chair with a convulsive movement, he had to find Rita Skeeter and warn her before it was too late -"
+    ],
+    "summary_en": "Firing, ruin, children — will Lucius kill her? the Sorting Hat screaming — Quirrell's journalists joke sends Harry leaping to warn her.",
+    "translation_fa": "ذره‌ای.\n\nولی از کارش اخراج می‌شد، البته که اخراج می‌شد، ممکن بود بچه‌هایی داشته باشد که در هاگوارتز می‌روند از آنچه هری می‌دانست، و اکنون بدتر بود، بسیار بدتر ــ\n\n«لوسیوس او را خواهد کشت؟» گفت هری با صدایی به‌سختی شنیدنی. جایی در سرش، کلاه گروه‌بندی سرش فریاد می‌کشید.\n\nپروفسور کویرل خشک لبخند زد. «اگر پیش‌تر با روزنامه‌نگارها سر و کار نداشته‌ای، از من بشنو که دنیا هر بار یکی‌شان می‌میرد کمی روشن‌تر می‌شود.»\n\nهری با حرکتی تشنجی از صندلی‌اش بیرون پرید، باید ریتا اسکیتر را پیدا می‌کرد و پیش از آن‌که دیر شود هشدارش می‌داد ــ",
+    "summary_fa": "اخراج، نابودی، بچه‌ها ــ آیا لوسیوس او را می‌کشد؟ در حالی که کلاه فریاد می‌کشد، شوخی کویرل درباره‌ی روزنامه‌نگارها هری را از جا می‌پراند تا هشدارش دهد."
+  },
+  {
+    "id": 41,
+    "paras": [
+      198,
+      199,
+      200,
+      201,
+      202
+    ],
+    "verbatim_html": [
+      "\"<em>Sit down</em>,\" Professor Quirrell said sharply. \"<em>No</em>, Lucius won't kill her. But Lucius makes life <em>extremely</em> unpleasant for those who serve him ill. Miss Skeeter will flee and start her life over with a new name. <em>Sit down,</em> Mr. Potter; there is nothing you can do at this point, and you have a lesson to learn.\"",
+      "Harry sat down, slowly. There was a disappointed, annoyed look on Professor Quirrell's face that was doing more to stop him than the words.",
+      "\"There are times,\" Professor Quirrell said, his voice cutting, \"when I worry that your brilliant Slytherin mind is simply wasted on you. Repeat after me. Rita Skeeter was a vile, disgusting woman.\"",
+      "\"Rita Skeeter was a vile, disgusting woman,\" Harry said. He wasn't comfortable saying it, but there didn't seem to be any other possible actions, none at all.",
+      "\"Rita Skeeter tried to destroy my reputation, but I executed an ingenious plan and destroyed <em>her</em> reputation first.\""
+    ],
+    "summary_en": "Sit down: Lucius won't kill but ruins her, so she'll flee renamed — and Harry must learn; Quirrell drills him to recite Skeeter's vileness and his ingenious victory.",
+    "translation_fa": "«بنشین،» پروفسور کویرل تند گفت. «نه، لوسیوس او را نمی‌کشد. ولی لوسیوس زندگی را به‌شدت برای کسانی که بد خدمتش کنند ناخوشایند می‌کند. خانم اسکیتر می‌گریزد و زندگی‌اش را با نامی نو از سر می‌گیرد. بنشین، آقای پاتر؛ در این نقطه کاری از دستت برنمی‌آید و درسی داری که بیاموزی.»\n\nهری نشست، به‌آرامی. نگاه ناامید و آزرده‌ای روی صورت پروفسور کویرل بود که بیشتر از کلمات متوقفش می‌کرد.\n\n«وقت‌هایی هست،» گفت پروفسور کویرل، صدایش برنده، «که نگرانم ذهن اسلیترینی درخشانت ساده بر تو هدر رفته باشد. پس از من تکرار کن. ریتا اسکیتر زن پست و منزجرکننده‌ای بود.»\n\n«ریتا اسکیتر زن پست و منزجرکننده‌ای بود،» گفت هری. از گفتنش راحت نبود، ولی به نظر نمی‌رسید هیچ عمل ممکن دیگری باشد، اصلاً هیچ.\n\n«ریتا اسکیتر تلاش کرد آبرویم را نابود کند، ولی من نقشه‌ی هوشمندانه‌ای اجرا کردم و اول آبروی او را نابود کردم.»",
+    "summary_fa": "بنشین: لوسیوس نمی‌کشد ولی نابودش می‌کند پس با نامی نو می‌گریزد ــ و هری باید بیاموزد؛ کویرل او را وادار می‌کند پستی اسکیتر و پیروزی هوشمندانه‌اش را تکرار کند."
+  },
+  {
+    "id": 42,
+    "paras": [
+      203,
+      204,
+      205,
+      206,
+      207
+    ],
+    "verbatim_html": [
+      "\"Rita Skeeter challenged me. She lost the game, and I won.\"",
+      "\"Rita Skeeter was an obstacle to my future plans. I had no choice but to deal with her if I wanted those plans to succeed.\"",
+      "\"Rita Skeeter was my enemy.\"",
+      "\"I cannot possibly get anything done in life if I am not willing to defeat my enemies.\"",
+      "\"I have defeated one of my enemies today.\""
+    ],
+    "summary_en": "The catechism continues — she challenged and lost, stood in his way, was his enemy — until defeating enemies becomes the price of getting anything done.",
+    "translation_fa": "«ریتا اسکیتر مرا به چالش کشید. او بازی را باخت و من بردم.»\n\n«ریتا اسکیتر مانع نقشه‌های آینده‌ام بود. چاره‌ای نداشتم جز این‌که با او برخورد کنم اگر می‌خواستم آن نقشه‌ها موفق شوند.»\n\n«ریتا اسکیتر دشمن من بود.»\n\n«نمی‌توانم در زندگی چیزی انجام بدهم اگر حاضر نباشم دشمنانم را شکست بدهم.»\n\n«امروز یکی از دشمنانم را شکست داده‌ام.»",
+    "summary_fa": "تلقین ادامه می‌یابد ــ او چالش کرد و باخت، مانع راه بود، دشمن بود ــ تا شکست دشمنان بهای انجام هر کاری در زندگی می‌شود."
+  },
+  {
+    "id": 43,
+    "paras": [
+      208,
+      209,
+      210,
+      211,
+      212
+    ],
+    "verbatim_html": [
+      "\"I am a good boy.\"",
+      "\"I deserve a special reward.\"",
+      "\"Ah,\" said Professor Quirrell, who had been grinning a benevolent smile for the last few lines, \"I see I have succeeded in catching your attention.\"",
+      "That was true. And while Harry felt like he was being railroaded into something - no, that wasn't just a feeling, he <em>had</em> been railroaded - he couldn't deny that saying those things, and seeing Professor Quirrell's smile, <em>did</em> make him feel better.",
+      "Professor Quirrell reached into his robes, the gesture slow and deliberately significant, and drew forth..."
+    ],
+    "summary_en": "Good boy, special reward — Quirrell beams at catching Harry's attention; railroaded yet soothed, Harry watches him draw something from his robes.",
+    "translation_fa": "«پسر خوبی هستم.»\n\n«پاداش ویژه‌ای سزاوارم.»\n\n«آه،» گفت پروفسور کویرل که برای چند خط آخر لبخند خیرخواهانه‌ای زده بود، «می‌بینم که موفق شدم توجهت را جلب کنم.»\n\nاین درست بود. و در حالی که هری حس می‌کرد به چیزی رانده می‌شود ــ نه، فقط حس نبود، رانده شده بود ــ نمی‌توانست انکار کند که گفتن آن چیزها و دیدن لبخند پروفسور کویرل حالش را بهتر کرد.\n\nپروفسور کویرل به ردایش دست برد، ژستی آهسته و عمداً معنادار، و بیرون کشید...",
+    "summary_fa": "پسر خوب، پاداش ویژه ــ کویرل از جلب توجه هری خرسند است؛ هری رانده‌شده ولی آرام‌شده تماشا می‌کند که از ردایش چیزی بیرون می‌کشد."
+  },
+  {
+    "id": 44,
+    "paras": [
+      213,
+      214,
+      215,
+      216,
+      217
+    ],
+    "verbatim_html": [
+      "...a <em>book</em>.",
+      "It was different from any book Harry had ever seen, the edges and corners visibly misshapen; <em>rough-hewn</em> was the phrase that came to mind, like it had been hacked out of a book mine.",
+      "\"What is it?\" breathed Harry.",
+      "\"A diary,\" said Professor Quirrell.",
+      "\"Whose?\""
+    ],
+    "summary_en": "A book — rough-hewn as if hacked from a book mine; breatheless What is it? A diary. Whose?",
+    "translation_fa": "...یک کتاب.\n\nبا هر کتابی که هری تابه‌حال دیده بود فرق داشت، لبه‌ها و گوشه‌ها به‌وضوح بدشکل؛ خشن‌تراشیده عبارتی بود که به ذهن می‌آمد، مثل این‌که از معدن کتاب کنده شده باشد.\n\n«چیست؟» هری نفس‌زنان گفت.\n\n«خاطرات روزانه،» گفت پروفسور کویرل.\n\n«مال کی؟»",
+    "summary_fa": "یک کتاب ــ خشن‌تراشیده انگار از معدن کتاب کنده شده؛ «چیست؟» نفس‌زنان. خاطرات روزانه. مال کی؟"
+  },
+  {
+    "id": 45,
+    "paras": [
+      218,
+      219,
+      220,
+      221,
+      222
+    ],
+    "verbatim_html": [
+      "\"That of a famous person.\" Professor Quirrell was smiling broadly.",
+      "\"Okay...\"",
+      "Professor Quirrell's expression became more serious. \"Mr. Potter, one of the requisites for becoming a powerful wizard is an excellent memory. The key to a puzzle is often something you read twenty years ago in an old scroll, or a peculiar ring you saw on the finger of a man you met only once. I mention this to explain how I managed to remember this item, and the placard attached to it, after meeting you a good deal later. You see, Mr. Potter, over the course of my life, I have viewed a number of private collections held by individuals who are, perhaps, not quite deserving of all that they have -\"",
+      "\"You <em>stole</em> it?\" Harry said incredulously.",
+      "\"That is correct,\" said Professor Quirrell. \"Very recently, in fact. I think you will appreciate this particular item much more than the vile little man who held it for no other purpose than impressing his equally vile friends with its rarity.\""
+    ],
+    "summary_en": "A famous person's; Quirrell lectures on memory as a wizard's requisite, confesses viewing undeserving collections — You stole it? — Correct, for Harry's better appreciation.",
+    "translation_fa": "«مال آدم معروفی.» پروفسور کویرل پهن لبخند می‌زد.\n\n«باشه...»\n\nحالت پروفسور کویرل جدی‌تر شد. «آقای پاتر، یکی از لوازم جادوگر قدرتمند شدن حافظه‌ی عالی است. کلید معما اغلب چیزی است که بیست سال پیش در طومار قدیمی خوانده‌ای، یا حلقه‌ی عجیبی که بر انگشت مردی دیدی که فقط یک بار ملاقاتش کردی. این را می‌گویم تا توضیح بدهم چطور توانستم این قلم و پلاکارد چسبیده به آن را به خاطر بسپارم، پس از آن‌که تو را خیلی دیرتر ملاقات کردم. می‌بینی، آقای پاتر، در طول زندگی‌ام، تعدادی مجموعه‌ی خصوصی دیده‌ام متعلق به افرادی که، شاید، چندان سزاوار همه‌ی آنچه دارند نیستند ــ»\n\n«دزدیدی‌اش؟» هری ناباورانه گفت.\n\n«درست است،» گفت پروفسور کویرل. «خیلی اخیراً، در واقع. فکر کنم تو این قلم خاص را خیلی بیشتر از مرد پست کوچکی که آن را نگه داشته بود قدر بدانی که جز تحت تأثیر قرار دادن دوستان به همان اندازه پستش با کمیابی‌اش هدفی نداشت.»",
+    "summary_fa": "مال آدم معروفی؛ کویرل از حافظه به‌عنوان لازمه‌ی جادوگر درس می‌دهد و به دیدن مجموعه‌های ناسزاوار اعتراف می‌کند ــ دزدیدی‌اش؟ ــ درست است، برای قدرشناسی بهتر هری."
+  },
+  {
+    "id": 46,
+    "paras": [
+      223,
+      224,
+      225,
+      226,
+      227
+    ],
+    "verbatim_html": [
+      "Harry was simply gaping now.",
+      "\"But if you feel that my actions were incorrect, Mr. Potter, I suppose you needn't accept your special present. Though of course I shan't go to the trouble of stealing it <em>back</em>. So which is it to be?\"",
+      "Professor Quirrell tossed the book from one hand to another, causing Harry to reach out involuntarily with a look of dismay.",
+      "\"Oh,\" said Professor Quirrell, \"don't worry about a little rough handling. You could toss this diary in a fireplace and it would emerge unscathed. In any case, I await your decision.\"",
+      "Professor Quirrell casually threw the book up into the air and caught it again, grinning."
+    ],
+    "summary_en": "Gaping, Harry hears he may refuse since Quirrell won't steal it back; the book is tossed, declared fireplace-proof, and juggled while Harry decides.",
+    "translation_fa": "هری اکنون ساده دهان‌باز مانده بود.\n\n«ولی اگر حس می‌کنی کارهایم نادرست بوده، آقای پاتر، فکر کنم لازم نباشد هدیه‌ی ویژه‌ات را بپذیری. گرچه البته به دردسر دزدیدن دوباره‌اش نمی‌افتم. پس کدام خواهد بود؟»\n\nپروفسور کویرل کتاب را از دستی به دست دیگر پرت کرد و باعث شد هری بی‌اختیار با نگاه ناراحتی دست دراز کند.\n\n«اوه،» گفت پروفسور کویرل، «نگران کمی برخورد خشن نباش. می‌توانستی این خاطرات را در شومینه بیندازی و سالم بیرون می‌آمد. به‌هرحال، منتظر تصمیم توام.»\n\nپروفسور کویرل بی‌خیال کتاب را به هوا پرت کرد و دوباره گرفتش، پوزخندزنان.",
+    "summary_fa": "هری دهان‌باز می‌شنود می‌تواند رد کند چون کویرل دوباره‌اش نمی‌دزدد؛ کتاب پرت می‌شود، ضدآتش اعلام می‌شود و هنگام تصمیم هری معلق می‌ماند."
+  },
+  {
+    "id": 47,
+    "paras": [
+      228,
+      229,
+      230,
+      231,
+      232
+    ],
+    "verbatim_html": [
+      "<em>No,</em> said Gryffindor and Hufflepuff.",
+      "<em>Yes</em>, said Ravenclaw. <em>What part of the word 'book' did you two not understand?</em>",
+      "<em>The theft part,</em> said Hufflepuff.",
+      "<em>Oh, come on,</em> said Ravenclaw, <em>you can't seriously ask us to say no and spend the rest of our life wondering what it was.</em>",
+      "<em>It sounds like a net positive from a utilitarian standpoint,</em> said Slytherin. <em>Think of it as an economic transaction which generates gains from trade, only without the trade part.</em> <em>Plus,</em> we <em>didn't steal it and it won't help anyone to have Professor Quirrell keep it.</em>"
+    ],
+    "summary_en": "Harry's Houses debate: Gryffindor and Hufflepuff say No, Ravenclaw demands the book, Hufflepuff cites theft, Slytherin cites utilitarian gains from tradeless trade.",
+    "translation_fa": "نه، گفتند گریفندور و هافلپاف.\n\nبله، گفت ریونکلا. کدام بخش کلمه‌ی «کتاب» را آن دو نفهمیدید؟\n\nبخش دزدی‌اش، گفت هافلپاف.\n\nاوه، بیا، گفت ریونکلا، نمی‌توانی جدی از ما بخواهی نه بگوییم و بقیه‌ی عمرمان را صرف فکر کردن به این‌که چه بود بکنیم.\n\nاز نظر فایده‌گرایانه مثبت خالص به نظر می‌رسد، گفت اسلیترین. به آن به‌عنوان معامله‌ی اقتصادی فکر کن که سود تجارت تولید می‌کند، فقط بدون بخش تجارت. به‌علاوه، ما ندزدیدیمش و نگه داشتنش پیش پروفسور کویرل به کسی کمک نمی‌کند.",
+    "summary_fa": "خانه‌های هری بحث می‌کنند: گریفندور و هافلپاف نه می‌گویند، ریونکلا کتاب را می‌خواهد، هافلپاف از دزدی می‌گوید و اسلیترین از سود فایده‌گرایانه‌ی تجارت بی‌تجارت."
+  },
+  {
+    "id": 48,
+    "paras": [
+      233,
+      234,
+      235,
+      236,
+      237
+    ],
+    "verbatim_html": [
+      "<em>He's trying to turn you Dark!</em> shrieked Gryffindor, and Hufflepuff nodded firmly.",
+      "<em>Don't be a naive little boy,</em> said Slytherin, <em>he's trying to teach you Slytherin.</em>",
+      "<em>Yeah,</em> said Ravenclaw. <em>Whoever owned the book originally was probably a Death Eater or something. It belongs with us.<br/></em>",
+      "Harry's mouth opened, then halted that way, an agonized look on his face.",
+      "Professor Quirrell seemed to be quite enjoying himself. He had balanced the book on its corner, on one finger, and was keeping it upright while humming a little tune."
+    ],
+    "summary_en": "Turning Dark! warns Gryffindor; teaching Slytherin, counters Slytherin; Ravenclaw claims it as Death-Eater loot while Harry agonizes and Quirrell balances the book humming.",
+    "translation_fa": "دارد تو را تاریک می‌کند! جیغ کشید گریفندور و هافلپاف محکم سر تکان داد.\n\nبچه‌ی ساده‌لوح نباش، گفت اسلیترین، دارد به تو اسلیترین یاد می‌دهد.\n\nآره، گفت ریونکلا. هرکس کتاب را اصلاً داشته احتمالاً مرگ‌خوار یا چیزی بوده است. مال ماست.\n\nدهان هری باز شد، بعد همان‌طور متوقف ماند، با نگاهی عذاب‌کشیده بر صورتش.\n\nپروفسور کویرل به نظر می‌رسید کاملاً لذت می‌برد. کتاب را روی گوشه‌اش، روی یک انگشت، متعادل کرده بود و آن را راست نگه داشته بود در حالی که آهنگ کوچکی زمزمه می‌کرد.",
+    "summary_fa": "گریفندور از تاریک شدن هشدار می‌دهد؛ اسلیترین از آموزش اسلیترین می‌گوید؛ ریونکلا آن را غنیمت مرگ‌خوار می‌داند و هری عذاب می‌کشد و کویرل زمزمه‌کنان کتاب را متعادل نگه داشته است."
+  },
+  {
+    "id": 49,
+    "paras": [
+      238,
+      239,
+      240,
+      241,
+      242
+    ],
+    "verbatim_html": [
+      "There came a knock at the door.",
+      "The book vanished back into Professor Quirrell's robes, and he rose up from his chair. Professor Quirrell started to walk over to the door -",
+      "- and staggered, suddenly lurching into the wall.",
+      "\"It's all right,\" said Professor Quirrell's voice, which suddenly sounded a lot weaker than usual. \"Sit down, Mr. Potter, it's just a dizzy spell. Sit down.\"",
+      "Harry's fingers gripped the edge of his chair, uncertain as to what he should do, what he <em>could</em> do. Harry couldn't even get too close to Professor Quirrell, not unless he wanted to defy that sense of Doom -"
+    ],
+    "summary_en": "A knock: the book vanishes, Quirrell rises, staggers into the wall in a weak-voiced dizzy spell while Harry grips his chair, kept back by Doom.",
+    "translation_fa": "در زدند.\n\nکتاب به ردای پروفسور کویرل برگشت و ناپدید شد و او از صندلی‌اش بلند شد. پروفسور کویرل شروع کرد به رفتن به‌سوی در ــ\n\nــ و تلوتلو خورد، ناگهان به دیوار کج شد.\n\n«اشکالی ندارد،» صدای پروفسور کویرل گفت که ناگهان بسیار ضعیف‌تر از معمول به نظر می‌رسید. «بنشین، آقای پاتر، فقط سرگیجه است. بنشین.»\n\nانگشت‌های هری لبه‌ی صندلی‌اش را گرفتند، نامطمئن که چه باید بکند، چه می‌توانست بکند. هری حتی نمی‌توانست خیلی به پروفسور کویرل نزدیک شود، نه مگر این‌که می‌خواست آن حس عذاب را نادیده بگیرد ــ",
+    "summary_fa": "در می‌زنند: کتاب ناپدید می‌شود، کویرل بلند می‌شود و با صدایی ضعیف به دیوار کج می‌شود ــ فقط سرگیجه ــ و هری صندلی را می‌چسبد و عذاب نگهش می‌دارد."
+  },
+  {
+    "id": 50,
+    "paras": [
+      243,
+      244,
+      245,
+      246,
+      247
+    ],
+    "verbatim_html": [
+      "Professor Quirrell straightened, then, his breathing seeming a bit heavy, and opened the door.",
+      "The waitress came in, bearing a platter of food; and as she distributed the plates, Professor Quirrell walked slowly back to the table.",
+      "But by the time the waitress had bowed her way out, Professor Quirrell was sitting upright and smiling again.",
+      "Still, the brief episode of whatever-it-was had decided Harry. He couldn't say no, not after Professor Quirrell had gone to that much trouble.",
+      "\"Yes,\" Harry said."
+    ],
+    "summary_en": "Quirrell recovers to open the door; food arrives, he smiles upright again, and the scare decides Harry — he cannot refuse after such trouble. Yes.",
+    "translation_fa": "پروفسور کویرل راست شد، بعد، نفس‌کشیدنش کمی سنگین به نظر می‌رسید، و در را باز کرد.\n\nپیشخدمت آمد، با سینی غذا؛ و وقتی بشقاب‌ها را پخش می‌کرد، پروفسور کویرل به‌آرامی به‌سوی میز برگشت.\n\nولی وقتی پیشخدمت تعظیم‌کنان بیرون رفت، پروفسور کویرل دوباره راست نشسته بود و لبخند می‌زد.\n\nبا این حال، رویداد کوتاه هرچه-که-بود هری را تصمیم‌گیر کرده بود. نمی‌توانست نه بگوید، نه پس از آن‌که پروفسور کویرل این‌همه دردسر کشیده بود.\n\n«بله،» گفت هری.",
+    "summary_fa": "کویرل بهبود می‌یابد و در را باز می‌کند؛ غذا می‌آید و او دوباره راست و لبخندزنان است و ترس هری را تصمیم‌گیر می‌کند ــ پس از این‌همه دردسر نمی‌تواند نه بگوید. بله."
+  },
+  {
+    "id": 51,
+    "paras": [
+      248,
+      249,
+      250,
+      251,
+      252
+    ],
+    "verbatim_html": [
+      "Professor Quirrell held up a cautioning finger, then took out his wand again, locked the door again, and repeated three of the same Charms from earlier.",
+      "Then Professor Quirrell took the book back out of his robes and tossed it to Harry, who almost dropped it into his soup.",
+      "Harry shot Professor Quirrell a look of helpless indignation. You weren't supposed to <em>do</em> that with books, enchanted or not.",
+      "Harry opened the book with ingrained, instinctive care. The pages seemed too thick, with a texture unlike either Muggle paper or wizarding parchment. And the contents were...",
+      "...blank?"
+    ],
+    "summary_en": "Relocked and re-Charmed, the book is tossed near Harry's soup to his indignation; its thick strange pages open to... blank?",
+    "translation_fa": "پروفسور کویرل انگشت هشداردهنده‌ای بالا برد، بعد دوباره چوبدستی‌اش را درآورد، دوباره در را قفل کرد و سه تا از همان طلسم‌های قبلی را تکرار کرد.\n\nبعد پروفسور کویرل کتاب را دوباره از ردایش بیرون آورد و به‌سوی هری پرت کرد که نزدیک بود در سوپش بیندازدش.\n\nهری نگاه درمانده‌ی خشمی به پروفسور کویرل انداخت. نباید آن کار را با کتاب‌ها می‌کردی، افسون‌شده یا نه.\n\nهری کتاب را با دقت ریشه‌دار و غریزی باز کرد. صفحه‌ها زیادی ضخیم به نظر می‌رسیدند، با بافتی متفاوت از کاغذ ماگلی یا پوست جادوگری. و محتویات بودند...\n\n...سفید؟",
+    "summary_fa": "دوباره قفل و طلسم می‌شود و کتاب نزدیک سوپ هری پرت می‌شود به خشم او؛ صفحه‌های ضخیم عجیبش باز می‌شوند به... سفیدی؟"
+  },
+  {
+    "id": 52,
+    "paras": [
+      253,
+      254,
+      255,
+      256
+    ],
+    "verbatim_html": [
+      "\"Am I supposed to be seeing -\"",
+      "\"Look nearer the beginning,\" said Professor Quirrell, and Harry (again with that helpless, ingrained care) turned a block of pages back.",
+      "The lettering was obviously handwritten, and very hard to read, but Harry thought the words might be Latin.",
+      "\"What <em>is</em> this?\" said Harry."
+    ],
+    "summary_en": "Am I supposed to be seeing — ? Nearer the beginning: handwritten lettering, barely legible, possibly Latin. What is this?",
+    "translation_fa": "«قرار است ببینم ــ»\n\n«نزدیک‌تر به آغاز نگاه کن،» گفت پروفسور کویرل، و هری (دوباره با آن دقت درمانده‌ی ریشه‌دار) بلوکی از صفحه‌ها را برگرداند.\n\nحروف آشکارا دست‌نویس بودند و خواندنشان بسیار سخت، ولی هری فکر کرد کلمات ممکن است لاتین باشند.\n\n«این چیست؟» گفت هری.",
+    "summary_fa": "«قرار است ببینم ــ»؟ نزدیک‌تر به آغاز: خط دست‌نویسِ به‌سختی خوانا، شاید لاتین. این چیست؟"
+  },
+  {
+    "id": 53,
+    "paras": [
+      257,
+      258,
+      259
+    ],
+    "verbatim_html": [
+      "\"That,\" said Professor Quirrell, \"is a record of the magical researches of a Muggleborn who never came to Hogwarts. He refused his letter, and conducted his own small investigations, which never did get very far without a wand. From the description on the placard, I expect that his name bears rather more significance to you than to me. That, Harry Potter, is the diary of Roger Bacon.\"",
+      "Harry almost fainted.",
+      "Nestled up against the wall, where Professor Quirrell had stumbled, glistened the crushed remains of a beautiful blue beetle."
+    ],
+    "summary_en": "The diary of Roger Bacon, Muggleborn researches — Harry nearly faints, and by the wall glistens a crushed blue beetle where Quirrell stumbled.",
+    "translation_fa": "«آن،» گفت پروفسور کویرل، «سندی است از پژوهش‌های جادویی ماگل‌زاده‌ای که هرگز به هاگوارتز نیامد. نامه‌اش را رد کرد و بررسی‌های کوچک خودش را انجام داد که بدون چوبدستی هیچ‌وقت خیلی پیش نرفت. از توصیف روی پلاکارد، انتظار دارم نامش برای تو خیلی مهم‌تر از من باشد. آن، هری پاتر، خاطرات راجر بیکن است.»\n\nهری نزدیک بود غش کند.\n\nچسبیده به دیوار، جایی که پروفسور کویرل تلوتلو خورده بود، بقایای له‌شده‌ی سوسک آبی زیبایی می‌درخشید.",
+    "summary_fa": "خاطرات راجر بیکن، پژوهش‌های ماگل‌زاده ــ هری نزدیک است غش کند و کنار دیوار، جایی که کویرل تلوتلو خورد، بقایای له‌شده‌ی سوسک آبی می‌درخشد."
+  }
+]

@@ -1,0 +1,1474 @@
+[
+ {
+  "id": 1,
+  "paras": [
+   1,
+   2
+  ],
+  "verbatim_html": [
+   "Whatever can go Rowling will go Rowling.",
+   "This should <em>again</em> go <em>without saying,</em> but views expressed by Severus Snape are not necessarily those of the author."
+  ],
+  "summary_en": "A Murphy's-law epigraph ('Whatever can go Rowling will go Rowling') plus a disclaimer that Severus Snape's views are not necessarily the author's.",
+  "translation_fa": "هرچه بتواند رولینگی بشود، رولینگی خواهد شد!\n\nگفتن ندارد — ولی باز هم می‌گویم — که دیدگاه‌های سوروس اسنیپ لزوماً دیدگاه‌های نویسنده نیست.",
+  "summary_fa": "پیش‌گفتاری با قانون مورفی به سبک رولینگ و سلب مسئولیت درباره‌ی دیدگاه‌های اسنیپ."
+ },
+ {
+  "id": 2,
+  "paras": [
+   3,
+   4,
+   5
+  ],
+  "verbatim_html": [
+   "* * *",
+   "\"Okay,\" Harry said, swallowing. \"Okay, Hermione, it's enough, you can stop.\"",
+   "The white sugar pill in front of Hermione still hadn't changed shape or color at all, even though she was concentrating harder than Harry had ever seen, her eyes squeezed shut, beads of sweat on her forehead, hand trembling as it gripped the wand -"
+  ],
+  "summary_en": "After a scene break, Harry tells Hermione to stop: the white sugar pill she is straining over with eyes shut and trembling wand-hand has not changed shape or color at all.",
+  "translation_fa": "* * *\n\n«باشه،» هری گفت در حالی که آب دهانش را قورت می‌داد. «باشه هرماینی، کافیه، می‌تونی دست نگه داری.»\n\nقرص سفید قندیِ جلوی هرماینی هنوز ذره‌ای در شکل یا رنگ تغییر نکرده بود، با اینکه او سخت‌تر از هر باری که هری دیده بود تمرکز کرده بود، چشم‌هایش را محکم بسته بود، دانه‌های عرق بر پیشانی‌اش نشسته بود و دستش که چوبدستی را گرفته بود می‌لرزید ــ",
+  "summary_fa": "پس از جداکننده، هری از هرماینی می‌خواهد دست بکشد؛ قرص قندی با وجود تمرکز شدید و دست لرزان او هیچ تغییری نکرده است."
+ },
+ {
+  "id": 3,
+  "paras": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "verbatim_html": [
+   "\"Hermione, <em>stop!</em> It's not going to work, Hermione, I don't think we can make things that don't exist yet!\"",
+   "Slowly, Hermione's hand relaxed its grasp on the wand.",
+   "\"I thought I felt it,\" she said in a bare whisper. \"I thought I felt it start to Transfigure, just for a second.\"",
+   "There was a lump in Harry's throat. \"You were probably imagining it. Hoping too hard.\""
+  ],
+  "summary_en": "Harry says it will not work since they cannot make things that do not exist yet; Hermione's hand relaxes, she whispers she thought she felt the Transfiguration start, and Harry swallows a lump in his throat, saying she probably imagined it from hoping too hard.",
+  "translation_fa": "«هرماینی، بس کن! فایده نداره هرماینی، فکر نکنم بتونیم چیزهایی رو بسازیم که هنوز وجود ندارن!»\n\nبه‌آرامی دست هرماینی چوبدستی را شل گرفت.\n\n«فکر کردم حسش کردم،» با زمزمه‌ای بسیار آهسته گفت. «فکر کردم حس کردم که فقط برای یک لحظه شروع کرد به تغییرشکل دادن.»\n\nبغضی در گلوی هری بود. «احتمالاً داشتی خیال می‌کردی. زیادی داشتی امیدوار بودی.»",
+  "summary_fa": "هری می‌گوید ساختن چیزهای ناموجود ممکن نیست؛ هرماینی می‌گوید لحظه‌ای شروع تغییر را حس کرده و هری می‌گوید از شدت امید خیال کرده است."
+ },
+ {
+  "id": 4,
+  "paras": [
+   10,
+   11
+  ],
+  "verbatim_html": [
+   "\"I probably was,\" she said. She looked like she wanted to cry.",
+   "Slowly, Harry took his mechanical pencil in his hand, and reached over to the sheet of paper with all the items crossed out, and drew a line through the item that said 'ALZHEIMER'S CURE'."
+  ],
+  "summary_en": "Hermione agrees through near-tears, and Harry takes his mechanical pencil and crosses 'ALZHEIMER'S CURE' off their list of crossed-out items.",
+  "translation_fa": "«احتمالاً همین‌طور بود،» گفت. به نظر می‌رسید می‌خواهد گریه کند.\n\nهری به‌آرامی مداد نوکی‌اش را در دست گرفت و دست برد به‌سوی برگه‌ای که همه‌ی مواردش خط خورده بود و روی موردی که می‌گفت «درمان آلزایمر» خط کشید.",
+  "summary_fa": "هرماینی با بغض می‌پذیرد و هری «درمان آلزایمر» را از فهرست موارد خط‌خورده خط می‌زند."
+ },
+ {
+  "id": 5,
+  "paras": [
+   12
+  ],
+  "verbatim_html": [
+   "They couldn't have fed anyone a Transfigured pill. But Transfiguration, at least the kind they could do, didn't enchant the targets - it wouldn't Transfigure a regular broomstick into a flying one. So if Hermione had been able to make a pill at all, it would have been a <em>nonmagical</em> pill, one that worked for ordinary material reasons. They could have secretly made pills for a Muggle science lab, let them <em>study</em> the pills and try to reverse-engineer them before the Transfiguration wore off... no one in either world would need to know that magic had been involved, it would just be another scientific breakthrough..."
+  ],
+  "summary_en": "Harry reflects that a Transfigured pill could never be given to anyone, and since their Transfiguration does not enchant, a pill would have been nonmagical and could have been secretly passed to a Muggle lab to study and reverse-engineer before it wore off — just another scientific breakthrough no one need know involved magic.",
+  "translation_fa": "آن‌ها نمی‌توانستند قرصِ تغییرشکل‌یافته را به کسی بخورانند. ولی تغییرشکل — دست‌کم آن نوعی که آن‌ها بلد بودند — هدف را افسون نمی‌کرد؛ یعنی یک جاروی معمولی را به جاروی پرنده تبدیل نمی‌کرد. پس اگر هرماینی اصلاً می‌توانسته بود قرصی بسازد، آن قرصی غیرجادویی می‌بود، قرصی که به دلایل صرفاً مادی اثر می‌کرد. آن‌ها می‌توانستند پنهانی قرص‌هایی برای یک آزمایشگاه علمی مشنگی بسازند، بگذارند قرص‌ها را بررسی کنند و پیش از آنکه تغییرشکل از بین برود سعی کنند مهندسی معکوسشان کنند... هیچ‌کس در هیچ‌یک از دو دنیا لازم نبود بداند جادو در کار بوده، فقط یک پیشرفت علمی دیگر می‌بود...",
+  "summary_fa": "هری نقشه‌اش را مرور می‌کند: چون تغییرشکل افسون نمی‌کند، قرص می‌توانست غیرجادویی باشد و پنهانی به آزمایشگاهی مشنگی داده شود تا پیش از پایان اثر بررسی و مهندسی معکوس شود."
+ },
+ {
+  "id": 6,
+  "paras": [
+   13,
+   14,
+   15
+  ],
+  "verbatim_html": [
+   "It hadn't been the sort of thing a wizard would think of, either. They didn't respect mere <em>patterns of atoms</em> that much, they didn't think of unenchanted <em>material</em> things as objects of power. If it wasn't magical, it wasn't interesting.",
+   "Earlier, Harry had <em>very</em> secretly - he hadn't even told Hermione - tried to Transfigure nanotechnology a la Eric Drexler. (He'd tried to produce a desktop nanofactory, of course, not tiny self-replicating assemblers, Harry wasn't insane.) It would have been godhood in a single shot if it'd worked.",
+   "\"That was it for today, right?\" said Hermione. She was slumped back in her chair, leaning her head against the back; and her face showed her tiredness, which was very unusual for Hermione. She liked to pretend she was limitless, at least when Harry was around."
+  ],
+  "summary_en": "Wizards would never think of that since they do not respect mere patterns of atoms or unenchanted matter; Harry also recalls secretly trying to Transfigure Drexler-style nanotechnology — a desktop nanofactory, not self-replicating assemblers, since he is not insane — which would have been instant godhood; then exhausted Hermione, slumped in her chair, asks if that was it for today.",
+  "translation_fa": "این هم از آن چیزهایی نبود که ذهن یک جادوگر به آن برسد. آن‌ها برای صرفِ الگوهای اتم‌ها آن‌قدر احترام قائل نبودند، چیزهای مادیِ بی‌افسون را اشیای قدرت نمی‌دانستند. اگر جادویی نبود، جالب نبود.\n\nپیش‌تر، هری خیلی پنهانی — حتی به هرماینی هم نگفته بود — سعی کرده بود نانوفناوری به سبک اریک درکسلر را تغییرشکل بدهد. (البته سعی کرده بود یک نانوساز رومیزی بسازد، نه مونتاژگرهای خودتکثیرشونده‌ی ریز، هری که دیوانه نبود.) اگر جواب می‌داد، یک‌شبه خدایی بود.\n\n«امروز همین‌قدر بود، مگه نه؟» هرماینی گفت. او در صندلی‌اش ولو شده بود، سرش را به پشتی تکیه داده بود؛ و چهره‌اش خستگی را نشان می‌داد، که برای هرماینی خیلی غیرعادی بود. او دوست داشت وانمود کند بی‌حدومرز است، دست‌کم وقتی هری اطراف بود.",
+  "summary_fa": "جادوگران برای ماده‌ی بی‌افسون ارزشی قائل نیستند؛ هری یاد تلاش پنهانی‌اش برای نانوساز رومیزی درکسلر می‌افتد و هرماینیِ ازحال‌رفته می‌پرسد امروز تمام شد؟"
+ },
+ {
+  "id": 7,
+  "paras": [
+   16
+  ],
+  "verbatim_html": [
+   "\"One more,\" Harry said cautiously, \"but that one's small, plus it might actually work. I saved it for last because I was hoping we could end on an up note. It's real stuff, not like phasers. They've already made it in the laboratory, not like the Alzheimer's cure. And it's a generic substance, not specific like the lost books you tried to Transfigure copies of. I made a diagram of the molecular structure to show you. We just want to make it <em>longer</em> than it's ever been made before, and with all the tubes aligned, and the endpoints embedded in diamond.\" Harry produced a sheet of graph paper."
+  ],
+  "summary_en": "Harry cautiously offers one last small experiment that might actually work and end the day on an up note: a real, already-lab-made generic substance — unlike phasers, the Alzheimer's cure, or the lost books Hermione tried to copy — whose molecular diagram he drew, to be made longer and better-aligned than ever before with endpoints embedded in diamond; he produces the graph paper.",
+  "translation_fa": "«یکی دیگه مونده،» هری با احتیاط گفت، «ولی اون کوچیکه، تازه ممکنه واقعاً جواب بده. برای آخر نگهش داشتم چون امیدوار بودم بتونیم با یه خبر خوب تموم کنیم. چیز واقعیه، مثل فازرها نیست. توی آزمایشگاه ساختنش، مثل درمان آلزایمر نیست. و یه ماده‌ی کلیه، نه خاص مثل اون کتاب‌های گمشده‌ای که سعی کردی رونوشت‌شون رو تغییرشکل بدی. نمودار ساختار مولکولی‌ش رو کشیدم تا نشونت بدم. فقط می‌خوایم از هر باری که تا حالا ساخته شده بلندترش کنیم، با همه‌ی لوله‌ها هم‌راستا، و دو سرش توی الماس فرو رفته.» هری یک برگ کاغذ شطرنجی بیرون آورد.",
+  "summary_fa": "هری آخرین آزمایش کوچک را پیشنهاد می‌کند: ماده‌ای واقعی و کلی که در آزمایشگاه ساخته شده و فقط باید بلندتر و هم‌راستاتر از همیشه ساخته شود با دو سر فرو رفته در الماس."
+ },
+ {
+  "id": 8,
+  "paras": [
+   17,
+   18,
+   19,
+   20
+  ],
+  "verbatim_html": [
+   "Hermione sat back up, took it, and studied it, frowning. \"These are <em>all</em> carbon atoms? And Harry, what's the name? I can't Transfigure it if I don't know what it's called.\"",
+   "Harry made a disgusted face. He was still having trouble getting used to that sort of thing, it shouldn't matter what something was <em>named</em> if you knew what it <em>was.</em> \"They're called buckytubes, or carbon nanotubes. It's a kind of fullerene that was discovered just this year. It's about a hundred times stronger than steel and a sixth of the weight.\"",
+   "Hermione looked up from the graph paper, her face surprised. \"That's <em>real?</em> \"",
+   "\"Yeah,\" Harry said, \"just hard to make the Muggle way. If we could get enough of the stuff, we could use it to build a space elevator all the way up to geosynchronous orbit or higher, and in terms of delta-v that's halfway to anywhere in the Solar System. Plus we could throw out solar power satellites like confetti.\""
+  ],
+  "summary_en": "Hermione studies the diagram and asks whether these are all carbon atoms and what it is called, since she cannot Transfigure what she cannot name; disgusted, Harry explains they are buckytubes, carbon nanotubes, a fullerene discovered just this year, a hundred times stronger than steel at a sixth of the weight; Hermione is surprised it is real, and Harry pitches a space elevator to geosynchronous orbit plus solar power satellites like confetti.",
+  "translation_fa": "هرماینی راست نشست، آن را گرفت و با اخم بررسی کرد. «این‌ها همه اتم‌های کربن‌ان؟ و هری، اسمش چیه؟ اگه ندونم اسمش چیه نمی‌تونم تغییرشکلش بدم.»\n\nهری چهره‌ای بیزار کرد. هنوز داشت به‌سختی به این‌جور چیزها عادت می‌کرد، نباید مهم می‌بود که اسم چیزی چیست اگر می‌دانستی چیست. «بهشون می‌گن باکی‌تیوب، یا نانولوله‌های کربنی. یه جور فولِرِنه که همین امسال کشف شده. حدود صد برابر فولاد محکمه و یک‌ششم وزن.»\n\nهرماینی از روی کاغذ شطرنجی سر بلند کرد، چهره‌اش متعجب بود. «این واقعیه؟»\n\n«آره،» هری گفت، «فقط به روش مشنگی ساختنش سخته. اگه بتونیم به‌اندازه‌ی کافی از این چیز گیر بیاریم، می‌تونیم باهاش یه آسانسور فضایی بسازیم تا مدار زمین‌ایستا یا بالاتر، و از نظر دلتا-وی این یعنی نیمی از راه تا هرجای منظومه‌ی شمسی. تازه می‌تونیم ماهواره‌های خورشیدی رو مثل نقل‌ونبات پرتاب کنیم.»",
+  "summary_fa": "هرماینی می‌پرسد اسم ماده چیست چون بدون نام نمی‌تواند تغییرشکل بدهد؛ هری باکی‌تیوب‌ها را توضیح می‌دهد و از آسانسور فضایی و ماهواره‌های خورشیدی حرف می‌زند."
+ },
+ {
+  "id": 9,
+  "paras": [
+   21,
+   22,
+   23
+  ],
+  "verbatim_html": [
+   "Hermione was frowning again. \"Is this stuff <em>safe?</em> \"",
+   "\"I don't see why it wouldn't be,\" Harry said. \"A buckytube is just a graphite sheet wrapped into a circular tube, basically, and graphite is the same stuff used in pencils -\"",
+   "\"I <em>know</em> what graphite is, Harry,\" Hermione said. She brushed her hair back absentmindedly, her eyebrows furrowed as she stared at the sheet of paper."
+  ],
+  "summary_en": "Hermione asks if the stuff is safe; Harry sees no reason it would not be, since a buckytube is basically a graphite sheet wrapped into a tube and graphite is pencil stuff — but Hermione cuts him off, saying she knows what graphite is, brushing her hair back with furrowed brows.",
+  "translation_fa": "هرماینی دوباره اخم کرد. «این چیز امنه؟»\n\n«نمی‌فهمم چرا امن نباشه،» هری گفت. «باکی‌تیوب اساساً فقط یه ورقه‌ی گرافیته که به شکل لوله‌ی دایره‌ای پیچیده شده، و گرافیت همون چیزیه که توی مدادها به کار می‌ره ــ»\n\n«می‌دونم گرافیت چیه، هری،» هرماینی گفت. موهایش را با حواس‌پرتی کنار زد، ابروهایش گره خورده بود وقتی به برگه خیره شده بود.",
+  "summary_fa": "هرماینی درباره‌ی ایمنی می‌پرسد و هری از گرافیت مدادها حرف می‌زند، ولی هرماینی حرفش را قطع می‌کند."
+ },
+ {
+  "id": 10,
+  "paras": [
+   24
+  ],
+  "verbatim_html": [
+   "Harry reached into a pocket of his robes, and produced a white thread tied to two small gray plastic rings at either end. He'd added drops of superglue where the thread met either ring, to make it all a single object that could be Transfigured as a whole. Cyanoacrylate, if Harry remembered correctly, worked by covalent bonds, and that was as close to being a \"solid object\" as you ever got in a world ultimately composed of tiny individual atoms. \"When you're ready,\" Harry said, \"try to Transfigure this into a set of aligned buckytube fibers embedded in two solid diamond rings.\""
+  ],
+  "summary_en": "Harry produces a white thread tied with superglue to two small gray plastic rings so it counts as a single Transfigurable object — cyanoacrylate working by covalent bonds being as close to a solid object as one gets in a world of individual atoms — and asks Hermione to Transfigure it into aligned buckytube fibers embedded in two solid diamond rings.",
+  "translation_fa": "هری از جیب ردایش یک نخ سفید بیرون آورد که به دو حلقه‌ی پلاستیکی خاکستری کوچک در دو سرش گره خورده بود. قطره‌هایی چسب قطره‌ای آنجا که نخ به هر حلقه می‌رسید ریخته بود، تا همه‌اش یک شیء واحد باشد که بتوان به‌صورت یک کل تغییرشکلش داد. سیانواکریلات، اگر هری درست یادش می‌بود، با پیوندهای کووالانسی کار می‌کرد، و این نزدیک‌ترین چیز به «شیء جامد» بود که در دنیایی که در نهایت از اتم‌های تک‌تک ساخته شده می‌شد به آن رسید. «وقتی آماده بودی،» هری گفت، «سعی کن این رو به مجموعه‌ای از الیاف باکی‌تیوبِ هم‌راستا تبدیل کنی که توی دو حلقه‌ی الماسِ جامد فرو رفتن.»",
+  "summary_fa": "هری نخ سفید متصل با چسب به دو حلقه‌ی پلاستیکی را — به‌عنوان یک شیء واحد — بیرون می‌آورد و از هرماینی می‌خواهد آن را به الیاف باکی‌تیوب در دو حلقه‌ی الماس تبدیل کند."
+ },
+ {
+  "id": 11,
+  "paras": [
+   25,
+   26,
+   27,
+   28
+  ],
+  "verbatim_html": [
+   "\"All right...\" Hermione said slowly. \"Harry, I feel like I just missed something.\"",
+   "Harry shrugged helplessly. <em>Maybe you're just tired.</em> He knew better than to say it out loud, though.",
+   "Hermione laid her wand against one plastic ring, and stared for a while.",
+   "Two small circles of glittering diamond lay on the table, connected by a long black thread."
+  ],
+  "summary_en": "Hermione slowly agrees but says she feels she just missed something; Harry shrugs helplessly, thinking but not saying that she is just tired; she lays her wand on a plastic ring and stares, and two small glittering diamond circles joined by a long black thread lie on the table.",
+  "translation_fa": "«باشه...» هرماینی به‌آرامی گفت. «هری، حس می‌کنم یه چیزی رو همین الان از دست دادم.»\n\nهری ناچار شانه بالا انداخت. شاید فقط خسته‌ای. آن‌قدر عقلش می‌رسید که این را بلند نگوید.\n\nهرماینی چوبدستی‌اش را به یک حلقه‌ی پلاستیکی چسباند و مدتی خیره شد.\n\nدو دایره‌ی کوچک الماسِ برق‌زننده روی میز بود که با یک نخ سیاه بلند به هم وصل بودند.",
+  "summary_fa": "هرماینی حس می‌کند چیزی را از دست داده، سپس تغییرشکل را انجام می‌دهد: دو حلقه‌ی الماس درخشان متصل با نخی سیاه."
+ },
+ {
+  "id": 12,
+  "paras": [
+   29,
+   30,
+   31,
+   32
+  ],
+  "verbatim_html": [
+   "\"It changed,\" said Hermione. She sounded like she was trying to be enthusiastic but had run out of energy. \"Now what?\"",
+   "Harry felt a bit deflated by his research partner's lack of passion, but did his best not to show it; maybe the same process would work in reverse to cheer her up. \"Now I test it to see if it holds weight.\"",
+   "There was an A-frame Harry had rigged up to do an earlier experiment with diamond rods - you could make solid diamond objects easily, using Transfiguration, they just wouldn't last. The earlier experiment had measured whether Transfiguring a long diamond rod into a shorter diamond rod would allow it to lift a suspended heavy weight as it contracted, i.e., could you Transfigure against tension, which you in fact could.",
+   "Harry carefully looped one circle of glittering diamond over the thick metal hook at the top of the rig, then attached a thick metal hanger to the bottom ring, and then started attaching weights to the hanger."
+  ],
+  "summary_en": "Hermione flatly reports that it changed and asks what now; deflated by her lack of passion, Harry says he will test whether it holds weight, describing the A-frame rig from an earlier diamond-rod experiment on Transfiguring against tension, and carefully hangs the diamond circles on the hook with a hanger and weights.",
+  "translation_fa": "«تغییر کرد،» هرماینی گفت. به نظر می‌رسید سعی می‌کند مشتاق باشد ولی انرژی‌اش تمام شده بود. «حالا چی؟»\n\nهری از بی‌شوریِ شریک پژوهشش کمی دلسرد شد، ولی نهایت سعی‌اش را کرد که نشان ندهد؛ شاید همان فرایند برعکس جواب بدهد و او را سرحال کند. «حالا امتحانش می‌کنم ببینم وزن نگه می‌داره.»\n\nیک قاب A شکل بود که هری برای آزمایش قبلی با میله‌های الماسی سرهم کرده بود — می‌شد اشیای الماسِ جامد را با تغییرشکل به‌راحتی ساخت، فقط ماندگار نبودند. آزمایش قبلی سنجیده بود که آیا تغییرشکل دادن یک میله‌ی الماسِ بلند به میله‌ی کوتاه‌تر می‌تواند وزنه‌ی سنگینِ آویزان را با منقبض شدن بالا بکشد، یعنی آیا می‌شود برخلاف کشش تغییرشکل داد، که در واقع می‌شد.\n\nهری با احتیاط یک دایره‌ی الماسِ برق‌زننده را به قلاب فلزی ضخیم بالای قاب آویخت، بعد یک آویز فلزی ضخیم به حلقه‌ی پایینی وصل کرد و بعد شروع کرد به وصل کردن وزنه‌ها به آویز.",
+  "summary_fa": "هرماینی بی‌حال از موفقیت خبر می‌دهد و هری حلقه‌ها را به قاب آزمایش آویزان می‌کند تا تحمل وزن را بسنجد."
+ },
+ {
+  "id": 13,
+  "paras": [
+   33,
+   34,
+   35,
+   36
+  ],
+  "verbatim_html": [
+   "(Harry had asked the Weasley twins to Transfigure the apparatus for him, and the Weasley twins had given him an incredulous look, like they couldn't figure out what sort of prank he could <em>possibly</em> want that for, but they hadn't asked any questions. And their Transfigurations, according to them, lasted for around three hours, so Harry and Hermione still had a while left.)",
+   "\"One hundred kilograms,\" Harry said about a minute later. \"I don't think a steel thread this thin would hold that. It should go up much higher, but that's all the weight I've got.\"",
+   "There was a further silence.",
+   "Harry straightened up, and went back to their table, and sat down in his chair, and ceremoniously made a check mark next to 'Buckytubes'. \"There,\" Harry said. \"<em>That</em> one worked.\""
+  ],
+  "summary_en": "The twins' parenthetical: Harry had them Transfigure the apparatus, and they gave him an incredulous look without asking questions, their work lasting about three hours; a minute later the thread holds one hundred kilograms — more than such thin steel could bear — and after a further silence Harry checks off 'Buckytubes': that one worked.",
+  "translation_fa": "(هری از دوقلوهای ویزلی خواسته بود ابزار را برایش تغییرشکل بدهند، و دوقلوهای ویزلی نگاه ناباورانه‌ای به او کرده بودند، انگار نمی‌توانستند بفهمند او آن را برای چه شوخی‌ای می‌خواهد، ولی هیچ سؤالی نپرسیده بودند. و تغییرشکل‌های آن‌ها، به گفته‌ی خودشان، حدود سه ساعت دوام می‌آورد، پس هری و هرماینی هنوز مدتی وقت داشتند.)\n\n«صد کیلوگرم،» هری حدود یک دقیقه بعد گفت. «فکر نکنم یه نخ فولادی به این نازکی این رو نگه داره. باید خیلی بالاتر بره، ولی همین‌قدر وزنه دارم.»\n\nسکوت دیگری بود.\n\nهری راست ایستاد و به میزشان برگشت و روی صندلی‌اش نشست و با تشریفات کنار «باکی‌تیوب‌ها» علامت زد. «این هم از این،» هری گفت. «اون یکی جواب داد.»",
+  "summary_fa": "نخ صد کیلوگرم را نگه می‌دارد — بیش از توان فولاد هم‌قطر — و هری با تشریفات کنار «باکی‌تیوب‌ها» تیک می‌زند."
+ },
+ {
+  "id": 14,
+  "paras": [
+   37,
+   38,
+   39
+  ],
+  "verbatim_html": [
+   "\"But it's not really <em>useful</em>, Harry, is it?\" Hermione said from where she was sitting with her head resting in her hands. \"I mean, even if we gave it to a scientist they couldn't learn how to make lots of buckytubes from studying ours.\"",
+   "\"They might be able to learn <em>something,</em>\" Harry said. \"Hermione, <em>look</em> at it, that little tiny thread holding up all that weight, we just made something that no Muggle laboratory could make -\"",
+   "\"But any other witch could make it,\" Hermione said. Her exhaustion was coming into her voice, now. \"Harry, I don't think this is working out.\""
+  ],
+  "summary_en": "Hermione says the thread is not really useful since no scientist could learn bulk buckytube manufacture from it; Harry protests that they made what no Muggle lab could, but Hermione, exhaustion in her voice, says any other witch could make it and doubts their research is working out.",
+  "translation_fa": "«ولی این واقعاً به‌دردبخور نیست، هری، مگه نه؟» هرماینی گفت از همان‌جا که نشسته بود با سرِ نهاده در دست‌هایش. «یعنی، حتی اگه به یه دانشمند بدیمش نمی‌تونه از بررسی مال ما یاد بگیره چطور کلی باکی‌تیوب بسازه.»\n\n«شاید بتونن یه چیزی یاد بگیرن،» هری گفت. «هرماینی، نگاه کن، اون نخِ ریزِ کوچولو که داره اون همه وزن رو نگه می‌داره، ما همین الان چیزی ساختیم که هیچ آزمایشگاه مشنگی نمی‌تونست بسازه ــ»\n\n«ولی هر جادوگر دیگه‌ای می‌تونست بسازش،» هرماینی گفت. خستگی داشت به صدایش می‌آمد. «هری، فکر نکنم این داره جواب می‌ده.»",
+  "summary_fa": "هرماینی می‌گوید نخ فایده‌ای ندارد چون دانشمند از آن تولید انبوه را یاد نمی‌گیرد؛ هری اعتراض می‌کند ولی خستگی هرماینی عمیق است."
+ },
+ {
+  "id": 15,
+  "paras": [
+   40,
+   41,
+   42,
+   43
+  ],
+  "verbatim_html": [
+   "\"You mean our relationship?\" Harry said. \"Great! Let's break up.\"",
+   "That got a slight grin out of her. \"I mean our research.\"",
+   "\"Oh, Hermione, how <em>could</em> you?\"",
+   "\"You're sweet when you're mean,\" she said. \"But Harry, this is nuts, I'm twelve, you're eleven, it's <em>silly</em> to think we're going to discover anything that no one's ever figured out before.\""
+  ],
+  "summary_en": "Harry jokes about breaking up their relationship, she grins slightly and means their research, and she argues it is silly for a twelve- and eleven-year-old to expect discoveries no one ever made.",
+  "translation_fa": "«منظورت رابطه‌مونه؟» هری گفت. «عالیه! بذار به هم بزنیم.»\n\nاین لبخند کوچکی از او گرفت. «منظورم پژوهش‌مونه.»\n\n«اوه هرماینی، چطور تونستی؟»\n\n«وقتی بدجنسی نازی،» گفت. «ولی هری، این دیوونگیه، من دوازده سالمه، تو یازده سالته، احمقانه‌ست فکر کنیم قراره چیزی کشف کنیم که هیچ‌کس تا حالا نفهمیده.»",
+  "summary_fa": "با شوخی «به هم زدن» بحث به پژوهش می‌رسد و هرماینی می‌گوید در این سن انتظار کشف بی‌سابقه احمقانه است."
+ },
+ {
+  "id": 16,
+  "paras": [
+   44,
+   45
+  ],
+  "verbatim_html": [
+   "\"Are you really saying we should give up on unraveling the secrets of magic after trying for less than one <em>month?</em> \" Harry said, trying to put a note of challenge into his voice. Honestly he was feeling some of the same fatigue as Hermione. None of the <em>good</em> ideas ever worked. He'd made just one discovery worth mentioning, the Mendelian pattern, and he couldn't tell Hermione about it without breaking his promise to Draco.",
+   "\"No,\" Hermione said. Her young face was looking very serious and adult. \"I'm saying right now we should be <em>studying</em> all the magic that wizards already know, so we can do this sort of thing after we graduate from Hogwarts.\""
+  ],
+  "summary_en": "Harry challenges whether she would abandon unravelling magic after less than a month — admitting his own fatigue, that no good ideas worked, and that his one real discovery, the Mendelian pattern, cannot be shared without breaking his promise to Draco — and Hermione replies they should study known magic now and research after Hogwarts.",
+  "translation_fa": "«واقعاً داری می‌گی باید رازهای جادو رو رها کنیم بعد از کمتر از یه ماه تلاش؟» هری گفت و سعی کرد لحن مبارزه‌جویانه‌ای به صدایش بدهد. راستش خودش هم چیزی از همان خستگی هرماینی حس می‌کرد. هیچ‌یک از ایده‌های خوب هرگز جواب نداده بود. او فقط یک کشفِ درخورِ ذکر کرده بود، الگوی مندلی، و نمی‌توانست بدون شکستن قولش به دراکو آن را به هرماینی بگوید.\n\n«نه،» هرماینی گفت. چهره‌ی جوانش خیلی جدی و بزرگسالانه به نظر می‌رسید. «دارم می‌گم الان باید همه‌ی جادویی رو که جادوگرها از قبل می‌دونن مطالعه کنیم، تا بتونیم بعد از فارغ‌التحصیلی از هاگوارتز این‌جور کارها رو بکنیم.»",
+  "summary_fa": "هری می‌پرسد آیا پس از یک ماه باید تسلیم شد؛ هرماینی می‌گوید اول باید جادوی شناخته‌شده را خواند و پژوهش را به بعد از هاگوارتز موکول کرد."
+ },
+ {
+  "id": 17,
+  "paras": [
+   46,
+   47,
+   48
+  ],
+  "verbatim_html": [
+   "\"Um...\" Harry said. \"Hermione, I hate to put it this way, but imagine we'd decided to hold off on research until later, and the first thing we tried after we graduated was Transfiguring an Alzheimer's cure, and it <em>worked.</em> We'd feel... I don't think the word <em>stupid</em> would adequately describe how we'd feel. What if there's something else like that and it does work?\"",
+   "\"That's not <em>fair,</em> Harry!\" Hermione said. Her voice was trembling like she was on the verge of breaking out crying. \"You can't <em>put</em> that on people! It's not our <em>job</em> to do that sort of thing, we're <em>kids!</em> \"",
+   "For a moment Harry wondered what would happen if someone told Hermione she had to fight an immortal Dark Lord, if she would turn into one of the whiny self-pitying heroes that Harry could never stand reading about in his books."
+  ],
+  "summary_en": "Harry argues that if they waited until after graduation and the Alzheimer's cure then worked, 'stupid' would not describe how they would feel — what if something like it works; Hermione, near tears, calls that unfair to put on kids, and Harry briefly pictures her as a whiny hero forced to fight a Dark Lord.",
+  "translation_fa": "«ام...» هری گفت. «هرماینی، بدم میاد این‌جوری بگم، ولی تصور کن تصمیم گرفته بودیم پژوهش رو بذاریم برای بعد، و اولین چیزی که بعد از فارغ‌التحصیلی امتحان می‌کردیم تغییرشکلِ درمان آلزایمر بود، و جواب می‌داد. چه حسی پیدا می‌کردیم... فکر نکنم کلمه‌ی احمق توصیف کافی‌ای برای حس‌مون باشه. اگه یه چیز دیگه مثل اون باشه و جواب بده چی؟»\n\n«این منصفانه نیست، هری!» هرماینی گفت. صدایش می‌لرزید انگار داشت گریه‌اش می‌گرفت. «نمی‌تونی این رو بندازی گردن آدم‌ها! وظیفه‌ی ما نیست این‌جور کارها رو بکنیم، ما بچه‌ایم!»\n\nبرای لحظه‌ای هری فکر کرد اگر کسی به هرماینی می‌گفت باید با یک لرد سیاهِ نامیرا بجنگد چه می‌شد، آیا او تبدیل به یکی از آن قهرمان‌های ناله‌کنِ خودترحم‌گر می‌شد که هری هرگز تحمل خواندن درباره‌شان را در کتاب‌هایش نداشت.",
+  "summary_fa": "هری استدلال هزینه‌ی انتظار را می‌آورد و هرماینی با بغض می‌گوید این بار را نمی‌توان بر دوش بچه‌ها گذاشت."
+ },
+ {
+  "id": 18,
+  "paras": [
+   49,
+   50,
+   51,
+   52
+  ],
+  "verbatim_html": [
+   "\"Anyway,\" Hermione said. Her voice shook. \"I don't want to keep doing this. I don't believe children can do things that grownups can't, that's only in stories.\"",
+   "There was silence in the classroom.",
+   "Hermione started to look a little scared, and Harry knew that his own expression had gotten colder.",
+   "It might not have hurt so much if the same thought hadn't already come to Harry - that, while thirty might be old for a scientific revolutionary and twenty about right, while there were people who got doctorates when they were seventeen and fourteen-year-old heirs who'd been great kings or generals, there wasn't really anyone who'd made the history books at eleven."
+  ],
+  "summary_en": "Hermione says she will not continue since children cannot do what grownups cannot — that is only in stories; silence falls, she looks scared at Harry's colder expression, and Harry admits the same thought already hurt him: no one makes the history books at eleven, though doctorates at seventeen and great kings at fourteen exist.",
+  "translation_fa": "«به‌هرحال،» هرماینی گفت. صدایش می‌لرزید. «نمی‌خوام به این ادامه بدم. باور ندارم بچه‌ها بتونن کاری بکنن که بزرگ‌ترها نمی‌تونن، این فقط توی قصه‌هاست.»\n\nدر کلاس سکوت بود.\n\nهرماینی شروع کرد کمی ترسیده به نظر برسد، و هری می‌دانست که حالت چهره‌ی خودش سردتر شده بود.\n\nشاید آن‌قدر دردناک نمی‌بود اگر همان فکر از قبل به ذهن هری نیامده بود — که، در حالی که سی سالگی برای یک انقلابی علمی شاید پیر باشد و بیست‌سالگی درست، در حالی که کسانی بودند که در هفده‌سالگی دکترا گرفته بودند و وارث‌های چهارده‌ساله‌ای که پادشاهان یا سرداران بزرگ شده بودند، واقعاً کسی نبود که در یازده‌سالگی به کتاب‌های تاریخ راه یافته باشد.",
+  "summary_fa": "هرماینی می‌گوید بچه‌ها کار بزرگ‌ترها را نمی‌کنند و این فقط در قصه‌هاست؛ هری می‌فهمد که همین فکر خودش را هم آزار داده است."
+ },
+ {
+  "id": 19,
+  "paras": [
+   53,
+   54,
+   55,
+   56
+  ],
+  "verbatim_html": [
+   "\"All right,\" Harry said. \"Figure out how to do something a grownup can't. Is that your challenge?\"",
+   "\"I didn't mean it like that,\" Hermione said, her voice coming out in a frightened whisper.",
+   "With an effort, Harry wrenched his gaze away from Hermione. \"I'm not angry at <em>you</em>,\" Harry said. His voice was cold, despite his best efforts. \"I'm angry at, I don't know, everything. But I'm not willing to lose, Hermione. Losing isn't always the right thing to do. I'll figure out how to do something a grown wizard can't do, and then I'll get back to you. How's that?\"",
+   "There was more silence."
+  ],
+  "summary_en": "Harry coldly takes it as a challenge — do something a grownup cannot; frightened Hermione says she did not mean it so; Harry says he is angry at everything, not her, refuses to lose, and promises to do what no grown wizard can and get back to her; more silence.",
+  "translation_fa": "«باشه،» هری گفت. «یه کاری بکن که یه آدم بزرگ نمی‌تونه. این چالشته؟»\n\n«منظورم این نبود،» هرماینی گفت، صدایش با زمزمه‌ی ترسیده‌ای بیرون آمد.\n\nبا تلاشی، هری نگاهش را از هرماینی کند. «از دست تو عصبانی نیستم،» هری گفت. صدایش با وجود همه‌ی تلاشش سرد بود. «از دست نمی‌دونم، همه‌چیز عصبانی‌ام. ولی حاضر نیستم ببازم، هرماینی. باختن همیشه کار درستی نیست. می‌فهمم چطور کاری بکنم که هیچ جادوگر بالغی نمی‌تونه بکنه، و بعد برمی‌گردم پیشت. چطوره؟»\n\nسکوت بیشتری بود.",
+  "summary_fa": "هری آن را چالش می‌داند و سرد و مصمم قول می‌دهد کاری بکند که هیچ جادوگر بالغی نمی‌تواند."
+ },
+ {
+  "id": 20,
+  "paras": [
+   57,
+   58,
+   59,
+   60
+  ],
+  "verbatim_html": [
+   "\"Okay,\" said Hermione, her voice wavering a little. She pushed herself up out of her chair, and went over to the door of the abandoned classroom they'd been working in. Her hand went onto the doorknob. \"We're still friends, right? And if you can't figure out anything -\"",
+   "Her voice halted.",
+   "\"Then we'll study together,\" Harry said. His voice was even colder now.",
+   "\"Um, bye for now, then,\" Hermione said, and she quickly went out of the room and shut the door behind her."
+  ],
+  "summary_en": "Voice wavering, Hermione rises, goes to the classroom door, asks if they are still friends and trails off; colder-voiced Harry finishes — then they will study together; she says a quick goodbye and leaves.",
+  "translation_fa": "«باشه،» هرماینی گفت، صدایش کمی می‌لرزید. خودش را از صندلی بالا کشید و به‌سوی درِ کلاس متروکه‌ای که در آن کار می‌کردند رفت. دستش رفت روی دستگیره. «ما هنوز دوستیم، مگه نه؟ و اگه نتونی چیزی رو بفهمی ــ»\n\nصدایش قطع شد.\n\n«اون‌وقت با هم درس می‌خونیم،» هری گفت. صدایش حالا حتی سردتر بود.\n\n«ام، فعلاً خداحافظ، پس،» هرماینی گفت و سریع از اتاق بیرون رفت و در را پشت سرش بست.",
+  "summary_fa": "هرماینی لرزان می‌پرسد هنوز دوست‌اند و زود می‌رود."
+ },
+ {
+  "id": 21,
+  "paras": [
+   61,
+   62,
+   63
+  ],
+  "verbatim_html": [
+   "Sometimes Harry hated having a dark side, even when he was inside it.",
+   "And the part of him that had thought exactly the same thing as Hermione, that no, children <em>couldn't</em> do what grownups couldn't, was saying all the things that Hermione had been too frightened to say, like, <em>That's one hell of a difficult challenge you just grabbed for yourself</em> and <em>boy are you going to end up with egg on your face this time</em> and <em>at least this way you'll know you've failed.</em>",
+   "And the part of him that didn't enjoy losing replied, in a very cold voice, <em>Fine, you can shut up and watch.</em>"
+  ],
+  "summary_en": "Sometimes Harry hates having a dark side even from inside it; the part agreeing with Hermione recites everything she was too frightened to say — a hellishly hard challenge, coming humiliation — and the part that hates losing coldly replies: fine, shut up and watch.",
+  "translation_fa": "گاهی هری از نیمه‌ی تاریکش متنفر بود، حتی وقتی داخلش بود.\n\nو آن بخش از او که دقیقاً همان فکر هرماینی را کرده بود، که نه، بچه‌ها نمی‌توانستند کاری بکنند که بزرگ‌ترها نمی‌توانستند، داشت همه‌ی چیزهایی را می‌گفت که هرماینی زیادی ترسیده بود بگوید، مثل، چه چالش جهنمیِ سختی برای خودت برداشتی و پسر این بار حسابی آبروریزی می‌کنی و دست‌کم این‌جوری می‌فهمی که شکست خوردی.\n\nو آن بخش از او که از باختن لذت نمی‌برد، با صدای خیلی سردی جواب داد، باشه، می‌تونی خفه شی و تماشا کنی.",
+  "summary_fa": "هری از نیمه‌ی تاریکش بیزار است؛ بخش هم‌عقیده با هرماینی شکست را پیش‌بینی می‌کند و بخش باخت‌گریز می‌گوید خفه شو و تماشا کن."
+ },
+ {
+  "id": 22,
+  "paras": [
+   64,
+   65,
+   66
+  ],
+  "verbatim_html": [
+   "* * *",
+   "It was almost lunchtime, and Harry didn't care. He hadn't even bothered grabbing a snack bar from his pouch. His stomach could stand a little starving.",
+   "The wizarding world was tiny, they didn't think like scientists, they didn't know science, they didn't question what they'd grown up with, they hadn't put protective shells on their time machines, they played Quidditch, all of magical Britain was smaller than a small Muggle city, the greatest wizarding school only educated up to the age of seventeen, <em>silly</em> wasn't challenging that at eleven, <em>silly</em> was <em>assuming</em> wizards knew what they were doing and had already exhausted all the low-hanging fruit a scientific polymath would see."
+  ],
+  "summary_en": "After a break it is nearly lunch and Harry, starving his stomach, runs through why wizards are beatable: a tiny unscientific world that never questioned its upbringing, unshielded time machines, Quidditch, a school ending at seventeen — silly is assuming they exhausted what a scientific polymath would see.",
+  "translation_fa": "* * *\n\nنزدیک ناهار بود و هری اهمیتی نمی‌داد. حتی زحمت برداشتن یک خوراکی از کیسه‌اش را هم به خود نداده بود. معده‌اش می‌توانست کمی گرسنگی را تحمل کند.\n\nدنیای جادوگری ریز بود، مثل دانشمندها فکر نمی‌کردند، علم نمی‌دانستند، آنچه را با آن بزرگ شده بودند زیر سؤال نمی‌بردند، روی ماشین‌های زمان‌شان پوسته‌ی محافظ نگذاشته بودند، کویدیچ بازی می‌کردند، تمام بریتانیای جادویی کوچک‌تر از یک شهر کوچک مشنگی بود، بزرگ‌ترین مدرسه‌ی جادوگری فقط تا هفده‌سالگی آموزش می‌داد، احمقانه به چالش کشیدنِ آن در یازده‌سالگی نبود، احمقانه فرض کردن این بود که جادوگرها می‌دانند چه می‌کنند و همه‌ی میوه‌های در دسترس را که یک دانشمندِ همه‌فن‌حریف می‌دید چیده‌اند.",
+  "summary_fa": "هری گرسنه مرور می‌کند چرا جادوگرها شکست‌پذیرند: دنیای کوچک غیرعلمی که میوه‌های در دسترس دانشمند را نچیده است."
+ },
+ {
+  "id": 23,
+  "paras": [
+   67,
+   68,
+   69,
+   70
+  ],
+  "verbatim_html": [
+   "Step One had been to make a list of every magical constraint Harry could remember, all the things you supposedly couldn't do.",
+   "Step Two, mark the constraints that seemed to make the <em>least</em> sense from a scientific perspective.",
+   "Step Three, prioritize constraints that a wizard would be unlikely to question if they <em>didn't</em> know science.",
+   "Step Four, come up with avenues for attacking them."
+  ],
+  "summary_en": "Harry's plan: Step One, list every remembered magical constraint; Step Two, mark those making least scientific sense; Step Three, prioritize ones wizards would never question without science; Step Four, find avenues of attack.",
+  "translation_fa": "قدم اول این بود که فهرستی از هر محدودیت جادویی که هری یادش می‌آمد بسازد، همه‌ی چیزهایی که ظاهراً نمی‌شد انجام داد.\n\nقدم دوم، علامت زدن محدودیت‌هایی که از دیدگاه علمی کمترین معنا را داشتند.\n\nقدم سوم، اولویت دادن به محدودیت‌هایی که یک جادوگر بعید بود زیر سؤال ببرد اگر علم نمی‌دانست.\n\nقدم چهارم، پیدا کردن راه‌هایی برای حمله به آن‌ها.",
+  "summary_fa": "نقشه‌ی چهارقدمی هری: فهرست محدودیت‌ها، علامت بی‌معناترین‌ها از نظر علمی، اولویت موارد مشکوک‌نشده، و یافتن راه حمله."
+ },
+ {
+  "id": 24,
+  "paras": [
+   71,
+   72,
+   73,
+   74
+  ],
+  "verbatim_html": [
+   "* * *",
+   "Hermione still felt a little shaky as she sat down next to Mandy at the Ravenclaw table. Hermione's lunch had two fruits (tomato slices and peeled tangerines), three vegetables (carrots, carrots, and more carrots), one meat (fried Diricawl drumsticks whose unhealthy coating she would carefully remove), and one little piece of chocolate cake that she would earn by eating the other parts.",
+   "It hadn't been as bad as Potions class, sometimes she still had <em>nightmares</em> about that. But this time <em>she</em> had made it happen and <em>she'd felt like its target.</em> Just for a moment, before the terrible cold darkness looked away and said it wasn't angry with her, because it hadn't wanted to scare her.",
+   "And she still had that feeling like she'd missed something earlier, something really important."
+  ],
+  "summary_en": "After a break, shaky Hermione sits by Mandy at Ravenclaw with a precisely balanced lunch — two fruits, three vegetables, one meat with the unhealthy coating to remove, one chocolate cake to earn — still haunted by facing Harry's cold darkness, and still feeling she missed something important earlier.",
+  "translation_fa": "* * *\n\nهرماینی هنوز کمی لرزان داشت وقتی کنار مندی سر میز ریونکلا نشست. ناهار هرماینی دو میوه داشت (برش‌های گوجه و نارنگی‌های پوست‌کنده)، سه سبزی (هویج، هویج، و باز هم هویج)، یک گوشت (ران‌های دیریکال سرخ‌شده که پوشش ناسالمش را با دقت جدا می‌کرد)، و یک تکه‌ی کوچک کیک شکلاتی که با خوردن بخش‌های دیگر به دستش می‌آورد.\n\nبه بدی کلاس معجون‌ها نبود، گاهی هنوز درباره‌ی آن کابوس می‌دید. ولی این بار خودش باعثش شده بود و حس کرده بود هدف آن است. فقط برای لحظه‌ای، پیش از آنکه تاریکیِ سردِ وحشتناک نگاهش را برگرداند و بگوید از دست او عصبانی نیست، چون نمی‌خواسته او را بترساند.\n\nو هنوز آن حس را داشت که انگار چیزی را پیش‌تر از دست داده، چیزی واقعاً مهم.",
+  "summary_fa": "هرماینی لرزان با ناهار دقیقاً متعادلش کنار مندی می‌نشیند، همچنان تحت تأثیر تاریکی سرد هری و حس از دست دادن نکته‌ای مهم."
+ },
+ {
+  "id": 25,
+  "paras": [
+   75,
+   76,
+   77,
+   78
+  ],
+  "verbatim_html": [
+   "But they hadn't violated any of the rules of Transfiguration... had they? They hadn't made any liquids, any gases, they hadn't taken orders from the Defense Professor...",
+   "The <em>pill!</em> That had been something to be eaten!",
+   "...well, no, nobody would just eat a pill lying around, it hadn't <em>worked</em> actually, they could have just <em>Finite Incantatemed</em> it if it had, but she would still have to tell Harry about that and make sure they didn't mention it in front of Professor McGonagall, in case they were never allowed to study Transfiguration again...",
+   "Hermione was starting to get a really sick feeling in her stomach. She pushed back her plate from the table, she couldn't eat lunch like this."
+  ],
+  "summary_en": "Hermione reviews the rules: no liquids, no gases, no orders from the Defense Professor — then the realization: the pill! Something to be eaten! She rationalizes that nobody would eat a stray pill, it had not worked, Finite could have undone it, but McGonagall must never hear — as nausea starts and she pushes her plate away.",
+  "translation_fa": "ولی آن‌ها هیچ‌یک از قوانین تغییرشکل را نقض نکرده بودند... کرده بودند؟ آن‌ها هیچ مایع یا گازی نساخته بودند، هیچ دستوری از استاد دفاع نگرفته بودند...\n\nقرص! آن چیزی بود که باید خورده می‌شد!\n\n...خب، نه، هیچ‌کس که قرصی افتاده را همین‌جوری نمی‌خورد، اصلاً هم جواب نداده بود، اگر جواب داده بود می‌توانستند با فینیته آن را خنثی کنند، ولی او باز هم باید این را به هری می‌گفت و مطمئن می‌شد جلوی پروفسور مک‌گونگال حرفش را نمی‌زنند، مبادا دیگر هرگز اجازه‌ی مطالعه‌ی تغییرشکل را نگیرند...\n\nحس تهوع‌آوری داشت در معده‌ی هرماینی شروع می‌شد. بشقابش را از میز عقب راند، نمی‌توانست این‌جوری ناهار بخورد.",
+  "summary_fa": "هرماینی وحشت‌زده می‌فهمد قرص خوردنی بود؛ با حالت تهوع بشقاب را کنار می‌زند."
+ },
+ {
+  "id": 26,
+  "paras": [
+   79,
+   80,
+   81,
+   82
+  ],
+  "verbatim_html": [
+   "And she closed her eyes and began to mentally recite the rules of Transfiguration.",
+   "<em>\"I will never Transfigure anything into liquid or gas.\"</em>",
+   "<em>\"I will never Transfigure anything that looks like food or anything else that goes inside a human body.\"</em>",
+   "No, they really <em>shouldn't</em> have tried to Transfigure the pill, or they should've at least <em>realized...</em> she'd been so caught up in Harry's brilliant idea that she hadn't <em>thought...</em>"
+  ],
+  "summary_en": "She closes her eyes and mentally recites the rules — never anything into liquid or gas, never anything like food or what goes inside a body — realizing they should never have tried the pill, swept along by Harry's brilliance without thinking.",
+  "translation_fa": "و چشم‌هایش را بست و شروع کرد به از بر خواندن ذهنی قوانین تغییرشکل.\n\n«هرگز هیچ‌چیز را به مایع یا گاز تبدیل نمی‌کنم.»\n\n«هرگز هیچ‌چیز را به چیزی شبیه غذا یا هر چیز دیگری که به درون بدن انسان می‌رود تبدیل نمی‌کنم.»\n\nنه، آن‌ها واقعاً نباید سعی می‌کردند قرص را تغییرشکل بدهند، یا دست‌کم باید می‌فهمیدند... او آن‌قدر غرق ایده‌ی درخشان هری شده بود که فکر نکرده بود...",
+  "summary_fa": "با چشم بسته قوانین را از بر می‌خواند و می‌فهمد که نباید هرگز قرص را امتحان می‌کردند."
+ },
+ {
+  "id": 27,
+  "paras": [
+   83,
+   84
+  ],
+  "verbatim_html": [
+   "The sick feeling in Hermione's stomach was getting worse. There was a feeling in her mind of something hovering just on the edge of recognition, a perception about to invert itself, a young woman about to become a crone, a vase about to become two faces...",
+   "And she went on remembering the rules of Transfiguration."
+  ],
+  "summary_en": "The sick feeling worsens with a hovering almost-recognition — a young woman about to become a crone, a vase about to become two faces — as she keeps reciting the Transfiguration rules.",
+  "translation_fa": "حس تهوع در معده‌ی هرماینی داشت بدتر می‌شد. حسی در ذهنش بود از چیزی که درست در لبه‌ی بازشناسی شناور بود، ادراکی که داشت وارونه می‌شد، زن جوانی که داشت به عجوزه تبدیل می‌شد، گلدانی که داشت به دو چهره تبدیل می‌شد...\n\nو او به یادآوردن قوانین تغییرشکل ادامه داد.",
+  "summary_fa": "حس تهوع و بازشناسیِ در آستانه‌ی وارونگی ادراک او را فرا می‌گیرد و او به مرور قوانین ادامه می‌دهد."
+ },
+ {
+  "id": 28,
+  "paras": [
+   85,
+   86,
+   87,
+   88
+  ],
+  "verbatim_html": [
+   "* * *",
+   "Harry's knuckles had gone white on his wand by the time he stopped trying to Transfigure the air in front of his wand into a paperclip. It wouldn't have been safe to Transfigure the paperclip into gas, of course, but Harry didn't see any reason why it would be unsafe the other way around. It just wasn't supposed to be <em>possible</em>. But why not? Air was as real a substance as anything else...",
+   "Well, maybe that limitation <em>did</em> make sense. Air was disorganized, all the molecules constantly changing their relation to each other. Maybe you couldn't impose a new form on substance unless the substance was staying still long enough for you to master it, even though the atoms in solids were also constantly vibrating all the time...",
+   "The more Harry failed, the colder he felt, the clearer everything seemed to become."
+  ],
+  "summary_en": "After a break, white-knuckled Harry gives up trying to Transfigure air into a paperclip — unsafe in reverse but seemingly pointless to forbid this way — wondering why not, since air is as real a substance as anything; perhaps the unstill, disorganized molecules cannot be mastered, though solids' atoms vibrate too; failure leaves him colder and clearer.",
+  "translation_fa": "* * *\n\nبندهای انگشت هری روی چوبدستی‌اش سفید شده بود وقتی دست از تلاش برای تبدیل هوای جلوی چوبدستی‌اش به گیره‌ی کاغذ کشید. تبدیل گیره‌ی کاغذ به گاز البته امن نمی‌بود، ولی هری دلیلی نمی‌دید چرا برعکسش ناامن باشد. فقط قرار نبود ممکن باشد. ولی چرا نه؟ هوا به‌اندازه‌ی هر چیز دیگری ماده‌ای واقعی بود...\n\nخب، شاید آن محدودیت معنا داشت. هوا بی‌نظم بود، همه‌ی مولکول‌ها پیوسته رابطه‌شان را با هم عوض می‌کردند. شاید نمی‌شد صورت تازه‌ای بر ماده تحمیل کرد مگر اینکه ماده به‌اندازه‌ی کافی بی‌حرکت بماند تا بتوانی بر آن مسلط شوی، با اینکه اتم‌های جامدات هم پیوسته در لرزش بودند...\n\nهرچه هری بیشتر ناکام می‌شد، سردتر حس می‌کرد، همه‌چیز روشن‌تر به نظر می‌رسید.",
+  "summary_fa": "هری از تبدیل هوا به گیره ناکام می‌ماند و حدس می‌زند بی‌نظمی مولکول‌ها مانع تسلط است؛ ناکامی او را سردتر و روشن‌بین‌تر می‌کند."
+ },
+ {
+  "id": 29,
+  "paras": [
+   89,
+   90
+  ],
+  "verbatim_html": [
+   "All right. Next on the list.",
+   "You could only Transfigure whole objects as wholes. You couldn't Transfigure <em>half</em> a match into a needle, you had to Transfigure the <em>whole thing.</em> Back when Harry had been trapped in that classroom by Draco, it had been the reason he couldn't just Transfigure a thin cylindrical cross-section of the walls into sponge, and punch out a chunk of stone large enough for him to fit through the hole. He would have needed to impose a new form on the whole wall, and maybe a whole section of Hogwarts, just in order to change that little cross-section."
+  ],
+  "summary_en": "Next on the list: only whole objects as wholes — no half-match into a needle — which once barred Harry's wall-cross-section escape from Draco's trap, since he would have needed to re-Form the whole wall or a slice of Hogwarts.",
+  "translation_fa": "باشه. بعدیِ فهرست.\n\nفقط می‌شد اشیای کامل را به‌صورت کامل تغییرشکل داد. نمی‌شد نیمی از یک کبریت را به سوزن تبدیل کرد، باید کل آن را تغییرشکل می‌دادی. آن‌وقت که هری در آن کلاس به دام دراکو افتاده بود، به همین دلیل نتوانسته بود فقط یک برش استوانه‌ای نازک از دیوارها را به اسفنج تبدیل کند و تکه‌سنگی به‌اندازه‌ی عبور خودش را مشت کند و بیرون بیاورد. مجبور می‌بود صورت تازه‌ای بر کل دیوار تحمیل کند، و شاید یک بخش کامل هاگوارتز، فقط برای اینکه آن برش کوچک را تغییر دهد.",
+  "summary_fa": "محدودیت «کل‌به‌کل» و خاطره‌ی ناکامی فرار از دام دراکو."
+ },
+ {
+  "id": 30,
+  "paras": [
+   91,
+   92
+  ],
+  "verbatim_html": [
+   "And that was <em>ridiculous</em>.",
+   "<em>Things were made of atoms.</em> Lots of little tiny dots. There <em>was</em> no contiguity, there <em>was</em> no solidity, just electromagnetic forces holding the little dots related to each other..."
+  ],
+  "summary_en": "And that is ridiculous: things are made of atoms, lots of little tiny dots, with no contiguity and no solidity, just electromagnetic forces relating the little dots.",
+  "translation_fa": "و این مسخره بود.\n\nچیزها از اتم ساخته شده بودند. کلی نقطه‌ی ریزِ کوچک. هیچ پیوستگی‌ای نبود، هیچ جامدیتی نبود، فقط نیروهای الکترومغناطیسی بود که آن نقطه‌های کوچک را به هم مرتبط نگه می‌داشت...",
+  "summary_fa": "این مسخره است: چیزها فقط اتم‌اند، بی پیوستگی و جامدیت واقعی."
+ },
+ {
+  "id": 31,
+  "paras": [
+   93,
+   94
+  ],
+  "verbatim_html": [
+   "* * *",
+   "Mandy Brocklehurst paused with her fork on her way to her mouth. \"Huh,\" she said to Su Li, sitting across from the now-empty space beside her, \"what got into Hermione?\""
+  ],
+  "summary_en": "A break: Mandy Brocklehurst pauses with her fork mid-air and asks Su Li, sitting across from Hermione's now-empty seat, what got into Hermione.",
+  "translation_fa": "* * *\n\nمندی براکلهرست با چنگال در راه دهان مکث کرد. «هی،» به سو لی گفت که روبه‌روی فضای خالیِ کنارش نشسته بود، «هرماینی رو چی شده؟»",
+  "summary_fa": "میان‌برش: مندی از سو لی می‌پرسد هرماینی را چه شده است."
+ },
+ {
+  "id": 32,
+  "paras": [
+   95,
+   96,
+   97,
+   98
+  ],
+  "verbatim_html": [
+   "* * *",
+   "Harry wanted to kill his eraser.",
+   "He'd been trying to change a single spot on the pink rectangle into steel, apart from the rest of the rubber, and the eraser wasn't cooperating.",
+   "It <em>had</em> to be a conceptual limitation, not a real one. <em>Had</em> to be."
+  ],
+  "summary_en": "After a break, Harry wants to kill his eraser: he has been trying to turn a single spot of the pink rubber rectangle to steel and it will not cooperate; it must be a conceptual limitation.",
+  "translation_fa": "* * *\n\nهری دلش می‌خواست پاک‌کنش را بکشد.\n\nداشت سعی می‌کرد یک نقطه از مستطیل صورتی را جدا از بقیه‌ی لاستیک به فولاد تبدیل کند، و پاک‌کن همکاری نمی‌کرد.\n\nاین باید محدودیتی مفهومی می‌بود، نه واقعی. باید می‌بود.",
+  "summary_fa": "هری می‌خواهد لکه‌ای از پاک‌کن را فولاد کند و ناکام می‌ماند؛ باید محدودیت مفهومی باشد."
+ },
+ {
+  "id": 33,
+  "paras": [
+   99,
+   100,
+   101,
+   102
+  ],
+  "verbatim_html": [
+   "<em>Things were made of atoms,</em> and every atom was a tiny separate thing. Atoms were held together by a quantum mist of shared electrons, for covalent bonds, or sometimes just magnetism at close ranges, for ionic bonds or van der Waals forces.",
+   "If it came down to that, the protons and neutrons inside the nuclei were tiny separate things. The quarks inside the protons and neutrons were tiny separate things! There simply <em>wasn't</em> anything in reality, the world-out-there, that corresponded to people's conceit of solid objects. It was all just little dots.",
+   "And free Transfiguration was all in the mind to begin with, wasn't it? No words, no gestures. Only the pure concept of form, kept strictly separate from substance, imposed on the substance, conceived of apart from its form. That and the wand and whatever made you a wizard.",
+   "The wizards couldn't transform parts of things, could only transform what their minds perceived as wholes, because they didn't <em>know in their bones</em> that it was all just atoms deep down."
+  ],
+  "summary_en": "Atoms are separate things bound by shared-electron mist or close magnetism; even protons, neutrons, quarks are separate, with nothing out-there matching solid objects; and free Transfiguration, purely mental Form imposed on substance, fails at parts because wizards do not know atomicity in their bones.",
+  "translation_fa": "چیزها از اتم ساخته شده بودند، و هر اتم چیز جداگانه‌ی ریزی بود. اتم‌ها با غبار کوانتومیِ الکترون‌های مشترک، برای پیوندهای کووالانسی، یا گاهی فقط مغناطیس در فاصله‌های نزدیک، برای پیوندهای یونی یا نیروهای واندروالسی، کنار هم نگه داشته می‌شدند.\n\nاگر به آن می‌رسید، پروتون‌ها و نوترون‌های درون هسته‌ها چیزهای جداگانه‌ی ریزی بودند. کوارک‌های درون پروتون‌ها و نوترون‌ها چیزهای جداگانه‌ی ریزی بودند! در واقعیت، در جهانِ آن‌بیرون، هیچ‌چیز نبود که با خودبینیِ مردم درباره‌ی اشیای جامد مطابقت کند. همه‌اش فقط نقطه‌های کوچک بود.\n\nو تغییرشکلِ آزاد از اول همه‌اش در ذهن بود، مگر نه؟ بدون کلمه، بدون ژست. فقط مفهوم نابِ صورت، که کاملاً جدا از ماده نگه داشته می‌شد، تحمیل‌شده بر ماده، که جدا از صورتش تصور می‌شد. همین و چوبدستی و هرچه که تو را جادوگر می‌کرد.\n\nجادوگرها نمی‌توانستند بخش‌هایی از چیزها را دگرگون کنند، فقط می‌توانستند آنچه را ذهن‌شان به‌صورت کل درک می‌کرد دگرگون کنند، چون در استخوان‌هایشان نمی‌دانستند که در عمق همه‌اش فقط اتم است.",
+  "summary_fa": "اتم‌ها و ذرات جدا از هم‌اند و چون تغییرشکل ذهنی است، جادوگران که اتمی‌بودن را در استخوان نمی‌دانند از پس بخش‌ها برنمی‌آیند."
+ },
+ {
+  "id": 34,
+  "paras": [
+   103,
+   104,
+   105,
+   106
+  ],
+  "verbatim_html": [
+   "Harry had focused on that knowledge as hard as he could, the <em>true fact</em> that the eraser was just a collection of atoms, everything was just collections of atoms, and the atoms of the little patch he was trying to Transfigure formed <em>just as valid</em> a collection as any other collection he cared to think about.",
+   "And Harry still hadn't been able to change that single part of the eraser, the Transfiguration wasn't going anywhere.",
+   "<em>This. Was. Ridiculous.</em>",
+   "Harry's knuckles were whitening on his wand again. He was <em>sick</em> of getting experimental results that <em>didn't make sense.</em>"
+  ],
+  "summary_en": "Free Transfiguration is all in the mind — no words or gestures, only pure Form imposed on substance — so wizards fail at parts because they do not know in their bones that all is atoms; Harry focuses hard on the patch as an equally valid atom-collection, yet nothing moves, which is ridiculous, whitening his knuckles again.",
+  "translation_fa": "و تغییرشکلِ آزاد از اول همه‌اش در ذهن بود، مگر نه؟ بدون کلمه، بدون ژست. فقط مفهوم نابِ صورت، که کاملاً جدا از ماده نگه داشته می‌شد، تحمیل‌شده بر ماده، که جدا از صورتش تصور می‌شد. همین و چوبدستی و هرچه که تو را جادوگر می‌کرد.\n\nجادوگرها نمی‌توانستند بخش‌هایی از چیزها را دگرگون کنند، فقط می‌توانستند آنچه را ذهن‌شان به‌صورت کل درک می‌کرد دگرگون کنند، چون در استخوان‌هایشان نمی‌دانستند که در عمق همه‌اش فقط اتم است.\n\nهری تا می‌توانست روی آن دانش تمرکز کرده بود، این حقیقتِ راست که پاک‌کن فقط مجموعه‌ای از اتم‌هاست، همه‌چیز فقط مجموعه‌هایی از اتم‌هاست، و اتم‌های آن لکه‌ی کوچکی که سعی داشت تغییرشکل دهد به همان اعتبار مجموعه‌ای معتبر بودند که هر مجموعه‌ی دیگری که به فکرش می‌رسید.\n\nو هری هنوز نتوانسته بود آن بخش واحد پاک‌کن را تغییر دهد، تغییرشکل به جایی نمی‌رسید. این مسخره بود. بندهای انگشت هری دوباره روی چوبدستی‌اش سفید می‌شد. از گرفتن نتایج آزمایشی که معنا نداشتند خسته شده بود.",
+  "summary_fa": "چون تغییرشکل آزاد ذهنی است، ندانستن اتمی‌بودن در استخوان علت ناکامی است؛ ولی تمرکز هری هم جواب نمی‌دهد."
+ },
+ {
+  "id": 35,
+  "paras": [
+   107,
+   108,
+   109
+  ],
+  "verbatim_html": [
+   "Maybe the fact that <em>some</em> part of his mind was still thinking in terms of objects was stopping the Transfiguration from going through. He had thought of a collection of atoms that was an <em>eraser.</em> He had thought of a collection that was a <em>little patch.</em>",
+   "Time to kick it up a notch.",
+   "Harry pressed his wand harder against that tiny section of eraser, and tried to see through the illusion that nonscientists thought was reality, the world of desks and chairs, air and erasers and people."
+  ],
+  "summary_en": "Perhaps lingering object-thinking blocks him — he pictured an eraser-collection and a patch-collection — so he kicks it up a notch, pressing the wand harder and trying to see through the nonscientists' illusion of desks, chairs, air, erasers, people.",
+  "translation_fa": "شاید این واقعیت که بخشی از ذهنش هنوز بر حسب اشیا فکر می‌کرد داشت جلوی تغییرشکل را می‌گرفت. او مجموعه‌ای از اتم‌ها را تصور کرده بود که یک پاک‌کن بود. مجموعه‌ای را تصور کرده بود که یک لکه‌ی کوچک بود.\n\nوقت بود یک پله بالاتر ببرد.\n\nهری چوبدستی‌اش را محکم‌تر به آن بخش ریز پاک‌کن فشرد و سعی کرد از میان توهمی ببیند که غیرعلمی‌ها واقعیت می‌دانستند، دنیای میزها و صندلی‌ها، هوا و پاک‌کن‌ها و آدم‌ها.",
+  "summary_fa": "هری حدس می‌زند تفکر شیءمحور مانع است و تلاش را یک پله بالاتر می‌برد."
+ },
+ {
+  "id": 36,
+  "paras": [
+   110
+  ],
+  "verbatim_html": [
+   "When you walked through a park, the immersive world that surrounded you was something that existed inside your own brain as a pattern of neurons firing. The sensation of a bright blue sky wasn't something high above you, it was something in your visual cortex, and your visual cortex was in the back of your brain. All the sensations of that bright world were really happening in that quiet cave of bone you called your skull, the place where <em>you</em> lived and never, ever left. If you really wanted to say hello to someone, to the <em>actual person,</em> you wouldn't shake their hand, you'd knock gently on their skull and say \"How are you doing in there?\" That was what people were, that was where they really lived. And the <em>picture</em> of the park that you thought you were <em>walking through</em> was something that was visualized inside your brain as it processed the signals sent down from your eyes and retina."
+  ],
+  "summary_en": "The long park passage: the immersive world is neurons firing inside the skull — blue sky in the visual cortex — so to greet the actual person you would knock on their skull; the walked-through park is a brain-visualized picture of processed retinal signals.",
+  "translation_fa": "وقتی در پارکی قدم می‌زدی، دنیای فراگیری که تو را احاطه می‌کرد چیزی بود که درون مغز خودت به‌صورت الگویی از شلیک نورون‌ها وجود داشت. حس آسمان آبیِ درخشان چیزی نبود که بالا سرت باشد، چیزی بود در قشر بینایی‌ات، و قشر بینایی‌ات در پشت مغزت بود. همه‌ی حس‌های آن دنیای درخشان واقعاً داشتند در آن غار آرامِ استخوانی رخ می‌دادند که اسمش جمجمه‌ات بود، جایی که تو زندگی می‌کردی و هرگز، هرگز ترکش نمی‌کردی. اگر واقعاً می‌خواستی به کسی سلام کنی، به آدم واقعی، دستش را نمی‌فشردی، آرام به جمجمه‌اش می‌زدی و می‌گفتی «اونجا تو چه خبره؟» آدم‌ها همان بودند، همان‌جا واقعاً زندگی می‌کردند. و تصویری از پارک که فکر می‌کردی داری در آن قدم می‌زنی چیزی بود که درون مغزت تصویرسازی می‌شد وقتی سیگنال‌های فرستاده‌شده از چشم‌ها و شبکیه‌ات را پردازش می‌کرد.",
+  "summary_fa": "گذرگاه پارک: دنیای فراگیر فقط الگوی نورون‌هاست؛ برای سلام به آدم واقعی باید به جمجمه‌اش زد."
+ },
+ {
+  "id": 37,
+  "paras": [
+   111,
+   112,
+   113,
+   114
+  ],
+  "verbatim_html": [
+   "It wasn't a <em>lie</em> like the Buddhists thought, there wasn't something terribly mystical and unexpected behind the veil of Maya, what lay beyond the illusion of the park was just the <em>actual park</em>, but it was all still <em>illusion</em>.",
+   "Harry wasn't sitting inside the classroom.",
+   "He wasn't looking at the eraser.",
+   "Harry was inside Harry's skull."
+  ],
+  "summary_en": "Harry pushes past the park illusion: it is no Buddhist lie — beyond Maya lies just the actual park, yet all illusion; Harry is not in the classroom, not looking at the eraser, but inside his own skull.",
+  "translation_fa": "این دروغی نبود مثل آنچه بودایی‌ها فکر می‌کردند، چیز به‌طرز وحشتناکی عرفانی و غیرمنتظره‌ای پشت پرده‌ی مایا نبود، آنچه ورای توهم پارک بود فقط پارک واقعی بود، ولی همه‌اش باز هم توهم بود.\n\nهری داخل کلاس ننشسته بود.\n\nبه پاک‌کن نگاه نمی‌کرد.\n\nهری داخل جمجمه‌ی هری بود.",
+  "summary_fa": "پشت پرده مایا فقط پارک واقعی است ولی همه‌اش توهم است؛ هری درون جمجمه‌ی خودش است، نه در کلاس."
+ },
+ {
+  "id": 38,
+  "paras": [
+   115,
+   116,
+   117
+  ],
+  "verbatim_html": [
+   "He was experiencing a processed picture his brain had decoded from the signals sent down by his retina.",
+   "The real eraser was somewhere else, somewhere that wasn't the picture.",
+   "And the real eraser wasn't like the picture Harry's brain had of it. The idea of the eraser as a <em>solid object</em> was something that existed only inside his own brain, inside the parietal cortex that processed his sense of shape and space. The real eraser was a collection of atoms held together by electromagnetic forces and shared covalent electrons, while nearby, air molecules bounced off each other and bounced off the eraser-molecules."
+  ],
+  "summary_en": "He experiences a processed picture his brain decoded from retinal signals; the real eraser is elsewhere, unlike the picture — solidity existing only in the parietal cortex — a mere atom collection amid bouncing air molecules.",
+  "translation_fa": "داشت تصویر پردازش‌شده‌ای را تجربه می‌کرد که مغزش از سیگنال‌های فرستاده‌شده از شبکیه‌اش رمزگشایی کرده بود.\n\nپاک‌کن واقعی جای دیگری بود، جایی که تصویر نبود.\n\nو پاک‌کن واقعی مثل تصویری نبود که مغز هری از آن داشت. ایده‌ی پاک‌کن به‌عنوان یک شیء جامد چیزی بود که فقط درون مغز خودش وجود داشت، درون قشر آهیانه‌ای که حس شکل و فضایش را پردازش می‌کرد. پاک‌کن واقعی مجموعه‌ای از اتم‌ها بود که با نیروهای الکترومغناطیسی و الکترون‌های کووالانسی مشترک کنار هم نگه داشته شده بودند، در حالی که نزدیکش، مولکول‌های هوا به هم می‌خوردند و به مولکول‌های پاک‌کن می‌خوردند.",
+  "summary_fa": "تصویر تجربه‌شده فقط رمزگشایی شبکیه است؛ پاک‌کن واقعی با تصویر مغز فرق دارد."
+ },
+ {
+  "id": 39,
+  "paras": [
+   118
+  ],
+  "verbatim_html": [
+   "The real eraser was far away, and Harry, inside his skull, could never quite touch it, could only imagine ideas about it. But <em>his wand had the power,</em> it could change things out there in <em>reality</em>, it was only Harry's own preconceptions that were <em>limiting</em> it. Somewhere beyond the veil of Maya, the <em>truth</em> behind Harry's concept of \"my wand\" was touching the collection of atoms that Harry's mind thought of as \"a patch on the eraser\", and if that wand could change the collection of atoms that Harry considered \"the whole eraser\", there was absolutely no reason why it couldn't change the other collection too..."
+  ],
+  "summary_en": "The real eraser is far away beyond the veil — never touched, only imagined — but the wand truly touches that atom-collection, so if it can change the whole-eraser collection there is no reason it cannot change the patch-collection too.",
+  "translation_fa": "پاک‌کن واقعی دور بود، و هری، درون جمجمه‌اش، هرگز نمی‌توانست کاملاً لمسش کند، فقط می‌توانست ایده‌هایی درباره‌اش تصور کند. ولی چوبدستی‌اش قدرت داشت، می‌توانست چیزها را آن‌بیرون در واقعیت تغییر دهد، فقط پیش‌فرض‌های خود هری بودند که محدودش می‌کردند. جایی ورای پرده‌ی مایا، حقیقتِ پشت مفهوم «چوبدستیِ من» داشت مجموعه‌ی اتم‌هایی را لمس می‌کرد که ذهن هری آن را «لکه‌ای روی پاک‌کن» می‌دانست، و اگر آن چوبدستی می‌توانست مجموعه‌ی اتم‌هایی را تغییر دهد که هری «کل پاک‌کن» می‌دانست، مطلقاً هیچ دلیلی نبود که نتواند آن مجموعه‌ی دیگر را هم تغییر دهد...",
+  "summary_fa": "پاک‌کن واقعی دور و دست‌نیافتنی است ولی چوبدستی آن را لمس می‌کند؛ پس تغییر لکه هم باید ممکن باشد."
+ },
+ {
+  "id": 40,
+  "paras": [
+   119,
+   120,
+   121,
+   122
+  ],
+  "verbatim_html": [
+   "The Transfiguration still wasn't going through.",
+   "Harry's teeth clenched together, and he kicked it up <em>another</em> notch.",
+   "The concept Harry's mind had of the eraser as a single object was <em>obvious nonsense.</em>",
+   "It was a map that didn't and <em>couldn't</em> match the territory."
+  ],
+  "summary_en": "Still nothing goes through; teeth clenched, Harry kicks it up another notch: the single-object concept is obvious nonsense, a map that cannot match the territory.",
+  "translation_fa": "تغییرشکل هنوز پیش نمی‌رفت.\n\nدندان‌های هری به هم فشرده شدند، و یک پله‌ی دیگر بالاتر برد.\n\nمفهومی که ذهن هری از پاک‌کن به‌عنوان یک شیء واحد داشت مزخرفِ آشکار بود.\n\nنقشه‌ای بود که نمی‌توانست و نمی‌شد با قلمرو مطابقت کند.",
+  "summary_fa": "هنوز هیچ؛ هری یک پله بالاتر می‌رود: مفهوم شیء واحد مزخرف و ناسازگار با قلمروست."
+ },
+ {
+  "id": 41,
+  "paras": [
+   123,
+   124,
+   125,
+   126
+  ],
+  "verbatim_html": [
+   "Human beings modeled the world using stratified levels of organization, they had <em>separate thoughts</em> about how countries worked, how people worked, how organs worked, how cells worked, how molecules worked, how quarks worked.",
+   "When Harry's brain needed to think about the eraser, it would think about the rules that governed erasers, like \"erasers can get rid of pencil-marks\". Only if Harry's brain needed to predict what would happen on the lower chemical level, only then would Harry's brain start thinking - as though it were a separate fact - about rubber molecules.",
+   "But that was all in the <em>mind.</em>",
+   "Harry's mind might have separate <em>beliefs</em> about rules that governed erasers, but there was no <em>separate law of physics</em> that governed erasers."
+  ],
+  "summary_en": "Minds model countries down to quarks in strata, thinking eraser-rules first and rubber molecules only when predicting chemistry — but all that is in the mind, with no separate physical law governing erasers.",
+  "translation_fa": "انسان‌ها دنیا را با لایه‌هایی از سازمان مدل می‌کردند، درباره‌ی اینکه کشورها چطور کار می‌کنند، آدم‌ها چطور کار می‌کنند، اندام‌ها چطور کار می‌کنند، سلول‌ها چطور کار می‌کنند، مولکول‌ها چطور کار می‌کنند، کوارک‌ها چطور کار می‌کنند فکرهای جداگانه داشتند.\n\nوقتی مغز هری لازم داشت درباره‌ی پاک‌کن فکر کند، درباره‌ی قوانینی فکر می‌کرد که بر پاک‌کن‌ها حاکم بودند، مثل «پاک‌کن‌ها می‌تونن خط‌های مداد رو پاک کنن». فقط اگر مغز هری لازم داشت پیش‌بینی کند در سطح شیمیایی پایین‌تر چه رخ می‌دهد، فقط آن‌وقت مغز هری شروع می‌کرد به فکر کردن — انگار واقعیتی جداگانه باشد — درباره‌ی مولکول‌های لاستیک.\n\nولی همه‌ی آن در ذهن بود.\n\nذهن هری شاید باورهای جداگانه‌ای درباره‌ی قوانینی داشت که بر پاک‌کن‌ها حاکم بودند، ولی هیچ قانون فیزیکیِ جداگانه‌ای نبود که بر پاک‌کن‌ها حاکم باشد.",
+  "summary_fa": "لایه‌بندی ذهن فقط در نقشه است؛ هیچ قانون جداگانه‌ای برای پاک‌کن نیست."
+ },
+ {
+  "id": 42,
+  "paras": [
+   127,
+   128
+  ],
+  "verbatim_html": [
+   "Harry's mind modeled reality using multiple levels of organization, with different beliefs about each level. But that was all in the <em>map,</em> the true territory wasn't like that, <em>reality itself</em> had only a <em>single</em> level of organization, the quarks, it was a unified low-level process obeying mathematically simple rules.",
+   "Or at least that was what Harry had believed before he'd found out about magic, but the eraser wasn't magical."
+  ],
+  "summary_en": "The multi-level model is map, not territory — reality is single-level quarks in one unified simple process; so Harry had believed before magic, though the eraser is not magical.",
+  "translation_fa": "ذهن هری واقعیت را با چند سطح سازمان مدل می‌کرد، با باورهای متفاوت درباره‌ی هر سطح. ولی همه‌ی آن در نقشه بود، قلمرو واقعی این‌جوری نبود، خودِ واقعیت فقط یک سطح سازمان داشت، کوارک‌ها، فرایندی یکپارچه‌ی سطح‌پایین بود که از قوانین ریاضیِ ساده پیروی می‌کرد.\n\nیا دست‌کم هری پیش از آنکه درباره‌ی جادو بفهمد این را باور داشت، ولی پاک‌کن جادویی نبود.",
+  "summary_fa": "مدل چندسطحی نقشه است؛ واقعیت تک‌سطحی و یکپارچه است — باوری پیشاجادویی هری."
+ },
+ {
+  "id": 43,
+  "paras": [
+   129
+  ],
+  "verbatim_html": [
+   "And even if the eraser <em>had</em> been magical, the idea that there could <em>really exist</em> a single solid eraser was <em>impossible.</em> Things like erasers <em>couldn't</em> be basic elements of reality, they were too big and complicated to be atoms, they <em>had</em> to be made of parts<em>.</em> You couldn't have things that were <em>fundamentally complicated</em>. The implicit belief that Harry's brain had in the eraser as a single object wasn't just <em>wrong,</em> it was a map-territory confusion, the eraser only existed as a separate concept in Harry's multi-level <em>model</em> of the world, not as a separate element of single-level reality."
+  ],
+  "summary_en": "Even a magical eraser could not fundamentally be one solid thing — too big and complicated for atoms, necessarily made of parts, nothing fundamentally complicated; the brain's implicit object-belief is map-territory confusion, the eraser existing only in the multi-level model.",
+  "translation_fa": "و حتی اگر پاک‌کن جادویی می‌بود، این ایده که واقعاً بتواند یک پاک‌کن جامدِ واحد وجود داشته باشد ناممکن بود. چیزهایی مثل پاک‌کن‌ها نمی‌توانستند عناصر بنیادی واقعیت باشند، زیادی بزرگ و پیچیده بودند که اتم باشند، باید از اجزا ساخته شده باشند. نمی‌شد چیزهایی داشت که بنیاداً پیچیده باشند. باور ضمنی‌ای که مغز هری به پاک‌کن به‌عنوان شیء واحد داشت فقط غلط نبود، خلط نقشه و قلمرو بود، پاک‌کن فقط به‌عنوان مفهومی جداگانه در مدل چندسطحیِ هری از دنیا وجود داشت، نه به‌عنوان عنصری جداگانه از واقعیت تک‌سطحی.",
+  "summary_fa": "حتی پاک‌کن جادویی هم نمی‌توانست بنیاداً واحد باشد؛ باور شیء فقط خلط نقشه و قلمروست."
+ },
+ {
+  "id": 44,
+  "paras": [
+   130,
+   131,
+   132,
+   133
+  ],
+  "verbatim_html": [
+   "...the Transfiguration <em>still wasn't happening.</em>",
+   "Harry was breathing heavily, failed Transfiguration was almost as tiring as successful Transfiguration, but <em>damned</em> if he'd give up now.",
+   "All right, screw this nineteenth-century garbage.",
+   "Reality wasn't atoms, it wasn't a set of tiny billiard balls bopping around. That was just another lie. The notion of atoms as little dots was just another convenient hallucination that people clung to because they didn't want to confront the inhumanly alien shape of the underlying reality. No wonder, then, that his attempts to Transfigure based on that hadn't worked. If he wanted power, he had to abandon his humanity, and force his thoughts to conform to the true math of quantum mechanics."
+  ],
+  "summary_en": "Still nothing; breathing hard since failed Transfiguration tires like success, Harry refuses to quit, damns nineteenth-century garbage: reality is not billiard-ball atoms but another convenient hallucination hiding the alien underlying math — to gain power he must abandon humanity and conform thought to quantum mechanics.",
+  "translation_fa": "...تغییرشکل هنوز رخ نمی‌داد.\n\nهری به‌سختی نفس می‌کشید، تغییرشکلِ ناکام تقریباً به‌اندازه‌ی تغییرشکلِ موفق خسته‌کننده بود، ولی لعنت اگر حالا تسلیم می‌شد.\n\nباشه، گور بابای این آشغال‌های قرن نوزدهمی.\n\nواقعیت اتم نبود، مجموعه‌ای از توپ‌های بیلیارد ریزِ این‌ور اون‌ور رونده نبود. آن فقط دروغ دیگری بود. تصور اتم‌ها به‌عنوان نقطه‌های کوچک فقط توهمِ راحتِ دیگری بود که مردم به آن می‌چسبیدند چون نمی‌خواستند با شکل بیگانه‌ی غیرانسانیِ واقعیتِ زیرین روبه‌رو شوند. پس جای تعجب نبود که تلاش‌هایش برای تغییرشکل بر آن مبنا جواب نداده بود. اگر قدرت می‌خواست، باید انسانیتش را رها می‌کرد و افکارش را مجبور می‌کرد با ریاضیِ راستِ مکانیک کوانتومی مطابقت کند.",
+  "summary_fa": "هنوز هیچ؛ هری آشغال قرن نوزدهمی را کنار می‌گذارد و برای قدرت باید انسانیت را رها و با مکانیک کوانتومی هم‌شکل شود."
+ },
+ {
+  "id": 45,
+  "paras": [
+   134
+  ],
+  "verbatim_html": [
+   "There <em>were no particles,</em> there were just <em>clouds of amplitude</em> in a <em>multiparticle configuration space</em> and what his brain fondly imagined to be an eraser was nothing except a gigantic <em>factor</em> in a wavefunction that <em>happened to factorize</em>, it didn't have a separate existence any more than there was a particular solid factor of 3 hidden inside the number 6, if his wand was capable of <em>altering factors in an approximately factorizable wavefunction</em> then it should damn well be able to alter the slightly <em>smaller</em> factor that Harry's brain visualized as a patch of material on the eraser -"
+  ],
+  "summary_en": "No particles, only amplitude clouds in multiparticle configuration space: the 'eraser' is a factorizing giant factor in a wavefunction, no more separately existing than a solid factor 3 inside 6 — so a wand altering approximately-factorizable factors should alter the slightly smaller patch-factor too.",
+  "translation_fa": "هیچ ذره‌ای نبود، فقط ابرهایی از دامنه در فضای پیکربندیِ چندذره‌ای بودند و آنچه مغزش با علاقه پاک‌کن می‌دانست چیزی نبود جز یک عاملِ غول‌پیکر در تابع موجی که اتفاقاً تجزیه‌پذیر بود، وجود جداگانه‌ای نداشت بیش از آنکه عاملِ جامدِ ۳ خاصی درون عدد ۶ پنهان باشد، اگر چوبدستی‌اش توان دگرگون کردن عامل‌ها در تابع موجِ تقریباً تجزیه‌پذیر را داشت پس لعنتاً باید می‌توانست آن عاملِ کمی کوچک‌تر را هم دگرگون کند که مغز هری آن را به‌صورت لکه‌ای از ماده روی پاک‌کن تصویر می‌کرد ــ",
+  "summary_fa": "بدون ذره، فقط ابرهای دامنه: پاک‌کن عاملی تجزیه‌پذیر در تابع موج است و چوبدستی باید عامل کوچک‌تر لکه را هم بتواند دگرگون کند."
+ },
+ {
+  "id": 46,
+  "paras": [
+   135,
+   136,
+   137,
+   138
+  ],
+  "verbatim_html": [
+   "* * *",
+   "Hermione tore through the hallways, shoes pounding hard on the stone, breath coming in pants, the shock of adrenaline still racing through her blood.",
+   "Like a picture of a young woman turning into an old crone, like the cup becoming two faces.",
+   "What had they been doing?"
+  ],
+  "summary_en": "After a break, Hermione tears through the hallways on adrenaline, perception flipping like crone and faces-vase, asking twice what they were doing.",
+  "translation_fa": "* * *\n\nهرماینی در راهروها می‌دوید، کفش‌هایش محکم به سنگ می‌کوبید، نفسش به‌سختی می‌آمد، شوک آدرنالین هنوز در خونش می‌دوید.\n\nمثل تصویری از زن جوانی که به عجوزه تبدیل می‌شود، مثل جامی که به دو چهره تبدیل می‌شود.\n\nآن‌ها داشتند چه می‌کردند؟",
+  "summary_fa": "هرماینی با آدرنالین می‌دود و مبهوت می‌پرسد داشتند چه می‌کردند."
+ },
+ {
+  "id": 47,
+  "paras": [
+   139,
+   140,
+   141,
+   142
+  ],
+  "verbatim_html": [
+   "<em>What had they been doing?</em>",
+   "She came to the classroom and her fingers slipped on the doorknob at first, too sweaty, she grabbed harder and the door opened -",
+   "- in a single flash of perception she saw Harry staring at a small pink rectangle on the table in front of him -",
+   "- as a few paces away the tiny black thread, almost invisible from this distance, supported all that weight -"
+  ],
+  "summary_en": "Repeating the question, she forces the sweaty doorknob: in one flash she sees Harry staring at the pink rectangle while the near-invisible black thread still bears all that weight.",
+  "translation_fa": "داشتند چه می‌کردند؟\n\nبه کلاس رسید و انگشت‌هایش اول روی دستگیره لغزید، زیادی عرق‌کرده، محکم‌تر گرفت و در باز شد ــ\n\nــ در یک برقِ ادراک هری را دید که به مستطیل صورتی کوچک روی میز جلویش خیره شده ــ\n\nــ در حالی که چند قدم آن‌سوتر نخِ سیاهِ ریز، که از این فاصله تقریباً نامرئی بود، آن همه وزن را نگه داشته بود ــ",
+  "summary_fa": "هرماینی در را باز می‌کند و هری را خیره به پاک‌کن و نخِ باربر می‌بیند."
+ },
+ {
+  "id": 48,
+  "paras": [
+   143,
+   144,
+   145,
+   146
+  ],
+  "verbatim_html": [
+   "<em>\"Harry get out of the classroom!\"</em>",
+   "Pure shock crossed Harry's face, and he stood up so fast he almost fell over, stopping only to grab the small pink rectangle from the table, and he tore out of the door, she'd already stepped aside, her wand was already in her hand coming up pointing at the thread -",
+   "\"<em>Finite Incantatem!</em> \"",
+   "And Hermione slammed the door shut again, just as the gigantic crash of a hundred kilograms of falling metal came from inside."
+  ],
+  "summary_en": "She screams for Harry to get out; he bolts, grabbing the eraser, as her wand rises; she cries Finite Incantatem and slams the door just as a hundred kilograms of metal crash inside.",
+  "translation_fa": "«هری از کلاس بیا بیرون!»\n\nشوک ناب از چهره‌ی هری گذشت، و آن‌قدر سریع بلند شد که نزدیک بود بیفتد، فقط ایستاد تا مستطیل صورتی کوچک را از روی میز بردارد، و از در بیرون دوید، او از قبل کنار رفته بود، چوبدستی‌اش از قبل در دستش بالا می‌آمد که به‌سوی نخ نشانه رفت ــ\n\n«فینیته اینکانتاتم!»\n\nو هرماینی در را دوباره محکم بست، درست وقتی که صدای مهیبِ سقوط صد کیلوگرم فلز از داخل آمد.",
+  "summary_fa": "فریاد خروج، فینیته، و بستن در هم‌زمان با سقوط صد کیلوگرم فلز."
+ },
+ {
+  "id": 49,
+  "paras": [
+   147,
+   148,
+   149,
+   150
+  ],
+  "verbatim_html": [
+   "She was panting, gasping for air, she'd run all the way here without stopping, she was soaked in sweat and her legs and thighs burned like living flames, she couldn't have answered Harry's questions for all the Galleons in the world.",
+   "Hermione blinked, and realized that she had started to fall, and Harry had caught her, and was lowering her gently to sit on the floor.",
+   "\"...healthy...\" she managed to whisper.",
+   "\"<em>What?</em> \" said Harry, looking paler than she'd ever seen him."
+  ],
+  "summary_en": "Gasping and sweat-soaked, legs burning after her nonstop run, Hermione cannot answer questions for all the Galleons in the world; she starts to fall and Harry catches her, lowering her gently; she whispers 'healthy' and he pales.",
+  "translation_fa": "داشت نفس‌نفس می‌زد، برای هوا نفس می‌کشید، تمام راه را تا اینجا بدون توقف دویده بود، غرق عرق بود و پاها و ران‌هایش مثل شعله‌های زنده می‌سوخت، نمی‌توانست به سؤال‌های هری جواب بدهد برای همه‌ی گالئون‌های دنیا.\n\nهرماینی پلک زد و فهمید که داشت می‌افتاد، و هری او را گرفته بود و به‌آرامی روی زمین می‌نشاند.\n\n«...سلامت...» توانست زمزمه کند.\n\n«چی؟» هری گفت، رنگ‌پریده‌تر از هر وقتی که دیده بود.",
+  "summary_fa": "هرماینی نفس‌بریده از حال می‌رود، هری او را می‌گیرد و با زمزمه‌ی «سلامت» رنگ می‌بازد."
+ },
+ {
+  "id": 50,
+  "paras": [
+   151,
+   152,
+   153,
+   154
+  ],
+  "verbatim_html": [
+   "\"...are you, feeling, healthy...\"",
+   "Harry started looking even more frightened as the question sank in. \"I, I don't think I have any symptoms -\"",
+   "Hermione closed her eyes for a moment. \"Good,\" she whispered. \"Catch, breath.\"",
+   "That took a while. Harry was still looking scared. That was good too, maybe it would teach him a lesson."
+  ],
+  "summary_en": "She whispers whether he feels healthy; paling Harry thinks he has no symptoms; she tells him to catch his breath while he stays frightened — good, perhaps a lesson.",
+  "translation_fa": "«...حالت، خوبه، سالمی...»\n\nهری شروع کرد حتی ترسیده‌تر به نظر برسد وقتی سؤال در ذهنش جا افتاد. «من، فکر نکنم هیچ علائمی داشته باشم ــ»\n\nهرماینی برای لحظه‌ای چشم‌هایش را بست. «خوبه،» زمزمه کرد. «نفس، بگیر.»\n\nمدتی طول کشید. هری هنوز ترسیده به نظر می‌رسید. این هم خوب بود، شاید به او درسی بدهد.",
+  "summary_fa": "هرماینی از سلامت هری می‌پرسد؛ علائمی نیست و ترس او شاید درسی باشد."
+ },
+ {
+  "id": 51,
+  "paras": [
+   155,
+   156,
+   157,
+   158
+  ],
+  "verbatim_html": [
+   "Hermione reached into the pouch Harry had bought her, whispered \"water\" through her parched throat, took out the bottle and drank in great huge gulps.",
+   "And then it was still a while before she could talk again.",
+   "\"We broke the rules, Harry,\" she said in a hoarse voice. \"We broke the rules.\"",
+   "\"I...\" Harry swallowed. \"I still don't see how, I've been <em>thinking</em> but -\""
+  ],
+  "summary_en": "Hermione gulps water from her pouch, needs a while before speech, then hoarsely says they broke the rules — twice — while Harry, who has been thinking, still does not see how.",
+  "translation_fa": "هرماینی دست برد به کیسه‌ای که هری برایش خریده بود، از گلوی خشکیده‌اش «آب» را زمزمه کرد، بطری را بیرون آورد و با جرعه‌های بزرگ نوشید.\n\nو باز هم مدتی طول کشید پیش از آنکه بتواند دوباره حرف بزند.\n\n«ما قوانین رو شکستیم، هری،» با صدای خشن گفت. «ما قوانین رو شکستیم.»\n\n«من...» هری آب دهانش را قورت داد. «هنوز نمی‌فهمم چطور، فکر کردم ولی ــ»",
+  "summary_fa": "پس از آب و استراحت، هرماینی خشن می‌گوید قوانین را شکسته‌اند ولی هری هنوز نمی‌فهمد چطور."
+ },
+ {
+  "id": 52,
+  "paras": [
+   159,
+   160,
+   161,
+   162
+  ],
+  "verbatim_html": [
+   "\"I asked if the Transfiguration was safe and <em>you answered me!</em> \"",
+   "There was a pause.",
+   "\"That's it?\" Harry said.",
+   "She could have screamed."
+  ],
+  "summary_en": "Hermione's charge: she asked if it was safe and he answered; a pause; Harry's 'That's it?'; she could have screamed.",
+  "translation_fa": "«من پرسیدم تغییرشکل امنه و تو جوابم رو دادی!»\n\nمکثی بود.\n\n«همین؟» هری گفت.\n\nنزدیک بود جیغ بکشد.",
+  "summary_fa": "اتهام هرماینی: او پرسیده امن است و هری جواب داده؛ هری جا می‌خورد."
+ },
+ {
+  "id": 53,
+  "paras": [
+   163,
+   164,
+   165,
+   166
+  ],
+  "verbatim_html": [
+   "\"Harry, don't you get it?\" she said. \"It's made out of tiny fibers, what if it <em>unraveled,</em> who <em>knows</em> what could go wrong, <em>we didn't ask Professor McGonagall!</em> Don't you see what we were doing? We were experimenting with Transfiguration. We were <em>experimenting</em> with <em>Transfiguration!</em> \"",
+   "There was another pause.",
+   "\"Right...\" Harry said slowly. \"That's probably one of those things they don't even bother telling you <em>not</em> to do because it's too obvious. Don't test brilliant new ideas for Transfiguration by yourselves in an unused classroom without consulting any professors.\"",
+   "\"You could have gotten us killed, Harry!\" Hermione knew it wasn't fair, she'd made the mistake too, but she still felt angry at him, he always sounded so confident and that had dragged her unthinkingly along in his wake. \"We could have <em>spoiled Professor McGonagall's perfect record!</em> \""
+  ],
+  "summary_en": "She explains: tiny fibers that might unravel, unasked McGonagall, they were experimenting with Transfiguration — twice; another pause; Harry slowly agrees it is too obvious to even forbid — never test brilliant Transfiguration ideas alone in an unused classroom; she accuses that he could have gotten them killed and spoiled McGonagall's perfect record, unfairly but angrily, dragged along by his confidence.",
+  "translation_fa": "«هری، نمی‌فهمی؟» گفت. «از الیاف ریز ساخته شده، اگه باز می‌شد چی، کی می‌دونه چی می‌تونست غلط پیش بره، ما از پروفسور مک‌گونگال نپرسیدیم! نمی‌بینی داشتیم چی کار می‌کردیم؟ داشتیم با تغییرشکل آزمایش می‌کردیم. داشتیم با تغییرشکل آزمایش می‌کردیم!»\n\nمکث دیگری بود.\n\n«درسته...» هری به‌آرامی گفت. «این احتمالاً از اون چیزهاییه که حتی زحمت نمی‌کنن بگن نکن چون زیادی بدیهیه. ایده‌های درخشان تازه برای تغییرشکل رو تنهایی توی یه کلاس بلااستفاده بدون مشورت با هیچ استادی امتحان نکنین.»\n\n«می‌تونستی باعث شی کشته بشیم، هری!» هرماینی می‌دانست منصفانه نیست، او هم اشتباه را کرده بود، ولی هنوز از دست او عصبانی بود، او همیشه آن‌قدر مطمئن به نظر می‌رسید و این او را ناآگاهانه به دنبال خودش کشیده بود. «می‌تونستیم رکورد بی‌نقص پروفسور مک‌گونگال رو خراب کنیم!»",
+  "summary_fa": "هرماینی خطر الیاف و آزمایش بدون اجازه را شرح می‌دهد و هری را متهم می‌کند."
+ },
+ {
+  "id": 54,
+  "paras": [
+   167,
+   168,
+   169,
+   170
+  ],
+  "verbatim_html": [
+   "\"Yes,\" said Harry, \"let's not tell her about this, shall we?\"",
+   "\"We have to stop,\" Hermione said. \"We have to stop this or we're going to get hurt. We're too young, Harry, we can't do this, not yet.\"",
+   "A weak grin crossed Harry's face. \"Um, you're sort of wrong about that.\"",
+   "And he held out a small pink rectangle, a rubber eraser with a bright metal patch on it."
+  ],
+  "summary_en": "Harry suggests not telling McGonagall; Hermione insists they must stop — too young, next time fatal; a weak grin crosses Harry's face — she is sort of wrong; he holds out the pink eraser with a bright metal patch.",
+  "translation_fa": "«آره،» هری گفت، «بذار درباره‌ی این بهش نگیم، باشه؟»\n\n«باید دست نگه داریم،» هرماینی گفت. «باید این رو متوقف کنیم وگرنه آسیب می‌بینیم. زیادی جوونیم، هری، نمی‌تونیم این کار رو بکنیم، هنوز نه.»\n\nلبخند ضعیفی از چهره‌ی هری گذشت. «ام، در این مورد یه جورایی اشتباه می‌کنی.»\n\nو مستطیل صورتی کوچکی را دراز کرد، پاک‌کن لاستیکی با لکه‌ی فلزی براق روی آن.",
+  "summary_fa": "هری پنهان‌کاری را پیشنهاد می‌کند و سپس پاک‌کنِ لکه‌فلزی را نشان می‌دهد."
+ },
+ {
+  "id": 55,
+  "paras": [
+   171
+  ],
+  "verbatim_html": [
+   "Hermione stared at it, puzzled."
+  ],
+  "summary_en": "Hermione stares at it, puzzled.",
+  "translation_fa": "هرماینی به آن خیره شد، گیج.",
+  "summary_fa": "هرماینی گیج به پاک‌کن خیره می‌شود."
+ },
+ {
+  "id": 56,
+  "paras": [
+   172
+  ],
+  "verbatim_html": [
+   "\"Quantum mechanics wasn't enough,\" Harry said. \"I had to go all the way down to timeless physics before it took. Had to see the wand as enforcing a <em>relation</em> between separate past and future realities, instead of <em>changing</em> anything over time - but I did it, Hermione, I saw past the illusion of objects, and I bet there's not a single other wizard in the world who could have. Even if some Muggleborn knew about timeless formulations of quantum mechanics, it would just be a weird belief about strange distant quantum stuff, they wouldn't <em>see</em> that it was <em>reality</em>, accept that the world they knew was just a hallucination. I Transfigured <em>part</em> of the eraser without changing the <em>whole thing.</em>\""
+  ],
+  "summary_en": "Harry explains: quantum mechanics was not enough — he went down to timeless physics, seeing the wand as enforcing a relation between separate past and future realities rather than changing anything over time; he saw past the illusion of objects, a feat no other wizard could likely match, since even a Muggleborn physicist would hold it as weird distant belief, not lived reality; he Transfigured part of the eraser without changing the whole.",
+  "translation_fa": "«مکانیک کوانتومی کافی نبود،» هری گفت. «مجبور شدم تا فیزیک بی‌زمان پایین برم تا جواب بده. مجبور شدم چوبدستی رو ببینم که داره رابطه‌ای رو بین واقعیت‌های گذشته و آینده‌ی جدا از هم تحمیل می‌کنه، به‌جای اینکه چیزی رو در طول زمان تغییر بده ــ ولی انجامش دادم، هرماینی، از ورای توهم اشیا دیدم، و شرط می‌بندم هیچ جادوگر دیگه‌ای در دنیا نمی‌تونست. حتی اگه یه مشنگی‌زاده فرمول‌بندی‌های بی‌زمان مکانیک کوانتومی رو می‌دونست، فقط یه باور عجیب درباره‌ی چیزهای کوانتومی غریبِ دور می‌بود، نمی‌دید که واقعیته، قبول نمی‌کرد دنیایی که می‌شناخت فقط توهمه. بخشی از پاک‌کن رو تغییرشکل دادم بدون اینکه کلش رو تغییر بدم.»",
+  "summary_fa": "هری توضیح می‌دهد با فیزیک بی‌زمان از توهم اشیا گذشته و بخشی از پاک‌کن را بدون کل تغییر داده است."
+ },
+ {
+  "id": 57,
+  "paras": [
+   173,
+   174,
+   175,
+   176
+  ],
+  "verbatim_html": [
+   "Hermione raised her wand again, pointed it at the eraser.",
+   "For a moment anger crossed Harry's face, but he didn't make any move to stop her.",
+   "\"<em>Finite Incantatem</em>,\" said Hermione. \"Check with Professor McGonagall before you try it again.\"",
+   "Harry nodded, though his face was still a bit tight."
+  ],
+  "summary_en": "Hermione raises her wand at the eraser; anger crosses Harry's face but he does not stop her; she casts Finite Incantatem and orders him to check with McGonagall before retrying; he nods, tight-faced.",
+  "translation_fa": "هرماینی دوباره چوبدستی‌اش را بلند کرد، به‌سوی پاک‌کن نشانه رفت.\n\nبرای لحظه‌ای خشم از چهره‌ی هری گذشت، ولی هیچ حرکتی برای متوقف کردنش نکرد.\n\n«فینیته اینکانتاتم،» هرماینی گفت. «قبل از اینکه دوباره امتحان کنی با پروفسور مک‌گونگال چک کن.»\n\nهری سر تکان داد، هرچند چهره‌اش هنوز کمی گرفته بود.",
+  "summary_fa": "هرماینی پاک‌کن را خنثی می‌کند و هری را ملزم به مشورت با مک‌گونگال می‌کند."
+ },
+ {
+  "id": 58,
+  "paras": [
+   177,
+   178,
+   179,
+   180
+  ],
+  "verbatim_html": [
+   "\"And we still have to stop,\" said Hermione.",
+   "\"<em>Why?</em> \" said Harry. \"Don't you see what this <em>means</em>, Hermione? Wizards <em>don't</em> know everything! There's too few of them, even fewer who know any science, they haven't exhausted the low-hanging fruit -\"",
+   "\"It's not <em>safe</em>,\" Hermione said. \"If we <em>can</em> find out new things it's even <em>less</em> safe! We're <em>too young!</em> We made one big mistake already, next time we could just <em>die!</em> \"",
+   "Then Hermione flinched."
+  ],
+  "summary_en": "Still they must stop, she says; Harry protests what this means — wizards do not know everything, too few, fewer knowing science, low-hanging fruit unpicked; she answers it is unsafe, they are too young, one big mistake already, next time death; then she flinches.",
+  "translation_fa": "«و هنوز باید دست نگه داریم،» هرماینی گفت.\n\n«چرا؟» هری گفت. «نمی‌بینی این یعنی چی، هرماینی؟ جادوگرها همه‌چیز رو نمی‌دونن! تعدادشون خیلی کمه، עוד کمترشون علم می‌دونن، میوه‌های در دسترس رو نچیدن ــ»\n\n«امن نیست،» هرماینی گفت. «اگه بتونیم چیزهای تازه بفهمیم حتی امن‌تر نیست! زیادی جوونیم! یه اشتباه بزرگ کردیم، دفعه‌ی بعد ممکنه فقط بمیریم!»\n\nبعد هرماینی از جا پرید.",
+  "summary_fa": "هری از میوه‌های نچیده حرف می‌زند و هرماینی از ناامنی و جوانی‌شان."
+ },
+ {
+  "id": 59,
+  "paras": [
+   181,
+   182,
+   183,
+   184
+  ],
+  "verbatim_html": [
+   "Harry looked away from her, and started taking slow, deep breaths.",
+   "\"Please don't try to do it alone, Harry,\" Hermione said, her voice trembling. \"Please.\"",
+   "<em>Please don't make me have to decide whether to tell Professor Flitwick.</em>",
+   "There was a long pause."
+  ],
+  "summary_en": "Harry looks away into slow deep breaths; trembling, she begs him not to do it alone; her unspoken fear is having to decide whether to tell Flitwick; a long pause.",
+  "translation_fa": "هری نگاهش را از او برگرداند و شروع کرد به نفس‌های آهسته‌ی عمیق کشیدن.\n\n«لطفاً سعی نکن تنهایی انجامش بدی، هری،» هرماینی گفت، صدایش می‌لرزید. «لطفاً.»\n\nلطفاً مجبورم نکن تصمیم بگیرم به پروفسور فلیتویک بگم یا نه.\n\nمکث طولانی‌ای بود.",
+  "summary_fa": "هرماینی ملتمسانه می‌خواهد تنهایی ادامه ندهد و از تصمیم درباره‌ی خبر به فلیتویک می‌ترسد."
+ },
+ {
+  "id": 60,
+  "paras": [
+   185,
+   186,
+   187,
+   188
+  ],
+  "verbatim_html": [
+   "\"So you want us to study,\" Harry said. She could tell he was trying to keep the anger out of his voice. \"Just study.\"",
+   "Hermione wasn't sure if she should say anything, but... \"Like you studied, um, timeless physics, right?\"",
+   "Harry looked back at her.",
+   "\"That thing you did,\" Hermione said, her voice tentative, \"it wasn't because of <em>our</em> experiments, right? You could do it because you'd read lots of books.\""
+  ],
+  "summary_en": "So just study, Harry says, fighting anger; tentatively she asks — like his timeless-physics study, right; he looks back; she ventures it was not their experiments but his many books that enabled it.",
+  "translation_fa": "«پس می‌خوای درس بخونیم،» هری گفت. می‌توانست بفهمد دارد سعی می‌کند خشم را از صدایش دور نگه دارد. «فقط درس.»\n\nهرماینی مطمئن نبود باید چیزی بگوید، ولی... «مثل اینکه تو درس خوندی، ام، فیزیک بی‌زمان، درسته؟»\n\nهری به او نگاه کرد.\n\n«اون کاری که کردی،» هرماینی گفت، صدایش مردد، «به‌خاطر آزمایش‌های ما نبود، درسته؟ تونستی انجامش بدی چون کتاب‌های زیادی خونده بودی.»",
+  "summary_fa": "هرماینی پیشنهاد می‌کند موفقیت از کتاب‌ها بود نه آزمایش‌ها و هری فقط درس را می‌پذیرد."
+ },
+ {
+  "id": 61,
+  "paras": [
+   189,
+   190,
+   191,
+   192
+  ],
+  "verbatim_html": [
+   "Harry opened his mouth, and then he shut it again. There was a frustrated look on his face.",
+   "\"All right,\" Harry said. \"How about this. We study, and if I think of anything that seems <em>really</em> worth trying, we'll try it after I ask a professor.\"",
+   "\"Okay,\" Hermione said. She didn't fall over with relief, but only because she was already sitting down.",
+   "\"Shall we get lunch?\" Harry said cautiously."
+  ],
+  "summary_en": "Harry opens his mouth, shuts it, frustrated; his deal: they study, and anything seeming really worth trying goes through a professor first; relief nearly drops her, already seated; cautiously he proposes lunch.",
+  "translation_fa": "هری دهانش را باز کرد، و بعد دوباره بست. نگاه درمانده‌ای در چهره‌اش بود.\n\n«باشه،» هری گفت. «این چطوره. ما درس می‌خونیم، و اگه چیزی به نظرم واقعاً ارزش امتحان کردن داشت، اول از یه استاد می‌پرسم بعد امتحانش می‌کنیم.»\n\n«باشه،» هرماینی گفت. از آسودگی خیال غش نکرد، ولی فقط چون از قبل نشسته بود.\n\n«ناهار بخوریم؟» هری با احتیاط گفت.",
+  "summary_fa": "هری معامله می‌کند: درس به‌علاوه‌ی مشورت استاد پیش از هر امتحانی؛ سپس ناهار."
+ },
+ {
+  "id": 62,
+  "paras": [
+   193,
+   194,
+   195,
+   196
+  ],
+  "verbatim_html": [
+   "Hermione nodded. Yes. Lunch sounded good. For real, this time.",
+   "She carefully began to push herself off the stone floor, wincing as her body screamed at her -",
+   "Harry pointed his wand at her and said \"<em>Wingardium Leviosa.</em>\"",
+   "Hermione blinked as the huge weight on her legs diminished to something bearable."
+  ],
+  "summary_en": "She nods — real lunch this time; wincing, her screaming body pushes off the stone floor; Harry points his wand — Wingardium Leviosa; blinking, she feels the huge leg-weight shrink to bearable.",
+  "translation_fa": "هرماینی سر تکان داد. بله. ناهار خوب به نظر می‌رسید. واقعی، این بار.\n\nبا احتیاط شروع کرد خودش را از کف سنگی بالا بکشد، در حالی که بدنش فریاد می‌کشید ــ\n\nهری چوبدستی‌اش را به‌سوی او گرفت و گفت «وین‌گاردیوم لوی‌اوسا.»\n\nهرماینی پلک زد وقتی وزن عظیم روی پاهایش به چیزی قابل‌تحمل تقلیل یافت.",
+  "summary_fa": "هرماینی می‌پذیرد و هری با وین‌گاردیوم وزنش را سبک می‌کند."
+ },
+ {
+  "id": 63,
+  "paras": [
+   197,
+   198,
+   199,
+   200
+  ],
+  "verbatim_html": [
+   "A smile quirked across Harry's face. \"You can <em>lift</em> something without being able to Hover it completely,\" he said. \"Remember that experiment?\"",
+   "Hermione smiled back helplessly, although she thought she ought to still be angry.",
+   "And she started walking back toward the Great Hall, feeling remarkably and wonderfully light on her feet, as Harry carefully kept his wand trained on her.",
+   "He only managed to keep it up for five minutes, but it was the thought that counted."
+  ],
+  "summary_en": "Smiling, Harry notes you can lift without fully Hovering — remember that experiment; helplessly smiling back, still nominally angry, she walks light-footed to the Great Hall under his trained wand; he lasts five minutes, but the thought counts.",
+  "translation_fa": "لبخندی گوشه‌ی چهره‌ی هری نشست. «می‌تونی چیزی رو بلند کنی بدون اینکه کامل معلقش کنی،» گفت. «اون آزمایش رو یادته؟»\n\nهرماینی ناچار لبخند زد، هرچند فکر می‌کرد هنوز باید عصبانی باشد.\n\nو شروع کرد به قدم زدن به‌سوی تالار بزرگ، با حس سبکیِ شگفت‌انگیز و دلپذیر در پاهایش، در حالی که هری با دقت چوبدستی‌اش را به‌سوی او نگه داشته بود.\n\nفقط توانست پنج دقیقه ادامه بدهد، ولی نیت بود که حساب می‌شد.",
+  "summary_fa": "هری با یادآوری آزمایش شناورسازی او را سبک‌بال تا تالار همراهی می‌کند."
+ },
+ {
+  "id": 64,
+  "paras": [
+   201,
+   202,
+   203,
+   204
+  ],
+  "verbatim_html": [
+   "* * *",
+   "Minerva looked at Dumbledore.",
+   "Dumbledore gazed back inquiringly at her. \"Did you understand any of that?\" the Headmaster said, sounding bemused.",
+   "It had been the most complete and utter gibberish that Minerva could ever remember hearing. She was feeling a bit embarrassed about having summoned the Headmaster to hear it, but she'd been given explicit instructions."
+  ],
+  "summary_en": "After a break, Minerva looks at Dumbledore, who bemusedly asks if she understood any of it; it was utter gibberish, and she is embarrassed at summoning him, though under explicit instructions.",
+  "translation_fa": "* * *\n\nمینروا به دامبلدور نگاه کرد.\n\nدامبلدور پرسشگرانه به او خیره شد. «چیزی از اون سر در آوردی؟» مدیر گفت، متحیر به نظر می‌رسید.\n\nکامل‌ترین و مطلق‌ترین چرندی بود که مینروا یادش می‌آمد شنیده باشد. کمی خجالت می‌کشید که مدیر را برای شنیدنش احضار کرده بود، ولی دستورهای صریح گرفته بود.",
+  "summary_fa": "مینروا و دامبلدور پس از جداکننده؛ چرند مطلق بود و مینروا از احضار مدیر خجالت می‌کشد."
+ },
+ {
+  "id": 65,
+  "paras": [
+   205,
+   206,
+   207,
+   208
+  ],
+  "verbatim_html": [
+   "\"I'm afraid not,\" Professor McGonagall said primly.",
+   "\"So,\" Dumbledore said. The silver beard swung away from her, the old wizard's twinkling gaze looked elsewhere once more. \"You suspect you might be able to do something that other wizards can't do, something we think is impossible.\"",
+   "The three of them stood within the Headmaster's private Transfiguration workroom, where the shining phoenix of Dumbledore's Patronus had told her to bring Harry, moments after her own Patronus had reached him. Light shone down through the skylights and illuminated the great seven-pointed alchemical diagram drawn in the center of the circular room, showing it to be a little dusty, which saddened Minerva. Transfiguration research was one of Dumbledore's great enjoyments, and she'd known how pressed for time he'd been lately, but not that he was <em>this</em> pressed.",
+   "And now Harry Potter was going to waste even more of the Headmaster's time. But she certainly couldn't blame <em>Harry</em> for that. He'd done the proper thing in coming to her to say that he'd had an idea for doing something in Transfiguration that was currently believed to be impossible, and she herself had done exactly what she'd been told to do: she'd ordered Harry to be quiet and not discuss anything with her until she had consulted the Headmaster and they'd finished moving to a secure location."
+  ],
+  "summary_en": "Primly she admits she did not; Dumbledore turns to Harry's claim of possibly doing what wizards cannot; the scene is set in his private workroom with its dusty seven-pointed diagram, reached via Patronuses; Harry will waste more of his time, though blamelessly, having properly reported an allegedly impossible idea while Minerva exactly followed orders.",
+  "translation_fa": "«متأسفانه نه،» پروفسور مک‌گونگال با حالت رسمی گفت.\n\n«خب،» دامبلدور گفت. ریش نقره‌ای از او چرخید، نگاه برق‌زننده‌ی جادوگر پیر یک بار دیگر به جای دیگری رفت. «گمان می‌کنی شاید بتونی کاری بکنی که جادوگرهای دیگه نمی‌تونن بکنن، چیزی که ما فکر می‌کنیم ناممکنه.»\n\nهر سه در کارگاه خصوصی تغییرشکل مدیر ایستاده بودند، جایی که ققنوس درخشانِ پاترونوس دامبلدور به او گفته بود هری را بیاورد، لحظاتی پس از آنکه پاترونوس خودش به او رسیده بود. نور از پنجره‌های سقفی پایین می‌تابید و نمودار کیمیاگری هفت‌پرِ بزرگِ کشیده‌شده در مرکز اتاق دایره‌ای را روشن می‌کرد، نشان می‌داد که کمی خاک گرفته، که مینروا را غمگین کرد. پژوهش تغییرشکل یکی از لذت‌های بزرگ دامبلدور بود، و او می‌دانست اخیراً چقدر وقتش تنگ بوده، ولی نه اینکه این‌قدر تنگ باشد.\n\nو حالا هری پاتر داشت وقت حتی بیشتری از مدیر را تلف می‌کرد. ولی قطعاً نمی‌توانست هری را برای آن سرزنش کند. او کار درست را کرده بود که پیش او آمده بود تا بگوید ایده‌ای برای انجام کاری در تغییرشکل دارد که در حال حاضر ناممکن دانسته می‌شود، و خودش دقیقاً همان کاری را کرده بود که به او گفته بودند بکند: به هری دستور داده بود ساکت باشد و چیزی با او در میان نگذارد تا با مدیر مشورت کرده و به مکان امنی منتقل شده باشند.",
+  "summary_fa": "دامبلدور ادعا را جدی می‌گیرد؛ توصیف کارگاه و نمودار خاک‌گرفته؛ هری بی‌تقصیر وقت بیشتری می‌گیرد."
+ },
+ {
+  "id": 66,
+  "paras": [
+   209,
+   210,
+   211,
+   212
+  ],
+  "verbatim_html": [
+   "If Harry had started out by saying what <em>specifically</em> he thought he could do, she wouldn't have bothered.",
+   "\"Look, I know it's hard to explain,\" Harry said, sounding a little embarrassed. \"What it adds up to is that what you believe conflicts with what scientists believe, in a case where I'd genuinely expect scientists to know more than wizards.\"",
+   "Minerva would have sighed out loud, if Dumbledore hadn't seemed to be taking the whole thing very seriously.",
+   "Harry's idea stemmed from simple ignorance, nothing more. If you changed half of a metal ball into glass, the <em>whole ball</em> had a different Form. To change the part <em>was</em> to change the whole, and that meant removing the whole Form and replacing it with a different one. What would it even <em>mean</em> to Transfigure only half of a metal ball? That the metal ball <em>as a whole</em> had the same Form as before, but <em>half</em> that ball now had a different Form?"
+  ],
+  "summary_en": "Had he named specifics first she would not have bothered; embarrassedly Harry says wizard belief conflicts with scientists' where scientists should know better; Minerva swallows a sigh at Dumbledore's seriousness and rehearses the orthodox objection — changing half a ball changes the whole's Form, so what could half-Transfiguration even mean.",
+  "translation_fa": "اگر هری اول می‌گفت دقیقاً چه فکر می‌کند می‌تواند بکند، زحمت نمی‌کشید.\n\n«ببین، می‌دونم توضیحش سخته،» هری گفت، کمی خجالت‌زده به نظر می‌رسید. «خلاصه‌ش اینه که چیزی که شما باور دارین با چیزی که دانشمندها باور دارن در تضاده، در موردی که واقعاً انتظار دارم دانشمندها از جادوگرها بیشتر بدونن.»\n\nمینروا بلند آه می‌کشید، اگر دامبلدور به نظر نمی‌رسید که کل ماجرا را خیلی جدی گرفته است.\n\nایده‌ی هری از نادانی ساده سرچشمه می‌گرفت، نه بیشتر. اگر نیمی از یک گوی فلزی را به شیشه تبدیل می‌کردی، کل گوی صورت متفاوتی داشت. تغییر دادن بخش یعنی تغییر دادن کل، و این یعنی برداشتن صورت کل و جایگزین کردنش با صورت دیگری. اصلاً تغییرشکل دادنِ فقط نیمی از یک گوی فلزی چه معنایی می‌توانست داشته باشد؟ اینکه گوی فلزی به‌عنوان کل همان صورت قبلی را داشته باشد، ولی نیمی از آن گوی حالا صورت متفاوتی داشته باشد؟",
+  "summary_fa": "هری از تعارض با علم می‌گوید و مینروا اعتراض ارتدکس صورت را مرور می‌کند."
+ },
+ {
+  "id": 67,
+  "paras": [
+   213,
+   214,
+   215,
+   216
+  ],
+  "verbatim_html": [
+   "\"Mr. Potter,\" said Professor McGonagall, \"what you want to do isn't just impossible, it's <em>illogical.</em> If you change half of something, you <em>did</em> change the whole.\"",
+   "\"Indeed,\" said Dumbledore. \"But Harry is the hero, so he may be able to do things that are logically impossible.\"",
+   "Minerva would have rolled her eyes, if she hadn't gone numb a long time ago.",
+   "\"Supposing it <em>was</em> possible,\" said Dumbledore, \"can you think of any reason why the results would differ in any way from ordinary Transfiguration?\""
+  ],
+  "summary_en": "She calls it not just impossible but illogical — changing half is changing the whole; Dumbledore quips the hero may do the logically impossible; numb Minerva spares the eye-roll; supposing possibility, he asks for any difference from ordinary Transfiguration.",
+  "translation_fa": "«آقای پاتر،» پروفسور مک‌گونگال گفت، «چیزی که می‌خوای بکنی فقط ناممکن نیست، غیرمنطقیه. اگه نیمی از چیزی رو تغییر بدی، کل رو تغییر دادی.»\n\n«درسته،» دامبلدور گفت. «ولی هری قهرمانه، پس شاید بتونه کارهای غیرمنطقیِ ناممکن بکنه.»\n\nمینروا چشم‌هایش را می‌چرخاند، اگر خیلی وقت پیش بی‌حس نشده بود.\n\n«فرض کنیم ممکن بود،» دامبلدور گفت، «می‌تونی به هیچ دلیلی فکر کنی که نتایج به هیچ طریقی با تغییرشکل عادی فرق کنن؟»",
+  "summary_fa": "غیرمنطقیِ ناممکن؛ شوخی قهرمان؛ سپس فرض امکان و پرسش تفاوت با تغییرشکل عادی."
+ },
+ {
+  "id": 68,
+  "paras": [
+   217,
+   218,
+   219,
+   220
+  ],
+  "verbatim_html": [
+   "Minerva frowned. The fact that the concept was literally unimaginable was presenting her with some difficulty, but she tried to take it at face value. A Transfiguration imposed on only half of a metal ball...",
+   "\"Strange things happening at the interface?\" said Minerva. \"But that should be no different than Transfiguring the object as a whole, into a Form with two different parts...\"",
+   "Dumbledore nodded. \"That is my own thought as well. And Harry, if your theory is correct, it implies that what you want to do is <em>exactly</em> like any other Transfiguration, only applied to a part of the subject rather than the whole? No changes <em>at all?</em> \"",
+   "\"Yes,\" Harry said firmly. \"That's the whole point.\""
+  ],
+  "summary_en": "Struggling with the unimaginable, Minerva offers interface strangeness, then concedes it should equal a two-part whole-Form; Dumbledore agrees and confirms zero differences — exactly like ordinary Transfiguration on a part; Harry firmly agrees.",
+  "translation_fa": "مینروا اخم کرد. این واقعیت که مفهوم به‌معنای واقعی کلمه غیرقابل‌تصور بود برایش دشواری ایجاد می‌کرد، ولی سعی کرد آن را سرراست بپذیرد. تغییرشکلی که فقط بر نیمی از یک گوی فلزی تحمیل شده...\n\n«چیزهای عجیب در فصل مشترک؟» مینروا گفت. «ولی این نباید هیچ فرقی با تغییرشکل دادن شیء به‌صورت کل، به صورتی با دو بخش متفاوت داشته باشه...»\n\nدامبلدور سر تکان داد. «این فکر خود من هم هست. و هری، اگه نظریه‌ت درسته، نتیجه می‌ده که چیزی که می‌خوای بکنی دقیقاً مثل هر تغییرشکل دیگه‌ایه، فقط اعمال‌شده بر بخشی از موضوع نه کل؟ هیچ تغییری اصلاً؟»\n\n«بله،» هری محکم گفت. «کل نکته همینه.»",
+  "summary_fa": "هر دو می‌پذیرند تغییر بخشی باید دقیقاً مثل تغییرشکل عادی باشد بی هیچ تفاوتی."
+ },
+ {
+  "id": 69,
+  "paras": [
+   221,
+   222,
+   223,
+   224
+  ],
+  "verbatim_html": [
+   "Dumbledore looked at her again. \"Minerva, can you think of any reason whatsoever why that would be dangerous?\"",
+   "\"No,\" said Minerva, after she had finished searching through her memory.",
+   "\"Likewise myself,\" said the Headmaster. \"All right, then, since this ought to be exactly analogous to ordinary Transfiguration in all respects, and since we cannot think of any reason whatsoever why it would be dangerous, I think that the second degree of caution will suffice.\"",
+   "Minerva was surprised, but she didn't object. Dumbledore was by far her senior in Transfiguration, and he had tried literally thousands of new Transfigurations without ever choosing a degree of caution that was too low. He had used Transfiguration <em>in combat</em> and he was <em>still alive.</em> If the Headmaster thought the second degree was enough, it was enough."
+  ],
+  "summary_en": "Dumbledore asks Minerva for any danger she can think of; searching memory, she finds none; he concurs, and since it must be exactly analogous with no conceivable danger, the second degree of caution will suffice; surprised Minerva does not object, trusting his vast seniority.",
+  "translation_fa": "دامبلدور دوباره به او نگاه کرد. «مینروا، می‌تونی به هیچ دلیلی فکر کنی که این خطرناک باشه؟»\n\n«نه،» مینروا گفت، پس از آنکه جست‌وجو در حافظه‌اش را تمام کرد.\n\n«من هم همین‌طور،» مدیر گفت. «باشه، پس، چون این باید در همه‌ی جنبه‌ها دقیقاً مشابه تغییرشکل عادی باشه، و چون نمی‌تونیم به هیچ دلیلی فکر کنیم که خطرناک باشه، فکر می‌کنم درجه‌ی دوم احتیاط کافی باشه.»\n\nمینروا متعجب شد، ولی اعتراض نکرد. دامبلدور به‌مراتب در تغییرشکل از او ارشدتر بود، و به‌معنای واقعی کلمه هزاران تغییرشکل تازه را بدون اینکه هرگز درجه‌ی احتیاطِ خیلی کم انتخاب کند امتحان کرده بود. او از تغییرشکل در نبرد استفاده کرده بود و هنوز زنده بود. اگر مدیر فکر می‌کرد درجه‌ی دوم کافی است، کافی بود.",
+  "summary_fa": "چون خطری نیست درجه‌ی دوم احتیاط کافی است و مینروا به سابقه‌ی دامبلدور اعتماد می‌کند."
+ },
+ {
+  "id": 70,
+  "paras": [
+   225
+  ],
+  "verbatim_html": [
+   "That Harry was certainly going to fail was, of course, completely irrelevant."
+  ],
+  "summary_en": "That Harry was certainly going to fail is, of course, completely irrelevant.",
+  "translation_fa": "اینکه هری قطعاً شکست می‌خورد، البته، کاملاً بی‌ربط بود.",
+  "summary_fa": "شکست قطعی هری بی‌ربط است."
+ },
+ {
+  "id": 71,
+  "paras": [
+   226
+  ],
+  "verbatim_html": [
+   "The two of them started setting up the wards and detection webs. The most important web was the one that checked to make sure no Transfigured material had entered the air. Harry would be enclosed in a separate shell of force with its own air supply just to be certain, only his wand allowed to leave the shield, and the interface tight. They were inside Hogwarts so they couldn't automatically Apparate out any material that showed signs of spontaneous combustion, but they could launch it out a skylight almost as fast, the windows all folded outward for exactly that reason. Harry himself would go out a different skylight at the first sign of trouble."
+  ],
+  "summary_en": "The wards go up, chiefly the web checking no Transfigured material entered the air: Harry sealed in his own force-shell with separate air, wand alone crossing a tight interface; inside Hogwarts no auto-Apparition of combusting material, but near-instant skylight launch, windows folding outward by design, Harry himself out another skylight at trouble's first sign.",
+  "translation_fa": "آن دو شروع کردند به برپا کردن وردها و شبکه‌های تشخیص. مهم‌ترین شبکه آن بود که بررسی می‌کرد هیچ ماده‌ی تغییرشکل‌یافته‌ای وارد هوا نشده باشد. هری در پوسته‌ی نیروی جداگانه‌ای با منبع هوای خودش محصور می‌شد فقط برای اطمینان، فقط چوبدستی‌اش اجازه داشت سپر را ترک کند، و فصل مشترک تنگ بود. آن‌ها داخل هاگوارتز بودند پس نمی‌توانستند به‌صورت خودکار ماده‌ای را که نشانه‌های احتراق خودبه‌خودی نشان می‌داد به بیرون منتقل کنند، ولی می‌توانستند تقریباً به همان سرعت آن را از پنجره‌ی سقفی بیرون پرتاب کنند، پنجره‌ها همه دقیقاً به همین دلیل به بیرون تا می‌شدند. خود هری با اولین نشانه‌ی دردسر از پنجره‌ی سقفی دیگری بیرون می‌رفت.",
+  "summary_fa": "برپایی وردها و شبکه‌ها: محفظه‌ی نیروی جدا، هوای جدا، و پرتاب از پنجره‌ی سقفی."
+ },
+ {
+  "id": 72,
+  "paras": [
+   227,
+   228,
+   229,
+   230
+  ],
+  "verbatim_html": [
+   "Harry watched them working, his face looking a little frightened.",
+   "\"Don't worry,\" said Professor McGonagall in the middle of her running description, \"this almost certainly won't be necessary, Mr. Potter. If we <em>expected</em> anything to go wrong you would not be allowed to try. It's just ordinary precautions for any Transfiguration no one has ever tried before.\"",
+   "Harry swallowed and nodded.",
+   "And a few minutes later, Harry was strapped into the safety chair and resting his wand against a metal ball - one that, based on his current test scores, should have been too large for him to Transfigure in less than thirty minutes."
+  ],
+  "summary_en": "Frightened Harry watches; mid-explanation McGonagall reassures him it will almost certainly prove unnecessary — no trial would be allowed if anything were expected; he swallows, nods, and minutes later sits strapped in the safety chair, wand on a metal ball too large, by his test scores, to Transfigure in under thirty minutes.",
+  "translation_fa": "هری تماشایشان می‌کرد که کار می‌کردند، چهره‌اش کمی ترسیده به نظر می‌رسید.\n\n«نگران نباش،» پروفسور مک‌گونگال در میانه‌ی توضیح پیوسته‌اش گفت، «این تقریباً قطعاً لازم نخواهد شد، آقای پاتر. اگه انتظار می‌رفت چیزی غلط پیش بره اجازه‌ی امتحان بهت داده نمی‌شد. این فقط احتیاط‌های عادی برای هر تغییرشکلیه که هیچ‌کس تا حالا امتحانش نکرده.»\n\nهری آب دهانش را قورت داد و سر تکان داد.\n\nو چند دقیقه بعد، هری در صندلی ایمنی بسته شده بود و چوبدستی‌اش را به گوی فلزی تکیه داده بود ــ گویی که، بر اساس نمره‌های آزمون فعلی‌اش، باید زیادی بزرگ می‌بود که در کمتر از سی دقیقه تغییرشکل بدهد.",
+  "summary_fa": "اطمینان‌بخشی مک‌گونگال و نشستن هریِ ترسیده در صندلی ایمنی با گوی بزرگ."
+ },
+ {
+  "id": 73,
+  "paras": [
+   231,
+   232,
+   233,
+   234
+  ],
+  "verbatim_html": [
+   "And a few minutes after <em>that,</em> Minerva was leaning against the wall, feeling faint.",
+   "There was a small patch of glass on the ball where Harry's wand had rested.",
+   "Harry didn't say <em>I told you so,</em> but the smug look on his sweating face said it for him.",
+   "Dumbledore was casting analytic Charms on the ball, looking more and more intrigued by the moment. Thirty years had melted off his face."
+  ],
+  "summary_en": "Minutes later Minerva leans on the wall, faint: a small glass patch marks the ball where the wand rested; Harry says no told-you-so, his sweating smug face saying it; analytic Charms multiply Dumbledore's intrigue, melting thirty years off his face.",
+  "translation_fa": "و چند دقیقه بعد از آن، مینروا به دیوار تکیه داده بود، حس ضعف می‌کرد.\n\nلکه‌ی کوچک شیشه‌ای روی گوی بود آنجا که چوبدستی هری قرار گرفته بود.\n\nهری نگفت «بهت گفتم»، ولی نگاه ازخودراضیِ چهره‌ی عرق‌کرده‌اش آن را برایش گفت.\n\nدامبلدور طلسم‌های تحلیلی بر گوی می‌افکند، لحظه‌به‌لحظه کنجکاوتر به نظر می‌رسید. سی سال از چهره‌اش آب شده بود.",
+  "summary_fa": "لکه‌ی شیشه روی گوی؛ مینروا ضعف می‌کند و دامبلدور جوان‌شده کنجکاو می‌شود."
+ },
+ {
+  "id": 74,
+  "paras": [
+   235,
+   236,
+   237,
+   238
+  ],
+  "verbatim_html": [
+   "\"Fascinating,\" said Dumbledore. \"It's exactly as he claimed. He simply Transfigured a part of the subject without Transfiguring the whole. You say it's really just a conceptual limitation, Harry?\"",
+   "\"Yes,\" Harry said, \"but a deep one, just knowing it had to be a conceptual limitation wasn't enough. I had to suppress the part of my mind that was making the error and think instead about the underlying reality that scientists figured out.\"",
+   "\"Truly fascinating,\" Dumbledore said. \"I take it that for any other wizard to do the same would require months of study if they could do it at all? And may I ask you to partially Transfigure some other subjects?\"",
+   "\"Probably yes and of course,\" Harry said."
+  ],
+  "summary_en": "Fascinating — exactly as claimed, part without whole; is it truly just conceptual, Harry; yes, Harry says, but deep — mere knowledge did not suffice, he suppressed the erring mind-part for the scientists' underlying reality; truly fascinating — months of study for any other wizard, may he try other subjects; probably yes and of course.",
+  "translation_fa": "«شگفت‌انگیز،» دامبلدور گفت. «دقیقاً همون‌طور که ادعا کرد. فقط بخشی از موضوع رو تغییرشکل داد بدون اینکه کل رو تغییرشکل بده. می‌گی واقعاً فقط محدودیت مفهومیه، هری؟»\n\n«بله،» هری گفت، «ولی عمیق، فقط دونستن اینکه باید محدودیت مفهومی باشه کافی نبود. مجبور شدم بخشی از ذهنم رو که داشت خطا می‌کرد سرکوب کنم و در عوض به واقعیت زیرینی فکر کنم که دانشمندها فهمیدن.»\n\n«واقعاً شگفت‌انگیز،» دامبلدور گفت. «می‌فهمم که برای هر جادوگر دیگه‌ای انجام همین کار ماه‌ها مطالعه می‌خواد اگه اصلاً بتونن؟ و می‌تونم بخوام که موضوع‌های دیگه‌ای رو هم جزئی تغییرشکل بدی؟»\n\n«احتمالاً بله و البته،» هری گفت.",
+  "summary_fa": "تأیید شگفت‌انگیز ادعا؛ هری از سرکوب بخش خطاکار ذهن می‌گوید و دامبلدور موضوع‌های بیشتری می‌خواهد."
+ },
+ {
+  "id": 75,
+  "paras": [
+   239,
+   240,
+   241,
+   242
+  ],
+  "verbatim_html": [
+   "Half an hour later, Minerva was feeling equally bewildered, but considerably reassured about the safety issues.",
+   "It <em>was</em> the same, aside from being logically impossible.",
+   "\"I believe that's enough, Headmaster,\" Minerva said finally. \"I suspect partial Transfiguration is more tiring than the ordinary sort.\"",
+   "\"Getting less so with practice,\" said the exhausted and pale boy, voice unsteady, \"but yeah, you've got that right.\""
+  ],
+  "summary_en": "Half an hour later Minerva is equally bewildered but reassured on safety; it is the same, aside from being logically impossible; she calls enough, suspecting partial work tires more; the pale exhausted boy unsteadily agrees it eases with practice.",
+  "translation_fa": "نیم ساعت بعد، مینروا به همان اندازه مبهوت بود، ولی درباره‌ی مسائل ایمنی به‌طور قابل‌توجهی آسوده‌خاطر بود.\n\nهمان بود، به‌جز اینکه غیرمنطقیِ ناممکن بود.\n\n«فکر می‌کنم کافیه، مدیر،» مینروا سرانجام گفت. «گمان می‌کنم تغییرشکل جزئی خسته‌کننده‌تر از نوع عادیه.»\n\n«با تمرین کمتر می‌شه،» پسر خسته و رنگ‌پریده گفت، صدایش لرزان، «ولی آره، درست می‌گی.»",
+  "summary_fa": "نیم ساعت بعد: همان، ولی غیرمنطقی؛ و تغییر جزئی خسته‌کننده‌تر است."
+ },
+ {
+  "id": 76,
+  "paras": [
+   243,
+   244,
+   245,
+   246
+  ],
+  "verbatim_html": [
+   "The process of extracting Harry from the wards took another minute, and then Minerva escorted him to a much more comfortable chair, and Dumbledore produced an ice-cream soda.",
+   "\"<em>Congratulations</em>, Mr. Potter!\" said Professor McGonagall, and meant it. She would have bet almost anything against that working.",
+   "\"Congratulations indeed,\" said Dumbledore. \"Even I did not make any original discoveries in Transfiguration before the age of fourteen. Not since the day of Dorotea Senjak has any genius flowered so early.\"",
+   "\"Thanks,\" Harry said, sounding a little surprised."
+  ],
+  "summary_en": "Extracted from the wards, Harry gets a comfortable chair and Dumbledore's ice-cream soda; McGonagall's meant congratulations — she would have bet anything against it; Dumbledore's too — no original Transfiguration discovery of his own before fourteen, no genius flowering so early since Dorotea Senjak; surprised thanks.",
+  "translation_fa": "فرایند بیرون آوردن هری از وردها یک دقیقه‌ی دیگر طول کشید، و بعد مینروا او را تا صندلیِ بسیار راحت‌تری همراهی کرد، و دامبلدور یک نوشابه‌ی بستنی تولید کرد.\n\n«تبریک، آقای پاتر!» پروفسور مک‌گونگال گفت، و منظورش بود. تقریباً هر چیزی شرط می‌بست که آن جواب ندهد.\n\n«واقعاً تبریک،» دامبلدور گفت. «حتی من هیچ کشف اصیلی در تغییرشکل پیش از چهارده‌سالگی نکردم. از روز دوروته‌آ سنیاک هیچ نبوغی این‌قدر زود شکوفا نشده.»\n\n«ممنون،» هری گفت، کمی متعجب به نظر می‌رسید.",
+  "summary_fa": "تبریک صمیمانه با نوشابه‌ی بستنی؛ نبوغی که از زمان سنیاک دیده نشده بود."
+ },
+ {
+  "id": 77,
+  "paras": [
+   247,
+   248,
+   249,
+   250
+  ],
+  "verbatim_html": [
+   "\"Nonetheless,\" Dumbledore said thoughtfully, \"I think it would be most wise to keep this happy event a secret, at least for now. Harry, did you discuss your idea with any other person before you spoke to Professor McGonagall?\"",
+   "There was silence.",
+   "\"Um...\" Harry said. \"I don't want to turn anyone over to the Inquisition, but I did tell one other student -\"",
+   "The word almost exploded from Professor McGonagall's lips. \"<em>What?</em> You discussed a completely novel form of Transfiguration with a <em>student</em> before consulting a recognized authority? Do you have any idea how <em>irresponsible</em> that was?\""
+  ],
+  "summary_en": "Nonetheless secrecy is wisest for now; did Harry discuss it with anyone before McGonagall; silence; unwilling to feed the Inquisition, he admits one other student; McGonagall explodes — a novel Transfiguration shared with a student before any authority, how irresponsible.",
+  "translation_fa": "«با این حال،» دامبلدور متفکرانه گفت، «فکر می‌کنم عاقلانه‌ترین کار این باشه که این رویداد خوشحال‌کننده رو فعلاً مخفی نگه داریم. هری، ایده‌ت رو با هیچ‌کس دیگه‌ای در میون گذاشتی قبل از اینکه با پروفسور مک‌گونگال حرف بزنی؟»\n\nسکوت بود.\n\n«ام...» هری گفت. «نمی‌خوام کسی رو تحویل تفتیش عقاید بدم، ولی به یه دانش‌آموز دیگه گفتم ــ»\n\nکلمه تقریباً از لب‌های پروفسور مک‌گونگال منفجر شد. «چی؟ یه شکل کاملاً تازه از تغییرشکل رو با یه دانش‌آموز در میون گذاشتی قبل از مشورت با یه مرجع شناخته‌شده؟ هیچ ایده‌ای داری که این چقدر غیرمسئولانه بود؟»",
+  "summary_fa": "دامبلدور رازداری می‌خواهد و مک‌گونگال از در میان گذاشتن با دانش‌آموز منفجر می‌شود."
+ },
+ {
+  "id": 78,
+  "paras": [
+   251,
+   252,
+   253,
+   254
+  ],
+  "verbatim_html": [
+   "\"I'm sorry,\" said Harry. \"I didn't realize.\"",
+   "The boy looked appropriately frightened, and Minerva felt something inside her relax. At least Harry understood how foolish he'd been.",
+   "\"You must swear Miss Granger to secrecy,\" Dumbledore said gravely. \"And do not tell anyone else unless there is an extremely good reason for it, and they too have sworn.\"",
+   "\"Ah... why?\" Harry said."
+  ],
+  "summary_en": "Harry apologizes, uncomprehending; appropriately frightened, easing Minerva — at least he grasps his folly; gravely Dumbledore orders Miss Granger sworn to secrecy, no one else told without extreme reason and mutual oaths; Harry asks why.",
+  "translation_fa": "«متأسفم،» هری گفت. «نمی‌دونستم.»\n\nپسر به‌طور مناسبی ترسیده به نظر می‌رسید، و مینروا حس کرد چیزی درونش آرام شد. دست‌کم هری می‌فهمید چقدر احمق بوده.\n\n«باید به دوشیزه گرنجر سوگند رازداری بدی،» دامبلدور با جدیت گفت. «و به هیچ‌کس دیگه‌ای نگو مگر دلیل خیلی خوبی باشه، و اون‌ها هم سوگند خورده باشن.»\n\n«اه... چرا؟» هری گفت.",
+  "summary_fa": "عذرخواهی هری و دستور جدی سوگند دادن گرنجر به رازداری."
+ },
+ {
+  "id": 79,
+  "paras": [
+   255,
+   256,
+   257,
+   258
+  ],
+  "verbatim_html": [
+   "Minerva was wondering the same thing. Once again the Headmaster was thinking too far ahead for her to keep up.",
+   "\"Because you can do something that no one else will believe you can do,\" Dumbledore said. \"Something completely unexpected. It may prove to be your critical advantage, Harry, and we must preserve it. Please, trust me in this.\"",
+   "Professor McGonagall nodded, her firm face showing nothing of her inner confusion. \"Please do, Mr. Potter,\" she said.",
+   "\"All right...\" Harry said slowly."
+  ],
+  "summary_en": "Minerva wonders the same — the Headmaster thinking too far ahead again; because, Dumbledore says, Harry can do the unbelievable and unexpected, a potential critical advantage to preserve — trust him; firmly hiding confusion, McGonagall seconds the plea; slowly Harry agrees.",
+  "translation_fa": "مینروا هم همین را می‌پرسید. یک بار دیگر مدیر داشت خیلی جلوتر از او فکر می‌کرد.\n\n«چون می‌تونی کاری بکنی که هیچ‌کس باور نمی‌کنه بتونی بکنی،» دامبلدور گفت. «چیزی کاملاً غیرمنتظره. ممکنه معلوم بشه مزیت حیاتیته، هری، و باید حفظش کنیم. لطفاً، در این مورد به من اعتماد کن.»\n\nپروفسور مک‌گونگال سر تکان داد، چهره‌ی محکمش هیچ‌یک از سردرگمی درونی‌اش را نشان نمی‌داد. «لطفاً همین کار رو بکن، آقای پاتر،» گفت.\n\n«باشه...» هری به‌آرامی گفت.",
+  "summary_fa": "دلیل رازداری: توانایی باورنکردنیِ مزیت حیاتی باید حفظ شود."
+ },
+ {
+  "id": 80,
+  "paras": [
+   259,
+   260,
+   261,
+   262
+  ],
+  "verbatim_html": [
+   "\"Once we have finished examining your materials,\" Dumbledore added, \"you may practice partial Transfiguration, on glass to steel and steel to glass <em>only</em>, with Miss Granger to act as your spotter. Naturally, if either of you suspect any symptom of any form of Transfiguration sickness, inform a professor at once.\"",
+   "Just before Harry left the workroom, with his hand on the doorhandle, the boy turned back and said, \"As long as we're here, have either of you noticed anything different about Professor Snape?\"",
+   "\"Different?\" said the Headmaster.",
+   "Minerva didn't let her wry smile show on her face. Of course the boy was apprehensive about the 'evil Potions Master', since he had no way of knowing why Severus was to be trusted. It would have been odd to say the least, explaining to Harry that Severus was still in love with his mother."
+  ],
+  "summary_en": "After examination, glass-steel practice only with Granger spotting and sickness reports at once; hand on the doorhandle, Harry asks about any difference in Snape; the Headmaster echoes; wryly unsmiling, Minerva reads it as fear of the 'evil Potions Master'.",
+  "translation_fa": "«وقتی بررسی موادت رو تموم کردیم،» دامبلدور افزود، «می‌تونی تغییرشکل جزئی رو تمرین کنی، فقط شیشه به فولاد و فولاد به شیشه، با دوشیزه گرنجر به‌عنوان مراقبت. طبیعتاً، اگه هر کدوم‌تون به هر علامتی از هر شکل بیماری تغییرشکل مشکوک شدین، فوراً به یه استاد اطلاع بدین.»\n\nدرست پیش از اینکه هری کارگاه را ترک کند، با دستش روی دستگیره، پسر برگشت و گفت، «حالا که اینجاییم، هیچ‌کدوم‌تون چیز متفاوتی درباره‌ی پروفسور اسنیپ متوجه شدین؟»\n\n«متفاوت؟» مدیر گفت.\n\nمینروا لبخند کنایه‌آمیزش را روی چهره‌اش نشان نداد. البته که پسر از «استاد معجون‌های شرور» بیم داشت، چون هیچ راهی نداشت بداند چرا باید به سوروس اعتماد کرد. توضیح دادن به هری که سوروس هنوز عاشق مادرش است، دست‌کم، عجیب می‌بود.",
+  "summary_fa": "اجازه‌ی تمرین محدود؛ سؤال درباره‌ی اسنیپ که مینروا آن را ترس از استاد شرور می‌داند."
+ },
+ {
+  "id": 81,
+  "paras": [
+   263,
+   264,
+   265,
+   266
+  ],
+  "verbatim_html": [
+   "\"I mean, has his behavior changed recently in any way?\" said Harry.",
+   "\"Not that I have seen...\" the Headmaster said slowly. \"Why do you ask?\"",
+   "Harry shook his head. \"I don't want to prejudice your own observations by saying. Just keep an eye out, maybe?\"",
+   "That sent a quiver of unease through Minerva in a way that no outright accusation of Severus could have."
+  ],
+  "summary_en": "Pressed on recent behavior change, Dumbledore slowly reports none and asks why; Harry will not prejudice observations — just keep watch, maybe; that quivers Minerva with unease no accusation could.",
+  "translation_fa": "«یعنی، رفتارش اخیراً به هیچ طریقی تغییر کرده؟» هری گفت.\n\n«نه تا جایی که دیده باشم...» مدیر به‌آرامی گفت. «چرا می‌پرسی؟»\n\nهری سرش را تکان داد. «نمی‌خوام با گفتن مشاهدات خودتون رو مغرضانه کنم. فقط چشم‌تون رو باز نگه دارین، شاید؟»\n\nاین لرزش ناآرامی را در مینروا فرستاد به طریقی که هیچ اتهام صریحی به سوروس نمی‌توانست.",
+  "summary_fa": "تغییری دیده نشده؛ هری فقط دیده‌بانی بی‌غرض می‌خواهد و این مینروا را ناآرام می‌کند."
+ },
+ {
+  "id": 82,
+  "paras": [
+   267
+  ],
+  "verbatim_html": [
+   "Harry bowed to both of them respectfully, and took his leave."
+  ],
+  "summary_en": "Respectfully bowing to both, Harry takes his leave.",
+  "translation_fa": "هری با احترام به هر دوی آن‌ها تعظیم کرد و رفت.",
+  "summary_fa": "هری با تعظیم می‌رود."
+ },
+ {
+  "id": 83,
+  "paras": [
+   268,
+   269,
+   270,
+   271
+  ],
+  "verbatim_html": [
+   "* * *",
+   "\"Albus,\" Minerva said after the boy had gone, \"how did you <em>know</em> to take Harry seriously? I would have thought his idea merely impossible!\"",
+   "The old wizard's face turned grave. \"The same reason it must be kept secret, Minerva. The same reason I told you to come to me, if Harry made any such claim. Because it is a power that Voldemort knows not.\"",
+   "The words took a few seconds to sink in."
+  ],
+  "summary_en": "After a break, Minerva asks how Dumbledore knew to take Harry seriously when the idea seemed merely impossible; grave, he answers with the same reason for secrecy — the standing order to come to him over any such claim: it is a power Voldemort knows not; the words take seconds to sink in.",
+  "translation_fa": "* * *\n\n«آلبوس،» مینروا گفت پس از آنکه پسر رفته بود، «از کجا دونستی هری رو جدی بگیری؟ فکر می‌کردم ایده‌ش فقط ناممکنه!»\n\nچهره‌ی جادوگر پیر جدی شد. «به همون دلیلی که باید مخفی نگه داشته بشه، مینروا. به همون دلیلی که بهت گفتم اگه هری چنین ادعایی کرد پیش من بیای. چون قدرتیه که ولدمورت نمی‌دونه.»\n\nچند ثانیه طول کشید تا کلمات جا بیفتند.",
+  "summary_fa": "مینروا می‌پرسد از کجا می‌دانست جدی بگیرد؛ پاسخ: قدرتی که ولدمورت نمی‌داند."
+ },
+ {
+  "id": 84,
+  "paras": [
+   272,
+   273,
+   274,
+   275
+  ],
+  "verbatim_html": [
+   "And then the cold shiver went down her spine, as it always did when she remembered.",
+   "It had started out as an ordinary job interview, Sybill Trelawney applying for the position of Professor of Divination.",
+   "<em>THE ONE WITH THE POWER TO VANQUISH THE DARK LORD APPROACHES,<br/>BORN TO THOSE WHO HAVE THRICE DEFIED HIM,<br/>BORN AS THE SEVENTH MONTH DIES,<br/>AND THE DARK LORD WILL MARK HIM AS HIS EQUAL,<br/>BUT HE WILL HAVE POWER THE DARK LORD KNOWS NOT,<br/>AND EITHER MUST DESTROY ALL BUT A REMNANT OF THE OTHER,<br/>FOR THOSE TWO DIFFERENT SPIRITS CANNOT EXIST IN THE SAME WORLD.</em>",
+   "Those dreadful words, spoken in that terrible booming voice, didn't seem to fit something like partial Transfiguration."
+  ],
+  "summary_en": "Then the cold shiver runs down her spine as always with remembering: it began as an ordinary job interview, Sybill Trelawney for Divination professor; then the dreadful booming PROPHECY — the one with the power, born as the seventh month dies, marked as equal, power the Dark Lord knows not, neither living while the other survives; yet those dreadful words seem unfitting for partial Transfiguration.",
+  "translation_fa": "و بعد لرزش سرد از ستون فقراتش پایین رفت، مثل همیشه وقتی یادش می‌آمد.\n\nبه‌صورت یک مصاحبه‌ی کاری عادی شروع شده بود، سیبیل تریلانی برای سمت استادی پیشگویی درخواست داده بود.\n\nکسی که قدرت شکست‌دادن لرد سیاه را دارد نزدیک می‌شود، زاده‌ی کسانی که سه‌بار در برابرش ایستاده‌اند، زاده آنگاه که ماه هفتم می‌میرد، و لرد سیاه او را هم‌سنگ خود نشان می‌کند، ولی او قدرتی خواهد داشت که لرد سیاه نمی‌داند، و هر یک باید دیگری را نابود کند مگر ته‌مانده‌ای، که آن دو روح متفاوت نمی‌توانند در یک دنیا باشند.\n\nآن کلمات وحشتناک، گفته‌شده با آن صدای رعدآسای مهیب، به نظر نمی‌رسید با چیزی مثل تغییرشکل جزئی جور باشد.",
+  "summary_fa": "یادآوری پیشگویی هولناک تریلانی که به تغییرشکل جزئی نمی‌خورد."
+ },
+ {
+  "id": 85,
+  "paras": [
+   276,
+   277,
+   278
+  ],
+  "verbatim_html": [
+   "\"Perhaps not, then,\" Dumbledore said after Minerva tried to explain. \"I confess I had been hoping for something that would help in finding Voldemort's horcrux, wherever he may have hidden it. But...\" The old wizard shrugged. \"Prophecies are tricky things, Minerva, and it is best to take no chances. The smallest thing may prove decisive if it remains unexpected.\"",
+   "\"And what do you suppose he meant about <em>Severus?</em> \" said Minerva.",
+   "\"There I have no idea,\" sighed Dumbledore. \"Unless Harry is making a move against Severus, and thought that an open question might be taken seriously where a direct allegation would be dismissed. And if that was indeed what happened, Harry correctly reasoned that I would not trust that it was so. Let us simply keep watch, without prejudice, as he asks.\""
+  ],
+  "summary_en": "Perhaps not, Dumbledore concedes after her explanation — he had hoped for something to find Voldemort's hidden horcrux; but prophecies are tricky, best take no chances, the smallest unexpected thing may prove decisive; asked about Severus, he has no idea — unless Harry moves against him, planting an open question where allegation would fail, rightly doubting Dumbledore's trust; they will simply watch, unprejudiced, as asked.",
+  "translation_fa": "«شاید پس نه،» دامبلدور گفت پس از آنکه مینروا سعی کرد توضیح بدهد. «اعتراف می‌کنم امیدوار بودم چیزی باشه که به پیدا کردن هورکراکس ولدمورت کمک کنه، هرجا که پنهانش کرده باشه. ولی...» جادوگر پیر شانه بالا انداخت. «پیشگویی‌ها چیزهای حقه‌بازی‌ان، مینروا، و بهتره هیچ شانسی رو از دست نداد. کوچک‌ترین چیز ممکنه تعیین‌کننده بشه اگه غیرمنتظره بمونه.»\n\n«و فکر می‌کنی درباره‌ی سوروس چی می‌خواست بگه؟» مینروا گفت.\n\n«اونجا هیچ ایده‌ای ندارم،» دامبلدور آه کشید. «مگر اینکه هری داره علیه سوروس حرکتی می‌کنه، و فکر کرده که یه سؤال باز ممکنه جدی گرفته بشه جایی که اتهام مستقیم رد می‌شد. و اگه واقعاً همین اتفاق افتاده بود، هری درست استدلال کرد که من اعتماد نمی‌کنم که همین‌طوره. بذار فقط دیده‌بانی کنیم، بدون غرض، همون‌طور که می‌خواد.»",
+  "summary_fa": "دامبلدور از هورکراکس و حقه‌ی پیشگویی می‌گوید و درباره‌ی اسنیپ فقط دیده‌بانی بی‌غرض را می‌پذیرد."
+ },
+ {
+  "id": 86,
+  "paras": [
+   279,
+   280,
+   281
+  ],
+  "verbatim_html": [
+   "* * *",
+   "<em>Aftermath, 1:</em>",
+   "\"Um, Hermione?\" Harry said in a very small voice. \"I think I owe you a really, really, really big apology.\""
+  ],
+  "summary_en": "After a break: Aftermath, 1 — in a very small voice Harry says he owes Hermione a really, really, really big apology.",
+  "translation_fa": "* * *\n\nپی‌آمد، ۱:\n\n«ام، هرماینی؟» هری با صدای خیلی کوچکی گفت. «فکر می‌کنم یه عذرخواهی واقعاً، واقعاً، واقعاً بزرگ بهت بدهکارم.»",
+  "summary_fa": "پی‌آمد ۱: هری با صدای کوچک عذرخواهی بزرگی به هرماینی بدهکار می‌داند."
+ },
+ {
+  "id": 87,
+  "paras": [
+   282,
+   283,
+   284
+  ],
+  "verbatim_html": [
+   "* * *",
+   "<em>Aftermath, 2:</em>",
+   "Alissa Cornfoot's eyes were slightly glazed as she gazed upon the Potions Master giving her class a stern lecture, holding up a tiny bronze bean and saying something about screaming puddles of human flesh. Ever since the start of this year she'd been having trouble listening in Potions. She kept staring at their awful, mean, greasy professor and fantasizing about special detentions. There was probably something really <em>wrong</em> with her but she just couldn't seem to stop doing it -"
+  ],
+  "summary_en": "After a break: Aftermath, 2 — Alissa Cornfoot gazes glazed at the stern Potions Master lecturing with a tiny bronze bean about screaming puddles of human flesh; all year Potions has held her entranced, staring at the awful professor with fantasies of special detentions, something surely wrong with her, unstoppable.",
+  "translation_fa": "* * *\n\nپی‌آمد، ۲:\n\nچشم‌های آلیسا کورنفوت کمی خیره بود وقتی به استاد معجون‌ها خیره شده بود که با لحن خشنی برای کلاسش سخنرانی می‌کرد، لوبیای برنزی ریزی را بالا گرفته بود و چیزی درباره‌ی گودال‌های جیغ‌کشِ گوشت انسان می‌گفت. از اول امسال در گوش دادن به معجون‌ها مشکل داشت. مدام به استاد وحشتناک، بدجنس و چرب‌شان خیره می‌شد و درباره‌ی بازداشت‌های ویژه خیال‌پردازی می‌کرد. احتمالاً چیز واقعاً بدی در او بود ولی به نظر نمی‌رسید بتواند دست بکشد ــ",
+  "summary_fa": "پی‌آمد ۲: آلیسای شیفته که در کلاس اسنیپ به بازداشت ویژه خیال‌پردازی می‌کند."
+ },
+ {
+  "id": 88,
+  "paras": [
+   285,
+   286,
+   287,
+   288
+  ],
+  "verbatim_html": [
+   "\"Ow!\" Alissa said then.",
+   "Snape had just flicked the bronze bean unerringly at Alissa's forehead.",
+   "\"Miss Cornfoot,\" said the Potions Master, his voice cutting, \"this is a delicate potion and if you cannot pay attention you will hurt your classmates, not just yourself. See me after class.\"",
+   "The last four words didn't help her any, but she tried harder, and managed to get through the day without melting anyone."
+  ],
+  "summary_en": "Ow — Snape flicks the bronze bean unerringly into her forehead; cuttingly he warns the delicate potion will hurt classmates if unattended — see him after class; the last four words no help, she tries harder and survives the day melting no one.",
+  "translation_fa": "«آخ!» آلیسا بعد گفت.\n\nاسنیپ همان لحظه لوبیای برنزی را بی‌خطا به پیشانی آلیسا پرتاب کرده بود.\n\n«دوشیزه کورنفوت،» استاد معجون‌ها گفت، صدایش برنده، «این معجون ظریفیه و اگه توجه نکنی به هم‌کلاسی‌هات آسیب می‌زنی، نه فقط خودت. بعد از کلاس من رو ببین.»\n\nچهار کلمه‌ی آخر هیچ کمکی به او نکرد، ولی بیشتر تلاش کرد و توانست روز را بدون ذوب کردن کسی پشت سر بگذارد.",
+  "summary_fa": "لوبیا به پیشانی آلیسا می‌خورد و اسنیپ او را برای بعد از کلاس نگه می‌دارد."
+ },
+ {
+  "id": 89,
+  "paras": [
+   289,
+   290,
+   291
+  ],
+  "verbatim_html": [
+   "After class, Alissa approached the desk. Part of her wanted to stand there meekly with her face abashed and her hands clasped penitently behind her back, just in case, but some quiet instinct told her this might be a <em>bad idea</em>. So instead she just stood there with her face neutral, in a posture that was very proper for a young lady, and said, \"Professor?\"",
+   "\"Miss Cornfoot,\" Snape said without looking up from the sheets he was grading, \"I do not return your affections, I begin to find your stares disturbing, and you will restrain your eyes henceforth. Is that quite clear?\"",
+   "\"Yes,\" said Alissa in a strangled squeak, and Snape dismissed her, and she fled the classroom with her cheeks flaming like molten lava."
+  ],
+  "summary_en": "After class she nears the desk — meekly penitent posture rejected by quiet instinct, neutral and proper instead, 'Professor?'; without looking up from grading, Snape declares he does not return her affections, finds her stares disturbing, eyes to be restrained — clear; in a strangled squeak she assents, is dismissed, and flees cheeks flaming like molten lava.",
+  "translation_fa": "بعد از کلاس، آلیسا به میز نزدیک شد. بخشی از او می‌خواست مطیعانه آنجا بایستد با چهره‌ی شرمنده و دست‌های گره‌کرده‌ی پشیمان پشت سر، برای احتیاط، ولی غریزه‌ی آرامی به او گفت این ممکنه ایده‌ی بدی باشه. پس به‌جاش فقط آنجا ایستاد با چهره‌ای خنثی، در حالتی که برای یک بانوی جوان خیلی مناسب بود، و گفت، «استاد؟»\n\n«دوشیزه کورنفوت،» اسنیپ گفت بدون اینکه از برگه‌هایی که تصحیح می‌کرد سر بلند کند، «من عواطف شما رو پاسخ نمی‌دم، دارم خیره‌شدن‌هات رو آزاردهنده می‌دونم، و از این به بعد چشم‌هات رو مهار می‌کنی. کاملاً روشنه؟»\n\n«بله،» آلیسا با جیغ خفه‌ای گفت، و اسنیپ مرخصش کرد، و او با گونه‌هایی شعله‌ور مثل گدازه‌ی مذاب از کلاس گریخت.",
+  "summary_fa": "اسنیپ بی‌اعتنا عشق را رد و خیره‌شدن را ممنوع می‌کند؛ آلیسا با گونه‌های شعله‌ور می‌گریزد."
+ }
+]
