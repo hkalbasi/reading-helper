@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "paras": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "verbatim_html": [
+      "They had gone to the Defense Professor's office, and Professor Quirrell had sealed the door before he leaned back in his chair and spoke.",
+      "The Defense Professor's voice was very calm, and that unnerved Harry a good deal more than if Professor Quirrell had been shouting.",
+      "\"I am trying,\" said Professor Quirrell quietly, \"to make allowances for the fact that you are young. That I myself, at the same age, was a quite extraordinary fool. You speak with adult style and meddle in adult games, and sometimes I forget that you are only a meddler. I hope, Mr. Potter, that your childish meddling has not just killed you, ruined your country, and lost the next war.\"",
+      "It was very hard for Harry to control his breathing. \"Professor Quirrell, I said a good deal less than I wished to say, but I had to say something. Your proposals are extremely alarming to anyone who has the slightest familiarity with Muggle history over the last century. The Italian fascists, some very nasty people, got their name from the <em>fasces,</em> a bundle of rods bound together to symbolize the idea that unity is strength -\""
+    ],
+    "summary_en": "Harry is summoned to Professor Quirrell's sealed office, where Quirrell calmly warns him that his meddling may have killed him and doomed his country; Harry replies that Quirrell's proposals echo the fascists' unity-is-strength doctrine.",
+    "translation_fa": "به دفتر استاد دفاع رفته بودند و پروفسور کویرل پیش از آن‌که به صندلی‌اش تکیه دهد و سخن بگوید، در را مهر کرده بود.\n\nصدای استاد دفاع بسیار آرام بود و این هری را خیلی بیشتر مضطرب کرد تا این‌که اگر پروفسور کویرل فریاد می‌زد.\n\nپروفسور کویرل به‌آرامی گفت: «دارم سعی می‌کنم این را در نظر بگیرم که شما جوانید. این‌که خودم در همان سن احمقی کاملاً استثنایی بودم. شما با لحن بزرگسالان حرف می‌زنید و در بازی‌های بزرگسالان دخالت می‌کنید و گاهی فراموش می‌کنم که شما فقط یک فضولید. امیدوارم، آقای پاتر، که فضولی بچگانه‌تان همین حالا شما را نکشته، کشورتان را نابود نکرده و جنگ بعدی را نباخته باشد.»\n\nکنترل نفس برای هری بسیار سخت بود. «پروفسور کویرل، خیلی کمتر از آن‌چه می‌خواستم گفتم، ولی مجبور بودم چیزی بگویم. پیشنهادهای شما برای هرکسی که اندک آشنایی با تاریخ ماگل‌ها در قرن گذشته داشته باشد، به‌شدت هشداردهنده است. فاشیست‌های ایتالیایی، آدم‌های خیلی بدی، اسمشان را از فاسکس گرفتند، دسته‌ای از چوب‌های به‌هم‌بسته که نماد این ایده بود که وحدت قدرت است...»",
+    "summary_fa": "هری به دفتر مهرشده‌ی کویرل احضار می‌شود و کویرل با آرامش به او هشدار می‌دهد که فضولی‌اش شاید او و کشورش را نابود کرده باشد؛ هری پاسخ می‌دهد که پیشنهادهای کویرل یادآور آموزه‌ی فاشیست‌ها درباره‌ی وحدت است."
+  },
+  {
+    "id": 2,
+    "paras": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "verbatim_html": [
+      "\"So the nasty Italian fascists believed that unity is stronger than division,\" said Professor Quirrell. Sharpness was beginning to creep into his voice. \"Perhaps they also believed that the sky is blue, and advocated a policy of not dropping rocks on your head.\"",
+      "<em>Reversed stupidity is not intelligence; the world's stupidest person may say the sun is shining, but that doesn't make it dark out...</em> \"Fine, you're right, that was an ad hominem argument, it's not wrong <em>because</em> the fascists said it. But Professor Quirrell, you can't have everyone in a country take the Mark of one dictator! It's a single point of failure! Look, I'll put it this way. Suppose the enemy just Imperiuses whoever controls the Mark -\"",
+      "\"Powerful wizards are not so easy to Imperius,\" said Professor Quirrell dryly. \"And if you cannot find a worthy leader, you are in any case doomed. But worthy leaders do exist; the question is whether the people shall follow them.\"",
+      "Harry raked his hands through his hair in frustration. He wanted to call a time-out and make Professor Quirrell read <em>The Rise and Fall of the Third Reich</em> and then start the conversation over again. \"I don't suppose that if I suggested democracy was a better form of government than dictatorship -\""
+    ],
+    "summary_en": "Quirrell dismisses Harry's fascism comparison as an ad hominem, argues a worthy leader is needed and powerful wizards resist the Imperius curse, and Harry wishes Quirrell would read Muggle history before defending dictatorship.",
+    "translation_fa": "«پس فاشیست‌های بدجنس ایتالیایی باور داشتند که وحدت از تفرقه نیرومندتر است،» پروفسور کویرل گفت. تیزی داشت به صدایش راه پیدا می‌کرد. «شاید آن‌ها همچنین باور داشتند که آسمان آبی است و از سیاست نینداختن سنگ روی سرتان حمایت می‌کردند.»\n\nحماقت وارونه هوش نیست؛ احمق‌ترین آدم دنیا شاید بگوید خورشید می‌درخشد، ولی این هوا را تاریک نمی‌کند... «بسیار خب، حق با شماست، آن استدلال حمله به شخص بود، صرف این‌که فاشیست‌ها آن را گفتند غلطش نمی‌کند. ولی پروفسور کویرل، نمی‌شود همه‌ی مردم یک کشور نشان یک دیکتاتور را بگیرند! این یک نقطه‌ی شکست واحد است! بگذارید این‌طور بگویم. فرض کنید دشمن فقط به هرکس که نشان را کنترل می‌کند طلسم ایمپریوس بزند...»\n\n«جادوگران نیرومند را به این آسانی نمی‌شود ایمپریوس کرد،» پروفسور کویرل با خشکی گفت. «و اگر نتوانید رهبری شایسته پیدا کنید، در هر صورت محکوم به فنایید. ولی رهبران شایسته وجود دارند؛ پرسش این است که آیا مردم از آن‌ها پیروی خواهند کرد یا نه.»\n\nهری از سر ناکامی دست‌هایش را در موهایش فرو کرد. دلش می‌خواست وقت استراحت اعلام کند و پروفسور کویرل را وادار کند «ظهور و سقوط رایش سوم» را بخواند و بعد گفت‌وگو را از نو آغاز کنند. «فکر نمی‌کنم اگر پیشنهاد کنم دموکراسی شکل بهتری از حکومت از دیکتاتوری است...»",
+    "summary_fa": "کویرل مقایسه‌ی هری با فاشیسم را مغالطه‌ی حمله به شخص می‌خواند و می‌گوید رهبر شایسته لازم است و جادوگران نیرومند در برابر ایمپریوس مقاوم‌اند؛ هری آرزو می‌کند کویرل پیش از دفاع از دیکتاتوری تاریخ ماگل‌ها را بخواند."
+  },
+  {
+    "id": 3,
+    "paras": [
+      9
+    ],
+    "verbatim_html": [
+      "\"I see,\" said Professor Quirrell. His eyes closed briefly, then opened. \"Mr. Potter, the stupidity of Quidditch is transparent to you because you did not grow up revering the game. If you had never heard of elections, Mr. Potter, and you simply <em>saw what is there</em>, what you saw would not please you. Look to our elected Minister of Magic. Is he the wisest, the strongest, the greatest of our nation? No; he is a buffoon who is owned in fee simple by Lucius Malfoy. Wizards went to the polls and chose between Cornelius Fudge and Tania Leach, who had competed with each other in a grand and entertaining contest after the <em>Daily Prophet,</em> which Lucius Malfoy also controls, decided that they were the only serious candidates. That Cornelius Fudge was genuinely selected as the best leader our country could offer is not a suggestion anyone could make with a straight face. It is no different in the Muggle world, from what I have heard and seen; the last Muggle newspaper I read mentioned that the previous President of the United States had been a retired movie actor. If you had not grown up with elections, Mr. Potter, they would be as transparently silly to you as Quidditch.\""
+    ],
+    "summary_en": "Quirrell argues elections are as transparently silly as Quidditch to anyone not raised revering them, citing the buffoonish Minister Fudge, Lucius Malfoy's control of the press, and a retired actor becoming Muggle President.",
+    "translation_fa": "پروفسور کویرل گفت: «می‌فهمم.» چشم‌هایش لحظه‌ای بسته شد، بعد باز شد. «آقای پاتر، حماقت کوییدیچ برای شما شفاف است چون با احترام به این بازی بزرگ نشده‌اید. اگر هرگز درباره‌ی انتخابات نشنیده بودید، آقای پاتر، و فقط آن‌چه را که هست می‌دیدید، آن‌چه می‌دیدید خشنودتان نمی‌کرد. به وزیر منتخب سحر و جادوی ما نگاه کنید. آیا او داناترین، نیرومندترین، بزرگ‌ترین ملت ماست؟ نه؛ او دلقکی است که یکسره در مالکیت لوسیوس مالفوی است. جادوگران به پای صندوق‌ها رفتند و میان کورنلیوس فاج و تانیا لیچ انتخاب کردند، که پس از آن‌که دیلی پرافت، که آن را هم لوسیوس مالفوی کنترل می‌کند، تصمیم گرفت آن‌ها تنها نامزدهای جدی‌اند، در رقابتی بزرگ و سرگرم‌کننده با هم رقابت کرده بودند. این‌که کورنلیوس فاج واقعاً به‌عنوان بهترین رهبری که کشور ما می‌توانست عرضه کند برگزیده شد، پیشنهادی نیست که کسی بتواند با قیافه‌ی جدی مطرح کند. در دنیای ماگل‌ها هم فرقی ندارد، از آن‌چه شنیده و دیده‌ام؛ آخرین روزنامه‌ی ماگلی که خواندم می‌گفت رئیس‌جمهور قبلی ایالات متحده هنرپیشه‌ی بازنشسته‌ی سینما بوده است. اگر با انتخابات بزرگ نشده بودید، آقای پاتر، انتخابات هم به همان اندازه‌ی کوییدیچ برایتان به‌طور شفاف احمقانه می‌نمود.»",
+    "summary_fa": "کویرل استدلال می‌کند انتخابات برای کسی که با احترام به آن بزرگ نشده به همان اندازه‌ی کوییدیچ آشکارا احمقانه است و به وزیر دلقک‌صفت، کنترل مطبوعات به دست لوسیوس مالفوی و رئیس‌جمهور هنرپیشه‌ی ماگل‌ها استناد می‌کند."
+  },
+  {
+    "id": 4,
+    "paras": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "verbatim_html": [
+      "Harry sat there with his mouth open, struggling for words. \"The point of elections isn't to produce the one best leader, it's to keep politicians scared enough of the voters that they don't go completely evil like dictators do -\"",
+      "\"The last war, Mr. Potter, was fought between the Dark Lord and Dumbledore. And while Dumbledore was a flawed leader who was losing the war, it is <em>ridiculous</em> to suggest that <em>any</em> of the Ministers of Magic elected during that period could have taken Dumbledore's place! Strength flows from powerful wizards and their followers, not from elections and the fools they elect. That is the lesson of magical Britain's recent history; and I doubt that the next war will teach you a lesson any different. <em>If</em> you survive it, Mr. Potter, which you will <em>not</em> do unless you abandon the enthusiastic illusions of childhood!\"",
+      "\"If you think there are no dangers in the course of action you advocate,\" said Harry, and despite everything his voice was growing sharp, \"then that, too, is childish enthusiasm.\"",
+      "Harry stared grimly into Professor Quirrell's eyes, who stared back without blinking."
+    ],
+    "summary_en": "Harry counters that elections exist to frighten rulers against going evil; Quirrell retorts that the last war was fought by Dumbledore and the Dark Lord, not elected Ministers, and Harry warns that ignoring the dangers of dictatorship is itself childish.",
+    "translation_fa": "هری آنجا نشسته بود با دهان باز، در تقلا برای یافتن واژه‌ها. «نکته‌ی انتخابات تولید بهترین رهبر نیست، این است که سیاستمداران را به‌اندازه‌ی کافی از رأی‌دهندگان بترساند که کاملاً شرور نشوند مثل دیکتاتورها...»\n\n«جنگ آخر، آقای پاتر، میان لرد سیاه و دامبلدور جنگیده شد. و گرچه دامبلدور رهبری معیوب بود که داشت جنگ را می‌باخت، گفتن این‌که هر یک از وزیران سحر و جادوی منتخب آن دوره می‌توانستند جای دامبلدور را بگیرند مضحک است! قدرت از جادوگران نیرومند و پیروانشان جاری می‌شود، نه از انتخابات و احمق‌هایی که آن‌ها انتخاب می‌کنند. این درس تاریخ اخیر بریتانیای جادویی است؛ و شک دارم که جنگ بعدی درس متفاوتی به شما بدهد. اگر از آن جان سالم به در ببرید، آقای پاتر، که نخواهید برد مگر آن‌که توهم‌های پرشور کودکی را رها کنید!»\n\n«اگر فکر می‌کنید در مسیر عملی که شما تبلیغ می‌کنید هیچ خطری نیست،» هری گفت و با وجود همه‌چیز صدایش تند می‌شد، «آن هم اشتیاق بچگانه است.»\n\nهری با اخم به چشم‌های پروفسور کویرل خیره شد و او بی‌پلک‌زدن به او خیره ماند.",
+    "summary_fa": "هری می‌گوید هدف انتخابات ترساندن حاکمان از شرور شدن است؛ کویرل پاسخ می‌دهد که جنگ آخر را دامبلدور و لرد سیاه جنگیدند نه وزیران منتخب، و هری هشدار می‌دهد نادیده گرفتن خطرهای دیکتاتوری خود اشتیاقی بچگانه است."
+  },
+  {
+    "id": 5,
+    "paras": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "verbatim_html": [
+      "\"Such dangers,\" said Professor Quirrell coldly, \"are to be discussed in offices like this one, not in speeches. The fools who elected Cornelius Fudge are not interested in complications and caution. Present them with anything more nuanced than a rousing cheer, and you will face your war alone. <em>That</em>, Mr. Potter, was your childish error, which Draco Malfoy would not have made even when he was eight years old. It should have been obvious even to <em>you</em> that you should have stayed silent, and <em>consulted with me first</em>, not spoken your worries before the crowd!\"",
+      "\"I am no friend of Albus Dumbledore,\" said Harry, a cold in his voice to match Professor Quirrell's. \"But he is no child, and he did not seem to think my concerns were childish, nor that I should have waited to speak them.\"",
+      "\"Oh,\" said Professor Quirrell, \"so you take your cues from the Headmaster now, do you?\" and stood up from behind his desk.",
+      "* * *"
+    ],
+    "summary_en": "Quirrell coldly rebukes Harry for voicing his worries before the crowd instead of consulting him privately; Harry cites Dumbledore's approval, and Quirrell rises from his desk as the scene breaks.",
+    "translation_fa": "«چنین خطرهایی،» پروفسور کویرل با سردی گفت، «را باید در دفترهایی مثل این یکی بحث کرد، نه در سخنرانی‌ها. احمق‌هایی که کورنلیوس فاج را انتخاب کردند به پیچیدگی‌ها و احتیاط علاقه‌ای ندارند. چیزی ظریف‌تر از یک هورای پرشور به آن‌ها ارائه کن و جنگت را تنها خواهی جنگید. این، آقای پاتر، خطای بچگانه‌ی شما بود که دراکو مالفوی حتی در هشت‌سالگی هم مرتکبش نمی‌شد. حتی برای شما هم باید بدیهی می‌بود که باید سکوت می‌کردید و اول با من مشورت می‌کردید، نه آن‌که نگرانی‌هایتان را پیش جمعیت به زبان بیاورید!»\n\n«من دوست آلبوس دامبلدور نیستم،» هری گفت، با سردی در صدا که با صدای پروفسور کویرل برابری می‌کرد. «ولی او بچه نیست و به نظر نمی‌رسید نگرانی‌های مرا بچگانه بداند، یا این‌که باید صبر می‌کردم تا حرف بزنم.»\n\n«اوه،» پروفسور کویرل گفت، «پس حالا از مدیر مدرسه الگو می‌گیرید، ها؟» و از پشت میزش برخاست.\n\n* * *",
+    "summary_fa": "کویرل با سردی هری را سرزنش می‌کند که نگرانی‌هایش را پیش جمعیت گفته به‌جای مشورت خصوصی؛ هری به تأیید دامبلدور استناد می‌کند و کویرل از پشت میزش برمی‌خیزد."
+  },
+  {
+    "id": 6,
+    "paras": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "verbatim_html": [
+      "When Blaise turned the corner on the way to the office, he saw that Professor Quirrell was already leaning against the wall.",
+      "\"Blaise Zabini,\" said the Defense Professor, straightening; his eyes were set like dark stones within his face, and his voice sent a shiver of fear down Blaise's spine.",
+      "<em>He can't do anything against me, I just have to remember that -</em>",
+      "\"I believe,\" said Professor Quirrell, in a clear, cold voice, \"that I have already guessed the name of your employer. But I would hear it from your own lips, and tell me also the price that bought you.\""
+    ],
+    "summary_en": "Blaise Zabini finds Professor Quirrell waiting for him; Quirrell coldly demands the name of Blaise's employer and the price that bought him.",
+    "translation_fa": "وقتی بلیز سر راهش به دفتر پیچید، دید که پروفسور کویرل از پیش به دیوار تکیه داده است.\n\n«بلیز زابینی،» استاد دفاع گفت، راست‌ایستاده؛ چشم‌هایش مثل سنگ‌های تیره در چهره‌اش نشانده شده بود و صدایش لرزی از ترس بر ستون فقرات بلیز فرستاد.\n\nاو نمی‌تواند کاری علیه من بکند، فقط باید آن را به یاد داشته باشم...\n\nپروفسور کویرل با صدایی صاف و سرد گفت: «باور دارم که نام کارفرمایت را از پیش حدس زده‌ام. ولی می‌خواهم آن را از لب‌های خودت بشنوم و به من بگو به چه قیمتی خریده شدی.»",
+    "summary_fa": "بلیز زابینی پروفسور کویرل را در انتظار خود می‌یابد؛ کویرل با سردی نام کارفرمای او و بهای خریده شدنش را می‌خواهد."
+  },
+  {
+    "id": 7,
+    "paras": [
+      22,
+      23,
+      24,
+      25
+    ],
+    "verbatim_html": [
+      "Blaise knew he was sweating under his robes, and that the moisture would be already visible on his forehead. \"I got a chance to show I was better than all three generals, and I took it. A lot of people hate me now, but there're also plenty of Slytherins who'll love me for it. What makes you think I'm -\"",
+      "\"You did not devise the plan of today's battle, Mr. Zabini. Tell me who did.\"",
+      "Blaise swallowed hard. \"Well... I mean, in that case... then you already know who did, right? The only one who's that crazy is Dumbledore. And he'll protect me if you try to do anything.\"",
+      "\"Indeed. Tell me the price.\" The Defense Professor's eyes were still hard."
+    ],
+    "summary_en": "Blaise claims he acted to prove himself better than the three generals, but Quirrell insists he did not devise the battle plan, and Blaise names Dumbledore as the plotter behind him.",
+    "translation_fa": "بلیز می‌دانست که زیر ردایش عرق می‌کند و رطوبت از پیش بر پیشانی‌اش نمایان بود. «فرصتی به دست آوردم که نشان دهم از هر سه ژنرال بهترم و از آن استفاده کردم. خیلی‌ها حالا از من متنفرند، ولی اسلیترینی‌های زیادی هم هستند که به همین خاطر دوستم خواهند داشت. چه چیزی شما را به فکر انداخت که من...»\n\n«نقشه‌ی نبرد امروز را شما طرح نکردید، آقای زابینی. به من بگویید چه کسی کرد.»\n\nبلیز به‌سختی آب دهانش را قورت داد. «خب... یعنی، در آن صورت... پس شما از پیش می‌دانید چه کسی کرد، درسته؟ تنها کسی که آن‌قدر دیوانه است دامبلدور است. و اگر سعی کنید کاری بکنید از من محافظت خواهد کرد.»\n\n«به‌راستی. بهای را بگو.» چشم‌های استاد دفاع همچنان سخت بود.",
+    "summary_fa": "بلیز ادعا می‌کند برای اثبات برتری‌اش بر سه ژنرال عمل کرده، ولی کویرل اصرار دارد نقشه‌ی نبرد را او نکشیده و بلیز دامبلدور را طراح پشت پرده معرفی می‌کند."
+  },
+  {
+    "id": 8,
+    "paras": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "verbatim_html": [
+      "\"It's my cousin Kimberly,\" Blaise said, swallowing again and trying to control his voice. \"She's real, and she's really being bullied, Potter checked that, he wasn't dumb. Only Dumbledore said that he'd nudged the bullies into doing it, just for the plan, and if I worked for <em>him</em> she'd be fine afterward, but if I <em>did</em> go with Potter, there was more trouble Kimberly could get into!\"",
+      "Professor Quirrell was silent for a long moment.",
+      "\"I see,\" Professor Quirrell said, his voice now much milder. \"Mr. Zabini, should such an event occur again, you may contact me directly. I have my own ways of protecting my friends. Now, a final question: Even with all the power you took into your hands, forcing a tie would have been difficult. Did Dumbledore instruct you as to who should win otherwise?\"",
+      "\"Sunshine,\" said Blaise."
+    ],
+    "summary_en": "Blaise explains Dumbledore nudged the bullies tormenting his cousin Kimberly to blackmail him, and when Quirrell asks who was supposed to win otherwise, Blaise answers: Sunshine.",
+    "translation_fa": "بلیز گفت، دوباره آب دهانش را قورت داده و سعی کرده صدایش را کنترل کند: «دخترعموی من کیمبرلی است. او واقعی است و واقعاً دارد اذیت می‌شود، پاتر این را بررسی کرد، او احمق نبود. فقط دامبلدور گفت که قلدرها را هل داده که این کار را بکنند، فقط برای نقشه، و اگر برای او کار می‌کردم بعدش حالش خوب می‌بود، ولی اگر با پاتر می‌رفتم، دردسر بیشتری می‌توانست برای کیمبرلی پیش بیاید!»\n\nپروفسور کویرل لحظه‌ای طولانی سکوت کرد.\n\nپروفسور کویرل گفت، صدایش حالا بسیار ملایم‌تر: «می‌فهمم. آقای زابینی، اگر چنین رویدادی دوباره رخ دهد، می‌توانید مستقیماً با من تماس بگیرید. من راه‌های خودم را برای محافظت از دوستانم دارم. حالا، پرسشی پایانی: حتی با همه‌ی قدرتی که به دست گرفتید، تحمیل تساوی دشوار می‌بود. آیا دامبلدور به شما دستور داد که در غیر این صورت چه کسی باید ببرد؟»\n\nبلیز گفت: «آفتاب.»",
+    "summary_fa": "بلیز توضیح می‌دهد دامبلدور قلدرهای دخترعمویش کیمبرلی را تحریک کرده تا او را باج‌خواهی کند و در پاسخ به این‌که جز تساوی چه کسی باید می‌برد، می‌گوید: آفتاب."
+  },
+  {
+    "id": 9,
+    "paras": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "verbatim_html": [
+      "Professor Quirrell nodded. \"As I thought.\" The Defense Professor sighed. \"In your future career, Mr. Zabini, I do not suggest trying any plots that complicated. They have a tendency to fail.\"",
+      "\"Um, I said that to the Headmaster, actually,\" Blaise said, \"and he said that was why it was important to have more than one plot going at a time.\"",
+      "Professor Quirrell passed a weary hand across his forehead. \"It's a wonder the Dark Lord didn't go mad from fighting <em>him.</em> You may go on to your meeting with the Headmaster, Mr. Zabini. I will say nothing of this, but if the Headmaster should somehow discover that we have spoken, remember my standing offer to give you what protection I can. You are dismissed.\"",
+      "Blaise didn't wait for any other word, just turned and fled.",
+      "* * *"
+    ],
+    "summary_en": "Quirrell warns Blaise against overcomplicated plots, offers him future protection, dismisses him to his meeting with the Headmaster, and Blaise flees.",
+    "translation_fa": "پروفسور کویرل سر تکان داد. «همان‌طور که فکر می‌کردم.» استاد دفاع آه کشید. «در حرفه‌ی آینده‌تان، آقای زابینی، پیشنهاد نمی‌کنم نقشه‌هایی به این پیچیدگی را امتحان کنید. گرایش دارند که شکست بخورند.»\n\nبلیز گفت: «آه، این را واقعاً به مدیر مدرسه گفتم،» «و او گفت به همین خاطر مهم است که بیش از یک نقشه را همزمان پیش ببری.»\n\nپروفسور کویرل دست خسته‌ای بر پیشانی‌اش کشید. «عجیب است که لرد سیاه از جنگیدن با او دیوانه نشد. می‌توانید به جلسه‌تان با مدیر مدرسه بروید، آقای زابینی. من چیزی از این نخواهم گفت، ولی اگر مدیر مدرسه به نحوی کشف کرد که ما صحبت کرده‌ایم، پیشنهاد دائمی مرا برای هر محافظتی که بتوانم به شما بدهم به یاد داشته باشید. مرخصید.»\n\nبلیز برای هیچ حرف دیگری صبر نکرد، فقط چرخید و گریخت.\n\n* * *",
+    "summary_fa": "کویرل به بلیز درباره‌ی نقشه‌های بیش از حد پیچیده هشدار می‌دهد، به او پیشنهاد محافظت می‌دهد و مرخصش می‌کند و بلیز می‌گریزد."
+  },
+  {
+    "id": 10,
+    "paras": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "verbatim_html": [
+      "Professor Quirrell waited for a time, and then said, \"Go ahead, Mr. Potter.\"",
+      "Harry tore the Cloak of Invisibility off his head and stuffed into his pouch. He was trembing with so much rage he could hardly speak. \"He <em>what?</em> He did <em>what?</em> \"",
+      "\"You should have deduced it yourself, Mr. Potter,\" Professor Quirrell said mildly. \"You must learn to blur your vision until you can see the forest obscured by the trees. Anyone who heard the stories about you, and who did not know that you were the mysterious Boy-Who-Lived, could easily deduce your ownership of an invisibility cloak. Step back from these events, blur away their details, and what do we observe? There was a great rivalry between students, and their competition ended in a perfect tie. That sort of thing only happens in stories, Mr. Potter, and there is one person in this school who thinks in stories. There was a strange and complicated plot, which you should have realized was uncharacteristic of the young Slytherin you faced. But there is a person in this school who deals in plots that elaborate, and his name is not Zabini. And I did warn you that there was a quadruple agent; you knew that Zabini was at least a triple agent, and you should have guessed a high chance that it was he. No, I will not declare the battle invalid. All three of you failed the test, and lost to your common enemy.\"",
+      "Harry didn't care about tests at this point. \"Dumbledore <em>blackmailed</em> Zabini by <em>threatening his cousin?</em> Just to make our battle end in a tie? <em>Why?</em> \""
+    ],
+    "summary_en": "Harry, who watched under the Invisibility Cloak, erupts in rage; Quirrell says he should have deduced Dumbledore's story-shaped plot and the quadruple agent himself, refuses to void the battle, and Harry demands to know why Dumbledore blackmailed Zabini.",
+    "translation_fa": "پروفسور کویرل مدتی صبر کرد و بعد گفت: «بفرمایید، آقای پاتر.»\n\nهری شنل نامرئی را از سرش کند و در کیسه‌اش چپاند. از خشم چنان می‌لرزید که به‌سختی می‌توانست حرف بزند. «او چی؟ او چی کار کرد؟»\n\n«باید خودتان استنتاجش می‌کردید، آقای پاتر،» پروفسور کویرل به‌آرامی گفت. «باید یاد بگیرید دیدتان را تار کنید تا بتوانید جنگل را که درخت‌ها پنهانش کرده‌اند ببینید. هرکسی که داستان‌های شما را شنیده باشد و نداند که شما پسر مرموزی هستید که زنده مانده، می‌توانست به‌آسانی مالکیت شما بر شنل نامرئی را استنتاج کند. از این رویدادها عقب بایستید، جزئیاتشان را تار کنید و چه مشاهده می‌کنیم؟ رقابت بزرگی میان دانش‌آموزان بود و رقابتشان با تساوی کامل پایان یافت. از این چیزها فقط در داستان‌ها رخ می‌دهد، آقای پاتر، و در این مدرسه یک نفر هست که داستانی فکر می‌کند. نقشه‌ای عجیب و پیچیده بود که باید می‌فهمیدید با اسلیترینی جوانی که با او روبه‌رو بودید ناسازگار است. ولی در این مدرسه کسی هست که با نقشه‌هایی به این تفصیل سر و کار دارد و اسمش زابینی نیست. و من به شما هشدار داده بودم که مأمور چهارگانه‌ای وجود داشت؛ می‌دانستید که زابینی دست‌کم مأمور سه‌گانه بود و باید حدس می‌زدید که احتمال بالایی هست که او همان باشد. نه، نبرد را باطل اعلام نخواهم کرد. هر سه شما در آزمون مردود شدید و به دشمن مشترکتان باختید.»\n\nهری در این مرحله اهمیتی به آزمون‌ها نمی‌داد. «دامبلدور با تهدید دخترعمویش از زابینی باج‌خواهی کرد؟ فقط برای این‌که نبرد ما با تساوی تمام شود؟ چرا؟»",
+    "summary_fa": "هری که زیر شنل نامرئی تماشا می‌کرد از خشم منفجر می‌شود؛ کویرل می‌گوید باید خودش نقشه‌ی داستان‌گونه‌ی دامبلدور و مأمور چهارگانه را استنتاج می‌کرد و از باطل کردن نبرد خودداری می‌کند و هری می‌پرسد چرا دامبلدور از زابینی باج‌خواهی کرده."
+  },
+  {
+    "id": 11,
+    "paras": [
+      39,
+      40,
+      41
+    ],
+    "verbatim_html": [
+      "Professor Quirrell gave a mirthless laugh. \"Perhaps the Headmaster thought the rivalry was good for his pet hero and wished to see it continue. For the greater good, you understand. Or perhaps he was simply mad. You see, Mr. Potter, everyone knows that Dumbledore's madness is a mask, that he is sane pretending to be insane. They pride themselves on that clever insight, and knowing the secret explanation, they stop looking. It does not occur to them that it is <em>also</em> possible to have a mask behind the mask, to be insane pretending to be sane pretending to be insane. And I am afraid, Mr. Potter, that I have urgent business elsewhere, and must depart; but I should strongly advise you not to take your cues from Albus Dumbledore when fighting a war. Until later, Mr. Potter.\"",
+      "And the Defense Professor inclined his head with some irony, and then strode off in the same direction Zabini had fled, while Harry was still standing in open-mouthed shock.",
+      "* * *"
+    ],
+    "summary_en": "Quirrell suggests the Headmaster kept the rivalry alive for his pet hero or is mad behind layers of masks, advises Harry never to take Dumbledore as his model in war, and strides off.",
+    "translation_fa": "پروفسور کویرل خنده‌ای بی‌نشاط کرد. «شاید مدیر مدرسه فکر می‌کرد رقابت برای قهرمان عزیزش خوب است و می‌خواست ادامه‌اش را ببیند. برای خیر بزرگ‌تر، می‌فهمید که. یا شاید او فقط دیوانه بود. می‌بینید، آقای پاتر، همه می‌دانند که دیوانگی دامبلدور نقاب است، که او عاقلی است که تظاهر به دیوانگی می‌کند. به این بینش زیرکانه به خود می‌بالند و با دانستن توضیح پنهان، از نگاه کردن دست می‌کشند. به ذهنشان نمی‌رسد که این هم ممکن است که نقابی پشت نقاب باشد، که دیوانه‌ای باشی که تظاهر به عاقل بودن می‌کند که تظاهر به دیوانه بودن می‌کند. و می‌ترسم، آقای پاتر، که کار فوری در جای دیگری دارم و باید بروم؛ ولی اکیداً به شما توصیه می‌کنم که در جنگیدن در جنگ از آلبوس دامبلدور الگو نگیرید. تا بعد، آقای پاتر.»\n\nو استاد دفاع با کمی طعنه سر فرود آورد و بعد در همان جهتی که زابینی گریخته بود گام برداشت، در حالی که هری هنوز با دهان باز از شگفتی ایستاده بود.\n\n* * *",
+    "summary_fa": "کویرل می‌گوید شاید مدیر رقابت را برای قهرمان عزیزش زنده نگه داشته یا دیوانه‌ای پشت نقاب‌هاست، به هری توصیه می‌کند در جنگ از دامبلدور الگو نگیرد و می‌رود."
+  },
+  {
+    "id": 12,
+    "paras": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "verbatim_html": [
+      "<em>Aftermath: Harry Potter.</em>",
+      "Harry trudged slowly toward the Ravenclaw dorm, eyes unseeing of walls, paintings, or other students; he went up stairs and down ramps without slowing, speeding, or noticing where he trod.",
+      "It had taken him more than a minute after Professor Quirrell's departure to realize that his only source of information about Dumbledore being involved was (a) Blaise Zabini, who he would have to be an absolute gaping idiot to trust again, and (b) Professor Quirrell, who could have easily faked a plot in Dumbledore's style, and who might also think that a little student rivalry was a fine thing; and who had, if you stepped back and blurred out the details, just proposed turning the country into a magical dictatorship.",
+      "And it was also possible that Dumbledore <em>was</em> the one behind Zabini, and that Professor Quirrell had been sincerely trying to fight the Dark Mark in kind, and prevent the repetition of a performance he saw as pathetic. Trying to make sure that Harry didn't end up fighting the Dark Lord alone, while everyone else hid, frightened, trying to stay out of the line of fire, waiting for Harry to save them."
+    ],
+    "summary_en": "In the aftermath, Harry trudges to Ravenclaw realizing his only sources for Dumbledore's involvement are the untrustworthy Zabini and Quirrell, who may have staged it all — though Quirrell may also have sincerely tried to prevent Harry fighting alone.",
+    "translation_fa": "پیامد: هری پاتر.\n\nهری به‌آرامی به سوی خوابگاه ریونکلو راه افتاد، چشم‌ها نابینا به دیوارها، تابلوها یا دانش‌آموزان دیگر؛ از پله‌ها بالا رفت و از سراشیبی‌ها پایین آمد بی‌آن‌که کند شود، تند شود یا بفهمد کجا قدم می‌گذارد.\n\nبیش از یک دقیقه پس از رفتن پروفسور کویرل طول کشید تا بفهمد که تنها منبع اطلاعاتش درباره‌ی دخالت دامبلدور (الف) بلیز زابینی بود که باید احمق دهان‌گشاد تمام‌عیاری باشد که دوباره به او اعتماد کند و (ب) پروفسور کویرل بود که می‌توانست به‌آسانی نقشه‌ای به سبک دامبلدور جعل کرده باشد و شاید هم فکر کند که رقابت کوچک دانش‌آموزی چیز خوبی است؛ و کسی که، اگر عقب می‌ایستادی و جزئیات را تار می‌کردی، همین حالا پیشنهاد کرده بود کشور را به دیکتاتوری جادویی تبدیل کنند.\n\nو این هم ممکن بود که دامبلدور همان کسی باشد که پشت زابینی بود و پروفسور کویرل صادقانه سعی کرده باشد با نشان تاریک به همان شیوه بجنگد و از تکرار اجرایی که رقت‌انگیز می‌دید جلوگیری کند. سعی کند مطمئن شود که هری در پایان تنها با لرد سیاه نمی‌جنگد، در حالی که بقیه پنهان می‌شوند، ترسیده، سعی می‌کنند از خط آتش دور بمانند و منتظرند هری نجاتشان دهد.",
+    "summary_fa": "هری در راه خوابگاه ریونکلو درمی‌یابد تنها منابعش درباره‌ی دخالت دامبلدور زابینی غیرقابل‌اعتماد و کویرل‌اند که شاید همه‌چیز را صحنه‌سازی کرده باشد؛ هرچند کویرل شاید هم صادقانه می‌خواسته از تنها ماندن هری جلوگیری کند."
+  },
+  {
+    "id": 13,
+    "paras": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "verbatim_html": [
+      "But the truth was...",
+      "Well...",
+      "Harry was sort of okay with that.",
+      "It was, he knew, the kind of thing that was supposed to make heroes resentful and bitter."
+    ],
+    "summary_en": "Harry admits to himself that, hero-resentment aside, he is sort of okay with others staying out of the fight.",
+    "translation_fa": "ولی حقیقت این بود...\n\nخب...\n\nهری کمابیش با آن مشکلی نداشت.\n\nمی‌دانست که از آن چیزهایی بود که باید قهرمانان را رنجیده و تلخ می‌کرد.",
+    "summary_fa": "هری به خود اعتراف می‌کند که با وجود انتظاری که از قهرمانان می‌رود، کمابیش مشکلی ندارد که دیگران از نبرد دور بمانند."
+  },
+  {
+    "id": 14,
+    "paras": [
+      50,
+      51,
+      52,
+      53
+    ],
+    "verbatim_html": [
+      "To heck with that. Harry was very much in favor of everyone else <em>staying out of danger</em> while the Boy-Who-Lived took down the Dark Lord by himself, plus or minus a small number of companions. If the next conflict with the Dark Lord got to the point of a Second Wizarding War that killed lots of people and embroiled a whole country, that would mean Harry had <em>already failed</em>.",
+      "And if afterward a war broke out between wizards and Muggles, it didn't matter who won, Harry would have already failed by letting it get that far. Besides, who said the societies couldn't peacefully integrate when the secrecy inevitably broke down? (Though Harry could hear Professor Quirrell's dry voice in his mind, asking him if he was a fool, and saying all the obvious things...) And if mages and Muggles couldn't live in peace, then Harry would combine magic and science and figure out how to evacuate all the wizards to Mars or somewhere, instead of letting a war break out.",
+      "Because if it did come down to a war of extermination...",
+      "That was the thing Professor Quirrell hadn't realized, the one most important question he'd forgotten to ask his young general."
+    ],
+    "summary_en": "Harry believes others staying out of danger is fine, since a full Wizarding War would already mean failure, and he would rather integrate or evacuate wizards than let a war of extermination happen — the question Quirrell never asked him.",
+    "translation_fa": "به جهنم با آن. هری کاملاً موافق بود که بقیه از خطر دور بمانند در حالی که پسری که زنده مانده بود به‌تنهایی لرد سیاه را سرنگون می‌کند، به‌علاوه یا منهای تعداد کمی همراه. اگر درگیری بعدی با لرد سیاه به جایی می‌رسید که به جنگ دوم جادوگری می‌انجامید که عده‌ی زیادی را می‌کشت و کل کشور را درگیر می‌کرد، یعنی هری از پیش شکست خورده بود.\n\nو اگر پس از آن جنگی میان جادوگران و ماگل‌ها درمی‌گرفت، فرقی نمی‌کرد چه کسی ببرد، هری با گذاشتن کار به آنجا از پیش شکست خورده بود. به‌علاوه، چه کسی گفت که جامعه‌ها نمی‌توانند به‌صلح ادغام شوند وقتی پنهان‌کاری ناگزیر فرومی‌پاشد؟ (گرچه هری می‌توانست صدای خشک پروفسور کویرل را در ذهنش بشنود که از او می‌پرسید آیا احمق است و همه‌ی چیزهای بدیهی را می‌گفت...) و اگر جادوگران و ماگل‌ها نمی‌توانستند در صلح زندگی کنند، آنگاه هری جادو و علم را ترکیب می‌کرد و راهی برای تخلیه‌ی همه‌ی جادوگران به مریخ یا جایی پیدا می‌کرد، به‌جای آن‌که بگذارد جنگی درگیرد.\n\nچون اگر کار به جنگ نابودی می‌کشید...\n\nاین همان چیزی بود که پروفسور کویرل درک نکرده بود، همان یک پرسش مهمی که فراموش کرده بود از ژنرال جوانش بپرسد.",
+    "summary_fa": "هری معتقد است دور ماندن دیگران از خطر خوب است چون جنگ تمام‌عیار یعنی شکست؛ او ادغام یا تخلیه‌ی جادوگران را بر جنگ نابودی ترجیح می‌دهد — همان پرسشی که کویرل هرگز از او نپرسید."
+  },
+  {
+    "id": 15,
+    "paras": [
+      54,
+      55,
+      56,
+      57
+    ],
+    "verbatim_html": [
+      "The real reason why Harry had no intention of being argued into endorsing a Light Mark, no matter <em>how</em> much it would help him in his fight against the Dark Lord.",
+      "One Dark Lord and fifty Marked followers had been a peril to all of magical Britain.",
+      "If all Britain took the Mark of a strong leader, they would be a peril to the whole magical world.",
+      "And if the whole wizarding world took a single Mark, they would be a danger to the rest of humanity."
+    ],
+    "summary_en": "Harry's real reason for rejecting a Light Mark: one Dark Lord and fifty Marked followers endangered Britain, a Marked Britain would endanger the magical world, and a Marked world would endanger humanity.",
+    "translation_fa": "دلیل واقعی که هری قصد نداشت به استدلال وادار شود که از نشان روشن حمایت کند، هرچقدر هم که در نبردش با لرد سیاه به او کمک می‌کرد.\n\nیک لرد سیاه و پنجاه پیرو نشان‌دار برای کل بریتانیای جادویی خطر بوده بودند.\n\nاگر کل بریتانیا نشان رهبری نیرومند را می‌گرفت، برای کل دنیای جادویی خطر می‌بودند.\n\nو اگر کل دنیای جادوگری یک نشان واحد می‌گرفت، برای بقیه‌ی بشریت خطر می‌بودند.",
+    "summary_fa": "دلیل واقعی هری برای رد نشان روشن: یک لرد سیاه و پنجاه پیرو بریتانیا را به خطر انداختند، بریتانیای نشان‌دار دنیای جادویی را به خطر می‌انداخت و دنیای نشان‌دار بشریت را."
+  },
+  {
+    "id": 16,
+    "paras": [
+      58,
+      59,
+      60,
+      61
+    ],
+    "verbatim_html": [
+      "No one knew quite how many wizards there were in the world. He'd done a few estimates with Hermione and come up with numbers in the rough range of a million.",
+      "But there were six billion Muggles.",
+      "If it came down to a final war...",
+      "Professor Quirrell had forgotten to ask Harry which side he would protect."
+    ],
+    "summary_en": "With roughly a million wizards against six billion Muggles, Harry notes Quirrell never asked which side he would protect in a final war.",
+    "translation_fa": "هیچ‌کس دقیقاً نمی‌دانست در جهان چند جادوگر هست. او با هرماینی چند برآورد کرده بود و به عددهایی در محدوده‌ی تقریبی یک میلیون رسیده بود.\n\nولی شش میلیارد ماگل وجود داشت.\n\nاگر کار به جنگ نهایی می‌کشید...\n\nپروفسور کویرل فراموش کرده بود از هری بپرسد که از کدام طرف محافظت خواهد کرد.",
+    "summary_fa": "با حدود یک میلیون جادوگر در برابر شش میلیارد ماگل، هری یادآوری می‌کند که کویرل هرگز نپرسید در جنگ نهایی از کدام طرف محافظت خواهد کرد."
+  },
+  {
+    "id": 17,
+    "paras": [
+      62,
+      63,
+      64,
+      65
+    ],
+    "verbatim_html": [
+      "A scientific civilization, reaching outward, looking upward, knowing that its destiny was to grasp the stars.",
+      "And a magical civilization, slowly fading as knowledge was lost, still governed by a nobility that saw Muggles as not quite human.",
+      "It was a terribly sad feeling, but not one that held any hint of doubt.",
+      "* * *"
+    ],
+    "summary_en": "Harry compares a star-reaching scientific civilization with a fading magical nobility that scorns Muggles, and feels terribly sad but entirely certain where he stands.",
+    "translation_fa": "تمدن علمی، رو به بیرون گسترش‌یابنده، رو به بالا نگاه‌کننده، داننده‌ی این‌که سرنوشتش درک ستارگان است.\n\nو تمدن جادویی، به‌آرامی در حال محو شدن همچنان‌که دانش از دست می‌رفت، هنوز تحت حکومت اشراف‌زادگی که ماگل‌ها را نه کاملاً انسان می‌دیدند.\n\nاحساسی به‌طرز وحشتناکی غم‌انگیز بود، ولی احساسی که هیچ نشانی از تردید نداشت.\n\n* * *",
+    "summary_fa": "هری تمدن علمی ستاره‌جو را با تمدن جادویی رو به زوال مقایسه می‌کند و احساس غمی عمیق ولی بدون هیچ تردیدی درباره‌ی جایگاهش دارد."
+  },
+  {
+    "id": 18,
+    "paras": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "verbatim_html": [
+      "<em>Aftermath: Blaise Zabini.</em>",
+      "Blaise strolled through the hallways with careful, self-imposed slowness, his heart beating wildly as he tried to calm down -",
+      "\"Ahem,\" said a dry, whispering voice from a shadowy alcove as he passed.",
+      "Blaise jumped, but he didn't scream."
+    ],
+    "summary_en": "In Blaise's aftermath, he strolls the halls calming himself when a dry whispering voice hails him from a shadowy alcove, startling him without making him scream.",
+    "translation_fa": "پیامد: بلیز زابینی.\n\nبلیز با کندی محتاطانه‌ی خودتحمیلی در راهروها قدم می‌زد، قلبش وحشیانه می‌تپید همچنان‌که سعی می‌کرد آرام شود...\n\n«ببخشید،» صدای خشک زمزمه‌واری از طاقچه‌ی سایه‌دار گفت همچنان‌که او می‌گذشت.\n\nبلیز پرید، ولی جیغ نکشید.",
+    "summary_fa": "بلیز در راهروها سعی می‌کند آرام شود که صدای زمزمه‌وار خشکی از طاقچه‌ای سایه‌دار او را می‌خواند؛ جا می‌خورد ولی جیغ نمی‌کشد."
+  },
+  {
+    "id": 19,
+    "paras": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "verbatim_html": [
+      "Slowly, he turned.",
+      "In that small, shadowy corner was a black cloak so wide and billowing that it was impossible to determine whether the figure beneath was male or female, and atop the cloak a broad-brimmed black hat, and a black mist seemed to gather beneath it and obscure the face of whoever or whatever might lie beneath.",
+      "\"Report,\" whispered Mr. Hat and Cloak.",
+      "\"I said just what you told me to,\" said Blaise. His voice was a little calmer now that he wasn't lying to anyone. \"And Professor Quirrell reacted just the way you expected.\""
+    ],
+    "summary_en": "Blaise turns to face Mr. Hat and Cloak, a shrouded unidentifiable figure, and reports that he said exactly what he was told and Quirrell reacted exactly as expected.",
+    "translation_fa": "به‌آرامی چرخید.\n\nدر آن گوشه‌ی کوچک سایه‌دار شنل سیاهی بود چنان پهن و مواج که نمی‌شد تشخیص داد شکل زیرش مذکر است یا مؤنث و بر شنل کلاه سیاه لبه‌پهنی بود و مه سیاهی به نظر می‌رسید که زیرش جمع می‌شود و چهره‌ی هرکس یا هرچه را که ممکن است زیرش باشد پنهان می‌کند.\n\nآقای کلاه و شنل زمزمه کرد: «گزارش.»\n\nبلیز گفت: «دقیقاً همان را گفتم که به من گفته بودی.» صدایش حالا کمی آرام‌تر بود چون دیگر به کسی دروغ نمی‌گفت. «و پروفسور کویرل دقیقاً همان‌طور واکنش نشان داد که انتظار داشتی.»",
+    "summary_fa": "بلیز با آقای کلاه و شنل، شخصیت ناشناسی در شنل و مه، روبه‌رو می‌شود و گزارش می‌دهد دقیقاً همان را گفته که به او گفته شده و کویرل همان‌طور که انتظار می‌رفت واکنش نشان داده."
+  },
+  {
+    "id": 20,
+    "paras": [
+      74,
+      75,
+      76,
+      77
+    ],
+    "verbatim_html": [
+      "The broad black hat tilted and straightened, as though the head below had nodded. \"Excellent,\" said the unidentifiable whisper. \"The reward I promised you is already on its way to your mother, by owl.\"",
+      "Blaise hesitated, but his curiosity was eating him alive. \"Can I ask now why you want to cause trouble between Professor Quirrell and Dumbledore?\" The Headmaster hadn't had anything to do with the Gryffindor bullies that Blaise knew about, and besides helping Kimberly, the Headmaster had also offered to make Professor Binns give him excellent marks in History of Magic even if he turned in blank parchments for his homework, though he'd still have to attend class and pretend to hand them in. Actually Blaise would have betrayed all three generals for free, and never mind his cousin either, but he'd seen no need to say that.",
+      "The broad black hat cocked to one side, as if to convey a quizzical stare. \"Tell me, friend Blaise, did it occur to you that traitors who betray so many times over often meet with ill ends?\"",
+      "\"Nope,\" said Blaise, looking straight into the black mist under the hat. \"Everyone knows that nothing <em>really</em> bad ever happens to students in Hogwarts.\""
+    ],
+    "summary_en": "The figure confirms Blaise's reward is owled to his mother; Blaise asks why it wants trouble between Quirrell and Dumbledore, admitting he would have betrayed everyone for free, and is warned that serial traitors meet ill ends — which he shrugs off.",
+    "translation_fa": "کلاه سیاه پهن کج شد و راست شد، گویی سر زیرش تکان داده باشد. زمزمه‌ی ناشناس گفت: «عالی.» «پاداشی که به تو وعده دادم با جغد در راه مادرت است.»\n\nبلیز تردید کرد، ولی کنجکاوی‌اش او را زنده‌زنده می‌خورد. «می‌توانم حالا بپرسم چرا می‌خواهی میان پروفسور کویرل و دامبلدور دردسر درست کنی؟» مدیر مدرسه تا آنجا که بلیز می‌دانست هیچ دخالتی در قلدرهای گریفیندور نداشت و گذشته از کمک به کیمبرلی، مدیر همچنین پیشنهاد داده بود پروفسور بینز را وادار کند به او در تاریخ جادو نمره‌های عالی بدهد حتی اگر تکالیفش را روی پوست‌نوشت‌های خالی تحویل دهد، هرچند باز هم باید در کلاس حاضر می‌شد و تظاهر می‌کرد آن‌ها را تحویل می‌دهد. در واقع بلیز هر سه ژنرال را مجانی لو می‌داد و دخترعمویش را هم به حساب نمی‌آورد، ولی نیازی ندیده بود که آن را بگوید.\n\nکلاه سیاه پهن به یک سو کج شد، گویی بخواهد نگاهی پرسشگر را منتقل کند. «بگو، دوست بلیز، آیا به ذهنت رسید که خائنانی که بارها و بارها خیانت می‌کنند اغلب با پایان‌های بدی روبه‌رو می‌شوند؟»\n\nبلیز گفت، مستقیم به مه سیاه زیر کلاه نگاه کرده: «نه.» «همه می‌دانند که هیچ‌وقت واقعاً اتفاق بدی برای دانش‌آموزان هاگوارتز نمی‌افتد.»",
+    "summary_fa": "شخص ناشناس تأیید می‌کند پاداش بلیز برای مادرش فرستاده شده؛ بلیز می‌پرسد چرا میان کویرل و دامبلدور دردسر می‌خواهد و اعتراف می‌کند مجانی هم خیانت می‌کرد و هشدار درباره‌ی پایان بد خائنان را نادیده می‌گیرد."
+  },
+  {
+    "id": 21,
+    "paras": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "verbatim_html": [
+      "Mr. Hat and Cloak gave a whispery chuckle. \"Indeed,\" said the whisper. \"With the murder of one student five decades ago being the exception that proves the rule, since Salazar Slytherin would have keyed his monster into the ancient wards at a higher level than the Headmaster himself.\"",
+      "Blaise stared at the black mist, now beginning to feel a little uneasy. But it ought to take a Hogwarts professor to do anything significant to him without setting off alarms. Quirrell and Snape were the only professors who'd do something like this, and Quirrell wouldn't care about fooling <em>himself</em>, and Snape wouldn't hurt one of his own Slytherins... would he?",
+      "\"No, friend Blaise,\" whispered the black mist, \"I only wished to advise you never to try anything like this in your adult life. So many betrayals would certainly lead to at least one vengeance.\"",
+      "\"My <em>mother</em> never got any vengeances,\" said Blaise proudly. \"Even though she married <em>seven</em> husbands and every single one of them died mysteriously and left her lots of money.\""
+    ],
+    "summary_en": "Mr. Hat and Cloak chuckles about Hogwarts' safety record, Blaise nervously reasons only Quirrell or Snape could harm him, receives advice never to repeat such betrayals as an adult, and proudly cites his mother surviving seven mysterious widowhoods.",
+    "translation_fa": "آقای کلاه و شنل خنده‌ی زمزمه‌واری کرد. زمزمه گفت: «به‌راستی.» «با قتل یک دانش‌آموز پنج دهه پیش به‌عنوان استثنایی که قاعده را ثابت می‌کند، چون سالازار اسلیترین هیولایش را به پاسداری‌های باستانی در سطحی بالاتر از خود مدیر مدرسه کلید کرده بود.»\n\nبلیز به مه سیاه خیره شد، حالا کمی احساس ناراحتی می‌کرد. ولی باید استاد هاگوارتز می‌بودی تا بتوانی بدون به صدا درآوردن هشدارها کار مهمی با او بکنی. کویرل و اسنیپ تنها استادانی بودند که چنین کاری می‌کردند و کویرل اهمیتی به فریب دادن خودش نمی‌داد و اسنیپ به یکی از اسلیترینی‌های خودش آسیب نمی‌زد... می‌زد؟\n\nمه سیاه زمزمه کرد: «نه، دوست بلیز،» «فقط می‌خواستم به تو توصیه کنم که در زندگی بزرگسالی‌ات هرگز چیزی شبیه این را امتحان نکنی. این‌همه خیانت قطعاً دست‌کم به یک انتقام می‌انجامید.»\n\nبلیز با افتخار گفت: «مادر من هرگز هیچ انتقامی ندید.» «با این‌که با هفت شوهر ازدواج کرد و هر هفت‌تایشان به‌طرز مرموزی مردند و پول زیادی برایش گذاشتند.»",
+    "summary_fa": "آقای کلاه و شنل درباره‌ی امنیت هاگوارتز می‌خندد، بلیز با نگرانی استدلال می‌کند فقط کویرل یا اسنیپ می‌توانستند به او آسیب بزنند، توصیه می‌شود در بزرگسالی چنین خیانت‌هایی نکند و با افتخار از مادرش می‌گوید که از هفت ازدواج مرموز جان سالم به در برده."
+  },
+  {
+    "id": 22,
+    "paras": [
+      82,
+      83,
+      84,
+      85
+    ],
+    "verbatim_html": [
+      "\"Really?\" said the whisper. \"However did she persuade the seventh to marry her after he heard what happened to the first six?\"",
+      "\"I asked Mum that,\" said Blaise, \"and she said I couldn't know until I was old enough, and I asked her how old was old enough, and she said, older than her.\"",
+      "Again the whispery chuckle. \"Well then, friend Blaise, my congratulations on having followed in your mother's footsteps. Go, and if you say nothing of this, we will not meet again.\"",
+      "Blaise backed uneasily away, feeling an odd reluctance to turn his back."
+    ],
+    "summary_en": "After jokes about how Blaise's mother wed husband number seven, the figure congratulates him on following her footsteps, dismisses him with a demand for silence, and Blaise backs away uneasily.",
+    "translation_fa": "زمزمه گفت: «واقعاً؟» «اصلاً چطور شوهر هفتم را راضی کرد که با او ازدواج کند پس از آن‌که شنید چه بر سر شش تای اول آمده؟»\n\nبلیز گفت: «این را از مامان پرسیدم،» «و گفت تا وقتی به‌اندازه‌ی کافی بزرگ نشده‌ام نمی‌توانم بدانم و پرسیدم چقدر بزرگْ به‌اندازه‌ی کافی بزرگ است و گفت، بزرگ‌تر از خودش.»\n\nدوباره خنده‌ی زمزمه‌وار. «خب پس، دوست بلیز، تبریک می‌گویم که جای پای مادرت گذاشته‌ای. برو و اگر چیزی از این نگی، دوباره همدیگر را نخواهیم دید.»\n\nبلیز با ناراحتی عقب‌عقب رفت، اکراه عجیبی به پشت کردن حس کرده.",
+    "summary_fa": "پس از شوخی درباره‌ی ازدواج هفتم مادر بلیز، شخص ناشناس به او تبریک می‌گوید که جای پای مادرش گذاشته، با شرط سکوت مرخصش می‌کند و بلیز با ناراحتی عقب می‌رود."
+  },
+  {
+    "id": 23,
+    "paras": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "verbatim_html": [
+      "The hat tilted. \"Oh, come now, little Slytherin. If you were truly the equal of Harry Potter or Draco Malfoy, you would have already realized that my hinted threats were just to ensure your silence before Albus. Had I intended to harm, I would not have hinted; had I said nothing, <em>then</em> you should have worried.\"",
+      "Blaise straightened, feeling a little insulted, and nodded to Mr. Hat and Cloak; then turned decisively and strode off toward his meeting with the Headmaster.",
+      "He'd been hoping to the very end that someone <em>else</em> would show up and give him a chance to sell out Mr. Hat and Cloak.",
+      "But then Mum hadn't betrayed seven different husbands at the <em>same time.</em> When you looked at it <em>that</em> way, he was still doing better than her."
+    ],
+    "summary_en": "The figure reassures Blaise its hinted threats merely ensure his silence before Dumbledore; Blaise strides off insulted yet proud, still hoping for a chance to sell out Mr. Hat and Cloak and rating himself above his mother.",
+    "translation_fa": "کلاه کج شد. «اوه، بیا حالا، اسلیترینی کوچک. اگر واقعاً همتای هری پاتر یا دراکو مالفوی بودی، از پیش درک کرده بودی که تهدیدهای تلویحی من فقط برای تضمین سکوتت پیش آلبوس بود. اگر قصد آسیب داشتم، اشاره نمی‌کردم؛ اگر چیزی نگفته بودم، آنگاه باید نگران می‌شدی.»\n\nبلیز راست ایستاد، کمی احساس توهین کرده، و به آقای کلاه و شنل سر تکان داد؛ بعد قاطعانه چرخید و به سوی جلسه‌اش با مدیر مدرسه گام برداشت.\n\nتا آخر امیدوار بود که کس دیگری سر برسد و به او فرصتی بدهد که آقای کلاه و شنل را لو بدهد.\n\nولی مامان هفت شوهر مختلف را همزمان لو نداده بود. وقتی از آن زاویه نگاهش می‌کردی، او هنوز از او بهتر عمل می‌کرد.",
+    "summary_fa": "شخص ناشناس بلیز را مطمئن می‌کند تهدیدهایش فقط برای سکوت پیش دامبلدور است؛ بلیز آزرده ولی مغرور می‌رود، هنوز امیدوار که آقای کلاه و شنل را لو بدهد و خود را برتر از مادرش می‌داند."
+  },
+  {
+    "id": 24,
+    "paras": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "verbatim_html": [
+      "And Blaise Zabini went on walking toward the Headmaster's office, smiling, content to be a quintuple agent -",
+      "For a moment the boy stumbled, but then straightened, shaking off the odd feeling of disorientation.",
+      "And Blaise Zabini went on walking toward the Headmaster's office, smiling, content to be a quadruple agent.",
+      "* * *"
+    ],
+    "summary_en": "Blaise walks on, smiling as a quintuple agent, stumbles with odd disorientation, and continues content as a quadruple agent.",
+    "translation_fa": "و بلیز زابینی به راه رفتن به سوی دفتر مدیر مدرسه ادامه داد، لبخندزنان، خرسند از این‌که مأمور پنج‌گانه است...\n\nلحظه‌ای پسر تلوتلو خورد، ولی بعد راست ایستاد، حس عجیب گیجی را از خود تکان داد.\n\nو بلیز زابینی به راه رفتن به سوی دفتر مدیر مدرسه ادامه داد، لبخندزنان، خرسند از این‌که مأمور چهارگانه است.\n\n* * *",
+    "summary_fa": "بلیز لبخندزنان به‌عنوان مأمور پنج‌گانه می‌رود، لحظه‌ای دچار گیجی می‌شود و به‌عنوان مأمور چهارگانه ادامه می‌دهد."
+  },
+  {
+    "id": 25,
+    "paras": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "verbatim_html": [
+      "<em>Aftermath: Hermione Granger.</em>",
+      "The messenger didn't approach her until she was alone.",
+      "Hermione was just leaving the girl's bathroom where she sometimes hid to think, and a bright shining cat leaped out of nowhere and said, \"Miss Granger?\"",
+      "She let out a little shriek before she realized the cat had spoken in Professor McGonagall's voice."
+    ],
+    "summary_en": "In Hermione's aftermath, a shining cat speaks to her alone outside the girls' bathroom in Professor McGonagall's voice, startling her into a little shriek.",
+    "translation_fa": "پیامد: هرماینی گرینجر.\n\nقاصد تا وقتی تنها بود به او نزدیک نشد.\n\nهرماینی تازه دستشویی دخترانه را ترک می‌کرد که گاهی آنجا پنهان می‌شد تا فکر کند و گربه‌ی درخشان روشنی از ناکجا بیرون پرید و گفت: «دوشیزه گرینجر؟»\n\nجیغ کوچکی کشید پیش از آن‌که بفهمد گربه با صدای پروفسور مک‌گونگال حرف زده است.",
+    "summary_fa": "هرماینی تنها بیرون دستشویی با گربه‌ای درخشان روبه‌رو می‌شود که با صدای پروفسور مک‌گونگال حرف می‌زند و او را می‌ترساند."
+  },
+  {
+    "id": 26,
+    "paras": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "verbatim_html": [
+      "Even so she hadn't been frightened, only startled; the cat was bright and brilliant and beautiful, glowing with a white silver radiance like moon-colored sunlight, and she couldn't imagine being scared.",
+      "\"What are you?\" said Hermione.",
+      "\"This is a message from Professor McGonagall,\" said the cat, still in the Professor's voice. \"Can you come to my office, and not speak of this to anyone?\"",
+      "\"I'll be there right away,\" said Hermione, still surprised, and the cat leaped and vanished; only it didn't vanish, it traveled away somehow; or that was what her mind said, even though her eyes just saw it disappear."
+    ],
+    "summary_en": "Unafraid of the beautiful silver-glowing cat, Hermione learns it carries a secret summons to McGonagall's office and agrees to come at once as the cat vanishes.",
+    "translation_fa": "با این حال نترسیده بود، فقط جا خورده بود؛ گربه روشن و درخشان و زیبا بود، با درخشش سفید نقره‌ای مثل نور خورشید مهتاب‌رنگ می‌درخشید و نمی‌توانست تصور کند که بترسد.\n\nهرماینی گفت: «تو چی هستی؟»\n\nگربه گفت، همچنان با صدای استاد: «این پیامی از پروفسور مک‌گونگال است. می‌توانی به دفتر من بیایی و از این با کسی حرف نزنی؟»\n\nهرماینی گفت، همچنان شگفت‌زده: «فوراً آنجا خواهم بود،» و گربه پرید و ناپدید شد؛ فقط ناپدید نشد، به نحوی سفر کرد؛ یا ذهنش این را می‌گفت، هرچند چشم‌هایش فقط دید که ناپدید شد.",
+    "summary_fa": "هرماینی که از گربه‌ی زیبای نقره‌ای‌فام نمی‌ترسد، می‌فهمد حامل احضار محرمانه به دفتر مک‌گونگال است و می‌پذیرد فوراً برود."
+  },
+  {
+    "id": 27,
+    "paras": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "verbatim_html": [
+      "By the time Hermione had got to the office of her favorite professor, her mind was all a-whirl with speculations. Was there something wrong with her Transfiguration scores? But then why would Professor McGonagall say not to tell anyone? It was probably about Harry practicing his partial Transfiguration...",
+      "Professor McGonagall's face looked worried, not stern, as Hermione seated herself in front of the desk - trying to keep her eyes from going to the nest of cubbyholes containing Professor McGonagall's homework, she'd always wondered what sort of work grownups had to do to keep the school running and whether they could use any help from her...",
+      "\"Miss Granger,\" said Professor McGonagall, \"let me start by saying that I already know about the Headmaster asking you to make that wish -\"",
+      "\"He <em>told</em> you?\" blurted Hermione in startlement. The Headmaster had said no one else was supposed to know!"
+    ],
+    "summary_en": "Hermione speculates anxiously on the way to McGonagall's office, and McGonagall opens by revealing she already knows about the Headmaster asking Hermione to make that wish — to Hermione's shock.",
+    "translation_fa": "تا وقتی هرماینی به دفتر استاد محبوبش رسید، ذهنش پر از گمانه‌زنی‌ها بود. آیا مشکلی در نمره‌های تغییرشکلش بود؟ ولی پس چرا پروفسور مک‌گونگال باید بگوید به کسی نگوید؟ احتمالاً درباره‌ی تمرین تغییرشکل جزئی هری بود...\n\nچهره‌ی پروفسور مک‌گونگال وقتی هرماینی جلوی میز نشست نگران به نظر می‌رسید، نه جدی... سعی کرده چشم‌هایش را از لانه‌ی قفسه‌های حاوی تکالیف پروفسور مک‌گونگال دور نگه دارد، همیشه تعجب می‌کرد بزرگسالان برای اداره‌ی مدرسه چه کاری باید بکنند و آیا می‌توانند از کمک او استفاده کنند...\n\nپروفسور مک‌گونگال گفت: «دوشیزه گرینجر، بگذارید با گفتن این شروع کنم که از پیش درباره‌ی این‌که مدیر مدرسه از شما خواست آن آرزو را بکنید می‌دانم...»\n\nهرماینی از سر شگفتی بی‌اختیار گفت: «او به شما گفت؟» مدیر مدرسه گفته بود هیچ‌کس دیگری قرار نیست بداند!",
+    "summary_fa": "هرماینی در راه دفتر مک‌گونگال نگران حدس می‌زند و مک‌گونگال با افشای این‌که از آرزوی درخواستی مدیر خبر دارد شروع می‌کند — که هرماینی را شگفت‌زده می‌کند."
+  },
+  {
+    "id": 28,
+    "paras": [
+      106,
+      107,
+      108,
+      109
+    ],
+    "verbatim_html": [
+      "Professor McGonagall paused, looked at Hermione, and gave a sad little chuckle. \"It's good to see Mr. Potter hasn't corrupted you too much. Miss Granger, you aren't supposed to <em>admit</em> anything just because I say I know. As it happens, the Headmaster did <em>not</em> tell me, I simply know him too well.\"",
+      "Hermione was blushing furiously now.",
+      "\"It's fine, Miss Granger!\" said Professor McGonagall hastily. \"You're a Ravenclaw in your first year, nobody expects you to be a Slytherin.\"",
+      "That <em>really</em> stung."
+    ],
+    "summary_en": "McGonagall gently scolds Hermione for admitting things so easily, blames no Slytherin cunning in a first-year Ravenclaw, and Hermione is both blushing and stung.",
+    "translation_fa": "پروفسور مک‌گونگال مکث کرد، به هرماینی نگاه کرد و خنده‌ی کوچک غمگینی کرد. «خوب است که ببینم آقای پاتر شما را خیلی فاسد نکرده. دوشیزه گرینجر، قرار نیست فقط چون من می‌گویم می‌دانم چیزی را اعتراف کنید. به هر حال، مدیر مدرسه به من نگفت، من فقط او را خیلی خوب می‌شناسم.»\n\nهرماینی حالا به‌شدت سرخ شده بود.\n\nپروفسور مک‌گونگال با عجله گفت: «اشکالی ندارد، دوشیزه گرینجر!» «شما ریونکلویی سال‌اولی هستید، هیچ‌کس انتظار ندارد اسلیترینی باشید.»\n\nاین واقعاً سوزاند.",
+    "summary_fa": "مک‌گونگال با مهربانی هرماینی را سرزنش می‌کند که به‌آسانی اعتراف کرده و می‌گوید از ریونکلویی سال‌اولی زیرکی اسلیترینی انتظار نمی‌رود و هرماینی هم سرخ می‌شود هم دلش می‌سوزد."
+  },
+  {
+    "id": 29,
+    "paras": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "verbatim_html": [
+      "\"Fine,\" said Hermione with some acerbity, \"I'll go ask Harry Potter for Slytherin lessons, then.\"",
+      "\"That <em>wasn't</em> what I wanted to...\" said Professor McGonagall, and her voice trailed off. \"Miss Granger, I'm worried about this <em>because</em> young Ravenclaw girls shouldn't have to be Slytherins! If the Headmaster asks you to get involved in something you're not comfortable with, Miss Granger, it really is all right to say no. And if you're feeling pressured, please tell the Headmaster that you would like me to be there, or that you would like to ask me first.\"",
+      "Hermione's eyes were very wide. \"Does the Headmaster do things that are wrong?\"",
+      "Professor McGonagall looked a little sad at that. \"Not on purpose, Miss Granger, but I think... well, it probably <em>is</em> true that sometimes the Headmaster has trouble remembering what it's like to be a child. Even when he was a child, I'm sure he must have been brilliant, and strong of mind and heart, with courage enough for three Gryffindors. Sometimes the Headmaster asks too much of his young students, Miss Granger, or isn't careful enough not to hurt them. He is a good man, but sometimes his plotting can go too far.\""
+    ],
+    "summary_en": "Hermione tartly offers to take Slytherin lessons from Harry, and McGonagall explains young Ravenclaw girls shouldn't have to be Slytherins — the Headmaster is good but sometimes asks too much and plots too far.",
+    "translation_fa": "هرماینی با کمی تندی گفت: «بسیار خب، پس می‌روم از هری پاتر درس اسلیترینی می‌گیرم.»\n\nپروفسور مک‌گونگال گفت: «منظورم این نبود که...» و صدایش محو شد. «دوشیزه گرینجر، من نگران این هستم چون دخترهای جوان ریونکلویی نباید مجبور باشند اسلیترینی باشند! اگر مدیر مدرسه از شما بخواهد در چیزی که با آن راحت نیستید دخالت کنید، دوشیزه گرینجر، واقعاً اشکالی ندارد که نه بگویید. و اگر احساس فشار کردید، لطفاً به مدیر مدرسه بگویید که دوست دارید من آنجا باشم یا دوست دارید اول از من بپرسید.»\n\nچشم‌های هرماینی بسیار گشاد بود. «آیا مدیر مدرسه کارهایی می‌کند که اشتباه است؟»\n\nپروفسور مک‌گونگال با کمی اندوه به آن نگاه کرد. «عمداً نه، دوشیزه گرینجر، ولی فکر می‌کنم... خب، احتمالاً درست است که گاهی مدیر مدرسه در به یاد آوردن این‌که بچه بودن چه حسی دارد مشکل دارد. حتی وقتی خودش بچه بود، مطمئنم که باید درخشان بوده، و قوی در ذهن و قلب، با شهامتی به‌اندازه‌ی سه گریفیندور. گاهی مدیر مدرسه بیش از حد از دانش‌آموزان جوانش می‌خواهد، دوشیزه گرینجر، یا به‌اندازه‌ی کافی مراقب نیست که به آن‌ها آسیب نزند. او مرد خوبی است، ولی گاهی نقشه‌هایش می‌تواند از حد بگذرد.»",
+    "summary_fa": "هرماینی با تندی پیشنهاد می‌کند از هری درس اسلیترینی بگیرد و مک‌گونگال توضیح می‌دهد دخترهای جوان ریونکلویی نباید مجبور به اسلیترینی بودن باشند — مدیر مرد خوبی است ولی گاهی بیش از حد می‌خواهد و نقشه‌هایش از حد می‌گذرد."
+  },
+  {
+    "id": 30,
+    "paras": [
+      114,
+      115,
+      116,
+      117
+    ],
+    "verbatim_html": [
+      "\"But it's <em>good</em> for students to be strong and have courage,\" said Hermione. \"That's why you suggested Gryffindor for me, wasn't it?\"",
+      "Professor McGonagall smiled wryly. \"Perhaps I was only being selfish, wanting you for my own House. Did the Sorting Hat offer you - no, I should not have asked.\"",
+      "\"It told me I might go anywhere but Slytherin,\" said Hermione. She'd <em>almost</em> asked why she wasn't good enough for Slytherin, before she'd managed to stop herself... \"So I <em>have</em> courage, Professor!\"",
+      "Professor McGonagall leaned forward over her desk. The worry was showing plainer on her face now. \"Miss Granger, it's not about courage, it's about what's healthy for young girls! The Headmaster is drawing you into his plots, Harry Potter is giving you his secrets to keep, and now you're making alliances with Draco Malfoy! And I promised your mother that you would be safe at Hogwarts!\""
+    ],
+    "summary_en": "Hermione defends courage and her Sorting, and McGonagall leans in worried: it is about what is healthy, with the Headmaster's plots, Harry's secrets, and an alliance with Malfoy endangering the safety she promised Hermione's mother.",
+    "translation_fa": "هرماینی گفت: «ولی خوب است که دانش‌آموزان قوی باشند و شجاعت داشته باشند. به همین خاطر به من گریفیندور را پیشنهاد کردید، مگر نه؟»\n\nپروفسور مک‌گونگال با لبخند کجی لبخند زد. «شاید فقط خودخواه بودم، که شما را برای گروه خودم می‌خواستم. آیا کلاه گروه‌بندی به شما پیشنهاد داد... نه، نباید می‌پرسیدم.»\n\nهرماینی گفت: «به من گفت شاید به هرجا بروم جز اسلیترین.» نزدیک بود بپرسد چرا به‌اندازه‌ی کافی برای اسلیترین خوب نیست، پیش از آن‌که توانسته باشد جلوی خودش را بگیرد... «پس من شجاعت دارم، استاد!»\n\nپروفسور مک‌گونگال روی میزش به جلو خم شد. نگرانی حالا آشکارتر بر چهره‌اش بود. «دوشیزه گرینجر، مسئله شجاعت نیست، مسئله‌ی چیزی است که برای دخترهای جوان سالم است! مدیر مدرسه شما را به نقشه‌هایش می‌کشاند، هری پاتر رازهایش را به شما می‌سپارد که نگه دارید و حالا با دراکو مالفوی اتحاد می‌بندید! و من به مادرتان قول دادم که در هاگوارتز در امان خواهید بود!»",
+    "summary_fa": "هرماینی از شجاعت و گروه‌بندی‌اش دفاع می‌کند و مک‌گونگال نگران به جلو خم می‌شود: مسئله سلامت است، با نقشه‌های مدیر، رازهای هری و اتحاد با مالفوی که امنیتی را که به مادر هرماینی وعده داده به خطر می‌اندازد."
+  },
+  {
+    "id": 31,
+    "paras": [
+      118,
+      119,
+      120
+    ],
+    "verbatim_html": [
+      "Hermione just didn't know what to say to that. But the thought was occurring to her that Professor McGonagall might not have been warning her if she'd been a boy in Gryffindor instead of a girl in Ravenclaw and <em>that</em> was, well... \"I'll try to be good,\" she said, \"and I won't let anyone tell me otherwise.\"",
+      "Professor McGonagall pressed her hands over her eyes. When she took them away, her lined face looked very old. \"Yes,\" she said in a whisper, \"you would have done well in my House. Stay safe, Miss Granger, and be careful. And if you are ever worried or uncomfortable about anything, please come to me at once. I won't keep you any longer.\"",
+      "* * *"
+    ],
+    "summary_en": "Hermione wonders if a Gryffindor boy would get the same warning, promises to be good, and McGonagall, looking suddenly old, bids her stay safe and come to her with any worry.",
+    "translation_fa": "هرماینی فقط نمی‌دانست به آن چه بگوید. ولی این فکر به ذهنش می‌رسید که شاید پروفسور مک‌گونگال هشدارش نمی‌داد اگر به‌جای دختری در ریونکلویی پسری در گریفیندور بود و آن، خب... گفت: «سعی می‌کنم خوب باشم و نمی‌گذارم کسی جز این به من بگوید.»\n\nپروفسور مک‌گونگال دست‌هایش را روی چشم‌هایش فشرد. وقتی آن‌ها را برداشت، چهره‌ی خط‌دارش بسیار پیر به نظر می‌رسید. با زمزمه گفت: «بله، در گروه من خوب عمل می‌کردید. در امان بمانید، دوشیزه گرینجر، و مراقب باشید. و اگر هر وقت نگران یا ناراحت درباره‌ی چیزی بودید، لطفاً فوراً پیش من بیایید. بیشتر نگهتان نمی‌دارم.»\n\n* * *",
+    "summary_fa": "هرماینی می‌اندیشد آیا پسری گریفیندوری هم همین هشدار را می‌گرفت، قول می‌دهد خوب باشد و مک‌گونگال که ناگهان پیر به نظر می‌رسد از او می‌خواهد در امان بماند و با هر نگرانی پیش او بیاید."
+  },
+  {
+    "id": 32,
+    "paras": [
+      121,
+      122,
+      123,
+      124
+    ],
+    "verbatim_html": [
+      "<em>Aftermath, Draco Malfoy:</em>",
+      "Neither of them really wanted to do anything complicated that Saturday, not after fighting a battle earlier. So Draco was just sitting in an unused classroom and trying to read a book called <em>Thinking Physics.</em> It was one of the most fascinating things that Draco had ever read in his life, at least the parts he could understand, at least when the <em>accursed idiot</em> who refused to let his books out of his sight could manage to <em>shut up</em> and let Draco <em>concentrate</em> -",
+      "\"Hermione Granger is a <em>muuudbloood,</em>\" sang Harry Potter from where he sat at a nearby desk, reading a far more advanced book of his own.",
+      "\"I know what you're trying to do,\" said Draco calmly without looking up from the pages. \"It's not going to work. We're still ganging up and crushing you.\""
+    ],
+    "summary_en": "In Draco's aftermath, the two boys lazily read physics books in an empty classroom while Harry sings 'mudblood' taunts and Draco calmly insists their alliance against him holds.",
+    "translation_fa": "پیامد، دراکو مالفوی:\n\nهیچ‌کدامشان واقعاً نمی‌خواستند آن شنبه کار پیچیده‌ای بکنند، نه پس از آن‌که صبح نبردی جنگیده بودند. پس دراکو فقط در کلاس خالی نشسته بود و سعی می‌کرد کتابی به نام «تفکر فیزیکی» بخواند. یکی از جذاب‌ترین چیزهایی بود که دراکو در زندگی‌اش خوانده بود، دست‌کم بخش‌هایی که می‌توانست بفهمد، دست‌کم وقتی که احمق ملعونی که حاضر نبود کتاب‌هایش را از جلوی چشمش دور بگذارد می‌توانست خفه شود و بگذارد دراکو تمرکز کند...\n\nهری پاتر از جایی که پشت میز نزدیکی نشسته بود، کتاب بسیار پیشرفته‌تری از خودش می‌خواند، آواز خواند: «هرماینی گرینجر یک گل‌ولای است.»\n\nدراکو بدون آن‌که از صفحه‌ها چشم بردارد با آرامش گفت: «می‌دانم چه کار می‌خواهی بکنی. جواب نمی‌دهد. ما همچنان داریم جمع می‌شویم و تو را له می‌کنیم.»",
+    "summary_fa": "دراکو و هری تنبلانه در کلاسی خالی کتاب فیزیک می‌خوانند در حالی که هری طعنه‌ی گل‌ولای را آواز می‌خواند و دراکو با آرامش اصرار دارد اتحادشان علیه او پابرجاست."
+  },
+  {
+    "id": 33,
+    "paras": [
+      125,
+      126,
+      127,
+      128
+    ],
+    "verbatim_html": [
+      "\"A <em>Maaaalfoy</em> is working with a <em>muuudbloood,</em> what will all your father's <em>frieeeends</em> think -\"",
+      "\"They'll think Malfoys aren't as easily manipulated as <em>you</em> seem to believe, <em>Potter!</em> \"",
+      "The Defense Professor was crazier than Dumbledore, no future saviour of the world could ever be this <em>childish</em> and <em>undignified</em> at any age.",
+      "\"Hey, Draco, you know what's really going to suck? <em>You</em> know that Hermione Granger has two copies of the magical allele, just like you and just like me, but all your classmates in Slytherin don't know that and <em>yooouuu're</em> not allowed to <em>explaaaaain</em> -\""
+    ],
+    "summary_en": "Harry keeps needling Draco about pureblood opinion and the secret that Hermione carries two copies of the magical allele, which Draco is forbidden to explain to his housemates.",
+    "translation_fa": "«یک مالفوی با یک گل‌ولای کار می‌کند، همه‌ی دوستان پدرت چی فکر می‌کنند...»\n\n«فکر می‌کنند مالفوی‌ها به‌آسانی که تو باور داری، پاتر، دستکاری نمی‌شوند!»\n\nاستاد دفاع از دامبلدور دیوانه‌تر بود، هیچ ناجی آینده‌ی دنیا نمی‌توانست در هیچ سنی این‌قدر بچگانه و بی‌وقار باشد.\n\n«هی، دراکو، می‌دانی واقعاً چه چیزی افتضاح خواهد بود؟ تو می‌دانی که هرماینی گرینجر دو نسخه از آلل جادویی دارد، درست مثل تو و درست مثل من، ولی همه‌ی همکلاسی‌هایت در اسلیترین این را نمی‌دانند و تو اجازه نداری توضیح بدهی...»",
+    "summary_fa": "هری دراکو را درباره‌ی نظر اصیل‌زادان و رازی که هرماینی دو نسخه از آلل جادویی دارد و دراکو اجازه ندارد برای هم‌خانه‌ای‌هایش توضیح دهد، همچنان می‌گزد."
+  },
+  {
+    "id": 34,
+    "paras": [
+      129,
+      130,
+      131,
+      132
+    ],
+    "verbatim_html": [
+      "Draco's fingers were whitening where they gripped the book. Being beaten and spat upon couldn't possibly require this much self-control, and if he didn't get back at Harry soon, he was going to do something incriminating -",
+      "\"So what <em>did</em> you wish the first time?\" said Draco.",
+      "Harry didn't say anything, so Draco looked up from his book, and felt a twinge of malicious satisfaction at the sad look on Harry's face.",
+      "\"Um,\" Harry said. \"A lot of people asked me that, but I don't think Professor Quirrell would have wanted me to talk about it.\""
+    ],
+    "summary_en": "Draco grips his book white-knuckled, deflects Harry's bait by asking what Harry's first wish was, and Harry evasively says Quirrell wouldn't want him to talk about it.",
+    "translation_fa": "انگشت‌های دراکو آنجا که کتاب را گرفته بود سفید می‌شد. کتک خوردن و تف شدن نمی‌توانست این‌قدر خویشتن‌داری بخواهد و اگر به‌زودی به هری ضربه نزند، کار افشاکننده‌ای خواهد کرد...\n\nدراکو گفت: «پس بار اول واقعاً چی آرزو کردی؟»\n\nهری چیزی نگفت، پس دراکو از کتابش چشم برداشت و از نگاه غمگین چهره‌ی هری رضایت بدجنسانه‌ای حس کرد.\n\nهری گفت: «آه.» «خیلی‌ها این را از من پرسیدند، ولی فکر نمی‌کنم پروفسور کویرل می‌خواست که درباره‌اش حرف بزنم.»",
+    "summary_fa": "دراکو کتاب را با مشت سفیدشده گرفته، با پرسیدن آرزوی اول هری طعمه را برمی‌گرداند و هری طفره می‌رود که کویرل نمی‌خواست درباره‌اش حرف بزند."
+  },
+  {
+    "id": 35,
+    "paras": [
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "verbatim_html": [
+      "Draco put a serious look on his own face. \"You can talk about it with <em>me</em>. It's probably not important compared to the other secrets you've told me, and what else are friends for?\" <em>That's right, I'm your friend! Feel guilty!</em>",
+      "\"It wasn't really all that interesting,\" Harry said with obviously artificial lightness. \"Just, <em>I wish Professor Quirrell would teach Battle Magic again next year.</em>\"",
+      "Harry sighed, and looked back down at his book.",
+      "And said, after another few seconds, \"Your father's probably going to be pretty upset with you this Christmas, but if you promise him that you'll betray the mudblood girl and wipe out her army, everything will go back to being all right, and you'll still get your Christmas presents.\"",
+      "Maybe if he and Granger asked Professor Quirrell extra politely and used some of their Quirrell points, the two of them would be allowed to do something more interesting to General Chaos than putting him to sleep."
+    ],
+    "summary_en": "Draco plays the guilt-tripping friend to extract the wish, Harry claims he merely wished Quirrell would teach Battle Magic again, needles Draco about betraying Hermione for his father's forgiveness, and muses about spending Quirrell points on General Chaos.",
+    "translation_fa": "دراکو با قیافه‌ای جدی به چهره‌اش داد. «می‌توانی درباره‌اش با من حرف بزنی. احتمالاً در مقایسه با رازهای دیگری که به من گفته‌ای مهم نیست و دوستان برای چه‌اند؟» درست است، من دوست تو هستم! احساس گناه کن!\n\nهری با سبکی آشکارا تصنعی گفت: «واقعاً خیلی جالب نبود.» «فقط، کاش پروفسور کویرل سال بعد دوباره نبرد جادویی درس بدهد.»\n\nهری آه کشید و به کتابش نگاه کرد.\n\nو پس از چند ثانیه‌ی دیگر گفت: «پدرت احتمالاً این کریسمس خیلی از دستت ناراحت خواهد بود، ولی اگر به او قول بدهی که به دختر گل‌ولای خیانت می‌کنی و هنگش را نابود می‌کنی، همه‌چیز به حالت عادی برمی‌گردد و باز هم هدیه‌های کریسمست را می‌گیری.»\n\nشاید اگر او و گرینجر خیلی مؤدبانه از پروفسور کویرل می‌خواستند و از امتیازهای کویرلشان استفاده می‌کردند، به آن دو اجازه داده می‌شد با ژنرال آشوب کار جالب‌تری از خواباندنش بکنند.",
+    "summary_fa": "دراکو نقش دوست احساس گناه‌دهنده را بازی می‌کند تا آرزو را بیرون بکشد، هری ادعا می‌کند فقط آرزو کرده کویرل دوباره نبرد جادویی درس بدهد، دراکو را درباره‌ی خیانت به هرماینی برای بخشش پدرش می‌گزد و به خرج کردن امتیازهای کویرل برای ژنرال آشوب می‌اندیشد."
+  }
+]
