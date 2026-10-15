@@ -1,0 +1,666 @@
+[
+ {
+  "id": 1,
+  "paras": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "verbatim_html": [
+   "Fawkes's song gently trailed off into nothing.",
+   "Harry sat up from where he had lain on the winter-blasted grass, Fawkes still perched on his shoulder.",
+   "There were intakes of breath from all around him.",
+   "\"Harry,\" said Seamus in a wavering voice, \"are you all right?\""
+  ],
+  "summary_en": "Fawkes's song fades away; Harry sits up on the grass with Fawkes on his shoulder while the onlookers gasp and Seamus asks if he is all right.",
+  "translation_fa": "آواز فاوکس به‌آرامی محو شد و به هیچ پیوست.\n\nهری از روی علف‌های زمستان‌زده که رویشان افتاده بود نشست، در حالی که فاوکس هنوز روی شانه‌اش نشسته بود.\n\nاز همه‌سو صدای نفس‌های حبس‌شده به گوش رسید.\n\n«هری،» شیمس با صدایی لرزان گفت، «خوبی؟»",
+  "summary_fa": "آواز فاوکس محو می‌شود؛ هری روی چمن می‌نشیند در حالی که فاوکس روی شانه‌اش است، تماشاگران نفسشان را حبس می‌کنند و شیمس می‌پرسد حالش خوب است یا نه."
+ },
+ {
+  "id": 2,
+  "paras": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "verbatim_html": [
+   "The peace of the phoenix was still in him, and warmth, from where Fawkes perched. Warmth, spreading out through him, and the memory of the song, still alive in the phoenix's presence. There were terrible things that had happened to him, terrible thoughts that had passed through him. He had regained an impossible memory, for all that the Dementor had made him desecrate it. A strange word kept echoing in his mind. And all of that could be put on hold for later, while the phoenix still shone red and gold beneath the setting sun.",
+   "Fawkes cawed at him.",
+   "\"Something I have to do?\" Harry said to Fawkes. \"What?\"",
+   "Fawkes bobbed its head in the direction of the Dementor."
+  ],
+  "summary_en": "Harry rests in the phoenix's lingering peace and warmth, postponing terrible memories; Fawkes caws and gestures toward the Dementor when Harry asks what he must do.",
+  "translation_fa": "آرامش ققنوس هنوز در وجودش بود، و گرما، از جایی که فاوکس نشسته بود. گرما که در سراسر تنش پخش می‌شد، و خاطره‌ی آواز که هنوز در حضور ققنوس زنده بود. اتفاق‌های وحشتناکی برایش افتاده بود، افکار وحشتناکی از ذهنش گذشته بود. خاطره‌ای ناممکن را بازیافته بود، هرچند دمنتور وادارش کرده بود آن را بیالاید. واژه‌ای غریب مدام در ذهنش طنین می‌انداخت. و همه‌ی این‌ها را می‌شد برای بعد نگه داشت، تا وقتی که ققنوس هنوز زیر خورشید در حال غروب سرخ و طلایی می‌درخشید.\n\nفاوکس به او غارغار کرد.\n\n«کاری هست که باید بکنم؟» هری به فاوکس گفت. «چی؟»\n\nفاوکس سرش را به‌سوی دمنتور تکان داد.",
+  "summary_fa": "هری در آرامش و گرمای ماندگار ققنوس می‌آساید و خاطره‌های وحشتناک را به بعد موکول می‌کند؛ وقتی می‌پرسد چه باید بکند، فاوکس به‌سوی دمنتور اشاره می‌کند."
+ },
+ {
+  "id": 3,
+  "paras": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "verbatim_html": [
+   "Harry looked at the unseeable horror still in its cage, then back at the phoenix, puzzled.",
+   "\"Mr. Potter?\" said Minerva McGonagall's voice from behind him. \"<em>Are</em> you all right?\"",
+   "Harry climbed to his feet and turned.",
+   "Minerva McGonagall was looking at him, looking very worried; Albus Dumbledore beside her was studying him carefully; Filius Flitwick appeared tremendously relieved; and all the students were just plain staring."
+  ],
+  "summary_en": "Puzzled, Harry looks between the caged Dementor and the phoenix; McGonagall anxiously calls to him, he stands and turns, and the teachers and students stare at him.",
+  "translation_fa": "هری به وحشت نادیدنیِ هنوز در قفس نگاه کرد، بعد متحیر به ققنوس برگشت.\n\n«آقای پاتر؟» صدای مینروا مک‌گونگال از پشت سرش گفت. «واقعاً خوبی؟»\n\nهری برخاست و چرخید.\n\nمینروا مک‌گونگال به او نگاه می‌کرد، بسیار نگران؛ آلبوس دامبلدور در کنارش او را با دقت می‌پایید؛ فیلیوس فلیت‌ویک به‌شدت آسوده به نظر می‌رسید؛ و همه‌ی دانش‌آموزان فقط خیره مانده بودند.",
+  "summary_fa": "هری متحیر میان دمنتور در قفس و ققنوس نگاه می‌کند؛ مک‌گونگال با نگرانی او را صدا می‌زند، هری می‌ایستد و می‌چرخد، و معلم‌ها و دانش‌آموزان به او خیره می‌شوند."
+ },
+ {
+  "id": 4,
+  "paras": [
+   13,
+   14,
+   15,
+   16
+  ],
+  "verbatim_html": [
+   "\"I think so, Professor McGonagall,\" Harry said calmly. He'd almost said <em>Minerva</em> before managing to stop himself. While Fawkes was on his shoulder, at least, Harry was fine; it might be that he would collapse a moment after Fawkes left, but somehow thoughts like that didn't seem important. \"I think I'm okay.\"",
+   "There ought to have been cheering, or sighs of relief, or something, but no one seemed to know what to say, no one at all.",
+   "The peace of the phoenix lingered.",
+   "Harry turned back. \"Hermione?\" he said."
+  ],
+  "summary_en": "Harry calmly reassures McGonagall while Fawkes steadies him; an awkward silence falls, the phoenix's peace lingers, and Harry turns back to call for Hermione.",
+  "translation_fa": "«فکر کنم خوبم، پروفسور مک‌گونگال،» هری آرام گفت. نزدیک بود بگوید مینروا که جلوی خودش را گرفت. دست‌کم تا وقتی فاوکس روی شانه‌اش بود، هری خوب بود؛ شاید لحظه‌ای بعد از رفتن فاوکس از پا می‌افتاد، اما به‌نحوی چنین فکرهایی مهم به نظر نمی‌رسید. «فکر کنم حالم خوبه.»\n\nباید تشویق می‌شد، یا نفس راحتی کشیده می‌شد، یا چیزی، اما هیچ‌کس انگار نمی‌دانست چه بگوید، هیچ‌کس.\n\nآرامش ققنوس ماندگار بود.\n\nهری برگشت. «هرمیون؟» گفت.",
+  "summary_fa": "هری در حالی که فاوکس نگهش داشته با آرامش به مک‌گونگال اطمینان می‌دهد؛ سکوتی معذب می‌افتد، آرامش ققنوس می‌ماند، و هری برمی‌گردد و هرمیون را صدا می‌زند."
+ },
+ {
+  "id": 5,
+  "paras": [
+   17,
+   18,
+   19,
+   20
+  ],
+  "verbatim_html": [
+   "Everyone with the tiniest smidgin of romance in their hearts held their breath.",
+   "\"I don't really know how to say thank you graciously,\" Harry said quietly, \"any more than I know how to apologize. All I can say that if you're wondering whether it was the right thing to do, it was.\"",
+   "The boy and the girl gazed into each other's eyes.",
+   "\"Sorry,\" Harry said. \"About what happens next. If there's anything I can do -\""
+  ],
+  "summary_en": "Romantic onlookers hold their breath as Harry quietly thanks Hermione, saying she did the right thing; they gaze at each other, and Harry apologizes for what comes next.",
+  "translation_fa": "هرکس ذره‌ای حس عاشقانه در دلش داشت نفسش را حبس کرد.\n\n«واقعاً نمی‌دانم چطور مؤدبانه تشکر کنم،» هری آرام گفت، «همان‌طور که نمی‌دانم چطور عذرخواهی کنم. تنها چیزی که می‌توانم بگویم این است که اگر می‌پرسی کار درستی بود یا نه، بود.»\n\nپسر و دختر به چشم‌های هم خیره شدند.\n\n«ببخشید،» هری گفت. «برای چیزی که بعد اتفاق می‌افتد. اگر کاری از دستم بربیاید —»",
+  "summary_fa": "تماشاگران عاشق‌پیشه نفسشان را حبس می‌کنند وقتی هری آرام از هرمیون تشکر می‌کند و می‌گوید کار درستی کرده است؛ آن‌ها به هم نگاه می‌کنند و هری برای آنچه بعد می‌آید عذر می‌خواهد."
+ },
+ {
+  "id": 6,
+  "paras": [
+   21,
+   22,
+   23,
+   24
+  ],
+  "verbatim_html": [
+   "\"No,\" Hermione said back. \"There isn't. It's all right, though.\" Then she turned from Harry and walked away, toward the path that led back to the gates of Hogwarts.",
+   "A number of girls gave Harry puzzled looks, and then followed her. As they went, you could hear the excited questions starting.",
+   "Harry looked at them as they left, turned back to look at the other students. They'd seen him on the ground, screaming, and...",
+   "Fawkes nuzzled his cheek, briefly."
+  ],
+  "summary_en": "Hermione says nothing can be done but it is all right, then walks away toward Hogwarts as girls follow her with excited questions; Harry watches them leave, and Fawkes nuzzles his cheek.",
+  "translation_fa": "«نه،» هرمیون جواب داد. «برنمی‌آید. ولی اشکالی ندارد.» بعد از هری رو برگرداند و رفت، به‌سوی راهی که به دروازه‌های هاگوارتز برمی‌گشت.\n\nچند دختر با نگاهی متحیر به هری نگاه کردند و بعد دنبال او رفتند. همان‌طور که می‌رفتند، می‌شد شروع سؤال‌های هیجان‌زده را شنید.\n\nهری به رفتنشان نگاه کرد، بعد برگشت و به دانش‌آموزان دیگر نگاه کرد. او را روی زمین دیده بودند، جیغ‌کشان، و...\n\nفاوکس لحظه‌ای گونه‌اش را نوازش کرد.",
+  "summary_fa": "هرمیون می‌گوید کاری نمی‌شود کرد ولی اشکالی ندارد، بعد به‌سوی هاگوارتز می‌رود در حالی که دخترها با سؤال‌های هیجان‌زده دنبالش می‌روند؛ هری رفتنشان را تماشا می‌کند و فاوکس گونه‌اش را نوازش می‌کند."
+ },
+ {
+  "id": 7,
+  "paras": [
+   25,
+   26,
+   27,
+   28
+  ],
+  "verbatim_html": [
+   "...and that would help them, someday, understanding that the Boy-Who-Lived could also be hurt, could be wretched. So that when they were hurt and wretched themselves, they would remember seeing Harry writhing on the ground, and know that their own pain and troubles didn't mean they'd never amount to anything. Had the Headmaster calculated that, when he had let the other students stay and watch?",
+   "Harry's eyes went back to the tall tattered cloak, almost absentmindedly, and without really being aware of what he was speaking, Harry said, \"It shouldn't ought to exist.\"",
+   "\"Ah,\" said a dry, precise voice. \"I thought you might say that. I am very sorry to tell you, Mr. Potter, that Dementors cannot be killed. Many have tried.\"",
+   "\"Really?\" Harry said, still absentmindedly. \"What did they try?\""
+  ],
+  "summary_en": "Harry reflects that seeing the Boy-Who-Lived suffer may someday comfort the others; staring at the Dementor, he murmurs it should not exist, Quirrell says Dementors cannot be killed, and Harry asks what was tried.",
+  "translation_fa": "...و این روزی به دردشان می‌خورد، از این‌که بفهمند پسرِ زنده‌مانده هم می‌تواند آسیب ببیند، می‌تواند بیچاره شود. تا وقتی خودشان آسیب دیدند و بیچاره شدند، هری را به یاد بیاورند که روی زمین به خود می‌پیچید، و بدانند که درد و گرفتاری خودشان به این معنا نیست که هرگز به جایی نمی‌رسند. آیا مدیر وقتی گذاشته بود دانش‌آموزان دیگر بمانند و تماشا کنند، این را حساب کرده بود؟\n\nچشم‌های هری تقریباً بی‌اختیار به شنل بلند پاره‌پاره برگشت، و بی‌آنکه واقعاً بداند چه می‌گوید، هری گفت: «نباید وجود داشته باشد.»\n\n«آه،» صدایی خشک و دقیق گفت. «فکرش را می‌کردم که چنین بگویی. خیلی متأسفم که باید بگویم، آقای پاتر، دمنتورها را نمی‌شود کشت. خیلی‌ها تلاش کرده‌اند.»\n\n«واقعاً؟» هری هنوز بی‌حواس گفت. «چه چیزی را امتحان کردند؟»",
+  "summary_fa": "هری فکر می‌کند دیدن رنج پسر زنده‌مانده روزی به بقیه دلداری می‌دهد؛ خیره به دمنتور زمزمه می‌کند که نباید وجود داشته باشد، کویرل می‌گوید دمنتورها کشته نمی‌شوند، و هری می‌پرسد چه چیزی امتحان شده است."
+ },
+ {
+  "id": 8,
+  "paras": [
+   29,
+   30,
+   31,
+   32
+  ],
+  "verbatim_html": [
+   "\"There is a certain extremely dangerous and destructive spell,\" Professor Quirrell said, \"which I will not name here; a spell of cursed fire. It is what you would use to destroy an ancient device such as the Sorting Hat. It has no effect on Dementors. They are undying.\"",
+   "\"They are not undying,\" said the Headmaster. The words mild, the gaze sharp. \"They do not possess eternal life. They are wounds in the world, and attacking a wound only makes it larger.\"",
+   "\"Hm,\" Harry said. \"Suppose you threw it into the Sun? Would it be destroyed?\"",
+   "\"<em>Throw</em> it into the <em>Sun?</em> \" squeaked Professor Flitwick, looking like he wanted to faint."
+  ],
+  "summary_en": "Quirrell says even cursed fire cannot harm Dementors; Dumbledore calls them wounds in the world that grow when attacked; Harry suggests the Sun, and Flitwick squeaks in horror.",
+  "translation_fa": "«طلسم بسیار خطرناک و ویرانگری هست،» پروفسور کویرل گفت، «که نامش را اینجا نمی‌برم؛ طلسمی از آتش نفرین‌شده. چیزی است که برای نابود کردن وسیله‌ای باستانی مثل کلاه گروه‌بندی به کار می‌بری. روی دمنتورها اثری ندارد. آن‌ها نامیرا هستند.»\n\n«نامیرا نیستند،» مدیر گفت. کلام ملایم، نگاه تیز. «زندگی ابدی ندارند. آن‌ها زخم‌هایی در جهان‌اند، و حمله به زخم فقط آن را بزرگ‌تر می‌کند.»\n\n«هوم،» هری گفت. «اگر پرتش کنی توی خورشید؟ نابود می‌شود؟»\n\n«پرتَش کنی توی خورشید؟» پروفسور فلیت‌ویک جیغ کشید، انگار می‌خواست غش کند.",
+  "summary_fa": "کویرل می‌گوید حتی آتش نفرین‌شده به دمنتورها آسیب نمی‌زند؛ دامبلدور آن‌ها را زخم‌هایی در جهان می‌خواند که با حمله بزرگ‌تر می‌شوند؛ هری خورشید را پیشنهاد می‌دهد و فلیت‌ویک از وحشت جیغ می‌کشد."
+ },
+ {
+  "id": 9,
+  "paras": [
+   33,
+   34,
+   35,
+   36
+  ],
+  "verbatim_html": [
+   "\"It seems unlikely, Mr. Potter,\" Professor Quirrell said dryly. \"The Sun is very large, after all; I doubt the Dementor would have much effect on it. But it is not a test I would like to try, Mr. Potter, just in case.\"",
+   "\"I see,\" Harry said.",
+   "Fawkes cawed a final time, mantled his wings around Harry's head, and then launched himself from Harry. Launched himself straight toward the Dementor, screaming a great piercing cry of defiance that echoed around the field. And before anyone could react to that, there was a flash of fire, and Fawkes was gone.",
+   "The peace faded, a little."
+  ],
+  "summary_en": "Quirrell dryly doubts the Sun test; Harry accepts it, and Fawkes shrieks defiance at the Dementor, mantles Harry's head, and vanishes in fire as the peace begins to fade.",
+  "translation_fa": "«بعید به نظر می‌رسد، آقای پاتر،» پروفسور کویرل خشک گفت. «خورشید بالاخره خیلی بزرگ است؛ شک دارم دمنتور اثر زیادی رویش بگذارد. ولی آزمایشی نیست که دلم بخواهد امتحانش کنم، آقای پاتر، فقط برای احتیاط.»\n\n«می‌فهمم،» هری گفت.\n\nفاوکس بار آخر غارغار کرد، بال‌هایش را دور سر هری کشید، و بعد خود را از هری به پرواز درآورد. مستقیم به‌سوی دمنتور پر کشید، فریاد بلند سرکشی سر داد که در سراسر زمین طنین انداخت. و پیش از آنکه کسی بتواند به آن واکنش نشان دهد، برق آتشی جهید، و فاوکس ناپدید شد.\n\nآرامش کمی محو شد.",
+  "summary_fa": "کویرل خشک و جدی در آزمایش خورشید تردید می‌کند؛ هری می‌پذیرد، و فاوکس با فریاد سرکشی به‌سوی دمنتور پر می‌کشد و در آتش ناپدید می‌شود، در حالی که آرامش کم‌کم محو می‌شود."
+ },
+ {
+  "id": 10,
+  "paras": [
+   37,
+   38,
+   39,
+   40
+  ],
+  "verbatim_html": [
+   "The warmth faded, a little.",
+   "Harry took in a deep breath, let it out again.",
+   "\"Yep,\" Harry said. \"Still alive.\"",
+   "Again that silence, again the absence of cheering; no one seemed to know how to respond -"
+  ],
+  "summary_en": "The warmth fades; Harry breathes deeply, confirms he is still alive, and an uncertain silence without cheering follows.",
+  "translation_fa": "گرما کمی محو شد.\n\nهری نفسی عمیق کشید، دوباره بیرون داد.\n\n«آره،» هری گفت. «هنوز زنده‌ام.»\n\nباز همان سکوت، باز نبود تشویق؛ هیچ‌کس انگار نمی‌دانست چطور واکنش نشان دهد —",
+  "summary_fa": "گرما محو می‌شود؛ هری عمیق نفس می‌کشد، تأیید می‌کند که هنوز زنده است، و سکوتی نامطمئن و بی‌تشویق برقرار می‌شود."
+ },
+ {
+  "id": 11,
+  "paras": [
+   41,
+   42,
+   43,
+   44
+  ],
+  "verbatim_html": [
+   "\"It is good to know you are fully recovered, Mr. Potter,\" Professor Quirrell said firmly, as though to deny any other possibility. \"Now, I believe Miss Ransom was up next?\"",
+   "That started a bit of an argument, in which Professor Quirrell was right and everyone else was wrong. The Defense Professor pointed out that, despite the understandable emotions of all concerned, the chance of a similar mishap occurring to any other student verged on the infinitesimal; the more so as they now knew to avoid mischances with wands. And meanwhile, there were other students who needed to take their own best chance at casting a corporeal Patronus Charm, or else learn the feeling of a Dementor so they could flee, and discover their own degree of vulnerability...",
+   "In the end it turned out that Dean Thomas and Ron Weasley of Gryffindor were the only ones left who were still willing to go anywhere near the Dementor, which simplified the argument.",
+   "Harry glanced in the Dementor's direction. The word echoed in his mind again."
+  ],
+  "summary_en": "Quirrell declares Harry recovered and moves on; after an argument Quirrell wins, only Dean and Ron still dare face the Dementor, and a word keeps echoing in Harry's mind as he glances at it.",
+  "translation_fa": "«خوب است که بدانم کاملاً بهبود یافته‌ای، آقای پاتر،» پروفسور کویرل محکم گفت، انگار بخواهد هر احتمال دیگری را انکار کند. «حالا، فکر کنم خانم رنسوم نفر بعد بود؟»\n\nاین شروع بحثی شد که در آن پروفسور کویرل حق داشت و بقیه اشتباه می‌کردند. استاد دفاع اشاره کرد که با وجود احساسات قابل‌درک همه، احتمال بدبیاری مشابهی برای هر دانش‌آموز دیگری به بی‌نهایت کوچک میل می‌کند؛ به‌ویژه که حالا می‌دانستند باید از بدشانسی با چوبدستی پرهیز کنند. و در همین حال، دانش‌آموزان دیگری بودند که به بهترین بخت خود برای اجرای پاترونوسی جسمانی نیاز داشتند، یا باید حس دمنتور را می‌آموختند تا بتوانند بگریزند، و درجه‌ی آسیب‌پذیری خود را کشف کنند...\n\nآخرش معلوم شد دین توماس و ران ویزلی از گریفیندور تنها کسانی بودند که هنوز حاضر بودند به دمنتور نزدیک شوند، و این بحث را ساده کرد.\n\nهری به‌سوی دمنتور نگاهی انداخت. واژه دوباره در ذهنش طنین انداخت.",
+  "summary_fa": "کویرل اعلام می‌کند هری بهبود یافته و ادامه می‌دهد؛ پس از بحثی که کویرل می‌برد، فقط دین و ران هنوز جرئت نزدیک شدن به دمنتور را دارند، و واژه‌ای مدام در ذهن هری طنین می‌اندازد."
+ },
+ {
+  "id": 12,
+  "paras": [
+   45,
+   46,
+   47,
+   48
+  ],
+  "verbatim_html": [
+   "<em>All right,</em> Harry thought to himself, <em>if the Dementor is a riddle, what is the answer?</em>",
+   "And just like that, it was obvious.",
+   "Harry looked at the tarnished, slightly corroded cage.",
+   "He saw what lay beneath the tall, tattered cloak."
+  ],
+  "summary_en": "Harry poses the Dementor as a riddle, and suddenly the answer is obvious as he stares at the cage and sees what lies beneath the cloak.",
+  "translation_fa": "«بسیار خب،» هری با خودش فکر کرد، «اگر دمنتور معماست، جواب چیست؟»\n\nو درست همان‌طور، آشکار شد.\n\nهری به قفس کدر و کمی زنگ‌زده نگاه کرد.\n\nدید که زیر شنل بلند و پاره‌پاره چه خوابیده است.",
+  "summary_fa": "هری دمنتور را یک معما می‌بیند، و ناگهان جواب آشکار می‌شود وقتی به قفس خیره می‌شود و می‌بیند زیر شنل چه خوابیده است."
+ },
+ {
+  "id": 13,
+  "paras": [
+   49,
+   50,
+   51,
+   52
+  ],
+  "verbatim_html": [
+   "That was it, then.",
+   "Professor McGonagall came and spoke to Harry. She hadn't seen the worst of it, so there was only a slight glitter of water in her eyes. Harry told her that he needed to talk to her afterward and ask a question he'd put off for a while, but that didn't need to happen right now, if she was busy. There was a certain look about her which suggested that she had been pulled away from something important; and Harry observed this to her, and said that she honestly didn't need to feel guilty about leaving. This earned him something of a sharp look, but then leave she did, hurriedly, with a promise that they would talk later.",
+   "Dean Thomas cast his white bear again, even in the Dementor's presence; and Ron Weasley put up an adequate shield of sparkling mist. Which concluded the day, so far as everyone else was concerned, and Professor Flitwick began to herd the students back to Hogwarts. When it was clear that Harry meant to stay behind, Professor Flitwick looked at him quizzically; and Harry, for his part, glanced significantly at Dumbledore. Harry didn't know what Professor Flitwick made of that, but after a sharp gaze of warning, his Head of House departed.",
+   "And so remained only Harry, Professor Quirrell, Headmaster Dumbledore, and an Auror trio."
+  ],
+  "summary_en": "Certain of the answer, Harry speaks briefly with McGonagall who hurries away; Dean and Ron finish their Patronuses, students are herded back, and only Harry, Quirrell, Dumbledore, and three Aurors remain.",
+  "translation_fa": "پس همین بود.\n\nپروفسور مک‌گونگال آمد و با هری صحبت کرد. بدترین بخش را ندیده بود، پس فقط برق کمی اشک در چشم‌هایش بود. هری به او گفت که بعداً باید با او حرف بزند و سؤالی را بپرسد که مدتی عقب انداخته بود، ولی لازم نبود همین حالا باشد، اگر سرش شلوغ بود. حالت خاصی در او بود که نشان می‌داد از کاری مهم جدا شده است؛ و هری این را به او گفت، و گفت که واقعاً لازم نیست از رفتن احساس گناه کند. این برایش نگاهی تا حدی تند به ارمغان آورد، ولی بعد او با عجله رفت، با قولی که بعداً حرف می‌زنند.\n\nدین توماس دوباره خرس سفیدش را احضار کرد، حتی در حضور دمنتور؛ و ران ویزلی سپری کافی از مه درخشان برپا کرد. که تا آنجا که به بقیه مربوط بود روز را به پایان رساند، و پروفسور فلیت‌ویک شروع کرد به برگرداندن دانش‌آموزان به هاگوارتز. وقتی روشن شد که هری می‌خواهد بماند، پروفسور فلیت‌ویک پرسشگرانه به او نگاه کرد؛ و هری هم به‌نوبه‌ی خود معنادار به دامبلدور نگاه کرد. هری نمی‌دانست پروفسور فلیت‌ویک از این چه برداشتی کرد، ولی بعد از نگاهی تند و هشداردهنده، رئیس خوابگاهش رفت.\n\nو این‌طور فقط هری ماند، پروفسور کویرل، مدیر دامبلدور، و سه‌تایی آئورور.",
+  "summary_fa": "هری از جواب مطمئن است، کوتاه با مک‌گونگال حرف می‌زند که با عجله می‌رود؛ دین و ران پاترونوس‌هایشان را تمام می‌کنند، دانش‌آموزان برگردانده می‌شوند، و فقط هری، کویرل، دامبلدور و سه آئورور می‌مانند."
+ },
+ {
+  "id": 14,
+  "paras": [
+   53,
+   54,
+   55,
+   56
+  ],
+  "verbatim_html": [
+   "It would have been better to get rid of the trio first, but Harry couldn't think of a good way to do that.",
+   "\"All right,\" said Auror Komodo, \"let's take it back.\"",
+   "\"Excuse me,\" Harry said. \"I'd like to have another go at the Dementor.\"",
+   "* * *"
+  ],
+  "summary_en": "Harry wishes the Aurors gone but cannot dismiss them; as Auror Komodo orders the Dementor taken back, Harry asks for another attempt, ending the scene break.",
+  "translation_fa": "بهتر بود اول سه‌تایی را رد می‌کرد، ولی هری راه خوبی برای این کار به ذهنش نرسید.\n\n«بسیار خب،» آئورور کومودو گفت، «بریمش برگردانیم.»\n\n«ببخشید،» هری گفت. «دوست دارم یک بار دیگر با دمنتور تلاش کنم.»\n\n* * *",
+  "summary_fa": "هری دلش می‌خواهد آئورورها بروند ولی راهی ندارد؛ وقتی آئورور کومودو دستور برگرداندن دمنتور را می‌دهد، هری تلاش دیگری می‌خواهد."
+ },
+ {
+  "id": 15,
+  "paras": [
+   57,
+   58,
+   59,
+   60
+  ],
+  "verbatim_html": [
+   "Harry's request met with a certain amount of opposition of the <em>you're completely insane</em> variety, though it was only Auror Butnaru who actually said that out loud.",
+   "\"Fawkes told me to,\" Harry said.",
+   "This did not overcome all the opposition, despite the look of shock it produced on Dumbledore's face. The argument went on, and it was starting to wear the edges off the phoenix's remaining peace, which annoyed Harry, though only a little.",
+   "\"Look,\" Harry said, \"I'm pretty sure I know what I was doing wrong before. There's a kind of person who has to use a different sort of warm and happy thought. Just let me try it, okay?\""
+  ],
+  "summary_en": "Harry's request meets cries of insanity; saying Fawkes told him shocks Dumbledore but does not persuade them, and Harry pleads that he needs a different kind of happy thought.",
+  "translation_fa": "درخواست هری با مقداری مخالفت از نوع «تو کاملاً دیوانه‌ای» روبه‌رو شد، هرچند فقط آئورور بوت‌نارو بود که واقعاً این را بلند گفت.\n\n«فاوکس به من گفت،» هری گفت.\n\nاین همه‌ی مخالفت را از میان نبرد، با وجود شوکی که در چهره‌ی دامبلدور پدید آورد. بحث ادامه یافت، و داشت لبه‌های آرامش باقی‌مانده‌ی ققنوس را می‌سایید، که هری را آزرد، هرچند فقط کمی.\n\n«ببینید،» هری گفت، «تقریباً مطمئنم می‌دانم قبلاً چه چیزی را اشتباه می‌کردم. یک جور آدم هست که باید از جور دیگری فکر گرم و شاد استفاده کند. فقط بگذارید امتحانش کنم، باشه؟»",
+  "summary_fa": "درخواست هری با فریاد دیوانگی روبه‌رو می‌شود؛ گفتن این‌که فاوکس به او گفته دامبلدور را شوکه می‌کند ولی قانع نمی‌کند، و هری اصرار می‌کند که به جور دیگری فکر شاد نیاز دارد."
+ },
+ {
+  "id": 16,
+  "paras": [
+   61,
+   62,
+   63,
+   64
+  ],
+  "verbatim_html": [
+   "This did not prove persuasive either.",
+   "\"I think,\" Professor Quirrell said finally, staring at Harry with narrowed eyes, \"that if we do not allow him to do this under supervision, he may, at some point or another, sneak off and look for a Dementor on his own. Do I accuse you falsely, Mr. Potter?\"",
+   "There was an appalled pause at this. It seemed like a good time to play his trump card.",
+   "\"I don't mind if the Headmaster keeps his own Patronus up,\" Harry said. <em>For I will be in the presence of a Dementor just the same, Patronus or no.</em>"
+  ],
+  "summary_en": "Unpersuaded, they hesitate until Quirrell warns Harry might seek a Dementor alone; Harry plays his trump card, offering that Dumbledore keep his Patronus up since he will feel the Dementor either way.",
+  "translation_fa": "این هم قانع‌کننده نبود.\n\n«فکر کنم،» پروفسور کویرل سرانجام گفت، در حالی که با چشم‌های تنگ به هری خیره شده بود، «اگر اجازه ندهیم این را تحت نظارت انجام دهد، ممکن است در فرصتی دیگر یواشکی برود و خودش تنهایی دنبال دمنتور بگردد. آیا به‌اشتباه متهمت می‌کنم، آقای پاتر؟»\n\nمکثی وحشت‌زده پس از این پیش آمد. به نظر وقت خوبی بود که برگ برنده‌اش را بازی کند.\n\n«اشکالی ندارم اگر مدیر پاترونوس خودش را نگه دارد،» هری گفت. «چون من به‌هرحال در حضور دمنتور خواهم بود، با پاترونوس یا بی‌پاترونوس.»",
+  "summary_fa": "قانع نمی‌شوند تا این‌که کویرل هشدار می‌دهد هری شاید تنهایی دنبال دمنتور برود؛ هری برگ برنده‌اش را بازی می‌کند و می‌گوید دامبلدور پاترونوسش را نگه دارد چون به‌هرحال دمنتور را حس می‌کند."
+ },
+ {
+  "id": 17,
+  "paras": [
+   65,
+   66,
+   67,
+   68
+  ],
+  "verbatim_html": [
+   "There was confusion at this, even Professor Quirrell looked puzzled; but the Headmaster finally acceded, since it didn't seem likely that Harry could be hurt through four Patronuses.",
+   "<em>If the Dementor could not reach through your Patronus on some level, Albus Dumbledore, you would not see a naked man painful to look upon...</em>",
+   "Harry didn't say it out loud, for obvious reasons.",
+   "And they began to walk toward the Dementor."
+  ],
+  "summary_en": "Confusion follows, but Dumbledore agrees since four Patronuses seem safe; Harry hides his deeper thought about Dumbledore's vision, and they walk toward the Dementor.",
+  "translation_fa": "از این سردرگمی پیش آمد، حتی پروفسور کویرل متحیر به نظر رسید؛ ولی مدیر سرانجام پذیرفت، چون به نظر نمی‌رسید هری بتواند از میان چهار پاترونوس آسیب ببیند.\n\n«اگر دمنتور نتواند در سطحی از پاترونوس تو عبور کند، آلبوس دامبلدور، مردی برهنه‌ی دردناک برای نگاه کردن نمی‌دیدی...»\n\nهری آن را بلند نگفت، به دلایل آشکار.\n\nو شروع کردند به راه رفتن به‌سوی دمنتور.",
+  "summary_fa": "سردرگمی پیش می‌آید ولی دامبلدور می‌پذیرد چون چهار پاترونوس امن به نظر می‌رسد؛ هری فکر عمیق‌ترش را پنهان می‌کند و آن‌ها به‌سوی دمنتور می‌روند."
+ },
+ {
+  "id": 18,
+  "paras": [
+   69,
+   70,
+   71,
+   72
+  ],
+  "verbatim_html": [
+   "\"Headmaster,\" Harry said, \"suppose the Ravenclaw door asked you this riddle: What lies at the center of a Dementor? What would you say?\"",
+   "\"Fear,\" said the Headmaster.",
+   "It was a simple enough mistake. The Dementor approached, and the fear came over you. The fear hurt, you felt the fear weakening you, you wanted the fear to go away.",
+   "It was natural to think the fear was the problem."
+  ],
+  "summary_en": "Harry asks what lies at a Dementor's center; Dumbledore answers Fear, and Harry notes the natural mistake of blaming the fear the Dementor brings.",
+  "translation_fa": "«مدیر،» هری گفت، «فرض کنید در ریونکلا این معما را از شما بپرسد: در مرکز یک دمنتور چیست؟ چه می‌گویید؟»\n\n«ترس،» مدیر گفت.\n\nاشتباه ساده‌ای بود. دمنتور نزدیک می‌شد، و ترس بر تو چیره می‌شد. ترس آزار می‌داد، حس می‌کردی ترس ضعیفت می‌کند، می‌خواستی ترس برود.\n\nطبیعی بود که فکر کنی ترس مشکل است.",
+  "summary_fa": "هری می‌پرسد در مرکز دمنتور چیست؛ دامبلدور می‌گوید ترس، و هری به اشتباه طبیعی مقصر دانستن ترس اشاره می‌کند."
+ },
+ {
+  "id": 19,
+  "paras": [
+   73,
+   74,
+   75,
+   76
+  ],
+  "verbatim_html": [
+   "So they'd concluded that the Dementor was a creature of pure fear, that there was nothing there to fear but fear itself, that the Dementor couldn't hurt you if you weren't afraid...",
+   "But...",
+   "<em>What lies at the center of a Dementor?</em>",
+   "<em>Fear.</em>"
+  ],
+  "summary_en": "People concluded Dementors are pure fear and harmless if unf feared; Harry counters with But, restating the riddle and the answer Fear.",
+  "translation_fa": "پس نتیجه گرفته بودند که دمنتور موجودی از ترس خالص است، که چیزی برای ترسیدن نیست جز خود ترس، که دمنتور نمی‌تواند به تو آسیب بزند اگر نترسیده باشی...\n\n«اما...»\n\n«در مرکز یک دمنتور چیست؟»\n\n«ترس.»",
+  "summary_fa": "مردم نتیجه گرفته بودند دمنتورها ترس خالص‌اند و اگر نترسی بی‌آزارند؛ هری با «اما» مخالفت می‌کند و معما و جواب ترس را تکرار می‌کند."
+ },
+ {
+  "id": 20,
+  "paras": [
+   77,
+   78,
+   79,
+   80
+  ],
+  "verbatim_html": [
+   "<em>What is so horrible that the mind refuses to see it?</em>",
+   "<em>Fear.</em>",
+   "<em>What is impossible to kill?</em>",
+   "<em>Fear.</em>"
+  ],
+  "summary_en": "Harry tests the Fear answer against what is too horrible to see and impossible to kill, repeating Fear each time.",
+  "translation_fa": "«چه چیزی آن‌قدر وحشتناک است که ذهن از دیدنش سر باز می‌زند؟»\n\n«ترس.»\n\n«چه چیزی را نمی‌شود کشت؟»\n\n«ترس.»",
+  "summary_fa": "هری جواب ترس را با آنچه ذهن از دیدنش سر باز می‌زند و آنچه کشته نمی‌شود می‌سنجد و هر بار ترس را تکرار می‌کند."
+ },
+ {
+  "id": 21,
+  "paras": [
+   81,
+   82,
+   83,
+   84
+  ],
+  "verbatim_html": [
+   "...it didn't quite fit, once you thought about it.",
+   "Though it was clear enough why people would be reluctant to look beyond the first answer.",
+   "People <em>understood</em> fear.",
+   "People knew what they were supposed to <em>do</em> about fear."
+  ],
+  "summary_en": "It does not quite fit, yet people avoid looking further; they understand fear and know what to do about it.",
+  "translation_fa": "...وقتی به آن فکر می‌کردی، کاملاً جور درنمی‌آمد.\n\nهرچند کاملاً روشن بود چرا مردم مایل نباشند فراتر از جواب اول را نگاه کنند.\n\nمردم ترس را می‌فهمیدند.\n\nمردم می‌دانستند قرار است درباره‌ی ترس چه کار کنند.",
+  "summary_fa": "کاملاً جور درنمی‌آید، ولی مردم از نگاه فراتر پرهیز می‌کنند؛ آن‌ها ترس را می‌فهمند و می‌دانند با آن چه کنند."
+ },
+ {
+  "id": 22,
+  "paras": [
+   85,
+   86,
+   87,
+   88
+  ],
+  "verbatim_html": [
+   "So, faced with a Dementor, it wouldn't exactly be comforting to ask: 'What if the fear is just a side effect rather than the main problem?'",
+   "They had come very close to the Dementor's cage guarded by four Patronuses, when there came sharp intakes of breath from the three Aurors and Professor Quirrell. Everyone's faces turned to look at the Dementor, seeming to listen; there was horror on Auror Goryanof's face.",
+   "Then Professor Quirrell raised his head, his face hard, and spat toward the Dementor.",
+   "\"It did not like having its prey taken from it, I suppose,\" Dumbledore said quietly. \"Well. If it becomes necessary, Quirinus, there will always be a refuge for you at Hogwarts.\""
+  ],
+  "summary_en": "Facing a Dementor, asking if fear is only a side effect is no comfort; near the cage the Aurors gasp hearing it, Quirrell spits, and Dumbledore offers him refuge at Hogwarts.",
+  "translation_fa": "پس، روبه‌رو با دمنتور، پرسیدن «اگر ترس فقط یک اثر جانبی باشد تا مشکل اصلی؟» دقیقاً آرامش‌بخش نبود.\n\nوقتی به قفس دمنتور که با چهار پاترونوس نگهبانی می‌شد خیلی نزدیک شده بودند، نفس‌های تند حبس‌شده‌ای از سه آئورور و پروفسور کویرل برخاست. چهره‌ی همه به‌سوی دمنتور چرخید، انگار گوش می‌دادند؛ وحشتی بر چهره‌ی آئورور گوریانوف بود.\n\nبعد پروفسور کویرل سرش را بالا گرفت، چهره‌اش سخت، و به‌سوی دمنتور تف کرد.\n\n«حتماً از این‌که شکارش را از او گرفته‌اند خوشش نیامده،» دامبلدور آرام گفت. «خب. اگر لازم شد، کویرینوس، همیشه پناهگاهی برای تو در هاگوارتز خواهد بود.»",
+  "summary_fa": "روبه‌رو با دمنتور، پرسیدن این‌که ترس فقط اثر جانبی است آرامش‌بخش نیست؛ نزدیک قفس آئورورها با شنیدنش نفسشان را حبس می‌کنند، کویرل تف می‌کند، و دامبلدور به او در هاگوارتز پناه می‌دهد."
+ },
+ {
+  "id": 23,
+  "paras": [
+   89,
+   90,
+   91,
+   92
+  ],
+  "verbatim_html": [
+   "\"What did it say?\" said Harry.",
+   "Every head swung to stare at him.",
+   "\"You didn't hear it...?\" Dumbledore said.",
+   "Harry shook his head."
+  ],
+  "summary_en": "Harry asks what it said; all stare because he heard nothing, and Harry shakes his head when Dumbledore asks in surprise.",
+  "translation_fa": "«چه گفت؟» هری گفت.\n\nهر سری چرخید تا به او خیره شود.\n\n«نشنیدی‌اش...؟» دامبلدور گفت.\n\nهری سرش را تکان داد.",
+  "summary_fa": "هری می‌پرسد چه گفت؛ همه خیره می‌شوند چون او چیزی نشنیده است، و هری وقتی دامبلدور با تعجب می‌پرسد سر تکان می‌دهد."
+ },
+ {
+  "id": 24,
+  "paras": [
+   93,
+   94,
+   95,
+   96
+  ],
+  "verbatim_html": [
+   "\"It said to me,\" said Professor Quirrell, \"that it knew me, and that it would hunt me down someday, wherever I tried to hide.\" His face was rigid, showing no fright.",
+   "\"Ah,\" Harry said. \"I wouldn't worry about that, Professor Quirrell.\" <em>It's not like Dementors can actually talk, or think; the structure they have is borrowed from your own mind and expectations...</em>",
+   "Now everyone was giving him <em>very</em> strange looks. The Aurors were glancing nervously at each other, at the Dementor, at Harry.",
+   "And they stood directly before the Dementor's cage."
+  ],
+  "summary_en": "Quirrell rigidly reports the Dementor threatened to hunt him; Harry dismisses it as borrowed from their own minds, earning strange looks as they stand before the cage.",
+  "translation_fa": "«به من گفت،» پروفسور کویرل گفت، «که مرا می‌شناسد، و روزی هرجا بخواهم پنهان شوم شکارم می‌کند.» چهره‌اش خشک بود، هیچ ترسی نشان نمی‌داد.\n\n«آه،» هری گفت. «نگرانش نباشید، پروفسور کویرل.» «انگار نیست که دمنتورها واقعاً بتوانند حرف بزنند یا فکر کنند؛ ساختاری که دارند از ذهن و انتظارات خودتان قرض گرفته شده...»\n\nحالا همه به او نگاه‌های خیلی عجیبی می‌انداختند. آئورورها با نگرانی به هم، به دمنتور، به هری نگاه می‌کردند.\n\nو درست روبه‌روی قفس دمنتور ایستادند.",
+  "summary_fa": "کویرل خشک و بی‌ترس می‌گوید دمنتور تهدید کرده شکارش می‌کند؛ هری آن را قرض‌گرفته از ذهن خودشان می‌خواند و نگاه‌های عجیب می‌گیرد وقتی روبه‌روی قفس می‌ایستند."
+ },
+ {
+  "id": 25,
+  "paras": [
+   97,
+   98,
+   99,
+   100
+  ],
+  "verbatim_html": [
+   "\"They are wounds in the world,\" Harry said. \"It's just a wild guess, but I'm guessing the one who said that was Godric Gryffindor.\"",
+   "\"Yes...\" said Dumbledore. \"How did you know?\"",
+   "<em>It is a common misconception</em>, thought Harry, <em>that all the best rationalists are Sorted into Ravenclaw, leaving none for other Houses. This is not so; being Sorted into Ravenclaw indicates that your strongest virtue is curiosity, wondering and desiring to know the true answer. And this is not the</em> only <em>virtue a rationalist needs. Sometimes you have to work hard on a problem, and stick to it for a while. Sometimes you need a clever plan for finding out. And sometimes what you need more than anything else to see an answer, is the courage to face it...</em>",
+   "Harry's gaze went to what lay beneath the cloak, the horror far worse than any decaying mummy. Rowena Ravenclaw might also have known, for it was an obvious enough riddle once you saw it as a riddle."
+  ],
+  "summary_en": "Harry guesses Gryffindor called them wounds in the world; Dumbledore confirms, and Harry reflects that rationalists need courage to face answers, suspecting Ravenclaw knew the riddle too.",
+  "translation_fa": "«آن‌ها زخم‌هایی در جهان‌اند،» هری گفت. «فقط یک حدس وحشی است، ولی حدس می‌زنم کسی که این را گفت گادریک گریفیندور بود.»\n\n«بله...» دامبلدور گفت. «از کجا دانستی؟»\n\n«تصور غلط رایجی است،» هری فکر کرد، «که همه‌ی بهترین خردگرایان در ریونکلا دسته‌بندی می‌شوند، و هیچ‌کدام برای خانه‌های دیگر نمی‌ماند. چنین نیست؛ دسته‌بندی شدن در ریونکلا نشان می‌دهد که نیرومندترین فضیلتت کنجکاوی است، شگفتی و خواستن دانستن جواب درست. و این تنها فضیلتی نیست که یک خردگرا لازم دارد. گاهی باید سخت روی مسئله‌ای کار کنی و مدتی به آن بچسبی. گاهی نقشه‌ی زیرکانه‌ای برای فهمیدن لازم داری. و گاهی چیزی که بیش از هر چیز برای دیدن جواب لازم داری، شهامت روبه‌رو شدن با آن است...»\n\nنگاه هری به آنچه زیر شنل بود رفت، وحشتی به‌مراتب بدتر از هر مومیایی پوسیده. روونا ریونکلا هم شاید می‌دانست، چون وقتی آن را معما می‌دیدی معمای به‌اندازه‌ی کافی آشکاری بود.",
+  "summary_fa": "هری حدس می‌زند گریفیندور آن‌ها را زخم جهان خوانده؛ دامبلدور تأیید می‌کند، و هری فکر می‌کند خردگرایان به شهامت روبه‌رو شدن نیاز دارند و ریونکلا هم شاید معما را می‌دانست."
+ },
+ {
+  "id": 26,
+  "paras": [
+   101,
+   102,
+   103,
+   104
+  ],
+  "verbatim_html": [
+   "And it was also obvious why the Patronuses were animals. The animals didn't know, and so were sheltered from the fear.",
+   "But Harry knew, and would always know, and would never be able to forget. He'd tried to teach himself to face reality without flinching, and though Harry had not yet mastered that art, still those grooves had been worn into his mind, the learned reflex to look <em>toward</em> the painful thought instead of away. Harry would never be able to forget by thinking warm happy thoughts about something else, and that was why the spell hadn't worked for him.",
+   "So Harry would think a warm happy thought that <em>wasn't</em> about something else.",
+   "Harry drew forth his wand that Professor Flitwick had returned to him, put his feet into the beginning stance for the Patronus Charm."
+  ],
+  "summary_en": "Harry sees why Patronuses are animals sheltered by ignorance; unable to forget, he failed with happy thoughts about something else, so he will think one that is not, and takes his stance.",
+  "translation_fa": "و این هم آشکار بود که چرا پاترونوس‌ها حیوان بودند. حیوان‌ها نمی‌دانستند، و پس از ترس در امان بودند.\n\nولی هری می‌دانست، و همیشه می‌دانست، و هرگز نمی‌توانست فراموش کند. تلاش کرده بود به خودش بیاموزد بی‌آنکه جا بزند با واقعیت روبه‌رو شود، و هرچند هری هنوز در این هنر استاد نشده بود، باز آن شیارها در ذهنش کنده شده بود، بازتاب آموخته‌شده که به‌سوی فکر دردناک نگاه کند به‌جای آنکه رو برگرداند. هری هرگز نمی‌توانست با فکر کردن به فکرهای گرم و شاد درباره‌ی چیز دیگری فراموش کند، و به همین دلیل طلسم برایش کار نکرده بود.\n\nپس هری به فکر گرم و شادی فکر می‌کرد که درباره‌ی چیز دیگری نبود.\n\nهری چوبدستی‌اش را که پروفسور فلیت‌ویک به او برگردانده بود بیرون کشید، پاهایش را در حالت شروع طلسم پاترونوس گذاشت.",
+  "summary_fa": "هری می‌فهمد چرا پاترونوس‌ها حیوان‌اند که نادانی پناهشان می‌دهد؛ چون نمی‌تواند فراموش کند با فکرهای شاد درباره‌ی چیز دیگر شکست خورد، پس به فکری فکر می‌کند که درباره‌ی چیز دیگر نیست، و حالت می‌گیرد."
+ },
+ {
+  "id": 27,
+  "paras": [
+   105,
+   106,
+   107,
+   108
+  ],
+  "verbatim_html": [
+   "Within his mind, Harry discarded the last remnants of the peace of the phoenix, put aside the calm, the dreamlike state, remembered instead Fawkes's piercing cry, and roused himself for battle. Called upon all the pieces and elements of himself to awaken. Raised up within himself all the strength that the Patronus Charm could ever draw upon, to put himself into the right frame of mind for the final warm and happy thought; remembered all bright things.",
+   "The books his father had bought him.",
+   "Mum's smile when Harry had handmade her a mother's day card, an elaborate thing that had used half a pound of spare electronics parts from the garage to flash lights and beep a little tune, and had taken him three days to make.",
+   "Professor McGonagall telling him that his parents had died well, protecting him. As they had."
+  ],
+  "summary_en": "Harry drops the phoenix calm, rouses himself for battle with Fawkes's cry, gathers strength, and recalls bright things: his father's books, his mother's smile at his handmade card, and McGonagall's words about his parents.",
+  "translation_fa": "درون ذهنش، هری آخرین باقی‌مانده‌های آرامش ققنوس را کنار گذاشت، آرامش را، حالت رؤیاگونه را کنار نهاد، در عوض فریاد تیز فاوکس را به یاد آورد، و خودش را برای نبرد بیدار کرد. همه‌ی پاره‌ها و عناصر خودش را فراخواند که بیدار شوند. همه‌ی نیرو را که طلسم پاترونوس هرگز می‌توانست از آن بهره بگیرد درون خود بالا برد، تا خود را در چارچوب ذهنی درست برای آخرین فکر گرم و شاد قرار دهد؛ همه‌ی چیزهای روشن را به یاد آورد.\n\nکتاب‌هایی که پدرش برایش خریده بود.\n\nلبخند مامان وقتی هری با دست خودش کارت روز مادر ساخته بود، چیز پرزحمتی که از نیم پوند قطعات الکترونیکی اضافی گاراژ استفاده کرده بود تا چراغ‌ها را چشمک بزند و آهنگ کوچکی بوق بزند، و سه روز طول کشیده بود تا بسازدش.\n\nپروفسور مک‌گونگال که به او گفت پدر و مادرش خوب مرده‌اند، در راه محافظت از او. همان‌طور هم بود.",
+  "summary_fa": "هری آرامش ققنوس را کنار می‌گذارد، با فریاد فاوکس خود را برای نبرد بیدار می‌کند و نیرو جمع می‌کند، و چیزهای روشن را به یاد می‌آورد: کتاب‌های پدرش، لبخند مادرش به کارت دست‌سازش، و حرف مک‌گونگال درباره‌ی والدینش."
+ },
+ {
+  "id": 28,
+  "paras": [
+   109,
+   110,
+   111,
+   112
+  ],
+  "verbatim_html": [
+   "Realizing that Hermione was keeping up with him and even running faster, that they could be true rivals and friends.",
+   "Coaxing Draco out of the darkness, watching him slowly move toward the light.",
+   "Neville and Seamus and Lavender and Dean and everyone else who looked up to him, everyone that he would have fought to protect if anything threatened Hogwarts.",
+   "Everything that made life worth living."
+  ],
+  "summary_en": "He remembers Hermione rivaling him, leading Draco toward light, all who look up to him he would protect, and everything making life worth living.",
+  "translation_fa": "فهمیدن این‌که هرمیون پابه‌پایش می‌آید و حتی تندتر می‌دود، که می‌توانند رقیبان و دوستان واقعی باشند.\n\nکشاندن دراکو بیرون از تاریکی، تماشای این‌که آرام به‌سوی نور حرکت می‌کند.\n\nنویل و شیمس و لاوندر و دین و همه‌ی بقیه که به او نگاه می‌کردند، همه‌ی کسانی که اگر چیزی هاگوارتز را تهدید می‌کرد برای محافظت از آن‌ها می‌جنگید.\n\nهمه‌چیز که زندگی را ارزش زیستن می‌داد.",
+  "summary_fa": "به یاد می‌آورد که هرمیون هم‌پایش می‌دود، دراکو را به‌سوی نور می‌کشاند، همه‌ی کسانی که به او نگاه می‌کنند و برایشان می‌جنگید، و همه‌چیز که زندگی را ارزش زیستن می‌دهد."
+ },
+ {
+  "id": 29,
+  "paras": [
+   113,
+   114,
+   115,
+   116
+  ],
+  "verbatim_html": [
+   "His wand rose into the starting position for the Patronus Charm.",
+   "Harry thought of the stars, the image that had almost held off the Dementor even without a Patronus. Only this time, Harry added the missing ingredient, he'd never truly seen it but he'd seen the pictures and the video. The Earth, blazing blue and white with reflected sunlight as it hung in space, amid the black void and the brilliant points of light. It belonged there, within that image, because it was what gave everything else its meaning. The Earth was what made the stars significant, made them more than uncontrolled fusion reactions, because it was Earth that would someday colonize the galaxy, and fulfill the promise of the night sky.",
+   "Would they still be plagued by Dementors, the children's children's children, the distant descendants of humankind as they strode from star to star? No. Of course not. The Dementors were only little nuisances, paling into nothingness in the light of that promise; not unkillable, not invincible, not even close. You had to put up with little nuisances, if you were one of the lucky and unlucky few to be born on Earth; on Ancient Earth, as it would be remembered someday. That too was part of what it meant to be alive, if you were one of the tiny handful of sentient beings born into the beginning of all things, before intelligent life had come fully into its power. That the much vaster future depended on what you did here, now, in the earliest days of dawn, when there was still so much darkness to be fought, and temporary nuisances like Dementors.",
+   "Mum and Dad, Hermione's friendship and Draco's journey, Neville and Seamus and Lavender and Dean, the blue sky and brilliant Sun and all bright things, the Earth, the stars, the promise, everything humanity was and everything it would become..."
+  ],
+  "summary_en": "His wand rises; Harry thinks of stars and Earth blazing blue in space giving the stars meaning through future colonization, and sees Dementors as small temporary nuisances that the distant future depending on the present dawn will outgrow.",
+  "translation_fa": "چوبدستی‌اش به حالت شروع طلسم پاترونوس بالا رفت.\n\nهری به ستاره‌ها فکر کرد، تصویری که حتی بی‌پاترونوس نزدیک بود دمنتور را نگه دارد. فقط این بار، هری ماده‌ی گمشده را افزود، هرگز واقعاً ندیده بودش ولی عکس‌ها و ویدیو را دیده بود. زمین، آبی و سفید درخشان با نور بازتابیده‌ی خورشید که در فضا آویخته بود، میان خلأ سیاه و نقطه‌های درخشان نور. به آن تصویر تعلق داشت، چون چیزی بود که به همه‌ی بقیه معنایشان را می‌داد. زمین بود که ستاره‌ها را معنادار می‌کرد، بیش از واکنش‌های گداخت مهارنشده‌شان می‌کرد، چون زمین بود که روزی کهکشان را مستعمره می‌کرد، و وعده‌ی آسمان شب را برآورده می‌کرد.\n\nآیا هنوز دمنتورها آزارشان می‌داد، فرزندان فرزندان فرزندان، نوادگان دوردست بشر وقتی از ستاره‌ای به ستاره‌ای می‌رفتند؟ نه. البته که نه. دمنتورها فقط مزاحمت‌های کوچکی بودند، در نور آن وعده به هیچ محو می‌شدند؛ نه کشته‌ناشدنی، نه شکست‌ناپذیر، حتی نزدیکش هم نه. باید مزاحمت‌های کوچک را تحمل می‌کردی، اگر از آن معدود خوش‌شانس‌ها و بدشانس‌ها بودی که روی زمین به دنیا آمده بودند؛ روی زمین باستان، چنان‌که روزی به یاد آورده می‌شد. این هم بخشی از معنای زنده بودن بود، اگر از آن مشت کوچک موجودات دارای شعور بودی که در آغاز همه‌چیز به دنیا آمده بودند، پیش از آنکه زندگی هوشمند کاملاً به قدرتش رسیده باشد. این‌که آینده‌ی بسی بزرگ‌تر به کاری بستگی داشت که تو اینجا می‌کردی، اکنون، در روزهای آغازین سپیده‌دم، وقتی هنوز تاریکی زیادی برای جنگیدن بود، و مزاحمت‌های موقتی مثل دمنتورها.\n\nمامان و بابا، دوستی هرمیون و سفر دراکو، نویل و شیمس و لاوندر و دین، آسمان آبی و خورشید درخشان و همه‌ی چیزهای روشن، زمین، ستاره‌ها، وعده، همه‌چیز که بشر بود و همه‌چیز که می‌شد...",
+  "summary_fa": "چوبدستی‌اش بالا می‌رود؛ هری به ستاره‌ها و زمین آبی‌درخشان در فضا فکر می‌کند که با مستعمره کردن کهکشان به ستاره‌ها معنا می‌دهد، و دمنتورها را مزاحمت‌های کوچک موقتی می‌بیند که آینده‌ی دوردستِ وابسته به سپیده‌دم اکنون از آن می‌گذرد."
+ },
+ {
+  "id": 30,
+  "paras": [
+   117,
+   118,
+   119,
+   120
+  ],
+  "verbatim_html": [
+   "On the wand, Harry's fingers moved into their starting positions; he was ready, now, to think the right sort of warm and happy thought.",
+   "And Harry's eyes stared directly at that which lay beneath the tattered cloak, looked straight at that which had been named Dementor. The void, the emptiness, the hole in the universe, the absence of color and space, the open drain through which warmth poured out of the world.",
+   "The fear it exuded stole away all happy thoughts, its closeness drained your power and strength, its kiss would destroy everything that you were.",
+   "<em>I know you now</em>, Harry thought as his wand twitched once, twice, thrice and four times, as his fingers slid exactly the right distances, <em>I comprehend your nature, you symbolize Death, through some law of magic you are a shadow that Death casts into the world.</em>"
+  ],
+  "summary_en": "Ready with the right happy thought, Harry stares straight at the void beneath the cloak that drains warmth and destroys selves, and understands it symbolizes Death casting its shadow into the world.",
+  "translation_fa": "روی چوبدستی، انگشت‌های هری به حالت‌های شروعشان حرکت کردند؛ حالا آماده بود که به جور درست فکر گرم و شاد فکر کند.\n\nو چشم‌های هری مستقیم به آنچه زیر شنل پاره‌پاره بود خیره شد، مستقیم به آنچه دمنتور نامیده شده بود نگاه کرد. خلأ، تهی، سوراخ در جهان، نبود رنگ و فضا، چاه بازی که گرما از جهان بیرون می‌ریخت.\n\nترسی که بیرون می‌داد همه‌ی فکرهای شاد را می‌دزدید، نزدیکی‌اش نیرو و توانت را می‌مکید، بوسه‌اش همه‌چیز تو را نابود می‌کرد.\n\n«حالا می‌شناسمت،» هری فکر کرد وقتی چوبدستی‌اش یک بار، دو بار، سه بار و چهار بار تکان خورد و انگشت‌هایش دقیقاً به اندازه‌های درست لغزیدند، «طبیعتت را می‌فهمم، تو نماد مرگی، از راه قانونی از جادو تو سایه‌ای هستی که مرگ به جهان می‌افکند.»",
+  "summary_fa": "آماده با فکر شاد درست، هری مستقیم به خلأ زیر شنل خیره می‌شود که گرما را می‌مکد و خویشتن را نابود می‌کند، و می‌فهمد که نماد مرگ است که سایه‌اش را به جهان می‌افکند."
+ },
+ {
+  "id": 31,
+  "paras": [
+   121,
+   122,
+   123,
+   124
+  ],
+  "verbatim_html": [
+   "<em>And Death is not something I will ever embrace.</em>",
+   "<em>It is only a childish thing, that the human species has not yet outgrown.</em>",
+   "<em>And someday...</em>",
+   "<em>We'll get over it...</em>"
+  ],
+  "summary_en": "Death is nothing he will embrace, only a childish thing humanity has not outgrown; someday, Harry vows, they will get over it.",
+  "translation_fa": "«و مرگ چیزی نیست که هرگز در آغوشش بگیرم.»\n\n«فقط چیز کودکانه‌ای است که گونه‌ی بشر هنوز از آن بزرگ نشده است.»\n\n«و روزی...»\n\n«از آن می‌گذریم...»",
+  "summary_fa": "مرگ چیزی نیست که در آغوش بگیرد، فقط چیز کودکانه‌ای است که بشر هنوز از آن بزرگ نشده؛ روزی، عهد می‌کند، از آن می‌گذرند."
+ },
+ {
+  "id": 32,
+  "paras": [
+   125,
+   126,
+   127,
+   128
+  ],
+  "verbatim_html": [
+   "<em>And people won't have to say goodbye any more...</em>",
+   "The wand rose up and leveled straight at the Dementor.",
+   "<em>\"EXPECTO PATRONUM!\"</em>",
+   "The thought exploded from him like a breaking dam, surged down his arm into his wand, burst from it as blazing white light. Light that became corporeal, took on shape and substance."
+  ],
+  "summary_en": "People will no longer have to say goodbye; Harry levels his wand, cries Expecto Patronum, and blazing light bursts forth becoming corporeal.",
+  "translation_fa": "«و دیگر لازم نیست مردم خداحافظی کنند...»\n\nچوبدستی بالا رفت و مستقیم به‌سوی دمنتور نشانه رفت.\n\n««اکسپکتو پاترونوم!»»\n\nفکر از او مثل سد شکسته منفجر شد، در بازویش به چوبدستی‌اش هجوم برد، به‌صورت نور سفید خیره‌کننده از آن بیرون جهید. نوری که جسمانی شد، شکل و ماده گرفت.",
+  "summary_fa": "دیگر لازم نیست مردم خداحافظی کنند؛ هری چوبدستی‌اش را نشانه می‌رود، اکسپکتو پاترونوم را فریاد می‌زند، و نور خیره‌کننده بیرون می‌جهد و جسمانی می‌شود."
+ },
+ {
+  "id": 33,
+  "paras": [
+   129,
+   130,
+   131,
+   132
+  ],
+  "verbatim_html": [
+   "A figure with two arms, two legs, and a head, standing upright; the animal <em>Homo sapiens,</em> the shape of a human being.",
+   "Glowing brighter and brighter as Harry poured all his strength into his spell, blazing with incandescent light brighter than the fading sunset, the Aurors and Professor Quirrell shielding their eyes in shock -",
+   "<em>And someday when the descendants of humanity have spread from star to star, they won't tell the children about the history of Ancient Earth until they're old enough to bear it; and when they learn they'll weep to hear that such a thing as Death had ever once existed!</em>",
+   "The figure of a human shone more brilliant now than the noonday Sun, so radiant that Harry could feel the warmth of it on his skin; and Harry sent out all his defiance at the shadow of Death, opening all the floodgates inside him to make that bright shape blaze even brighter and yet brighter."
+  ],
+  "summary_en": "A human-shaped Patronus, Homo sapiens, blazes brighter than sunset as Harry pours in strength; he dreams descendants will weep to hear Death once existed, and drives his defiance brighter still.",
+  "translation_fa": "پیکری با دو دست، دو پا، و یک سر، ایستاده؛ جانور هومو ساپینس، شکل یک انسان.\n\nروشن‌تر و روشن‌تر می‌درخشید وقتی هری همه‌ی نیرویش را در طلسمش ریخت، با نور سوزان درخشان‌تر از غروب رو به محو، آئورورها و پروفسور کویرل چشم‌هایشان را در شوک پوشاندند —\n\n«و روزی وقتی نوادگان بشر از ستاره‌ای به ستاره‌ای پراکنده شدند، به بچه‌ها درباره‌ی تاریخ زمین باستان نمی‌گویند تا وقتی به‌اندازه‌ی کافی بزرگ شوند که تابش را بیاورند؛ و وقتی یاد بگیرند گریه می‌کنند که بشنوند چنین چیزی مثل مرگ هرگز وجود داشته است!»\n\nپیکر یک انسان حالا درخشان‌تر از خورشید نیمروز می‌درخشید، چنان تابان که هری گرمایش را روی پوستش حس می‌کرد؛ و هری همه‌ی سرکشی‌اش را به‌سوی سایه‌ی مرگ فرستاد، همه‌ی بندهای درونش را گشود تا آن شکل روشن را درخشان‌تر و باز درخشان‌تر کند.",
+  "summary_fa": "پاترونوسی به شکل انسان، هومو ساپینس، درخشان‌تر از غروب می‌درخشد وقتی هری همه‌ی نیرویش را می‌ریزد؛ در رؤیا نوادگان گریه می‌کنند که بشنوند مرگ زمانی بوده است، و سرکشی‌اش را درخشان‌تر می‌کند."
+ },
+ {
+  "id": 34,
+  "paras": [
+   133,
+   134,
+   135,
+   136
+  ],
+  "verbatim_html": [
+   "<em>You are not invincible, and someday the human species will end you.</em>",
+   "<em>I will end you if I can, by the power of mind and magic and science.</em>",
+   "<em>I won't cower in fear of Death, not while I have a chance of winning.</em>",
+   "<em>I won't let Death touch me, I won't let Death touch the ones I love.</em>"
+  ],
+  "summary_en": "Harry vows Dementors are not invincible and humanity will end them, by mind, magic, and science; he will not cower or let Death touch him or those he loves.",
+  "translation_fa": "«تو شکست‌ناپذیر نیستی، و روزی گونه‌ی بشر تو را پایان می‌دهد.»\n\n«اگر بتوانم با نیروی ذهن و جادو و علم به تو پایان می‌دهم.»\n\n«از ترس مرگ نمی‌خزم، تا وقتی بختی برای بردن دارم.»\n\n«نمی‌گذارم مرگ به من دست بزند، نمی‌گذارم به کسانی که دوستشان دارم دست بزند.»",
+  "summary_fa": "هری عهد می‌کند دمنتورها شکست‌ناپذیر نیستند و بشر با ذهن و جادو و علم به آن‌ها پایان می‌دهد؛ نمی‌خزد و نمی‌گذارد مرگ به او یا عزیزانش دست بزند."
+ },
+ {
+  "id": 35,
+  "paras": [
+   137,
+   138,
+   139,
+   140
+  ],
+  "verbatim_html": [
+   "<em>And even if you do end me before I end you,</em>",
+   "<em>Another will take my place, and another,</em>",
+   "<em>Until the wound in the world is healed at last...</em>",
+   "Harry lowered his wand, and the bright figure of a human faded away."
+  ],
+  "summary_en": "Even if Death ends him first, another will take his place until the wound is healed; Harry lowers his wand and the bright figure fades.",
+  "translation_fa": "«و حتی اگر پیش از آنکه من تو را پایان دهم به من پایان دهی،»\n\n«دیگری جایم را می‌گیرد، و دیگری،»\n\n«تا زخم جهان سرانجام درمان شود...»\n\nهری چوبدستی‌اش را پایین آورد، و پیکر درخشان انسان محو شد.",
+  "summary_fa": "حتی اگر مرگ اول به او پایان دهد، دیگری جایش را می‌گیرد تا زخم درمان شود؛ هری چوبدستی‌اش را پایین می‌آورد و پیکر درخشان محو می‌شود."
+ },
+ {
+  "id": 36,
+  "paras": [
+   141,
+   142,
+   143,
+   144
+  ],
+  "verbatim_html": [
+   "Slowly, he exhaled.",
+   "Like waking up from a dream, like opening his eyes after sleep, Harry's gaze moved away from the cage, he looked around and saw that everyone was staring at him.",
+   "Albus Dumbledore was staring at him.",
+   "Professor Quirrell was staring at him."
+  ],
+  "summary_en": "Harry exhales and wakes as from a dream to find everyone staring, including Dumbledore and Quirrell.",
+  "translation_fa": "آرام، بازدم کرد.\n\nمثل بیدار شدن از رؤیا، مثل باز کردن چشم‌ها پس از خواب، نگاه هری از قفس دور شد، به اطراف نگاه کرد و دید که همه به او خیره شده‌اند.\n\nآلبوس دامبلدور به او خیره شده بود.\n\nپروفسور کویرل به او خیره شده بود.",
+  "summary_fa": "هری بازدم می‌کند و مثل بیدار شدن از رؤیا می‌بیند همه خیره‌اند، از جمله دامبلدور و کویرل."
+ },
+ {
+  "id": 37,
+  "paras": [
+   145,
+   146,
+   147
+  ],
+  "verbatim_html": [
+   "The Auror trio was staring at him.",
+   "They were all looking at him like they'd just seen him destroy a Dementor.",
+   "The tattered cloak lay empty within the cage."
+  ],
+  "summary_en": "The Auror trio stares as if they just saw him destroy a Dementor; the tattered cloak lies empty in the cage.",
+  "translation_fa": "سه‌تایی آئورور به او خیره شده بودند.\n\nهمه به او نگاه می‌کردند انگار تازه دیده بودند که یک دمنتور را نابود کرده است.\n\nشنل پاره‌پاره خالی درون قفس افتاده بود.",
+  "summary_fa": "سه‌تایی آئورور خیره‌اند انگار تازه دیده‌اند دمنتوری را نابود کرده است؛ شنل پاره‌پاره خالی در قفس افتاده است."
+ }
+]
