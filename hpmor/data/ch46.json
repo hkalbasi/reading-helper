@@ -1,0 +1,614 @@
+[
+ {
+  "id": 1,
+  "paras": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "verbatim_html": [
+   "The last tip of the Sun was sinking below the horizon, the red light fading from the treetops, only the blue sky illuminating the six people standing upon the winter-dried and snow-spotted grass, near a vacant cage on whose floor lay an empty, tattered cloak.",
+   "Harry felt... well, <em>normal</em> again. Sane-ish. The spell hadn't undone the day and its damage, hadn't made the injuries as if they had never been, but his hurts had been... bandaged, meliorated? It was hard to describe.",
+   "Dumbledore was also looking healthier, though not fully restored. The old wizard's head turned for a moment, locked eyes with Professor Quirrell, then looked back to Harry. \"Harry,\" Dumbledore said, \"are you about to collapse in exhaustion and possibly die?\"",
+   "\"No, strangely enough,\" Harry said. \"That took something out of me, but a lot less than I thought it would.\" <em>Or maybe it gave something back, as well as taking...</em> \"Honestly, I expected my body to be hitting the ground with a thud about now.\""
+  ],
+  "summary_en": "At sunset beside the empty Dementor cage, Harry feels strangely normal again, his hurts bandaged rather than healed; Dumbledore, partly recovered, asks if Harry is about to collapse and die, and Harry says the spell took surprisingly little out of him.",
+  "translation_fa": "آخرین نوک خورشید زیر افق فرو می‌رفت، نور سرخ از نوک درختان رنگ می‌باخت، و تنها آسمان آبی شش نفری را روشن می‌کرد که روی علف‌های خشکیده‌ی زمستانی و برف‌لکه ایستاده بودند، نزدیک قفسی خالی که بر کفش شنلی تهی و پاره‌پاره افتاده بود.\n\nهری حس می‌کرد... خب، دوباره عادی بود. کم‌وبیش عاقل. طلسم روز و خسارتش را باطل نکرده بود، جراحت‌ها را چنان نکرده بود که انگار هرگز نبوده‌اند، ولی دردهایش... پانسمان شده بودند، تسکین یافته بودند؟ توصیفش سخت بود.\n\nدامبلدور هم سالم‌تر به نظر می‌رسید، هرچند کاملاً بازیافته نبود. سر جادوگر پیر لحظه‌ای چرخید، با پروفسور کویرل چشم در چشم شد، بعد به هری برگشت. «هری،» دامبلدور گفت، «داری از فرط خستگی وانه‌می‌نهی و احتمالاً می‌میری؟»\n\n«نه، به‌طرز عجیبی،» هری گفت. «این چیزی از من گرفت، ولی خیلی کمتر از آن‌چه فکرش را می‌کردم.» یا شاید چیزی هم پس داد، علاوه بر گرفتن... «راستش، انتظار داشتم الان بدنم با صدای تاپ به زمین بخورد.»",
+  "summary_fa": "هنگام غروب کنار قفس خالی دمنتور، هری به‌طرز عجیبی عادی است و دردهایش تسکین یافته‌اند نه درمان؛ دامبلدور که تا حدی بازیافته از او می‌پرسد دارد از پا می‌افتد یا نه، و هری می‌گوید طلسم کمتر از انتظار از او گرفته است."
+ },
+ {
+  "id": 2,
+  "paras": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "verbatim_html": [
+   "There was a distinct body-hitting-the-ground-with-a-thuddish sort of sound.",
+   "\"Thank you for taking care of that, Quirinus,\" said Dumbledore to Professor Quirrell, who was now standing above and behind the unconscious forms of the three Aurors. \"I confess I am still feeling a bit peaky. Though I shall handle the Memory Charms myself.\"",
+   "Professor Quirrell inclined his head, and then looked at Harry. \"I will omit a good deal of useless incredulity,\" said Professor Quirrell, \"remarks to the effect that Merlin himself failed to do that, et cetera. Let us go straight to asking the important question. What the sweet slithering snakes was <em>that?</em> \"",
+   "\"The Patronus Charm,\" Harry said. \"Version 2.0.\""
+  ],
+  "summary_en": "A body hits the ground with a thud; Dumbledore thanks Quirrell, who stands over the three unconscious Aurors, and keeps the Memory Charms for himself; Quirrell skips the incredulity and demands what that was, and Harry answers: the Patronus Charm, version 2.0.",
+  "translation_fa": "صدای متمایزی برخاست، از آن جنس صداها که بدن با تاپ به زمین می‌خورد.\n\n«ممنون که ترتیبش را دادی، کویرینوس،» دامبلدور به پروفسور کویرل گفت، که حالا بالا و پشت پیکرهای بیهوش سه آئورور ایستاده بود. «اعتراف می‌کنم هنوز کمی ناخوشم. هرچند طلسم‌های فراموشی را خودم انجام می‌دهم.»\n\nپروفسور کویرل سرش را خم کرد، بعد به هری نگاه کرد. «بسیاری ناباوری بیهوده را حذف می‌کنم،» پروفسور کویرل گفت، «اظهاراتی از این دست که خود مرلین هم نتوانست چنین کند، و غیره. برویم سراغ پرسش مهم. آن دیگر چه بود، ای مارهای لغزنده‌ی نازنین؟»\n\n«طلسم پاترونوس،» هری گفت. «نسخه‌ی 2.0.»",
+  "summary_fa": "بدنی به زمین می‌خورد؛ دامبلدور از کویرل که بالای سه آئورور بیهوش ایستاده تشکر می‌کند و طلسم‌های فراموشی را برای خودش نگه می‌دارد؛ کویرل ناباوری را کنار می‌گذارد و می‌پرسد آن چه بود، و هری جواب می‌دهد: طلسم پاترونوس، نسخه‌ی 2.0."
+ },
+ {
+  "id": 3,
+  "paras": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "verbatim_html": [
+   "\"I rejoice to see that you are your usual self again,\" said Dumbledore. \"But you are not going <em>anywhere</em>, young Ravenclaw, until you tell me what exactly was that warm and happy thought.\"",
+   "\"Hm...\" said Harry. He tapped a contemplative finger on his cheek. \"I wonder if I should?\"",
+   "Professor Quirrell suddenly grinned.",
+   "\"Please?\" said the Headmaster. \"Pretty please with sugar on top?\""
+  ],
+  "summary_en": "Dumbledore demands to know what the warm and happy thought was before Harry goes anywhere; Harry hesitates theatrically while Quirrell grins, and the Headmaster begs, pretty please with sugar on top.",
+  "translation_fa": "«شادم که می‌بینم دوباره خود همیشگی‌ات شده‌ای،» دامبلدور گفت. «ولی تو هیچ‌جا نمی‌روی، ریونکلوی جوان، تا به من بگویی آن فکر گرم و شاد دقیقاً چه بود.»\n\n«هوم...» هری گفت. انگشت متفکرانه‌ای به گونه‌اش زد. «نمی‌دانم بگویم یا نه؟»\n\nپروفسور کویرل ناگهان لبخند پهنی زد.\n\n«لطفاً؟» مدیر گفت. «لطفاًِ قشنگ با شکر رویش؟»",
+  "summary_fa": "دامبلدور می‌خواهد پیش از رفتن هری بداند آن فکر گرم و شاد چه بود؛ هری نمایشی تردید می‌کند در حالی که کویرل لبخند پهنی می‌زند، و مدیر با شکر رویش التماس می‌کند."
+ },
+ {
+  "id": 4,
+  "paras": [
+   13,
+   14,
+   15,
+   16
+  ],
+  "verbatim_html": [
+   "Harry felt an impulse and decided to go with it. It was dangerous, but there might not ever be a better opportunity until the end of time.",
+   "\"Three sodas,\" Harry said to his pouch, then looked up at the Defense Professor and the Headmaster of Hogwarts. \"Gentlemen,\" Harry said, \"I bought these sodas on my first visit to Platform Nine and Three-Quarters, on the day I entered into Hogwarts. I have been saving them for special occasions; there is a minor enchantment on them to ensure they are drunk at the right time. This is the last of my supply, but I do not think there will ever come a finer occasion. Shall we?\"",
+   "Dumbledore took a soda can from Harry, and Harry tossed another to Professor Quirrell. The two older men each muttered identical charms over the can and frowned briefly at the result. Harry, for his part, simply popped the top and drank.",
+   "The Defense Professor and the Headmaster of Hogwarts politely followed suit."
+  ],
+  "summary_en": "Seizing a possibly once-in-eternity opportunity, Harry produces three sodas he has been saving since his first visit to Platform Nine and Three-Quarters; Dumbledore and Quirrell test their cans with charms before politely drinking along with him.",
+  "translation_fa": "هری تکانه‌ای حس کرد و تصمیم گرفت با آن همراه شود. خطرناک بود، ولی شاید تا پایان زمان فرصت بهتری پیش نیاید.\n\n«سه سودا،» هری به کیسه‌اش گفت، بعد به استاد دفاع و مدیر هاگوارتز نگاه کرد. «آقایان،» هری گفت، «این سوداها را در اولین دیدارم از سکوی نه و سه‌چهارم خریدم، در روزی که وارد هاگوارتز شدم. برای مناسبت‌های خاص نگه‌شان داشته‌ام؛ طلسم کوچکی رویشان هست که مطمئن شود در زمان درست نوشیده می‌شوند. این آخرین ذخیره‌ی من است، ولی فکر نمی‌کنم هیچ‌وقت مناسبتی بهتر از این پیش بیاید. بفرماییم؟»\n\nدامبلدور قوطی سودایی از هری گرفت، و هری دیگری به‌سوی پروفسور کویرل پرتاب کرد. هر دو مرد مسن‌تر طلسم‌های یکسانی زیر لب روی قوطی خواندند و لحظه‌ای اخم کردند. هری، از سوی خودش، فقط درش را باز کرد و نوشید.\n\nاستاد دفاع و مدیر هاگوارتز مؤدبانه همین کار را کردند.",
+  "summary_fa": "هری با غنیمت‌شمردن فرصتی که شاید تا پایان زمان تکرار نشود سه سودایی را بیرون می‌آورد که از اولین دیدار سکوی نه و سه‌چهارم نگه داشته بود؛ دامبلدور و کویرل قوطی‌ها را با طلسم می‌آزمایند و بعد مؤدبانه با او می‌نوشند."
+ },
+ {
+  "id": 5,
+  "paras": [
+   17,
+   18,
+   19,
+   20
+  ],
+  "verbatim_html": [
+   "Harry said, \"I thought of my absolute rejection of death as the natural order.\"",
+   "It might not be the right kind of warm feeling you needed to cast a Patronus Charm, but it was going into Harry's Top 10 nonetheless.",
+   "The looks he got from the Defense Professor and the Headmaster briefly made Harry nervous, as the spilled Comed-Tea faded out of existence; but then the two of them each glanced at the other and both apparently decided that they couldn't get away with doing anything really awful to Harry in the other's presence.",
+   "\"Mr. Potter,\" said Professor Quirrell, \"even <em>I</em> know that is not how things are supposed to work.\""
+  ],
+  "summary_en": "Harry reveals his thought: his absolute rejection of death as the natural order; as the spilled Comed-Tea fades away, the two older wizards eye him nervously but restrain each other, and Quirrell observes that is not how things are supposed to work.",
+  "translation_fa": "هری گفت: «به طرد مطلق مرگ به‌عنوان نظم طبیعی فکر کردم.»\n\nشاید از آن جنس حس گرمی نبود که برای اجرای طلسم پاترونوس لازم داری، ولی بااین‌حال به 10تای برتر هری راه می‌یافت.\n\nنگاه‌هایی که از استاد دفاع و مدیر گرفت لحظه‌ای هری را عصبی کرد، همچنان‌که چای کمدیِ ریخته‌شده از هستی محو می‌شد؛ ولی بعد هر دو به یکدیگر نگاهی انداختند و هر دو ظاهراً به این نتیجه رسیدند که در حضور دیگری نمی‌توانند هیچ کار واقعاً هولناکی با هری بکنند.\n\n«آقای پاتر،» پروفسور کویرل گفت، «حتی من می‌دانم کارها قرار نیست این‌طور پیش بروند.»",
+  "summary_fa": "هری فاش می‌کند به طرد مطلق مرگ به‌عنوان نظم طبیعی فکر کرده است؛ همچنان‌که چای کمدی ریخته‌شده محو می‌شود، دو جادوگر مسن‌تر عصبی نگاهش می‌کنند ولی یکدیگر را خنثی می‌کنند، و کویرل می‌گوید کارها قرار نیست این‌طور پیش بروند."
+ },
+ {
+  "id": 6,
+  "paras": [
+   21,
+   22,
+   23,
+   24
+  ],
+  "verbatim_html": [
+   "\"Indeed,\" said Dumbledore. \"Explain.\"",
+   "Harry opened his mouth, and then, as realization hit him, rapidly snapped his mouth shut again. Godric hadn't told anyone, nor had Rowena if she'd known; there might have been any number of wizards who'd figured it out and kept their mouths shut. You couldn't forget if you <em>knew</em> that was what you were trying to do; once you realized <em>how</em> it worked, the animal form of the Patronus Charm would never work for you again - and most wizards didn't have the right upbringing to turn on Dementors and destroy them -",
+   "\"Erm, sorry about this,\" said Harry. \"But I've just this instant realized that explaining would be an <em>incredibly</em> bad idea until you work some things out on your own.\"",
+   "\"Is that the truth, Harry?\" Dumbledore said slowly. \"Or are you just pretending to be wise -\""
+  ],
+  "summary_en": "Dumbledore orders Harry to explain; but Harry realizes mid-breath that explaining would be an incredibly bad idea, since knowing how it works would destroy the animal Patronus for most wizards, so he refuses until they work things out on their own.",
+  "translation_fa": "«واقعاً،» دامبلدور گفت. «توضیح بده.»\n\nهری دهانش را باز کرد، و بعد، همچنان‌که فهم به او اصابت کرد، به‌سرعت دهانش را دوباره بست. گودریک به هیچ‌کس نگفته بود، نه روونا هم اگر می‌دانست؛ ممکن بود هر تعداد جادوگری بوده باشند که فهمیده بودند و دهان‌شان را بسته نگه داشته بودند. نمی‌توانستی فراموش کنی اگر می‌دانستی که داری سعی می‌کنی همین کار را بکنی؛ وقتی می‌فهمیدی چطور کار می‌کند، شکل جانوری طلسم پاترونوس دیگر هرگز برایت کار نمی‌کرد - و بیشتر جادوگرها تربیت درستی نداشتند که برگردند به‌سوی دمنتورها و نابودشان کنند -\n\n«اوه، ببخشید بابت این،» هری گفت. «ولی همین لحظه فهمیدم که توضیح‌دادن ایده‌ی فوق‌العاده بدی است تا وقتی خودتان چیزهایی را به‌تنهایی بفهمید.»\n\n«این حقیقت است، هری؟» دامبلدور آرام گفت. «یا فقط داری تظاهر به دانایی می‌کنی -»",
+  "summary_fa": "دامبلدور دستور توضیح می‌دهد؛ ولی هری وسط نفس فهمید که توضیح‌دادن ایده‌ی فوق‌العاده بدی است، چون دانستنِ چگونگی کار طلسم، پاترونوس جانوری را برای بیشتر جادوگرها نابود می‌کند، پس تا وقتی خودشان بفهمند سر باز می‌زند."
+ },
+ {
+  "id": 7,
+  "paras": [
+   25,
+   26,
+   27,
+   28
+  ],
+  "verbatim_html": [
+   "\"<em>Headmaster!</em> \" said Professor Quirrell, sounding genuinely shocked. \"Mr. Potter has told you that this spell is not spoken of with those who cannot cast it! You do not press a wizard on such matters!\"",
+   "\"If I told you -\" Harry began.",
+   "\"No,\" Professor Quirrell said, sounding rather severe. \"You don't tell us <em>why,</em> Mr. Potter, you simply tell us that we are not to know. If you wish to devise a hint, you do so carefully, at leisure, not in the midst of conversation.\"",
+   "Harry nodded."
+  ],
+  "summary_en": "Quirrell, genuinely shocked, rebukes the Headmaster for pressing a wizard on a spell he cannot cast; when Harry starts to justify himself, Quirrell instructs him to simply withhold without reasons, devising any hints only carefully and at leisure.",
+  "translation_fa": "«مدیر!» پروفسور کویرل گفت، با صدایی واقعاً شوکه‌شده. «آقای پاتر به شما گفته که این طلسم با کسانی که نمی‌توانند اجرایش کنند سخن گفته نمی‌شود! جادوگر را در چنین مسائلی تحت فشار نمی‌گذاری!»\n\n«اگر به شما بگویم -» هری آغاز کرد.\n\n«نه،» پروفسور کویرل گفت، با لحنی نسبتاً جدی. «به ما نمی‌گویی چرا، آقای پاتر، فقط به ما می‌گویی که نباید بدانیم. اگر می‌خواهی سرنخی طرح کنی، با دقت طرح می‌کنی، در فراغت، نه در میان گفت‌وگو.»\n\nهری سرش را تکان داد.",
+  "summary_fa": "کویرل که واقعاً شوکه شده مدیر را سرزنش می‌کند که جادوگر را درباره‌ی طلسمی که نمی‌تواند اجرا کند تحت فشار گذاشته است؛ و وقتی هری می‌خواهد توجیه کند، به او می‌آموزد که فقط بی‌دلیل خودداری کند و هر سرنخی را فقط با دقت و در فراغت طرح کند."
+ },
+ {
+  "id": 8,
+  "paras": [
+   29,
+   30,
+   31,
+   32
+  ],
+  "verbatim_html": [
+   "\"But,\" said the Headmaster. \"But, but what am I to tell the Ministry? You can't just <em>lose</em> a Dementor!\"",
+   "\"Tell them I ate it,\" said Professor Quirrell, causing Harry to choke on the soda he had unthinkingly raised to his lips. \"I don't mind. Shall we head on back, Mr. Potter?\"",
+   "The two of them began to walk the dirt path back to Hogwarts, leaving behind Albus Dumbledore staring forlornly at the empty cage and the three sleeping Aurors awaiting their Memory Charms.",
+   "<em>Aftermath, Harry Potter and Professor Quirrell:</em>"
+  ],
+  "summary_en": "Dumbledore frets about what to tell the Ministry over a lost Dementor, and Quirrell breezily offers to say he ate it; he and Harry walk back to Hogwarts, leaving Dumbledore with the empty cage and three Aurors awaiting Memory Charms.",
+  "translation_fa": "«ولی،» مدیر گفت. «ولی، ولی به وزارت چه بگویم؟ نمی‌شود همین‌طور یک دمنتور را گم کرد!»\n\n«بهشان بگو من خوردمش،» پروفسور کویرل گفت، که باعث شد هری با سودایی که بی‌فکر به لب‌هایش برده بود خفه شود. «اشکالی ندارد. برگردیم، آقای پاتر؟»\n\nآن دو شروع کردند به راه‌رفتن در مسیر خاکی به‌سوی هاگوارتز، و آلبوس دامبلدور را پشت سر گذاشتند که غمگینانه به قفس خالی و سه آئورور خفته در انتظار طلسم‌های فراموشی‌شان خیره مانده بود.\n\nپیامد، هری پاتر و پروفسور کویرل:",
+  "summary_fa": "دامبلدور نگران است به وزارت درباره‌ی دمنتور گم‌شده چه بگوید، و کویرل بی‌خیال پیشنهاد می‌دهد بگویند او آن را خورده است؛ او و هری به‌سوی هاگوارتز برمی‌گردند و دامبلدور را با قفس خالی و سه آئورور در انتظار طلسم‌های فراموشی تنها می‌گذارند."
+ },
+ {
+  "id": 9,
+  "paras": [
+   33,
+   34,
+   35,
+   36
+  ],
+  "verbatim_html": [
+   "They walked for a while before Professor Quirrell spoke, and all background noise dropped into silence when he did.",
+   "\"You are exceptionally good at killing things, my student,\" said Professor Quirrell.",
+   "\"Thank you,\" Harry said sincerely.",
+   "\"I am not prying,\" said Professor Quirrell, \"but on the off-chance that it was <em>only</em> the Headmaster who you did not trust with the secret...?\""
+  ],
+  "summary_en": "On the walk back, silence falls as Quirrell speaks: he praises Harry as exceptionally good at killing things, Harry thanks him sincerely, and Quirrell delicately probes whether the secret was withheld from the Headmaster alone.",
+  "translation_fa": "مدتی راه رفتند پیش از آن‌که پروفسور کویرل سخن بگوید، و وقتی سخن گفت همه‌ی صدای پس‌زمینه در سکوت فرو رفت.\n\n«تو به‌طرز استثنایی در کشتن چیزها خوبی، شاگردم،» پروفسور کویرل گفت.\n\n«ممنون،» هری صمیمانه گفت.\n\n«فضولی نمی‌کنم،» پروفسور کویرل گفت، «ولی به احتمالِ این‌که فقط مدیر بود که راز را از او دریغ کردی...؟»",
+  "summary_fa": "در راه بازگشت با سخن‌گفتن کویرل سکوت می‌افتد: او هری را در کشتن چیزها به‌طرز استثنایی خوب می‌خواند، هری صمیمانه تشکر می‌کند، و کویرل با ظرافت می‌پرسد آیا راز فقط از مدیر دریغ شده است."
+ },
+ {
+  "id": 10,
+  "paras": [
+   37,
+   38,
+   39,
+   40
+  ],
+  "verbatim_html": [
+   "Harry considered this. Professor Quirrell already couldn't cast the animal Patronus Charm.",
+   "But you couldn't untell a secret, and Harry was a fast enough learner to realize that he ought to at least <em>think</em> for a while before unleashing this one upon the world.",
+   "Harry shook his head, and Professor Quirrell nodded acceptance.",
+   "\"Out of curiosity, Professor Quirrell,\" said Harry, \"if your bringing the Dementor to Hogwarts had been part of an evil plot, what would have been its goal?\""
+  ],
+  "summary_en": "Harry weighs telling Quirrell, who already cannot cast the animal Patronus, but decides the secret cannot be untold and shakes his head; accepted, Quirrell moves on, and Harry asks what goal an evil plot behind the Dementor would have had.",
+  "translation_fa": "هری این را سبک‌سنگین کرد. پروفسور کویرل از پیش نمی‌توانست طلسم پاترونوس جانوری را اجرا کند.\n\nولی نمی‌شد رازی را ناگفت، و هری به‌قدر کافی سریع‌یادگیرنده بود که بفهمد دست‌کم باید مدتی فکر کند پیش از آن‌که این یکی را بر جهان رها کند.\n\nهری سرش را تکان داد، و پروفسور کویرل پذیرفت.\n\n«از روی کنجکاوی، پروفسور کویرل،» هری گفت، «اگر آوردن دمنتور به هاگوارتز بخشی از نقشه‌ای شریرانه بود، هدفش چه می‌بود؟»",
+  "summary_fa": "هری سبک‌سنگین می‌کند به کویرل بگوید که از پیش نمی‌تواند پاترونوس جانوری اجرا کند، ولی چون راز را نمی‌شود ناگفت سر تکان می‌دهد؛ کویرل می‌پذیرد، و هری می‌پرسد اگر آوردن دمنتور نقشه‌ای شریرانه بود هدفش چه می‌بود."
+ },
+ {
+  "id": 11,
+  "paras": [
+   41,
+   42,
+   43,
+   44
+  ],
+  "verbatim_html": [
+   "\"Assassinate Dumbledore while he was weakened,\" Professor Quirrell said without even hesitating. \"Hm. The Headmaster told you he was suspicious of me?\"",
+   "Harry said nothing for a second while he tried to think of a reply, and then gave up when he realized he'd already answered.",
+   "\"Interesting...\" Professor Quirrell said. \"Mr. Potter, it is not out of the question that there <em>was</em> a plot at work today. Your wand ending up that close to the Dementor's cage <em>could</em> have been an accident. Or one of the Aurors could have been Imperiused, Confunded, or Legilimized to exert an influence. Flitwick and myself should not be excluded as suspects, in your calculation. One notes that Professor Snape canceled all his classes today, and I suspect he is powerful enough to Disillusion himself; the Aurors cast detection charms early on, but they did not repeat them immediately before your turn. But most easily of all, Mr. Potter, the deed could have been plotted by Dumbledore himself; and if he <em>did</em>, why, he might also take steps in advance to cast your suspicion elsewhere.\"",
+   "They walked on for a few steps."
+  ],
+  "summary_en": "Quirrell instantly answers, assassinating a weakened Dumbledore, and guesses the Headmaster voiced suspicion of him, which Harry's silence confirms; he then methodically lists suspects, from accident to Imperiused Aurors to Snape to, most easily, Dumbledore himself.",
+  "translation_fa": "«ترور دامبلدور وقتی ضعیف شده بود،» پروفسور کویرل بدون حتی تردید گفت. «هوم. مدیر به تو گفت که به من مشکوک است؟»\n\nهری ثانیه‌ای هیچ نگفت در حالی که سعی می‌کرد پاسخی به ذهنش برسد، و بعد وقتی فهمید از پیش جواب داده بود تسلیم شد.\n\n«جالب...» پروفسور کویرل گفت. «آقای پاتر، دور از ذهن نیست که امروز نقشه‌ای در کار بوده است. چوب‌دستی تو که آن‌قدر نزدیک قفس دمنتور تمام شد ممکن بود تصادف بوده باشد. یا یکی از آئورورها ممکن بود تحت طلسم فرمان، گیجی یا ذهن‌خوانی قرار گرفته باشد تا نفوذی اعمال شود. فلیت‌ویک و خودم نباید در حسابت از مظنونان مستثنا شویم. یادآور می‌شوم که پروفسور اسنیپ امروز همه‌ی کلاس‌هایش را لغو کرد، و حدس می‌زنم به‌قدر کافی نیرومند باشد که خودش را نامرئی کند؛ آئورورها اوایل طلسم‌های ردیابی اجرا کردند، ولی درست پیش از نوبت تو تکرارشان نکردند. ولی از همه راحت‌تر، آقای پاتر، کار ممکن بود توسط خود دامبلدور طرح شده باشد؛ و اگر کرده باشد، خب، ممکن است پیشاپیش گام‌هایی بردارد تا سوءظن تو را به‌جای دیگری بیندازد.»\n\nچند گامی راه رفتند.",
+  "summary_fa": "کویرل بی‌درنگ جواب می‌دهد، ترور دامبلدورِ ضعیف‌شده، و حدس می‌زند مدیر به او مشکوک بوده که سکوت هری تأییدش می‌کند؛ بعد روشمند مظنونان را می‌شمارد، از تصادف تا آئورورهای طلسم‌شده تا اسنیپ و، از همه راحت‌تر، خود دامبلدور."
+ },
+ {
+  "id": 12,
+  "paras": [
+   45,
+   46,
+   47,
+   48
+  ],
+  "verbatim_html": [
+   "\"But why <em>would</em> he?\" Harry said.",
+   "The Defense Professor stayed quiet a moment, and then said, \"Mr. Potter, what steps have you taken to investigate the Headmaster's character?\"",
+   "\"Not many,\" said Harry. He'd only recently realized... \"Not nearly enough.\"",
+   "\"Then I will observe,\" said Professor Quirrell, \"that you do not find out all there is to know about a man by asking only his friends.\""
+  ],
+  "summary_en": "Harry asks why Dumbledore would do such a thing; Quirrell answers with a question about what Harry has done to investigate the Headmaster's character, and observes that one does not learn a man by asking only his friends.",
+  "translation_fa": "«ولی چرا باید بکند؟» هری گفت.\n\nاستاد دفاع لحظه‌ای ساکت ماند، بعد گفت: «آقای پاتر، برای بررسی شخصیت مدیر چه گام‌هایی برداشته‌ای؟»\n\n«زیاد نه،» هری گفت. تازه فهمیده بود... «به‌اندازه‌ی کافی نه.»\n\n«پس مشاهده می‌کنم،» پروفسور کویرل گفت، «که همه‌ی آن‌چه را که درباره‌ی مردی باید دانست با پرسیدن فقط از دوستانش نمی‌فهمی.»",
+  "summary_fa": "هری می‌پرسد دامبلدور چرا باید چنین کند؛ کویرل با پرسشی جواب می‌دهد که هری برای بررسی شخصیت مدیر چه کرده است، و مشاهده می‌کند که آدم را با پرسیدن فقط از دوستانش نمی‌شناسی."
+ },
+ {
+  "id": 13,
+  "paras": [
+   49,
+   50,
+   51,
+   52
+  ],
+  "verbatim_html": [
+   "Now it was Harry's turn to walk a few steps in silence on the slightly beaten dirt path that led back to Hogwarts. He'd really been supposed to know better than that already. Confirmation bias was the technical term; it meant, among other things, that when you chose your information sources, there was a notable tendency to choose information sources that agreed with your current opinions.",
+   "\"Thank you,\" Harry said. \"Actually... I didn't say it earlier, did I? Thank you for <em>everything</em>. If another Dementor ever threatens you, or for that matter, slightly annoys you, just let me know and I'll introduce it to Mister Glowy Person. I don't like it when Dementors slightly annoy my friends.\"",
+   "That got him an indecipherable glance from Professor Quirrell. \"You destroyed the Dementor because it threatened me?\"",
+   "\"Erm,\" Harry said, \"I'd sort of decided on it before then, but yes, that would have been sufficient reason by itself.\""
+  ],
+  "summary_en": "Stung by confirmation bias, his own failure to diversify sources, Harry thanks Quirrell for everything and offers to introduce any annoying Dementor to Mister Glowy Person; Quirrell pointedly asks whether Harry destroyed it because it threatened him.",
+  "translation_fa": "حالا نوبت هری بود که چند گامی در سکوت راه برود در مسیر خاکیِ کمی‌کوبیده که به هاگوارتز برمی‌گشت. واقعاً قرار بود این را از پیش بهتر بداند. سوگیری تأییدی اصطلاح فنی‌اش بود؛ از جمله یعنی وقتی منابع اطلاعاتت را انتخاب می‌کنی، گرایش چشمگیری هست به انتخاب منابع اطلاعاتی که با نظرات فعلی‌ات موافق‌اند.\n\n«ممنون،» هری گفت. «راستی... زودتر نگفتم، گفتم؟ ممنون بابت همه‌چیز. اگر دمنتور دیگری هرگز تهدیدت کرد، یا اصلاً کمی آزرده‌ات کرد، فقط به من خبر بده تا با آقای نورانی آشنایش کنم. دوست ندارم دمنتورها دوستانم را کمی بیازارند.»\n\nاین نگاه نامفهومی از پروفسور کویرل برایش به ارمغان آورد. «دمنتور را نابود کردی چون مرا تهدید می‌کرد؟»\n\n«اوه،» هری گفت، «یک جورهایی پیش‌تر تصمیمش را گرفته بودم، ولی بله، آن به‌تنهایی دلیل کافی می‌بود.»",
+  "summary_fa": "هری که از سوگیری تأییدیِ خودش نیش خورده بابت همه‌چیز از کویرل تشکر می‌کند و پیشنهاد می‌دهد هر دمنتور آزاردهنده‌ای را به آقای نورانی معرفی کند؛ کویرل با نکته‌سنجی می‌پرسد آیا دمنتور را نابود کرد چون او را تهدید می‌کرد."
+ },
+ {
+  "id": 14,
+  "paras": [
+   53,
+   54,
+   55,
+   56
+  ],
+  "verbatim_html": [
+   "\"I see,\" said Professor Quirrell. \"And what would you have done about the threat to me if your spell <em>hadn't</em> worked for destroying the Dementor?\"",
+   "\"Plan B,\" said Harry. \"Encase the Dementor in dense metal with a high melting point, probably tungsten, drop it into an active volcano, and hope it ends up inside Earth's mantle. Ah, the whole planet is filled with molten lava under its surface -\"",
+   "\"Yes,\" said Professor Quirrell. \"I know.\" The Defense Professor was wearing a very odd smile. \"I really should have thought of that myself, all things considered. Tell me, Mr. Potter, if you wanted to lose something where no one would ever find it again, where would you put it?\"",
+   "Harry considered this question. \"I suppose I shouldn't ask <em>what</em> you've found that needs losing -\""
+  ],
+  "summary_en": "Quirrell asks what Harry's plan B for the threat would have been; Harry proposes encasing the Dementor in tungsten and dropping it into a volcano, and Quirrell, oddly smiling, asks where Harry would hide something so no one ever finds it.",
+  "translation_fa": "«می‌بینم،» پروفسور کویرل گفت. «و اگر طلسمت برای نابودی دمنتور کار نمی‌کرد، درباره‌ی تهدید علیه من چه می‌کردی؟»\n\n«نقشه‌ی ب،» هری گفت. «دمنتور را در فلز چگال با نقطه‌ی ذوب بالا محصور کن، احتمالاً تنگستن، بیندازش در آتشفشانی فعال، و امیدوار باش به گوشته‌ی زمین برسد. آه، کل سیاره زیر سطحش پر از گدازه‌ی مذاب است -»\n\n«بله،» پروفسور کویرل گفت. «می‌دانم.» استاد دفاع لبخند بسیار عجیبی بر لب داشت. «واقعاً باید خودم به آن فکر می‌کردم، با همه‌ی ملاحظات. بگو، آقای پاتر، اگر می‌خواستی چیزی را گم کنی که هیچ‌کس هرگز دوباره پیدایش نکند، کجا می‌گذاشتی‌اش؟»\n\nهری این پرسش را سبک‌سنگین کرد. «فکر کنم نباید بپرسم چه چیزی یافته‌ای که نیاز به گم‌شدن دارد -»",
+  "summary_fa": "کویرل می‌پرسد نقشه‌ی ب هری برای آن تهدید چه می‌بود؛ هری پیشنهاد می‌دهد دمنتور را در تنگستن محصور و در آتشفشانی بیندازند، و کویرل با لبخند عجیبی می‌پرسد هری چیزی را که نخواهد هیچ‌کس پیدا کند کجا می‌گذارد."
+ },
+ {
+  "id": 15,
+  "paras": [
+   57,
+   58,
+   59,
+   60
+  ],
+  "verbatim_html": [
+   "\"Quite,\" said Professor Quirrell, as Harry had expected; and then, \"Perhaps you will be told when you are older,\" which Harry hadn't.",
+   "\"Well,\" said Harry, \"besides trying to get it into the molten core of the planet, you could bury it in solid rock a kilometer underground in a randomly selected location - maybe teleport it in, if there's some way to do that blindly, or drill a hole and repair the hole afterward; the important thing would be not to leave any traces leading there, so it's just an anonymous cubic meter somewhere in the Earth's crust. You could drop it into the Mariana Trench, that's the deepest depth of ocean on the planet - or just pick some random other ocean trench, to make it less obvious. If you could make it buoyant and invisible, then you could throw it into the stratosphere. Or ideally you would launch it into space, with a cloak against detection, and a randomly fluctuating acceleration factor that would take it out of the Solar System. And afterward, of course, you'd Obliviate yourself, so even you didn't know exactly where it was.\"",
+   "The Defense Professor was laughing, and it sounded even odder than his smile.",
+   "\"Professor Quirrell?\" Harry said."
+  ],
+  "summary_en": "Quirrell confirms he will not say what needs losing, adding unexpectedly that Harry may be told when older; Harry lists options, molten core, buried rock, ocean trench, stratosphere, or space, followed by self-Obliviation, and the Defense Professor laughs oddly.",
+  "translation_fa": "«کاملاً،» پروفسور کویرل گفت، چنان‌که هری انتظار داشت؛ و بعد، «شاید وقتی بزرگ‌تر شدی به تو گفته شود،» که هری انتظارش را نداشت.\n\n«خب،» هری گفت، «علاوه بر تلاش برای رساندنش به هسته‌ی مذاب سیاره، می‌توانستی در سنگ یکپارچه یک کیلومتر زیر زمین دفنش کنی در مکانی تصادفی‌انتخاب‌شده - شاید با تله‌پورتش کنی، اگر راهی باشد که کورکورانه انجامش داد، یا سوراخی بکنی و بعد سوراخ را ترمیم کنی؛ نکته‌ی مهم این می‌بود که هیچ ردی به‌جا نگذاری که به آن‌جا برسد، پس فقط یک مترمکعب ناشناس جایی در پوسته‌ی زمین باشد. می‌توانستی بیندازی‌اش در گودال ماریانا، که عمیق‌ترین عمق اقیانوس روی سیاره است - یا فقط یک گودال اقیانوسی تصادفی دیگر انتخاب کنی، تا کمتر بدیهی باشد. اگر می‌توانستی شناور و نامرئی‌اش کنی، آن‌وقت می‌توانستی پرتابش کنی به استراتوسفر. یا در حالت ایده‌آل به فضا پرتابش می‌کردی، با شنلی در برابر ردیابی، و ضریب شتاب تصادفی‌نوسانی که از منظومه‌ی شمسی بیرونش ببرد. و بعد، البته، خودت را هم طلسم فراموشی می‌زدی، پس حتی خودت هم نمی‌دانستی دقیقاً کجاست.»\n\nاستاد دفاع می‌خندید، و حتی عجیب‌تر از لبخندش به گوش می‌رسید.\n\n«پروفسور کویرل؟» هری گفت.",
+  "summary_fa": "کویرل تأیید می‌کند که نمی‌گوید چه چیزی نیاز به گم‌شدن دارد، ولی غیرمنتظره می‌افزاید شاید وقتی بزرگ‌تر شد به هری گفته شود؛ هری گزینه‌ها را می‌شمارد، هسته‌ی مذاب، سنگ مدفون، گودال اقیانوسی، استراتوسفر یا فضا، و بعد طلسم فراموشی بر خود، و استاد دفاع به‌طرز عجیبی می‌خندد."
+ },
+ {
+  "id": 16,
+  "paras": [
+   61,
+   62,
+   63,
+   64
+  ],
+  "verbatim_html": [
+   "\"All excellent suggestions,\" said Professor Quirrell. \"But tell me, Mr. Potter, why those exact five?\"",
+   "\"Huh?\" said Harry. \"They just seemed like the obvious sorts of ideas.\"",
+   "\"Oh?\" said Professor Quirrell. \"But there is an interesting pattern to them, you see. One might say it sounds like something of a riddle. I must admit, Mr. Potter, that although it has had its ups and downs, on the whole, this has been a surprisingly good day.\"",
+   "And they continued walking down the path that led to the gates of Hogwarts, quite some distance apart; as Harry, without even thinking about it, automatically stayed far enough away from the Defense Professor not to trigger that sense of doom, which for some reason seemed unusually strong right now."
+  ],
+  "summary_en": "Quirrell asks why Harry named those exact five hiding places, and Harry can only say they seemed obvious; Quirrell calls it something of a riddle, declares it a surprisingly good day, and they walk on while Harry's sense of doom feels unusually strong.",
+  "translation_fa": "«همه پیشنهادهای عالی،» پروفسور کویرل گفت. «ولی بگو، آقای پاتر، چرا دقیقاً همین پنج‌تا؟»\n\n«ها؟» هری گفت. «فقط به‌نظرم از جنس ایده‌های بدیهی می‌رسیدند.»\n\n«اوه؟» پروفسور کویرل گفت. «ولی الگوی جالبی در آن‌ها هست، می‌بینی. می‌شود گفت چیزی از جنس معما به گوش می‌رسد. اعتراف می‌کنم، آقای پاتر، که هرچند فرازونشیب‌هایی داشته، در کل، روزِ به‌طرز شگفت‌آوری خوبی بوده است.»\n\nو به راه رفتن در مسیری که به دروازه‌های هاگوارتز می‌رسید ادامه دادند، با فاصله‌ی نسبتاً زیادی از هم؛ همچنان‌که هری، بدون حتی فکر کردن، خودکار به‌قدر کافی از استاد دفاع دور ماند که آن حس عذاب را تحریک نکند، که به دلیلی به‌نظرم الان به‌طور غیرعادی قوی بود.",
+  "summary_fa": "کویرل می‌پرسد چرا هری دقیقاً همین پنج مخفیگاه را نام برد و هری فقط می‌گوید بدیهی به نظر می‌رسیدند؛ کویرل آن را چیزی شبیه معما می‌خواند و روز را به‌طرز شگفت‌آوری خوب می‌داند، و همچنان‌که راه می‌روند حس عذاب هری به‌طور غیرعادی قوی است."
+ },
+ {
+  "id": 17,
+  "paras": [
+   65,
+   66,
+   67,
+   68
+  ],
+  "verbatim_html": [
+   "<em>Aftermath, Daphne Greengrass:</em>",
+   "Hermione had refused to answer any questions, and as soon as they'd passed the split leading to the Slytherin dungeons, Daphne and Tracey had peeled off at once, walking as quickly as they could. Rumor traveled fast in Hogwarts, so they'd have to go to the dungeons right away if they wanted to be the first to tell everyone the story.",
+   "\"Now remember,\" said Daphne, \"don't just blurt out about the kiss as soon as we walk in, okay? It works better if we tell the whole story in order.\"",
+   "Tracey nodded excitedly."
+  ],
+  "summary_en": "Aftermath, Daphne Greengrass: Hermione refuses all questions, so Daphne and Tracey hurry to the Slytherin dungeons to spread the story first; Daphne coaches Tracey to tell it in order rather than blurting out the kiss.",
+  "translation_fa": "پیامد، دافنه گرین‌گرس:\n\nهرماینی از جواب‌دادن به هیچ سؤالی سر باز زده بود، و به‌محض این‌که از انشعابِ منتهی به سیاه‌چال‌های اسلیترین گذشتند، دافنه و تریسی همان لحظه جدا شدند، هرچه سریع‌تر راه می‌رفتند. شایعه در هاگوارتز سریع سفر می‌کند، پس باید فوراً به سیاه‌چال‌ها می‌رفتند اگر می‌خواستند اولین کسانی باشند که داستان را به همه می‌گویند.\n\n«حالا یادت باشد،» دافنه گفت، «همین که وارد شدیم درباره‌ی بوسه وراجی نکن، باشه؟ بهتر جواب می‌دهد اگر کل داستان را به ترتیب بگوییم.»\n\nتریسی هیجان‌زده سر تکان داد.",
+  "summary_fa": "پیامد، دافنه گرین‌گرس: هرماینی به هیچ سؤالی جواب نمی‌دهد، پس دافنه و تریسی شتابان به سیاه‌چال‌های اسلیترین می‌روند تا اول داستان را پخش کنند؛ دافنه به تریسی می‌گوید به‌جای لو دادن بوسه داستان را به ترتیب بگوید."
+ },
+ {
+  "id": 18,
+  "paras": [
+   69,
+   70,
+   71,
+   72
+  ],
+  "verbatim_html": [
+   "And as soon as they burst into the Slytherin common room, Tracey Davis took a deep breath and shouted, \"<em>Everyone! Harry Potter couldn't cast the Patronus Charm and the Dementor almost ate him and Professor Quirrell saved him but then Potter was all evil until Granger brought him back with a kiss! It's true love for sure!</em> \"",
+   "It was ordered storytelling of a sort, Daphne supposed.",
+   "The news failed to produce the expected reaction. Most of the girls glanced over and then stayed in their couches, or the boys simply kept reading in their chairs.",
+   "\"Yes,\" said Pansy sourly, from where she was sitting with Gregory's feet in her lap, leaning back and reading what seemed to be a coloring book, \"Millicent already told us.\""
+  ],
+  "summary_en": "Tracey bursts into the Slytherin common room and shouts the whole garbled saga at once, true love included; Daphne notes the loose idea of order, but the room barely reacts since Millicent already told everyone.",
+  "translation_fa": "و به‌محض این‌که به تالار عمومی اسلیترین هجوم بردند، تریسی دیویس نفس عمیقی کشید و فریاد زد: «همه! هری پاتر نتوانست طلسم پاترونوس را اجرا کند و دمنتور نزدیک بود او را بخورد و پروفسور کویرل نجاتش داد ولی بعد پاتر کاملاً شرور شد تا گرینجر با بوسه‌ای برگرداندش! عشق واقعی حتماً!»\n\nبه‌نوعی داستان‌گوییِ مرتب بود، دافنه حدس زد.\n\nخبر واکنش موردانتظار را تولید نکرد. بیشتر دخترها نگاهی انداختند و بعد در مبل‌هایشان ماندند، یا پسرها فقط به خواندن در صندلی‌هایشان ادامه دادند.\n\n«بله،» پنسی با ترشرویی گفت، از جایی که با پاهای گرگوری در دامنش نشسته بود، تکیه داده و چیزی را می‌خواند که به‌نظر کتاب رنگ‌آمیزی می‌رسید، «میلیسنت از پیش به ما گفت.»",
+  "summary_fa": "تریسی به تالار عمومی اسلیترین هجوم می‌برد و کل ماجرای درهم را یک‌جا فریاد می‌زند، عشق واقعی هم ضمیمه‌اش؛ دافنه به ایده‌ی سستِ نظم اشاره می‌کند، ولی اتاق کم واکنش نشان می‌دهد چون میلیسنت از پیش به همه گفته بود."
+ },
+ {
+  "id": 19,
+  "paras": [
+   73,
+   74,
+   75,
+   76
+  ],
+  "verbatim_html": [
+   "<em>How -</em>",
+   "\"Why didn't <em>you</em> kiss him first, Tracey?\" said Flora and Hestia Carrow from their own chairs. \"Now Potter's going to marry a mudblood girl! <em>You</em> could've been his true love and gotten into a rich Noble House and everything if you'd just kissed him first!\"",
+   "Tracey's face was a picture in stunned realization.",
+   "\"<em>What?</em> \" shrieked Daphne. \"Love does not work like that!\""
+  ],
+  "summary_en": "Daphne starts to ask how Millicent knew; the Carrow twins scold Tracey for not kissing Harry first, warning she has lost him to a mudblood girl and a rich Noble House, leaving Tracey stunned and Daphne shrieking that love does not work like that.",
+  "translation_fa": "چطور -\n\n«چرا تو اول نبوسیدی‌اش، تریسی؟» فلورا و هستیا کرو از صندلی‌هایشان گفتند. «حالا پاتر قرار است با دختر گل‌خونی ازدواج کند! تو می‌توانستی عشق واقعی‌اش باشی و وارد خاندان اصیل ثروتمندی بشوی و همه‌چیز اگر فقط اول بوسیده بودی‌اش!»\n\nچهره‌ی تریسی تابلوی حیرتِ مبهوتانه بود.\n\n«چی؟» دافنه جیغ کشید. «عشق این‌طور کار نمی‌کند!»",
+  "summary_fa": "دافنه می‌خواهد بپرسد میلیسنت از کجا می‌دانست؛ دوقلوهای کرو تریسی را سرزنش می‌کنند که چرا اول هری را نبوسیده و هشدار می‌دهند او را به دختر گل‌خونی و خاندانی اصیل باخته است، و تریسی مبهوت می‌ماند و دافنه جیغ می‌کشد که عشق این‌طور کار نمی‌کند."
+ },
+ {
+  "id": 20,
+  "paras": [
+   77,
+   78,
+   79,
+   80
+  ],
+  "verbatim_html": [
+   "\"Of course it does,\" stated Millicent from where she was practicing some sort of Charm while looking out a window at the swirling waters of the Hogwarts Lake. \"First kiss gets the prince.\"",
+   "\"<em>It wasn't their first kiss!</em> \" shouted Daphne. \"Hermione was <em>already</em> his true love! That's why <em>she</em> could bring him back!\" Then Daphne realized what she'd just said and winced internally, but as the saying went, you had to fit the tongue to the ear.",
+   "\"Whoa, whoa, whoa, what?\" said Gregory, swinging his feet off Pansy's lap. \"What's this? Miss Bulstrode didn't tell that part.\"",
+   "Everyone else was also looking at Daphne, now."
+  ],
+  "summary_en": "Millicent pronounces that first kiss gets the prince; Daphne retorts it was not their first kiss and Hermione was already his true love, then winces at her own words; Gregory, feet off Pansy's lap, demands the part Bulstrode omitted.",
+  "translation_fa": "«البته که می‌کند،» میلیسنت اظهار کرد از جایی که مشغول تمرین نوعی طلسم بود در حالی که از پنجره‌ای به آب‌های چرخان دریاچه‌ی هاگوارتز نگاه می‌کرد. «اولین بوسه شاهزاده را می‌برد.»\n\n«اولین بوسه‌شان نبود!» دافنه فریاد زد. «هرماینی از پیش عشق واقعی‌اش بود! به همین خاطر او توانست برگرداندش!» بعد دافنه فهمید چه گفته بود و دروناً چهره‌اش جمع شد، ولی چنان‌که می‌گویند، باید زبان را با گوش جور کرد.\n\n«وای، وای، وای، چی؟» گرگوری گفت، پاهایش را از دامن پنسی پایین انداخت. «این دیگر چیست؟ دوشیزه بولسترود آن بخش را نگفت.»\n\nبقیه هم حالا به دافنه نگاه می‌کردند.",
+  "summary_fa": "میلیسنت حکم می‌دهد اولین بوسه شاهزاده را می‌برد؛ دافنه جواب می‌دهد اولین بوسه‌شان نبود و هرماینی از پیش عشق واقعی‌اش بود، بعد از حرف خودش دروناً چهره‌اش جمع می‌شود؛ گرگوری که پاهایش را پایین انداخته بخشی را می‌خواهد که بولسترود نگفته بود."
+ },
+ {
+  "id": 21,
+  "paras": [
+   81,
+   82,
+   83,
+   84
+  ],
+  "verbatim_html": [
+   "\"Oh, yeah,\" said Daphne, \"Harry shoved her away and shouted, 'I told you, no kissing!' Then Harry screamed like he was dying and Fawkes started singing to him - I'm not sure which one of those happened first, actually -\"",
+   "\"That doesn't sound like true love to <em>me,</em>\" said the Carrow twins. \"That sounds like the <em>wrong person</em> kissed him.\"",
+   "\"It was supposed to be <em>me</em>,\" whispered Tracey. Her face was still stunned. \"<em>I</em> was supposed to be his true love. Harry Potter was <em>my</em> general. I should've, I should've fought Granger for him -\"",
+   "Daphne spun on Tracey, incensed. \"<em>You?</em> Take Harry away from Hermione?\""
+  ],
+  "summary_en": "Daphne recounts Harry shoving Hermione away shouting no kissing, then screaming as Fawkes sang; the Carrow twins judge it the wrong person kissing him, and Tracey whispers she was supposed to be his true love and his general.",
+  "translation_fa": "«آه، بله،» دافنه گفت، «هری او را هل داد کنار و فریاد زد: \"بهت گفتم، بوسه ممنوع!\" بعد هری جیغ کشید انگار دارد می‌میرد و فاوکس شروع کرد به آواز خواندن برایش - مطمئن نیستم کدام‌یکی از آن‌ها اول اتفاق افتاد، راستش -»\n\n«آن به‌نظرم عشق واقعی نمی‌رسد،» دوقلوهای کرو گفتند. «آن به‌نظرم می‌رسد که شخص اشتباهی بوسیده‌اش.»\n\n«قرار بود من باشم،» تریسی زمزمه کرد. چهره‌اش هنوز مبهوت بود. «قرار بود من عشق واقعی‌اش باشم. هری پاتر ژنرال من بود. باید می‌جنگیدم، باید برایش با گرینجر می‌جنگیدم -»\n\nدافنه خشمگین به‌سوی تریسی چرخید. «تو؟ هری را از هرماینی بگیری؟»",
+  "summary_fa": "دافنه تعریف می‌کند هری هرماینی را هل داد کنار و فریاد زد بوسه ممنوع، بعد جیغ کشید همچنان‌که فاوکس برایش می‌خواند؛ دوقلوهای کرو حکم می‌دهند شخص اشتباهی بوسیده‌اش، و تریسی زمزمه می‌کند قرار بود او عشق واقعی و ژنرالش باشد."
+ },
+ {
+  "id": 22,
+  "paras": [
+   85,
+   86,
+   87,
+   88
+  ],
+  "verbatim_html": [
+   "\"Yeah!\" said Tracey. \"Me!\"",
+   "\"You're nuts,\" Daphne stated with conviction. \"Even if you <em>had</em> kissed him first, you know what that would make you? The sad little lovestruck girl who dies at the end of Act Two.\"",
+   "\"<em>You take that back!</em> \" shouted Tracey.",
+   "Meanwhile, Gregory had crossed the room to where Vincent was doing his homework. \"Mr. Crabbe,\" Gregory said in a low voice, \"I think Mr. Malfoy needs to know about this.\""
+  ],
+  "summary_en": "Tracey claims Harry for herself, and Daphne crushingly replies that even a first kiss would only make her the lovestruck girl who dies at the end of Act Two; Tracey screams at her to take it back while Gregory quietly decides Malfoy must be told.",
+  "translation_fa": "«بله!» تریسی گفت. «من!»\n\n«دیوانه‌ای،» دافنه با اعتقاد اظهار کرد. «حتی اگر اول بوسیده بودی‌اش، می‌دانی چه می‌شدی؟ دخترک عاشقِ غمگینی که آخر پرده‌ی دوم می‌میرد.»\n\n«پسش بگیر!» تریسی فریاد زد.\n\nدر همین حین، گرگوری اتاق را پیموده بود تا جایی که وینسنت مشق‌هایش را انجام می‌داد. «آقای کرب،» گرگوری با صدای پایین گفت، «فکر کنم آقای مالفوی باید از این باخبر شود.»",
+  "summary_fa": "تریسی هری را برای خودش می‌خواهد، و دافنه کوبنده جواب می‌دهد که حتی بوسه‌ی اول هم فقط او را به دخترک عاشقی بدل می‌کرد که آخر پرده‌ی دوم می‌میرد؛ تریسی فریاد می‌زند پسش بگیرد در حالی که گرگوری آرام تصمیم می‌گیرد مالفوی باید باخبر شود."
+ },
+ {
+  "id": 23,
+  "paras": [
+   89,
+   90,
+   91,
+   92
+  ],
+  "verbatim_html": [
+   "<em>Aftermath, Hermione Granger:</em>",
+   "Hermione stared at the wax-sealed paper, on the surface of which was inscribed simply the number <em>42.</em>",
+   "<em>I figured out why we couldn't cast the Patronus Charm, Hermione, it doesn't have anything to do with us not being happy enough. But I can't tell you. I couldn't even tell the Headmaster. It needs to be even more secret than partial Transfiguration, for now, anyway. But if you ever need to fight Dementors, the secret is written here, cryptically, so that if someone doesn't know it's about Dementors and the Patronus Charm, they won't know what it means...</em>",
+   "She'd told Harry about seeing him dying, her parents dying, all her friends dying, everyone dying. She hadn't told him about her terror of dying alone, somehow that was still too painful."
+  ],
+  "summary_en": "Aftermath, Hermione Granger: she stares at a wax-sealed paper inscribed only with the number 42; Harry's cryptic note explains he knows why they could not cast the Patronus and has hidden the secret even from the Headmaster; Hermione recalls confessing her visions of everyone dying but hiding her terror of dying alone.",
+  "translation_fa": "پیامد، هرماینی گرینجر:\n\nهرماینی به کاغذِ مهر‌وموم‌شده با موم خیره شد، که بر سطحش فقط عدد 42 حک شده بود.\n\nفهمیدم چرا نمی‌توانستیم طلسم پاترونوس را اجرا کنیم، هرماینی، هیچ ربطی به این ندارد که به‌اندازه‌ی کافی شاد نیستیم. ولی نمی‌توانم بهت بگویم. حتی به مدیر هم نتوانستم بگویم. فعلاً باید حتی مخفی‌تر از تغییرشکل جزئی باشد، به‌هرحال. ولی اگر هرگز لازم شد با دمنتورها بجنگی، راز این‌جا نوشته شده، به‌رمز، طوری که اگر کسی نداند درباره‌ی دمنتورها و طلسم پاترونوس است، نفهمد چه معنایی دارد...\n\nبه هری گفته بود درباره‌ی دیدنِ مردنِ او، مردنِ والدینش، مردنِ همه‌ی دوستانش، مردنِ همه. به او نگفته بود درباره‌ی وحشتش از تنها مردن، به‌نحوی آن هنوز بیش‌ازحد دردناک بود.",
+  "summary_fa": "پیامد، هرماینی گرینجر: او به کاغذ مهر‌وموم‌شده‌ای خیره است که فقط عدد 42 رویش است؛ یادداشت رمزی هری می‌گوید می‌داند چرا نتوانستند پاترونوس اجرا کنند و راز را حتی از مدیر پنهان کرده است؛ هرماینی به یاد می‌آورد رؤیاهای مرگ همه را اعتراف کرد ولی وحشتش از تنها مردن را پنهان نگه داشت."
+ },
+ {
+  "id": 24,
+  "paras": [
+   93,
+   94,
+   95,
+   96
+  ],
+  "verbatim_html": [
+   "Harry had told her about remembering his parents dying, and that he'd thought it was funny.",
+   "<em>There's no light in the place the Dementor takes you, Hermione. No warmth. No caring. It's somewhere that you can't even understand happiness. There's pain, and fear, and those can still drive you. You can hate, and take pleasure in destroying what you hate. You can laugh, when you see other people hurting. But you can't ever be happy, you can't even remember what it is that isn't there anymore... I don't think there's any way I can ever explain just what you saved me from. I'm usually ashamed to put people to trouble, I usually can't stand it when people make sacrifices for me, but this one time I'll say that no matter what it ends up costing you to have kissed me, don't ever doubt for a second that it was the right thing to do.</em>",
+   "Hermione hadn't realized how <em>little</em> the Dementor had touched her, how small and shallow had been the darkness into which it had taken her.",
+   "She'd seen everyone dying, and that had still been able to hurt."
+  ],
+  "summary_en": "Harry told her he remembered his parents dying and found it funny; in his letter he describes the Dementor's place as lightless and joyless yet full of hate, and begs her never to doubt that kissing him was right; Hermione realizes how shallow her own brush with the darkness was.",
+  "translation_fa": "هری به او گفته بود درباره‌ی به‌یادآوردنِ مردنِ والدینش، و این‌که فکر کرده بود خنده‌دار است.\n\nهیچ نوری در جایی که دمنتور تو را می‌برد نیست، هرماینی. هیچ گرمایی. هیچ اهمیتی. جایی است که حتی نمی‌توانی شادی را بفهمی. درد هست، و ترس، و آن‌ها هنوز می‌توانند تو را برانند. می‌توانی متنفر باشی، و از نابودی آن‌چه متنفری لذت ببری. می‌توانی بخندی، وقتی می‌بینی دیگران درد می‌کشند. ولی هرگز نمی‌توانی شاد باشی، حتی نمی‌توانی به یاد بیاوری چه چیزی است که دیگر آن‌جا نیست... فکر نکنم هیچ‌وقت بتوانم توضیح بدهم دقیقاً از چه چیزی نجاتم دادی. معمولاً شرمنده‌ام که مردم را به زحمت بیندازم، معمولاً نمی‌توانم تحمل کنم وقتی مردم برایم فداکاری می‌کنند، ولی این یک بار می‌گویم که هرچه در نهایت بوسیدن من برایت هزینه داشته باشد، لحظه‌ای شک نکن که کار درستی بود.\n\nهرماینی نفهمیده بود دمنتور چقدر کم لمسش کرده بود، چقدر کوچک و کم‌عمق بود تاریکی‌ای که به آن بردتش.\n\nهمه را در حال مردن دیده بود، و آن هنوز توانسته بود آزارش بدهد.",
+  "summary_fa": "هری به او گفته بود مردن والدینش را به یاد می‌آورد و خنده‌دار یافته بود؛ در نامه‌اش جای دمنتور را بی‌نور و بی‌شادی ولی پر از نفرت توصیف می‌کند و التماس می‌کند هرگز شک نکند که بوسیدنش کار درستی بود؛ هرماینی می‌فهمد برخورد خودش با تاریکی چقدر سطحی بوده است."
+ },
+ {
+  "id": 25,
+  "paras": [
+   97,
+   98,
+   99,
+   100
+  ],
+  "verbatim_html": [
+   "Hermione put the paper back into her pouch, like a good girl ought to.",
+   "She'd really wanted to read it, though.",
+   "She was frightened of Dementors.",
+   "<em>Aftermath, Minerva McGonagall:</em>"
+  ],
+  "summary_en": "Hermione pockets the paper unread like a good girl, though she dearly wanted to read it, and admits she is frightened of Dementors; then the scene turns to aftermath, Minerva McGonagall.",
+  "translation_fa": "هرماینی کاغذ را به کیسه‌اش برگرداند، چنان‌که دختر خوبی باید.\n\nهرچند واقعاً می‌خواست بخواندش.\n\nاز دمنتورها می‌ترسید.\n\nپیامد، مینروا مک‌گونگال:",
+  "summary_fa": "هرماینی مثل دختر خوبی کاغذ را نخوانده در کیسه‌اش می‌گذارد، هرچند واقعاً می‌خواست بخواندش، و اعتراف می‌کند از دمنتورها می‌ترسد؛ بعد صحنه به پیامد، مینروا مک‌گونگال، می‌رسد."
+ },
+ {
+  "id": 26,
+  "paras": [
+   101,
+   102,
+   103,
+   104
+  ],
+  "verbatim_html": [
+   "She felt frozen; she shouldn't have been so shocked, she shouldn't have found Harry so hard to face, but after what he'd been through... She had searched the young boy in front of her for any signs of Dementation, and failed to find them. But something about the calm with which he had asked such a foreboding question seemed deeply worrying. \"Mr. Potter, I can't possibly speak of such matters without the Headmaster's permission!\"",
+   "The boy in her office took this in without changing expression. \"I would prefer not to disturb the Headmaster over this matter,\" Harry Potter said calmly. \"I <em>insist</em> on not disturbing him, in fact, and you did promise that our conversation would be kept private. So let me put it this way. I know that there was, in fact, a prophecy. I know that you are the one who originally heard it from Professor Trelawney. I know that the prophecy identified the child of James and Lily as someone dangerous to the Dark Lord. And I know who I am, indeed everyone now knows who I am, so you are revealing nothing new or dangerous, if you tell me only this: What was the <em>exact wording</em> which identified <em>me,</em> the child of James and Lily?\"",
+   "Trelawney's hollow voice echoed in her mind -",
+   "<em>BORN TO THOSE WHO HAVE THRICE DEFIED HIM,<br/> BORN AS THE SEVENTH MONTH DIES...</em>"
+  ],
+  "summary_en": "McGonagall, frozen and shaken, has found no Dementation in Harry but is disturbed by his calm foreboding question; Harry calmly leverages her promise of privacy to demand the prophecy's exact wording identifying James and Lily's child, and Trelawney's hollow voice echoes: born to those who have thrice defied him, born as the seventh month dies.",
+  "translation_fa": "احساس یخ‌زدگی می‌کرد؛ نباید این‌قدر شوکه می‌بود، نباید هری را این‌قدر سخت می‌یافت که روبه‌رو شود، ولی بعد از آن‌چه از سر گذرانده بود... پسر جوانِ روبه‌رویش را برای هر نشانی از دمنتورزدگی جست‌وجو کرده بود، و نیافته بود. ولی چیزی در آرامشی که با آن چنین سؤال شومی پرسیده بود عمیقاً نگران‌کننده به‌نظر می‌رسید. «آقای پاتر، نمی‌توانم درباره‌ی چنین مسائلی بدون اجازه‌ی مدیر سخن بگویم!»\n\nپسر در دفترش این را بدون تغییر حالت گرفت. «ترجیح می‌دهم مدیر را سر این موضوع مزاحم نشوم،» هری پاتر آرام گفت. «در واقع اصرار دارم که مزاحمش نشوم، و تو قول دادی که گفت‌وگوی ما خصوصی می‌ماند. پس بگذار این‌طور بگویم. می‌دانم که در واقع پیشگویی‌ای بود. می‌دانم که تویی که اول از پروفسور تریلانی شنیدی‌اش. می‌دانم که پیشگویی فرزند جیمز و لیلی را به‌عنوان کسی خطرناک برای ارباب تاریکی معرفی کرد. و می‌دانم کی هستم، در واقع حالا همه می‌دانند کی هستم، پس هیچ چیز تازه یا خطرناکی را فاش نمی‌کنی، اگر فقط این را به من بگویی: عبارت دقیقی که مرا، فرزند جیمز و لیلی، مشخص کرد چه بود؟»\n\nصدای توخالی تریلانی در ذهنش طنین انداخت -\n\nزاده‌ی آنان که سه‌بار در برابرش ایستاده‌اند، زاده آنگاه که ماه هفتم می‌میرد...",
+  "summary_fa": "مک‌گونگال یخ‌زده و لرزان در هری نشانی از دمنتورزدگی نیافته ولی از آرامش شوم سؤالش آشفته است؛ هری آرام با تکیه بر قول خصوصی‌ماندن گفت‌وگو عبارت دقیق پیشگویی را می‌خواهد که فرزند جیمز و لیلی را مشخص کرد، و صدای توخالی تریلانی طنین می‌اندازد: زاده‌ی آنان که سه‌بار در برابرش ایستاده‌اند، زاده آنگاه که ماه هفتم می‌میرد."
+ },
+ {
+  "id": 27,
+  "paras": [
+   105,
+   106,
+   107,
+   108
+  ],
+  "verbatim_html": [
+   "\"Harry,\" said Professor McGonagall, \"I can't possibly tell you that!\" It chilled her to the bone that Harry knew so much already, she couldn't imagine how Harry had learned -",
+   "The boy looked at her with strange, sorrowful eyes. \"Can you not sneeze without the Headmaster's permission, Professor McGonagall? For I do promise to you that I have good reason to ask, and good reason to keep the question private.\"",
+   "\"Please don't, Harry,\" she whispered.",
+   "\"All right,\" Harry said. \"One simple question. Please. Was the Potter family mentioned by <em>name?</em> Does the prophecy literally say 'Potter'?\""
+  ],
+  "summary_en": "McGonagall, chilled that Harry knows so much, refuses to tell; Harry sorrowfully asks if she cannot sneeze without permission, and when she whispers please don't, he narrows it to one question: was the Potter family named, does the prophecy literally say Potter.",
+  "translation_fa": "«هری،» پروفسور مک‌گونگال گفت، «نمی‌توانم آن را به تو بگویم!» از این‌که هری از پیش این‌قدر می‌دانست تا مغز استخوانش سرد شد، نمی‌توانست تصور کند هری چطور یاد گرفته بود -\n\nپسر با چشم‌های غریب و اندوهگین به او نگاه کرد. «نمی‌توانی بدون اجازه‌ی مدیر عطسه کنی، پروفسور مک‌گونگال؟ چون به تو قول می‌دهم که دلیل خوبی برای پرسیدن دارم، و دلیل خوبی برای خصوصی نگه‌داشتن سؤال.»\n\n«لطفاً نه، هری،» زمزمه کرد.\n\n«بسیار خب،» هری گفت. «یک سؤال ساده. لطفاً. آیا خانواده‌ی پاتر به نام ذکر شده بودند؟ آیا پیشگویی لفظاً «پاتر» می‌گوید؟»",
+  "summary_fa": "مک‌گونگال که از دانستنِ این‌همه‌چیزِ هری تا مغز استخوانش سرد شده از گفتن سر باز می‌زند؛ هری اندوهگین می‌پرسد آیا بدون اجازه نمی‌تواند عطسه کند، و وقتی او زمزمه می‌کند لطفاً نه، به یک سؤال محدودش می‌کند: آیا خانواده‌ی پاتر به نام ذکر شده بودند."
+ },
+ {
+  "id": 28,
+  "paras": [
+   109,
+   110,
+   111,
+   112
+  ],
+  "verbatim_html": [
+   "She stared at Harry for a while. She couldn't have said why or where she got the sense that this was a critical point, that she could not lightly refuse the request, nor lightly accede to it -",
+   "\"No,\" she finally said. \"Please, Harry, don't ask any more.\"",
+   "The boy smiled, a little sadly it seemed, and said, \"Thank you, Minerva. You are a good woman and true.\"",
+   "And while her mouth was still open in utter shock, Harry Potter got up and left the office; and only then did she realize that Harry had taken her refusal as an answer, and the true answer at that -"
+  ],
+  "summary_en": "Sensing the critical point, McGonagall finally answers no and begs him to ask no more; Harry thanks her as Minerva, a good woman and true, and leaves while her mouth hangs open, only then understanding he took her refusal as the true answer.",
+  "translation_fa": "مدتی به هری خیره شد. نمی‌توانست بگوید چرا یا از کجا این حس را گرفت که این نکته‌ای حساس بود، که نمی‌توانست سبک درخواست را رد کند، نه سبک بپذیرد -\n\n«نه،» سرانجام گفت. «لطفاً، هری، دیگر نپرس.»\n\nپسر لبخند زد، کمی غمگین به‌نظر می‌رسید، و گفت: «ممنون، مینروا. تو زن خوب و درستی هستی.»\n\nو در حالی که دهانش هنوز از شوک محض باز بود، هری پاتر برخاست و دفتر را ترک کرد؛ و تنها آن‌وقت فهمید که هری امتناعش را به‌عنوان پاسخ گرفته بود، و پاسخ واقعی هم -",
+  "summary_fa": "مک‌گونگال که حس می‌کند نکته حساسی است سرانجام نه می‌گوید و التماس می‌کند دیگر نپرسد؛ هری او را مینروا می‌خواند، زن خوب و درست، و می‌رود در حالی که دهانش باز مانده، و تنها آن‌وقت او می‌فهمد هری امتناعش را پاسخ واقعی گرفته بود."
+ },
+ {
+  "id": 29,
+  "paras": [
+   113,
+   114,
+   115,
+   116
+  ],
+  "verbatim_html": [
+   "Harry closed the door behind himself.",
+   "The logic had presented itself with a strange diamondlike clarity. Harry couldn't have said if it had come to him during Fawkes's singing, or maybe even before.",
+   "Lord Voldemort had killed James Potter. He had preferred to spare Lily Potter's life. He had continued his attack, therefore, with the sole purpose of killing their infant child.",
+   "Dark Lords were not usually scared of infant children."
+  ],
+  "summary_en": "Harry closes the door as diamondlike logic crystallizes; Voldemort killed James, preferred to spare Lily, and pressed on solely to kill their infant, which is not how Dark Lords usually fear babies, so a known prophecy must have driven him.",
+  "translation_fa": "هری در را پشت سرش بست.\n\nمنطق با شفافیتی الماس‌گون خود را نمایانده بود. هری نمی‌توانست بگوید آیا در حین آواز فاوکس به او رسیده بود، یا شاید حتی پیش‌تر.\n\nلرد ولدمورت جیمز پاتر را کشته بود. ترجیح داده بود جان لیلی پاتر را ببخشد. حمله‌اش را ادامه داده بود، پس، با تنها هدف کشتن فرزند شیرخواره‌شان.\n\nاربابان تاریکی معمولاً از نوزادان نمی‌ترسیدند.",
+  "summary_fa": "هری در را می‌بندد همچنان‌که منطق با شفافیت الماس‌گون متبلور می‌شود؛ ولدمورت جیمز را کشت، ترجیح داد لیلی را ببخشد، و فقط برای کشتن نوزادشان ادامه داد، که رفتار معمول اربابان تاریکیِ هراسان از نوزادان نیست، پس پیشگوییِ شناخته‌شده‌ای او را رانده بود."
+ },
+ {
+  "id": 30,
+  "paras": [
+   117,
+   118,
+   119,
+   120
+  ],
+  "verbatim_html": [
+   "So there was a prophecy about Harry Potter being dangerous to Lord Voldemort, and Lord Voldemort had known that prophecy.",
+   "<em>\"I give you this rare chance to flee. But I will not trouble myself to subdue you, and your death here will not save your child. Step aside, foolish woman, if you have any sense in you at all!\"</em>",
+   "Had it been a whim, to give her that chance? But then Lord Voldemort would not have tried to persuade her. Had the prophecy warned Lord Voldemort against killing Lily Potter? Then Lord Voldemort <em>would</em> have troubled himself to subdue her. Lord Voldemort had been <em>mildly</em> inclined not to kill Lily Potter. The preference had been stronger than a whim, but not as strong as a warning.",
+   "So suppose that someone whom Lord Voldemort considered a lesser ally or servant, useful but not indispensable, had begged the Dark Lord to spare Lily's life. Lily's, but not James's."
+  ],
+  "summary_en": "Voldemort knew the prophecy of Harry's danger to him; his quoted plea to Lily, mild persuasion rather than compulsion, shows neither whim nor warning, so some lesser servant must have begged Lily's life, but not James's.",
+  "translation_fa": "پس پیشگویی‌ای درباره‌ی خطرناک‌بودن هری پاتر برای لرد ولدمورت بود، و لرد ولدمورت آن پیشگویی را می‌دانست.\n\n«این شانس نادر را به تو می‌دهم که بگریزی. ولی خودم را به زحمت نمی‌اندازم که مطیعت کنم، و مرگت در این‌جا فرزندت را نجات نمی‌دهد. کنار برو، زن ابله، اگر ذره‌ای عقل در تو هست!»\n\nآیا هوس بود، که آن شانس را به او داد؟ ولی آن‌وقت لرد ولدمورت سعی نمی‌کرد متقاعدش کند. آیا پیشگویی لرد ولدمورت را از کشتن لیلی پاتر برحذر داشته بود؟ آن‌وقت لرد ولدمورت خودش را به زحمت می‌انداخت که مطیعش کند. لرد ولدمورت اندکی متمایل بود لیلی پاتر را نکشد. ترجیح از هوس قوی‌تر بود، ولی نه به‌قوت یک هشدار.\n\nپس فرض کن کسی که لرد ولدمورت او را متحد یا خدمتکار کوچک‌تر می‌دانست، مفید ولی غیرضروری، از ارباب تاریکی خواهش کرده بود جان لیلی را ببخشد. لیلی را، ولی نه جیمز را.",
+  "summary_fa": "ولدمورت پیشگویی خطرناک‌بودن هری را می‌دانست؛ التماس نقل‌شده‌اش به لیلی، ترغیب ملایم نه اجبار، نه هوس است نه هشدار، پس خدمتکار کوچک‌تری باید جان لیلی را خواسته باشد، ولی نه جیمز را."
+ },
+ {
+  "id": 31,
+  "paras": [
+   121,
+   122,
+   123,
+   124
+  ],
+  "verbatim_html": [
+   "This person had known that Lord Voldemort would attack the house of the Potters. Had known both the prophecy, and the fact that the Dark Lord knew it. Otherwise he would not have begged Lily's life.",
+   "According to Professor McGonagall, besides herself, the other two who knew of the prophecy were Albus Dumbledore and Severus Snape.",
+   "Severus Snape, who had loved Lily before she was Lily Potter, and hated James.",
+   "Severus, then, had learned of the prophecy, and told it to the Dark Lord. Which he had done because the prophecy had not described the Potters by name. It had been a riddle, and Severus had solved that riddle only too late."
+  ],
+  "summary_en": "That servant knew the attack, the prophecy, and the Dark Lord's knowledge of it; the only other knowers besides McGonagall were Dumbledore and Snape, who loved Lily and hated James, so Snape heard the unnamed riddle-prophecy and told it too late.",
+  "translation_fa": "این شخص می‌دانست که لرد ولدمورت به خانه‌ی پاترها حمله می‌کند. هم پیشگویی را می‌دانست، و هم این‌که ارباب تاریکی آن را می‌داند. وگرنه جان لیلی را گدایی نمی‌کرد.\n\nطبق گفته‌ی پروفسور مک‌گونگال، علاوه بر خودش، دو نفر دیگری که از پیشگویی می‌دانستند آلبوس دامبلدور و سوروس اسنیپ بودند.\n\nسوروس اسنیپ، که لیلی را دوست داشت پیش از آن‌که لیلی پاتر شود، و از جیمز متنفر بود.\n\nسوروس، پس، از پیشگویی باخبر شده بود، و آن را به ارباب تاریکی گفته بود. که این کار را کرده بود چون پیشگویی پاترها را به نام توصیف نکرده بود. معما بود، و سوروس آن معما را فقط دیر حل کرده بود.",
+  "summary_fa": "آن خدمتکار از حمله، پیشگویی و دانستنِ ارباب تاریکی باخبر بود؛ جز مک‌گونگال فقط دامبلدور و اسنیپ می‌دانستند، اسنیپی که لیلی را دوست داشت و از جیمز متنفر بود، پس اسنیپ پیشگوییِ معماگونه‌ی بی‌نام را شنید و دیر به ارباب تاریکی گفت."
+ },
+ {
+  "id": 32,
+  "paras": [
+   125,
+   126,
+   127,
+   128
+  ],
+  "verbatim_html": [
+   "But if Severus had been the <em>first</em> to hear the prophecy, and disposed to tell it to the Dark Lord, then why would he also have told Dumbledore or Professor McGonagall?",
+   "Therefore Dumbledore or Professor McGonagall had heard it first.",
+   "The Headmaster of Hogwarts had no obvious reason to tell the Transfiguration Professor about an extremely sensitive and crucial prophecy. But the Transfiguration Professor had every reason to tell the Headmaster.",
+   "It seemed likely, then, that Professor McGonagall had been the first to hear it."
+  ],
+  "summary_en": "Had Snape heard first and meant to tell the Dark Lord, he would not also have told Dumbledore or McGonagall, so one of them heard first; the Headmaster had no reason to brief Transfiguration, but she had every reason to brief him, so McGonagall heard it first.",
+  "translation_fa": "ولی اگر سوروس اولین کسی بود که پیشگویی را شنید، و متمایل بود آن را به ارباب تاریکی بگوید، آن‌وقت چرا به دامبلدور یا پروفسور مک‌گونگال هم گفته بود؟\n\nپس دامبلدور یا پروفسور مک‌گونگال اول شنیده بودند.\n\nمدیر هاگوارتز هیچ دلیل بدیهی نداشت که به استاد تغییرشکل درباره‌ی پیشگویی‌ای بسیار حساس و حیاتی بگوید. ولی استاد تغییرشکل هر دلیلی داشت که به مدیر بگوید.\n\nبه‌نظر محتمل می‌رسید، پس، که پروفسور مک‌گونگال اولین کسی بود که شنیده بود.",
+  "summary_fa": "اگر اسنیپ اول شنیده بود و می‌خواست به ارباب تاریکی بگوید، به دامبلدور یا مک‌گونگال هم نمی‌گفت، پس یکی از آن‌ها اول شنیده بود؛ مدیر دلیلی نداشت استاد تغییرشکل را در جریان بگذارد ولی او هر دلیلی داشت، پس مک‌گونگال اول شنیده بود."
+ },
+ {
+  "id": 33,
+  "paras": [
+   129,
+   130,
+   131,
+   132
+  ],
+  "verbatim_html": [
+   "The prior probabilities said that it had been Professor Trelawney, Hogwarts's resident seer. Seers were rare, so if you counted up most of the seconds Professor McGonagall had spent in the presence of a seer over the course of her lifetime, most of those seer-seconds would be Trelawney-seconds.",
+   "Professor McGonagall had told Dumbledore, and would have told no one else about the prophecy without permission.",
+   "Therefore, it was Albus Dumbledore who had arranged for Severus Snape to somehow learn of the prophecy. And Dumbledore himself had solved the riddle successfully, or he would not have selected <em>Severus</em>, who had once loved Lily, as the intermediary.",
+   "Dumbledore had deliberately arranged for Lord Voldemort to hear about the prophecy, in hopes of luring him to his death. Perhaps Dumbledore had arranged for Severus to learn only <em>some</em> of the prophecy, or there were other prophecies of which Severus had remained innocent... somehow Dumbledore had known that an <em>immediate</em> attack on the Potters would still lead to Lord Voldemort's <em>immediate</em> defeat, although Lord Voldemort himself had not believed this. Or maybe that had just been a lucky stroke of Dumbledore's insanity, his taste for bizarre plots..."
+  ],
+  "summary_en": "Prior probabilities point to Trelawney, the resident seer, as McGonagall's source; McGonagall told Dumbledore alone, so Dumbledore arranged for Snape, Lily's former lover, to learn the successfully solved riddle, luring Voldemort to his defeat, by luck or insanity.",
+  "translation_fa": "احتمالات پیشین می‌گفتند که پروفسور تریلانی بود، پیشگوی مقیم هاگوارتز. پیشگوها نادر بودند، پس اگر بیشتر ثانیه‌هایی را که پروفسور مک‌گونگال در حضور پیشگویی گذرانده بود بشمری، بیشترِ آن ثانیه‌های پیشگو، ثانیه‌های تریلانی بودند.\n\nپروفسور مک‌گونگال به دامبلدور گفته بود، و بدون اجازه به هیچ‌کس دیگری درباره‌ی پیشگویی نمی‌گفت.\n\nپس، آلبوس دامبلدور بود که ترتیب داده بود سوروس اسنیپ به‌نحوی از پیشگویی باخبر شود. و خود دامبلدور معما را با موفقیت حل کرده بود، وگرنه سوروس را، که زمانی لیلی را دوست داشت، به‌عنوان واسطه انتخاب نمی‌کرد.\n\nدامبلدور عمداً ترتیب داده بود لرد ولدمورت درباره‌ی پیشگویی بشنود، به امید این‌که او را به کام مرگ بکشاند. شاید دامبلدور ترتیب داده بود سوروس فقط بخشی از پیشگویی را یاد بگیرد، یا پیشگویی‌های دیگری بودند که سوروس از آن‌ها بی‌خبر مانده بود... به‌نحوی دامبلدور می‌دانست که حمله‌ی فوری به پاترها هنوز به شکست فوری لرد ولدمورت می‌انجامد، هرچند خود لرد ولدمورت این را باور نداشت. یا شاید آن فقط ضربه‌ی خوش‌شانسِ جنون دامبلدور بود، سلیقه‌اش برای نقشه‌های عجیب...",
+  "summary_fa": "احتمالات پیشین به تریلانی، پیشگوی مقیم، به‌عنوان منبع مک‌گونگال اشاره می‌کنند؛ مک‌گونگال فقط به دامبلدور گفت، پس دامبلدور ترتیب داد اسنیپ، عاشق پیشین لیلی، معمایِ موفق‌حل‌شده را بیاموزد و ولدمورت را به کام شکست بکشاند، از سر شانس یا جنون."
+ },
+ {
+  "id": 34,
+  "paras": [
+   133,
+   134,
+   135,
+   136
+  ],
+  "verbatim_html": [
+   "Severus had ended up serving Dumbledore afterward; perhaps the Death Eaters would not look kindly on Severus if Dumbledore revealed his role in their defeat.",
+   "Dumbledore had tried to arrange for Harry's mother to be spared. But that part of his plot had failed. And he had knowingly condemned James Potter to his death.",
+   "Dumbledore was responsible for the deaths of Harry's parents. <em>If</em> the whole chain of logic was correct. Harry could not, in justice, say that successfully ending the Wizarding War did not count as extenuating circumstances. But somehow this still... <em>bothered him a great deal.</em>",
+   "And it was time and past time to ask Draco Malfoy what the <em>other</em> side of that war had to say about the character of Albus Percival Wulfric Brian Dumbledore."
+  ],
+  "summary_en": "Snape ended up serving Dumbledore, perhaps because exposure would damn him with the Death Eaters; Dumbledore tried to spare Harry's mother but knowingly condemned James, making him responsible for their deaths, if the logic holds, and Harry now means to ask Draco Malfoy for the war's other side.",
+  "translation_fa": "سوروس بعداً به خدمت دامبلدور درآمده بود؛ شاید مرگ‌خوارها با سوروس مهربان نبودند اگر دامبلدور نقشش را در شکست‌شان فاش می‌کرد.\n\nدامبلدور سعی کرده بود ترتیب دهد مادر هری بخشوده شود. ولی آن بخش نقشه‌اش شکست خورده بود. و آگاهانه جیمز پاتر را به مرگش محکوم کرده بود.\n\nدامبلدور مسئول مرگ والدین هری بود. اگر کل زنجیره‌ی منطق درست بود. هری نمی‌توانست، از سر عدالت، بگوید که پایان‌دادن موفق به جنگ جادوگری به‌عنوان شرایط مخففه به حساب نمی‌آید. ولی به‌نحوی این هنوز... خیلی آزارش می‌داد.\n\nو وقت آن بود و گذشته بود که از دراکو مالفوی بپرسد آن سوی دیگرِ آن جنگ درباره‌ی شخصیت آلبوس پرسیوال وولفریک برایان دامبلدور چه می‌گوید.",
+  "summary_fa": "اسنیپ سرانجام به خدمت دامبلدور درآمد، شاید چون افشاگری او را نزد مرگ‌خوارها محکوم می‌کرد؛ دامبلدور کوشید مادر هری را ببخشد ولی آگاهانه جیمز را به مرگ محکوم کرد، و اگر منطق درست باشد مسئول مرگ والدین هری است، و هری حالا می‌خواهد سوی دیگر جنگ را از دراکو مالفوی بپرسد."
+ }
+]

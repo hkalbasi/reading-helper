@@ -1,0 +1,590 @@
+[
+ {
+  "id": 1,
+  "paras": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "verbatim_html": [
+   "A boy waits at a small clearing at the edge of the non-forbidden forest, beside a dirt trail that runs back to the gates of Hogwarts in one direction, and off into the distance in another. There is a carriage nearby, and the boy is standing well away from it, looking at it, his eyes seldom wavering from its direction.",
+   "In the distance, a figure is approaching along the dirt path: A man wearing professorial robes, trudging slowly with his shoulders slumped low, his formal shoes kicking up small clouds of dust as he walks.",
+   "Half a minute later, the boy darts another quick glance before returning to his surveillance; and this glimpse shows that the man's shoulders have straightened, his face unslackened, and that his shoes are now walking lightly across the dirt, leaving not a trace of dust in the air behind.",
+   "\"Hello, Professor Quirrell,\" Harry said without letting his eyes move again from the direction of their carriage."
+  ],
+  "summary_en": "Harry waits by a carriage at the forest's edge, watching warily; Professor Quirrell approaches, shifting from a zombie-like shamble to alert grace, and Harry greets him without looking away from the carriage.",
+  "translation_fa": "پسری در محوطه‌ای کوچک در لبه‌ی جنگلِ غیرممنوعه انتظار می‌کشد، کنار راه خاکی‌ای که از یک سو به دروازه‌های هاگوارتز برمی‌گردد و از سوی دیگر به دوردست می‌رود. کالسکه‌ای آن‌جاست و پسر خوب دور از آن ایستاده، نگاهش می‌کند و چشم‌هایش به‌ندرت از سمت آن منحرف می‌شود.\n\nدر دوردست، پیکری در امتداد راه خاکی نزدیک می‌شود: مردی با ردای استادی، که آهسته قدم برمی‌دارد با شانه‌هایی خمیده، و کفش‌های رسمی‌اش هنگام راه رفتن ابرهای کوچکی از غبار بلند می‌کند.\n\nنیم دقیقه بعد، پسر نگاه سریع دیگری می‌اندازد پیش از آن‌که به نگهبانی‌اش برگردد؛ و این نگاه نشان می‌دهد که شانه‌های مرد صاف شده، چهره‌اش از رخوت درآمده، و کفش‌هایش اکنون سبک روی خاک قدم می‌زنند و ذره‌ای غبار پشت سرشان در هوا نمی‌ماند.\n\n«سلام، پروفسور کویرل،» هری گفت بی‌آن‌که چشم‌هایش را دوباره از سمت کالسکه‌شان حرکت دهد.",
+  "summary_fa": "هری کنار کالسکه در لبه‌ی جنگل انتظار می‌کشد و با احتیاط زیر نظرش دارد؛ پروفسور کویرل نزدیک می‌شود و از رخوت زامبی‌وار به چالاکی هوشیار بدل می‌گردد، و هری بی‌آن‌که نگاهش را برگرداند سلام می‌کند."
+ },
+ {
+  "id": 2,
+  "paras": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "verbatim_html": [
+   "\"Salutations,\" said the calm voice of Professor Quirrell. \"You seem to be keeping your distance, Mr. Potter. I don't suppose you see something odd about our conveyance?\"",
+   "\"Odd?\" Harry echoed. \"Why no, I can't say I see anything odd. There seem to be even numbers of everything. Four seats, four wheels, two huge skeletal winged horses...\"",
+   "A skin-wrapped skull turned to look at him and flashed teeth, solid and white in that black cavernous mouth, as though to indicate that it was just about as fond of him as he was of it. The other black leathery horse-skeleton tossed its head like it was whickering, but there was no sound.",
+   "\"They are Thestrals, and they have always drawn the carriage,\" Professor Quirrell said, sounding quite undisturbed as he climbed into the front bench of the carriage, sitting down as far to the right as possible. \"They are visible only to those who have seen death and comprehended it, a useful defense against most animal predators. Hm. I suppose that the first time you went in front of the Dementor, your worst memory proved to be the night of your encounter with He-Who-Must-Not-Be-Named?\""
+  ],
+  "summary_en": "Quirrell explains the skeletal winged horses are Thestrals, visible only to those who have seen death, and guesses Harry's worst memory before the Dementor was the night of Voldemort's attack.",
+  "translation_fa": "«درود،» صدای آرام پروفسور کویرل گفت. «به نظر می‌رسد فاصله‌ات را حفظ می‌کنی، آقای پاتر. گمان نکنم چیز عجیبی در وسیله‌ی نقلیه‌مان ببینی؟»\n\n«عجیب؟» هری تکرار کرد. «نه، نمی‌توانم بگویم چیز عجیبی می‌بینم. به نظر می‌رسد از همه‌چیز تعداد زوج هست. چهار صندلی، چهار چرخ، دو اسب بالدار اسکلتی عظیم...»\n\nجمجمه‌ای پوشیده از پوست برگشت تا به او نگاه کند و دندان‌هایش را نشان داد، سفید و یکدست در آن دهان گود سیاه، گویی می‌خواست نشان دهد که او هم تقریباً به همان اندازه به هری علاقه دارد که هری به او. اسب‌اسکلت چرمین سیاه دیگر سرش را تکان داد مثل این‌که شیهه می‌کشد، اما صدایی نبود.\n\n«آن‌ها تسترال‌اند، و همیشه همین‌ها کالسکه را می‌کشیده‌اند،» پروفسور کویرل گفت، در حالی که کاملاً بی‌تفاوت به نظر می‌رسید و سوار نیمکت جلوی کالسکه شد و تا جای ممکن به سمت راست نشست. «فقط برای کسانی دیده می‌شوند که مرگ را دیده و درکش کرده باشند، دفاعی مفید در برابر بیشتر شکارچیان حیوانی. همم. گمان کنم اولین باری که جلوی دمنتور رفتی، بدترین خاطره‌ات شبِ برخوردت با آن‌که-نباید-نامش-برده-شود بود؟»",
+  "summary_fa": "کویرل توضیح می‌دهد اسب‌های اسکلتی تسترال‌اند که فقط مرگ‌دیدگان می‌بینندشان، و حدس می‌زند بدترین خاطره‌ی هری شب حمله‌ی ولدمورت بوده است."
+ },
+ {
+  "id": 3,
+  "paras": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "verbatim_html": [
+   "Harry nodded grimly. It was the right guess, even if for the wrong reasons. <em>Those who have seen Death...</em>",
+   "\"Did you recall anything of interest, thereby?\"",
+   "\"Yes,\" Harry said, \"I did,\" only that and nothing more, for he was not ready as yet to make accusations.",
+   "The Defense Professor smiled one of his dry smiles, and beckoned with an impatient finger."
+  ],
+  "summary_en": "Harry confirms grimly that he recalled something but says no more, not yet ready to accuse; Quirrell smiles dryly and impatiently beckons him aboard.",
+  "translation_fa": "هری با حالتی عبوس سر تکان داد. حدس درستی بود، هرچند به دلایل اشتباه. آن‌ها که مرگ را دیده‌اند...\n\n«از این رهگذر چیز جالبی به خاطر آوردی؟»\n\n«بله،» هری گفت، «به خاطر آوردم،» فقط همین و نه بیشتر، چون هنوز آماده‌ی اتهام زدن نبود.\n\nپروفسور دفاع یکی از لبخندهای خشکش را زد و با انگشتی بی‌حوصله اشاره کرد بیا.",
+  "summary_fa": "هری عبوس تأیید می‌کند چیزی به خاطر آورده اما بیشتر نمی‌گوید، چون هنوز آماده‌ی اتهام نیست؛ کویرل لبخند خشکی می‌زند و بی‌حوصله او را به سوار شدن فرامی‌خواند."
+ },
+ {
+  "id": 4,
+  "paras": [
+   13,
+   14,
+   15,
+   16
+  ],
+  "verbatim_html": [
+   "Harry closed the distance and climbed into the carriage, wincing. The sense of doom had grown significantly stronger after the day of the Dementor, even though it had been slowly weakening before then. The greatest distance that the carriage allowed him from Professor Quirrell no longer seemed like nearly far enough.",
+   "Then the skeletal horses trotted forward and the carriage started in motion, taking them toward the outer bounds of Hogwarts. As it did, Professor Quirrell slumped back down into zombie-mode, and the sense of doom retreated, though it still hovered at the edge of Harry's perceptions, unignorable...",
+   "The forest scrolled by as the carriage rolled along, the trees moving past at a speed that seemed positively glacial by comparison to broomsticks or even cars. There was something oddly relaxing, Harry thought, about traveling that slowly. It had certainly relaxed the Defense Professor, who was slumped over with a small stream of drool coming out of his slack mouth and puddling on his robes.",
+   "Harry still hadn't decided what he was allowed to eat for lunch."
+  ],
+  "summary_en": "Harry boards with the sense of doom stronger since the Dementor; Quirrell drops into zombie-mode as the carriage rolls slowly toward Hogwarts' bounds, and Harry frets over lunch.",
+  "translation_fa": "هری فاصله را بست و سوار کالسکه شد، در حالی که چهره‌اش در هم رفت. حس شوم از روز دمنتور به‌شکل چشمگیری قوی‌تر شده بود، هرچند پیش از آن داشت کم‌کم ضعیف می‌شد. بیشترین فاصله‌ای که کالسکه از پروفسور کویرل به او می‌داد دیگر به‌هیچ‌وجه دور به نظر نمی‌رسید.\n\nبعد اسب‌های اسکلتی به یورتمه افتادند و کالسکه به حرکت درآمد و آن‌ها را به‌سوی مرزهای بیرونی هاگوارتز برد. در همان حال پروفسور کویرل دوباره به حالت زامبی فرو رفت و حس شوم عقب نشست، هرچند هنوز در لبه‌ی ادراک هری پرسه می‌زد، نادیده‌گرفتنی...\n\nجنگل از کنار کالسکه‌ی در حال حرکت می‌گذشت، درخت‌ها با سرعتی می‌گذشتند که در مقایسه با جارو یا حتی ماشین‌ها به‌شکل قطعی یخچالی بود. هری فکر کرد چیز عجیب آرامش‌بخشی در این سفرِ آن‌قدر آهسته بود. پروفسور دفاع را هم مسلماً آرام کرده بود، که قوز کرده بود و رشته‌ی باریکی از آب دهان از دهان شلش بیرون می‌آمد و روی ردایش جمع می‌شد.\n\nهری هنوز تصمیم نگرفته بود برای ناهار چه چیزی مجاز است بخورد.",
+  "summary_fa": "هری سوار می‌شود در حالی که حس شوم از روز دمنتور قوی‌تر شده؛ کویرل به حالت زامبی فرو می‌رود و کالسکه آهسته به‌سوی مرزهای هاگوارتز می‌رود، و هری درگیر دغدغه‌ی ناهار است."
+ },
+ {
+  "id": 5,
+  "paras": [
+   17,
+   18,
+   19,
+   20
+  ],
+  "verbatim_html": [
+   "His library research hadn't turned up any sign of wizards speaking to nonmagical plants. Or any other nonmagical animals besides snakes, although <em>Spell and Speak</em> by Paul Breedlove had recounted the probably-mythical tale of a sorceress called the Lady of Flying Squirrels.",
+   "What Harry <em>wanted</em> to do was ask Professor Quirrell. The problem was that Professor Quirrell was <em>too smart</em>. Judging by what Draco had said, the Heir of Slytherin business was a major bombshell, and Harry wasn't sure he wanted anyone else to know. And the instant Harry asked about Parseltongue, Professor Quirrell would fix him with those pale blue eyes and say, 'I see, Mr. Potter, so you taught Mr. Malfoy the Patronus Charm and accidentally spoke to his snake.'",
+   "It wouldn't <em>matter</em> that it shouldn't be enough evidence to locate the true explanation as a hypothesis, let alone overcome its burden of prior improbability. Somehow the Defense Professor would deduce it <em>anyway</em>. There were times when Harry suspected that Professor Quirrell had way more background information than he was telling, his priors were simply too good. Sometimes he got his amazing deductions right even when his <em>reasons</em> were wrong. The problem was that Harry couldn't see how Professor Quirrell could've snuck in an extra clue about half the stuff he guessed. Just <em>once</em> Harry would have liked to make some sort of incredible deduction from something Professor Quirrell said which would catch <em>him</em> completely off guard.",
+   "\"I shall have a bowl of green lentil soup, with soy sauce,\" Professor Quirrell said to the waitress. \"And for Mr. Potter, a plate of Tenorman's family chili.\""
+  ],
+  "summary_en": "Harry's research finds no wizards speaking to nonmagical creatures except snakes; he wants to ask Quirrell but fears his too-good deductions, then Quirrell orders lentil soup and chili.",
+  "translation_fa": "تحقیقات کتابخانه‌ای هری هیچ نشانه‌ای از جادوگرانی که با گیاهان غیرجادویی حرف بزنند به دست نداده بود. یا هیچ حیوان غیرجادویی دیگری جز مارها، هرچند «طلسم و سخن» نوشته‌ی پال بریدلاو داستانِ احتمالاً افسانه‌ای جادوگری به نام بانوی سنجاب‌های پرنده را نقل کرده بود.\n\nکاری که هری می‌خواست بکند این بود که از پروفسور کویرل بپرسد. مشکل این بود که پروفسور کویرل زیادی باهوش بود. از حرف‌های دریکو برمی‌آمد که ماجرای وارث اسلیترین بمب خبری بزرگی است و هری مطمئن نبود بخواهد کس دیگری بداند. و همین که هری درباره‌ی پارسل‌زبانی می‌پرسید، پروفسور کویرل با آن چشم‌های آبی کمرنگش خیره‌اش می‌کرد و می‌گفت: «می‌بینم، آقای پاتر، پس تو طلسم پاترونوس را به آقای مالفوی یاد دادی و تصادفاً با مارش حرف زدی.»\n\nمهم نبود که آن مدرک نباید برای مطرح کردن توضیح درست به‌عنوان یک فرضیه کافی باشد، چه رسد به غلبه بر بار نامحتملیِ پیشینش. پروفسور دفاع به‌هرحال به‌شکلی آن را استنتاج می‌کرد. وقت‌هایی بود که هری گمان می‌کرد پروفسور کویرل اطلاعات پیشین بسیار بیشتری از آن‌چه می‌گوید دارد، پیشین‌هایش خیلی خوب‌اند. گاهی استنتاج‌های شگفت‌انگیزش را درست می‌گفت حتی وقتی دلایلش اشتباه بودند. مشکل این بود که هری نمی‌فهمید پروفسور کویرل چطور می‌توانسته سرنخ اضافه‌ای درباره‌ی نیمی از چیزهایی که حدس می‌زد دزدکی وارد کند. فقط یک‌بار دلش می‌خواست از روی چیزی که پروفسور کویرل گفته نوعی استنتاج باورنکردنی بکند که او را کاملاً غافلگیر کند.\n\n«برای من یک کاسه سوپ عدس سبز، با سس سویا،» پروفسور کویرل به پیشخدمت گفت. «و برای آقای پاتر، یک بشقاب چیلی خانوادگی تنورمن.»",
+  "summary_fa": "تحقیقات هری جز مارها حرف‌زدنی با موجودات غیرجادویی پیدا نمی‌کند؛ او می‌خواهد از کویرل بپرسد اما از استنتاج‌های بیش‌ازحد خوبش می‌ترسد، و بعد کویرل سوپ عدس و چیلی سفارش می‌دهد."
+ },
+ {
+  "id": 6,
+  "paras": [
+   21,
+   22,
+   23,
+   24
+  ],
+  "verbatim_html": [
+   "Harry hesitated in sudden dismay. He'd resolved to stick to vegetarian dishes for the moment, but he'd forgotten in his deliberations that Professor Quirrell did the <em>actual ordering</em> - and it would be awkward if he protested now -",
+   "The waitress bowed to them, and turned to go -",
+   "\"Erm, excuse me, any meat in that from snakes or flying squirrels?\"",
+   "The waitress didn't so much as blink an eye, only turned back to Harry, shook her head, bowed politely to him again, and resumed her walk toward the door."
+  ],
+  "summary_en": "Harry, having resolved to eat vegetarian, panics quietly since Quirrell does the ordering, and awkwardly asks the waitress whether the chili contains snake or flying squirrel.",
+  "translation_fa": "هری در هراس ناگهانی مکث کرد. تصمیم گرفته بود فعلاً به غذاهای گیاهی بچسبد، اما در سبک‌سنگین‌کردن‌هایش فراموش کرده بود که پروفسور کویرل سفارش واقعی را می‌دهد — و اگر حالا اعتراض کند معذب‌کننده می‌شود —\n\nپیشخدمت به آن‌ها تعظیم کرد و رفت —\n\n«ببخشید، گوشت داخلش از مار یا سنجاب پرنده که نیست؟»\n\nپیشخدمت حتی پلک هم نزد، فقط برگشت به‌سوی هری، سرش را تکان داد، دوباره مؤدبانه به او تعظیم کرد و قدم‌زنان به‌سوی در ادامه داد.",
+  "summary_fa": "هری که تصمیم به گیاه‌خواری گرفته، چون کویرل سفارش می‌دهد به‌هراس می‌افتد و معذبانه از پیشخدمت می‌پرسد چیلی گوشت مار یا سنجاب پرنده ندارد."
+ },
+ {
+  "id": 7,
+  "paras": [
+   25,
+   26,
+   27,
+   28
+  ],
+  "verbatim_html": [
+   "(The other parts of Harry were snickering at him. Gryffindor was making sardonic comments about how a little social discomfort was enough to get him to resort to <em>Cannibalism!</em> (shouted by Hufflepuff), and Slytherin was remarking on how nice it was that Harry's ethics were flexible when it came to important goals like maintaining his relationship with Professor Quirrell.)",
+   "After the waitress had closed the door behind her, Professor Quirrell waved a hand to slide home the locking bar, spoke the usual four Charms to ensure privacy, and then said, \"An interesting question, Mr. Potter. I wonder why you asked it?\"",
+   "Harry kept his face steady. \"I was looking up some facts about the Patronus Charm earlier,\" he said. \"According to <em>The Patronus Charm: Wizards Who Could and Couldn't,</em> it turns out that Godric couldn't and Salazar could. I was surprised, so I looked up the reference, in <em>Four Lives of Power.</em> And <em>then</em> I discovered that Salazar Slytherin could supposedly talk to snakes.\" (Temporal sequence wasn't the same as causation, it wasn't Harry's fault if Professor Quirrell missed that.) \"Further research turned up an old story about a mother goddess type who could talk to flying squirrels. I was a bit worried about the prospect of eating something that could talk.\"",
+   "And Harry took a casual sip of his water -"
+  ],
+  "summary_en": "Harry's other parts mock his flexible ethics; Quirrell locks the room with privacy charms and asks why he asked, and Harry spins a cover story about Patronus research leading to Slytherin and Parseltongue.",
+  "translation_fa": "(بخش‌های دیگر هری به او می‌خندیدند. گریفندور طعنه‌های نیشداری می‌زد درباره‌ی این‌که چطور کمی ناراحتی اجتماعی کافی بود تا به آدم‌خواری روی بیاورد! (به فریاد هافلپاف)، و اسلیترین اظهار نظر می‌کرد که چه خوب است اخلاق هری وقتی پای اهداف مهمی مثل حفظ رابطه‌اش با پروفسور کویرل در میان است انعطاف‌پذیر است.)\n\nبعد از این‌که پیشخدمت در را پشت سرش بست، پروفسور کویرل دستی تکان داد تا میله‌ی قفل سر جایش بلغزد، چهار طلسم همیشگی را برای تضمین حریم خصوصی گفت و بعد گفت: «سؤال جالبی است، آقای پاتر. کنجکاوم چرا پرسیدی؟»\n\nهری چهره‌اش را ثابت نگه داشت. «داشتم زودتر چند واقعیت درباره‌ی طلسم پاترونوس را نگاه می‌کردم،» گفت. «طبق «طلسم پاترونوس: جادوگرانی که توانستند و نتوانستند،» معلوم شد که گادریک نتوانست و سالازار توانست. تعجب کردم، پس مرجع را نگاه کردم، در «چهار زندگی قدرت.» و بعد کشف کردم که سالازار اسلیترین ظاهراً می‌توانسته با مارها حرف بزند.» (توالی زمانی همان علیت نیست، تقصیر هری نبود اگر پروفسور کویرل این را از دست داد.) «تحقیق بیشتر داستان قدیمی‌ای درباره‌ی یک الهه‌ی مادرِ نوعی که می‌توانست با سنجاب‌های پرنده حرف بزند پیدا کرد. کمی نگران چشم‌انداز خوردن چیزی بودم که می‌توانست حرف بزند.»\n\nو هری جرعه‌ای عادی از آبش نوشید —",
+  "summary_fa": "بخش‌های درونی هری اخلاق انعطاف‌پذیرش را مسخره می‌کنند؛ کویرل اتاق را با طلسم‌های حریم خصوصی می‌بندد و دلیل سؤالش را می‌پرسد، و هری با داستان تحقیقات پاترونوس سرپوش می‌گذارد."
+ },
+ {
+  "id": 8,
+  "paras": [
+   29,
+   30,
+   31,
+   32
+  ],
+  "verbatim_html": [
+   "- just as Professor Quirrell said, \"Mr. Potter, would I be correct in guessing that you are also a Parselmouth?\"",
+   "When Harry was done coughing, he set his glass of water back down on the table, fixed his gaze on Professor Quirrell's chin rather than looking him in the eyes, and said, \"So you are able to perform Legilimency through my Occlumency barriers, then.\"",
+   "Professor Quirrell was grinning widely. \"I shall take that as a compliment, Mr. Potter, but no.\"",
+   "\"I'm not buying this anymore,\" Harry said. \"There's no <em>way</em> you came to that conclusion based on that evidence.\""
+  ],
+  "summary_en": "Quirrell bluntly asks if Harry is a Parselmouth; Harry coughs and accuses him of Legilimency, which Quirrell denies with a grin, and Harry protests the evidence could never support that conclusion.",
+  "translation_fa": "— درست همان‌طور که پروفسور کویرل گفت: «آقای پاتر، اگر حدس بزنم شما هم پارسل‌زبان‌اید درست گفته‌ام؟»\n\nوقتی سرفه‌های هری تمام شد، لیوان آبش را دوباره روی میز گذاشت، نگاهش را به چانه‌ی پروفسور کویرل دوخت به‌جای این‌که به چشم‌هایش نگاه کند، و گفت: «پس شما می‌توانید از میان سدهای اکلومنسی من ذهن‌خوانی کنید.»\n\nپروفسور کویرل پهن لبخند می‌زد. «این را تعریف تلقی می‌کنم، آقای پاتر، اما نه.»\n\n«دیگر این را نمی‌خرم،» هری گفت. «هیچ راهی نیست که بر اساس آن مدرک به این نتیجه رسیده باشی.»",
+  "summary_fa": "کویرل رک می‌پرسد آیا هری پارسل‌زبان است؛ هری سرفه می‌کند و او را به ذهن‌خوانی متهم می‌کند، کویرل لبخندزنان انکار می‌کند و هری اعتراض می‌کند که مدرک هرگز چنین نتیجه‌ای را پشتیبانی نمی‌کند."
+ },
+ {
+  "id": 9,
+  "paras": [
+   33,
+   34,
+   35,
+   36
+  ],
+  "verbatim_html": [
+   "\"Of course not,\" Professor Quirrell said equably. \"I had planned to ask you that question today in any case, and simply chose an opportune moment. I have suspected since December, in fact -\"",
+   "\"<em>December?</em> \" said Harry. \"I found out <em>yesterday!</em> \"",
+   "\"Ah, so you did not realize the Sorting Hat's message to you was in Parseltongue?\"",
+   "The Defense Professor had timed it exactly right the second time, too, just as Harry was taking a gulp of water to clear out his throat from the first coughing fit."
+  ],
+  "summary_en": "Quirrell says he planned to ask anyway and suspected since December; Harry is stunned since he learned yesterday, and Quirrell reveals the Sorting Hat spoke to him in Parseltongue.",
+  "translation_fa": "«البته که نه،» پروفسور کویرل با خونسردی گفت. «به‌هرحال قصد داشتم امروز آن سؤال را ازت بپرسم و فقط لحظه‌ی مناسبی را انتخاب کردم. در واقع از دسامبر مشکوک بودم —»\n\n«دسامبر؟» هری گفت. «من دیروز فهمیدم!»\n\n«آه، پس نفهمیدی که پیام کلاه گروه‌بندی به تو به پارسل‌زبانی بود؟»\n\nپروفسور دفاع بار دوم هم دقیقاً درست زمان‌بندی کرده بود، درست وقتی که هری داشت جرعه‌ای آب می‌نوشید تا گلویش را از اولین سرفه صاف کند.",
+  "summary_fa": "کویرل می‌گوید به‌هرحال قصد پرسیدن داشت و از دسامبر مشکوک بوده؛ هری مبهوت است چون دیروز فهمیده، و کویرل فاش می‌کند پیام کلاه گروه‌بندی به پارسل‌زبانی بوده است."
+ },
+ {
+  "id": 10,
+  "paras": [
+   37,
+   38,
+   39,
+   40
+  ],
+  "verbatim_html": [
+   "Harry <em>hadn't</em> realized, not until just now. Of course it was obvious the instant Professor Quirrell said it. Right, Professor McGonagall had even <em>told</em> him not to talk to snakes where anyone could see him, but he'd thought she'd meant not to be seen talking to any statues or architectural features in Hogwarts that looked like snakes. Double illusion of transparency, he'd thought he understood her, she'd thought he understood her - but <em>how</em> the <em>hell -</em>",
+   "\"So,\" Harry said, \"you performed Legilimency on me during my first Defense class, to find out what happened with the Sorting Hat -\"",
+   "\"Then I would not have found out in December.\" Professor Quirell leaned back, smiling. \"This is not a puzzle you can solve on your own, Mr. Potter, so I will reveal the answer. Over the winter holiday, I was alerted to the fact that the Headmaster had filed a request for a closed judicial panel to review the case of one Mr. Rubeus Hagrid, whom you know as the Keeper of Keys and Grounds at Hogwarts, and who was accused of the murder of Abigail Myrtle in 1943.\"",
+   "\"Oh, of course,\" said Harry, \"that makes it downright <em>obvious</em> that I'm a Parselmouth. Professor, <em>what</em> the sweet slithering snakes -\""
+  ],
+  "summary_en": "Harry realizes McGonagall's warning about snakes too late; he accuses Quirrell of Legilimency in Defense class, but Quirrell says he learned it in December and begins explaining the Hagrid case.",
+  "translation_fa": "هری نفهمیده بود، تا همین حالا. البته به محض این‌که پروفسور کویرل گفت معلوم بود. درست است، پروفسور مک‌گونگال حتی به او گفته بود با مارها جایی که کسی می‌تواند ببیندش حرف نزند، اما او فکر کرده بود منظورش این است که نباید دیده شود که با هیچ مجسمه یا ویژگی معماری هاگوارتز که شبیه مار است حرف می‌زند. توهم شفافیت دوطرفه، او فکر کرده بود او را فهمیده، او فکر کرده بود او او را فهمیده — اما جهنم چطور —\n\n«پس،» هری گفت، «شما در اولین کلاس دفاعم روی من ذهن‌خوانی کردید تا بفهمید با کلاه گروه‌بندی چه گذشت —»\n\n«آن‌وقت در دسامبر نمی‌فهمیدم.» پروفسور کویرل به عقب تکیه داد و لبخند زد. «این معمایی نیست که بتوانی به‌تنهایی حل کنی، آقای پاتر، پس جواب را فاش می‌کنم. در تعطیلات زمستانی، به من اطلاع داده شد که مدیر درخواست یک هیئت قضایی بسته برای بازبینی پرونده‌ی آقای روبیوس هاگرید را ثبت کرده، که تو او را به‌عنوان نگهبان کلیدها و زمین‌های هاگوارتز می‌شناسی و که در سال ۱۹۴۳ به قتل ابیگیل مرتل متهم شده بود.»\n\n«آه، البته،» هری گفت، «این باعث می‌شود کاملاً واضح باشد که من پارسل‌زبانم. پروفسور، به جان مارهای لغزنده‌ی عزیز —»",
+  "summary_fa": "هری دیر می‌فهمد هشدار مک‌گونگال درباره‌ی مارها چه بوده؛ کویرل را به ذهن‌خوانی متهم می‌کند اما کویرل می‌گوید در دسامبر فهمیده و ماجرای پرونده‌ی هاگرید را شروع می‌کند."
+ },
+ {
+  "id": 11,
+  "paras": [
+   41,
+   42,
+   43,
+   44
+  ],
+  "verbatim_html": [
+   "\"The <em>other</em> suspect for that murder was Slytherin's Monster, the legendary inhabitant of Slytherin's Chamber of Secrets. Which is why certain sources alerted me to the fact, and why it caught my attention sufficiently that I spent a good deal of bribe money to learn the details of the case. Now in point of fact, Mr. Potter, Mr. Hagrid is innocent. Ridiculously obviously innocent. He is the most blatantly innocent bystander to be convicted by the magical British legal system since Grindelwald's Confunding of Neville Chamberlain was pinned on Amanda Knox. Headmaster Dippet prompted a student puppet to accuse Mr. Hagrid because Dippet needed a scapegoat to take the blame for the death of Miss Myrtle, and our marvelous justice system agreed that this was plausible enough to warrant Mr. Hagrid's expulsion and the snapping of his wand. Our current Headmaster needs merely provide some new item of evidence significant enough to reconvene the case; and with Dumbledore applying pressure instead of Dippet, the result is a foregone conclusion. Lucius Malfoy has no particular reason to fear Mr. Hagrid's vindication; thus Lucius Malfoy will only resist to the extent that he can do so costlessly in order to impose costs on Dumbledore, and Dumbledore is clearly willing to prosecute the case regardless.\"",
+   "Professor Quirrell took a sip of his water. \"But I digress. The new evidence that the Headmaster promises to provide is to exhibit a previously undetected spell on the Sorting Hat, which, the Headmaster asserts, he has personally determined to respond only to Slytherins who are also Parselmouths. The Headmaster further argues that this favors the interpretation that the Chamber of Secrets was indeed opened in 1943, approximately the right time frame for He-Who-Must-Not-Be-Named, a known Parselmouth, to have attended Hogwarts. It is a rather questionable logic, but a judicial panel may rule that it swings the case far enough to bring Mr. Hagrid's guilt into doubt, if they can manage to keep a straight face as they say it. And now we come to the key question: <em>how</em> did the Headmaster discover this hidden spell on the Sorting Hat?\"",
+   "Professor Quirrell was smiling thinly now. \"Well now, let us suppose that there was a Parselmouth in this year's crop of students, a potential Heir of Slytherin. You must admit, Mr. Potter, that you stand out as a possibility whenever extraordinary people are considered. And if I then further ask myself which new Slytherin would be most likely to have his mental privacy invaded by the Headmaster, specifically hunting the memories of his Sorting, why, you stand out even more.\" The smile vanished. \"So you see, Mr. Potter, it was not <em>I</em> who invaded your mind, though I will not ask you to apologize. It is not your fault that you believed Dumbledore's protestations of respecting your mental privacy.\"",
+   "\"My sincere apologies,\" Harry said, keeping his face expressionless. The rigid control was a confession in its own right, as was the sweat beading his forehead; but he didn't think the Defense Professor would take any evidence from that. Professor Quirrell would just think Harry was nervous at having been discovered as the Heir of Slytherin. Rather than being nervous that Professor Quirrell might realize that Harry had deliberately betrayed Slytherin's secret... which itself was no longer seeming like such a smart move."
+  ],
+  "summary_en": "Quirrell explains the other murder suspect was Slytherin's Monster and Hagrid is ridiculously obviously innocent, scapegoated by Dippet; then he details Dumbledore's new Sorting Hat evidence and deduces Dumbledore invaded a new Slytherin's mind, with Harry the standout.",
+  "translation_fa": "«مظنون دیگر آن قتل هیولای اسلیترین بود، ساکن افسانه‌ای تالار اسرار اسلیترین. به همین دلیل است که برخی منابع به من اطلاع دادند، و به همین دلیل است که به‌اندازه‌ای توجه‌ام را جلب کرد که پول رشوه‌ی خوبی خرج کردم تا جزئیات پرونده را یاد بگیرم. حالا در واقع، آقای پاتر، آقای هاگرید بی‌گناه است. به‌شکل مضحکی آشکارا بی‌گناه است. او آشکارترین رهگذر بی‌گناهی است که نظام حقوقی جادویی بریتانیا از وقتی که کانفاندِ گریندلوالد روی نویل چمبرلین به گردن آماندا ناکس افتاد محکوم کرده. مدیر دیپت دانش‌آموزی آلت‌دست را واداشت آقای هاگرید را متهم کند چون دیپت به بز قربانی نیاز داشت تا سرزنش مرگ دوشیزه مرتل را به گردنش بیندازد، و نظام عدالتی شگفت‌انگیز ما موافقت کرد که این به‌اندازه‌ای موجه است که اخراج آقای هاگرید و شکستن چوبدستی‌اش را توجیه کند. مدیر فعلی ما فقط باید مدرک جدیدی به‌اندازه‌ی کافی مهم ارائه دهد تا پرونده را دوباره باز کند؛ و با اعمال فشار دامبلدور به‌جای دیپت، نتیجه از پیش مشخص است. لوسیوس مالفوی دلیل خاصی برای ترس از تبرئه‌ی آقای هاگرید ندارد؛ پس لوسیوس مالفوی فقط تا جایی مقاومت می‌کند که بتواند بی‌هزینه انجامش دهد تا بر دامبلدور هزینه تحمیل کند، و دامبلدور آشکارا حاضر است پرونده را به‌هرحال پیگیری کند.»\n\nپروفسور کویرل جرعه‌ای از آبش نوشید. «اما از موضوع دور شدم. مدرک جدیدی که مدیر وعده می‌دهد ارائه کند این است که طلسمِ پیش‌تر کشف‌نشده‌ای را روی کلاه گروه‌بندی نشان دهد، که به ادعای مدیر، او شخصاً تشخیص داده که فقط به اسلیترین‌هایی که پارسل‌زبان هم هستند پاسخ می‌دهد. مدیر همچنین استدلال می‌کند که این به نفع این تفسیر است که تالار اسرار در سال ۱۹۴۳، تقریباً در بازه‌ی زمانی مناسب برای آن‌که-نباید-نامش-برده-شود، پارسل‌زبانِ شناخته‌شده، در هاگوارتز درس خوانده باشد، واقعاً باز شده بود. منطق نسبتاً سستی است، اما هیئت قضایی ممکن است حکم دهد که پرونده را به‌اندازه‌ای به نوسان می‌اندازد که گناه آقای هاگرید را دچار تردید کند، اگر بتوانند همان‌طور که می‌گویند صورتشان را صاف نگه دارند. و حالا می‌رسیم به سؤال کلیدی: مدیر چطور این طلسم پنهان روی کلاه گروه‌بندی را کشف کرد؟»\n\nپروفسور کویرل حالا لبخند باریکی می‌زد. «خب، حالا فرض کنیم پارسل‌زبانی در محصول دانش‌آموزی امسال بود، وارث بالقوه‌ی اسلیترین. باید اعتراف کنی، آقای پاتر، که هر وقت آدم‌های خارق‌العاده در نظر گرفته می‌شوند تو به‌عنوان یک احتمال برجسته‌ای. و اگر بعد از خودم بپرسم کدام اسلیترین جدید بیشتر محتمل است حریم ذهنی‌اش توسط مدیر مورد تجاوز قرار گرفته باشد، به‌طور خاص در شکار خاطرات گروه‌بندی‌اش، خب، حتی بیشتر برجسته می‌شوی.» لبخند ناپدید شد. «پس می‌بینی، آقای پاتر، من نبودم که به ذهنت تجاوز کردم، هرچند ازت نمی‌خواهم عذرخواهی کنی. تقصیر تو نیست که ادعاهای دامبلدور درباره‌ی احترام به حریم ذهنی‌ات را باور کردی.»\n\n«صمیمانه عذرخواهی می‌کنم،» هری گفت، چهره‌اش را بی‌حالت نگه داشته بود. کنترل سفت‌وسخت به‌خودی‌خود اعتراف بود، مثل عرقی که پیشانی‌اش را دانه‌دانه می‌کرد؛ اما فکر نمی‌کرد پروفسور دفاع از آن مدرکی بگیرد. پروفسور کویرل فقط فکر می‌کرد هری از این‌که به‌عنوان وارث اسلیترین کشف شده عصبی است. به‌جای این‌که عصبی باشد از این‌که پروفسور کویرل ممکن است بفهمد هری عمداً راز اسلیترین را لو داده... که خودش دیگر چندان حرکت هوشمندانه‌ای به نظر نمی‌رسید.",
+  "summary_fa": "کویرل می‌گوید مظنون دیگر هیولای اسلیترین بوده و هاگرید قربانی دیپت است؛ بعد مدرک جدید دامبلدور را شرح می‌دهد و نتیجه می‌گیرد دامبلدور به ذهن یک اسلیترین تازه تجاوز کرده و هری برجسته‌ترین گزینه است."
+ },
+ {
+  "id": 12,
+  "paras": [
+   45,
+   46,
+   47,
+   48
+  ],
+  "verbatim_html": [
+   "\"So, Mr. Potter. Any progress on finding the Chamber of Secrets?\"",
+   "<em>No,</em> thought Harry. But to maintain plausible deniability, you needed a general policy of sometimes evading questions even when you had nothing to hide... \"With respect, Professor Quirrell, if I had made such progress, it is not <em>quite</em> obvious to me that I should tell you about it.\"",
+   "Professor Quirrell sipped from his own waterglass again. \"Well then, Mr. Potter, I shall freely tell you what I know or suspect. First, I believe the Chamber of Secrets is real, as is Slytherin's Monster. Miss Myrtle's death was not discovered until hours after her demise, even though the wards should have alerted the Headmaster instantly. Therefore her murder was performed either by Headmaster Dippet, which is unlikely, or by some entity which Salazar Slytherin keyed into his wards at a higher level than the Headmaster himself. Second, I suspect that contrary to popular legend, the purpose of Slytherin's Monster was <em>not</em> to rid Hogwarts of Muggleborns. Unless Slytherin's Monster were powerful enough to defeat the Headmaster of Hogwarts and all the teachers, it could not triumph by force. Multiple murders in secrecy would result in the school's closure, as nearly happened in 1943, or in the placing of new wards. So why Slytherin's Monster, Mr. Potter? What true purpose does it serve?\"",
+   "\"Ah...\" Harry dropped his gaze to his waterglass and tried to think. \"To kill anyone who got into the Chamber and didn't belong there -\""
+  ],
+  "summary_en": "Asked about progress on the Chamber, Harry preserves deniability; Quirrell shares his theory that the Chamber is real, keyed above the Headmaster, and that the Monster's true purpose needs discovering.",
+  "translation_fa": "«خب، آقای پاتر. پیشرفتی در پیدا کردن تالار اسرار داشتی؟»\n\nنه، فکر کرد هری. اما برای حفظ انکارپذیری موجه، به سیاست کلیِ گاهی طفره رفتن از سؤال‌ها نیاز داشتی حتی وقتی چیزی برای پنهان کردن نداشتی... «با احترام، پروفسور کویرل، اگر چنین پیشرفتی کرده بودم، کاملاً واضح نیست که باید درباره‌اش به شما بگویم.»\n\nپروفسور کویرل دوباره از لیوان آبش جرعه‌ای نوشید. «خب پس، آقای پاتر، من آزادانه بهت می‌گویم چه می‌دانم یا گمان می‌کنم. اول، باور دارم تالار اسرار واقعی است، مثل هیولای اسلیترین. مرگ دوشیزه مرتل تا ساعت‌ها پس از درگذشتش کشف نشد، هرچند محافظ‌ها باید فوراً به مدیر هشدار می‌دادند. پس قتلش یا توسط مدیر دیپت انجام شد، که نامحتمل است، یا توسط موجودی که سالازار اسلیترین در سطحی بالاتر از خود مدیر به محافظ‌هایش کلید کرده. دوم، گمان می‌کنم برخلاف افسانه‌ی رایج، هدف هیولای اسلیترین پاکسازی هاگوارتز از مشنگ‌زادگان نبوده. مگر این‌که هیولای اسلیترین به‌اندازه‌ای قدرتمند بود که مدیر هاگوارتز و همه‌ی معلم‌ها را شکست دهد، نمی‌توانست با زور پیروز شود. قتل‌های متعدد در پنهانی به بسته شدن مدرسه منجر می‌شد، چنان‌که در ۱۹۴۳ نزدیک بود بشود، یا به قرار دادن محافظ‌های جدید. پس چرا هیولای اسلیترین، آقای پاتر؟ چه هدف واقعی‌ای دارد؟»\n\n«آه...» هری نگاهش را به لیوان آبش انداخت و سعی کرد فکر کند. «کشتن هر کسی که وارد تالار شد و به آن‌جا تعلق نداشت —»",
+  "summary_fa": "هری با حفظ انکارپذیری طفره می‌رود؛ کویرل نظریه‌اش را می‌گوید که تالار واقعی است و بالاتر از مدیر کلید خورده، و باید هدف واقعی هیولا را کشف کرد."
+ },
+ {
+  "id": 13,
+  "paras": [
+   49,
+   50,
+   51,
+   52
+  ],
+  "verbatim_html": [
+   "\"A monster powerful enough to defeat a team of wizards that had broken past the best wards Salazar could place on his Chamber? Unlikely.\"",
+   "Harry was feeling a bit pressured now. \"Well, it's called the Chamber of Secrets, so maybe the Monster has a secret, or <em>is</em> a secret?\" For that matter, just what sort of secrets were in the Chamber of Secrets in the first place? Harry hadn't done a lot of research on the subject, in part because he'd gotten the impression that nobody knew anything -",
+   "Professor Quirrell was smiling. \"Why not just write the secret down?\"",
+   "\"Ahhh...\" said Harry. \"Because if the Monster spoke Parseltongue, that would ensure that only a true descendant of Slytherin could hear the secret?\""
+  ],
+  "summary_en": "Quirrell presses Harry through Socratic questions — why not just write the secret down — until Harry suggests the Monster speaks Parseltongue so only Slytherin's heir could hear.",
+  "translation_fa": "«هیولایی به‌اندازه‌ای قدرتمند که تیمی از جادوگران را که از بهترین محافظ‌هایی که سالازار می‌توانست روی تالارش بگذارد گذشته بودند شکست دهد؟ نامحتمل.»\n\nهری حالا کمی احساس فشار می‌کرد. «خب، اسمش تالار اسرار است، پس شاید هیولا رازی دارد، یا خودش راز است؟» گذشته از این، اصلاً چه جور رازهایی در وهله‌ی اول در تالار اسرار بود؟ هری تحقیق زیادی درباره‌ی موضوع نکرده بود، بخشی چون این تصور را گرفته بود که هیچ‌کس چیزی نمی‌داند —\n\nپروفسور کویرل لبخند می‌زد. «چرا راز را فقط ننوشت؟»\n\n«آههه...» هری گفت. «چون اگر هیولا پارسل‌زبانی حرف می‌زد، این تضمین می‌کرد که فقط نواده‌ی واقعی اسلیترین می‌تواند راز را بشنود؟»",
+  "summary_fa": "کویرل با پرسش‌های سقراطی هری را جلو می‌برد — چرا راز را ننوشت — تا هری پیشنهاد دهد هیولا پارسل‌زبانی می‌گوید تا فقط وارث اسلیترین بشنود."
+ },
+ {
+  "id": 14,
+  "paras": [
+   53,
+   54,
+   55,
+   56
+  ],
+  "verbatim_html": [
+   "\"Easy enough to key the wards on the Chamber to a phrase spoken in Parseltongue. Why go to the trouble of creating Slytherin's Monster? It cannot have been easy to create a creature with a lifespan of centuries. Come, Mr. Potter, it should be obvious; what are the secrets that can be told from one living mind to another, but never written down?\"",
+   "Harry saw it then, with a burst of adrenaline that started his heart racing, his breath coming faster. \"<em>Oh.</em>\"",
+   "Salazar Slytherin had been very cunning indeed. Cunning enough to come up with a way to bypass the Interdict of Merlin.",
+   "Powerful wizardries couldn't be transmitted through books or ghosts, but if you could create a long-lived enough sentient creature with a good enough memory -"
+  ],
+  "summary_en": "Quirrell asks what secrets can be told living mind to living mind but never written; Harry realizes Salazar bypassed the Interdict of Merlin with a long-lived sentient creature.",
+  "translation_fa": "«به‌اندازه‌ای آسان است که محافظ‌های تالار را به عبارتی که به پارسل‌زبانی گفته شود کلید کرد. چرا به زحمتِ خلق هیولای اسلیترین افتاد؟ خلق موجودی با طول عمر قرن‌ها نمی‌توانسته آسان بوده باشد. بیا، آقای پاتر، باید واضح باشد؛ چه رازهایی است که می‌تواند از یک ذهن زنده به ذهن زنده‌ی دیگر گفته شود، اما هرگز نوشته نشود؟»\n\nهری آن‌وقت با انفجار آدرنالینی دید که قلبش را به تپش انداخت و نفسش را تندتر کرد. «اوه.»\n\nسالازار اسلیترین واقعاً خیلی حیله‌گر بوده. آن‌قدر حیله‌گر که راهی برای دور زدن منع مرلین پیدا کند.\n\nجادوهای قدرتمند نمی‌توانستند از طریق کتاب‌ها یا ارواح منتقل شوند، اما اگر می‌توانستی موجودی زنده‌ی به‌اندازه‌ی کافی بادوام با حافظه‌ی به‌اندازه‌ی کافی خوب بسازی —",
+  "summary_fa": "کویرل می‌پرسد چه رازهایی فقط از ذهن زنده به ذهن زنده منتقل می‌شوند؛ هری درمی‌یابد سالازار با موجودی زنده‌ی بادوام منع مرلین را دور زده است."
+ },
+ {
+  "id": 15,
+  "paras": [
+   57,
+   58,
+   59,
+   60
+  ],
+  "verbatim_html": [
+   "\"It seems very probable to me,\" said Professor Quirrell, \"that He-Who-Must-Not-Be-Named began his climb to power with secrets obtained from Slytherin's Monster. That Salazar's lost knowledge is the source of You-Know-Who's extraordinarily powerful wizardry. Hence my interest in the Chamber of Secrets and the case of Mr. Hagrid.\"",
+   "\"I <em>see</em>,\" Harry said. And if <em>he,</em> Harry, could find Salazar's Chamber of Secrets... then all of the lost knowledge that Lord Voldemort had obtained would be <em>his</em> as well.",
+   "Yes. That was <em>just</em> how the story should go.",
+   "Add in Harry's superior intelligence and some original magical research and some Muggle rocket launchers, and the resulting fight would be completely one-sided, which was exactly how Harry wanted it."
+  ],
+  "summary_en": "Quirrell concludes Voldemort rose on Salazar's lost knowledge from the Monster; Harry dreams of claiming that heritage himself with Muggle rocket launchers for a one-sided fight.",
+  "translation_fa": "«به نظر من خیلی محتمل است،» پروفسور کویرل گفت، «که آن‌که-نباید-نامش-برده-شود صعودش به قدرت را با رازهایی که از هیولای اسلیترین به دست آورد آغاز کرد. که دانش گمشده‌ی سالازار منبع جادوگری فوق‌العاده قدرتمند شما-می‌دانید-کی است. از این رو علاقه‌ام به تالار اسرار و پرونده‌ی آقای هاگرید.»\n\n«می‌بینم،» هری گفت. و اگر او، هری، می‌توانست تالار اسرار سالازار را پیدا کند... آن‌وقت همه‌ی دانش گمشده‌ای که لرد ولدمورت به دست آورده بود مال او هم می‌شد.\n\nبله. داستان دقیقاً همین‌طور باید پیش می‌رفت.\n\nهوش برتر هری و کمی تحقیق جادویی اصیل و چند پرتاب‌کننده‌ی راکت مشنگی را اضافه کن، و نبرد حاصل کاملاً یک‌طرفه می‌شد، که دقیقاً همان‌طور بود که هری می‌خواست.",
+  "summary_fa": "کویرل نتیجه می‌گیرد ولدمورت با دانش گمشده‌ی سالازار برخاسته؛ هری رؤیای تصاحب آن میراث را با راکت‌اندازهای مشنگی برای نبردی یک‌طرفه می‌بیند."
+ },
+ {
+  "id": 16,
+  "paras": [
+   61,
+   62,
+   63,
+   64
+  ],
+  "verbatim_html": [
+   "Harry was grinning now, a very evil grin. <em>New priority: Find everything in Hogwarts that looks remotely like a snake and try speaking to it. Starting with everything you've already tried, only this time be sure to use Parseltongue instead of English - get Draco to let you into the Slytherin dorms -</em>",
+   "\"Don't become too excited, Mr. Potter,\" said Professor Quirrell. His own face had become expressionless, now. \"You must <em>continue</em> thinking. What were the Dark Lord's parting words to Slytherin's Monster?\"",
+   "\"<em>What?</em> \" Harry said. \"How could either of us possibly know that?\"",
+   "\"Visualize the scene, Mr. Potter. Let your imagination fill in the details. Slytherin's Monster - probably some great serpent, so that only a Parselmouth may speak to it - has finished imparting all of the knowledge it possesses to He-Who-Must-Not-Be-Named. It conveys to him Salazar's final benediction, and warns him that the Chamber of Secrets must now remain closed until the next descendant of Salazar should prove cunning enough to open it. And he who will become the Dark Lord nods, and says to it -\""
+  ],
+  "summary_en": "Harry grins evilly, planning to speak Parseltongue to every snake-like thing in Hogwarts; Quirrell cools him down and poses the chilling question of the Dark Lord's parting words to the Monster.",
+  "translation_fa": "هری حالا پوزخند می‌زد، پوزخندی خیلی شیطانی. اولویت جدید: هر چیزی در هاگوارتز که ذره‌ای شبیه مار است پیدا کن و سعی کن با آن حرف بزنی. با همه‌ی چیزهایی که قبلاً امتحان کرده‌ای شروع کن، فقط این بار مطمئن شو به‌جای انگلیسی از پارسل‌زبانی استفاده می‌کنی — از دریکو بخواه بگذارد وارد خوابگاه اسلیترین شوی —\n\n«خیلی هیجان‌زده نشو، آقای پاتر،» پروفسور کویرل گفت. چهره‌ی خودش حالا بی‌حالت شده بود. «باید به فکر کردن ادامه بدهی. آخرین حرف‌های لرد سیاه به هیولای اسلیترین چه بود؟»\n\n«چی؟» هری گفت. «چطور ممکن است هر کداممان آن را بدانیم؟»\n\n«صحنه را مجسم کن، آقای پاتر. بگذار تخیلت جزئیات را پر کند. هیولای اسلیترین — احتمالاً ماری بزرگ، تا فقط پارسل‌زبانی بتواند با آن حرف بزند — تمام دانشی را که دارد به آن‌که-نباید-نامش-برده-شود منتقل کرده. برکت نهایی سالازار را به او می‌رساند و به او هشدار می‌دهد که تالار اسرار حالا باید بسته بماند تا نواده‌ی بعدی سالازار که به‌اندازه‌ی کافی حیله‌گر باشد که آن را باز کند ثابت شود. و او که لرد سیاه می‌شود سر تکان می‌دهد و به آن می‌گوید —»",
+  "summary_fa": "هری پوزخند شیطانی می‌زند و نقشه می‌کشد با همه‌ی مارنماهای هاگوارتز پارسل‌زبانی حرف بزند؛ کویرل او را آرام می‌کند و سؤال هولناک آخرین حرف‌های لرد سیاه به هیولا را مطرح می‌کند."
+ },
+ {
+  "id": 17,
+  "paras": [
+   65,
+   66,
+   67,
+   68
+  ],
+  "verbatim_html": [
+   "\"Avada Kedavra,\" said Harry, suddenly feeling sick to his stomach.",
+   "\"Rule Twelve,\" Professor Quirrell said quietly. \"Never leave the source of your power lying around where someone else can find it.\"",
+   "Harry's gaze dropped to the tablecloth, which had decorated itself in a mournful pattern of black flowers and shadows. Somehow that seemed... too sad to be imagined, Slytherin's great snake had only wanted to help Lord Voldemort, and Lord Voldemort had just... there was something unbearably sorrowful about it, what sort of person would <em>do</em> that to a being who'd offered them nothing but friendship... \"<em>Do</em> you think the Dark Lord would have -\"",
+   "\"Yes,\" Professor Quirrell said flatly. \"He-Who-Must-Not-Be-Named left quite a trail of bodies behind him, Mr. Potter; I doubt he would have omitted that one. If there were any artifacts left there that could be moved, the Dark Lord would have taken those with him as well. There might still be something worth seeing in the Chamber of Secrets, and to find it would prove yourself the true Heir of Slytherin. But do not raise your hopes too high. I suspect that all you will find is the remains of Slytherin's Monster resting quietly in its grave.\""
+  ],
+  "summary_en": "Harry answers Avada Kedavra and feels sick; Quirrell cites Rule Twelve about never leaving power lying around, and says the Chamber likely holds only the Monster's grave.",
+  "translation_fa": "«آوادا کداورا،» هری گفت، در حالی که ناگهان حالش از معده‌اش به هم خورد.\n\n«قاعده‌ی دوازدهم،» پروفسور کویرل آرام گفت. «هرگز منبع قدرتت را جایی رها نکن که کس دیگری بتواند پیدایش کند.»\n\nنگاه هری به رومیزی افتاد، که خودش را به طرح ماتمی از گل‌های سیاه و سایه‌ها آراسته بود. به‌شکلی... زیادی غم‌انگیز بود که تصور شود، مار بزرگ اسلیترین فقط می‌خواسته به لرد ولدمورت کمک کند، و لرد ولدمورت فقط... چیزی تحمل‌ناپذیر اندوهناک در آن بود، چه جور آدمی با موجودی که جز دوستی چیزی به او عرضه نکرده بود چنین می‌کرد... «فکر می‌کنی لرد سیاه واقعاً —»\n\n«بله،» پروفسور کویرل تخت گفت. «آن‌که-نباید-نامش-برده-شود ردپای نسبتاً پررنگی از اجساد پشت سرش گذاشت، آقای پاتر؛ شک دارم آن یکی را جا انداخته باشد. اگر مصنوعاتی آن‌جا بود که می‌شد جابه‌جا کرد، لرد سیاه آن‌ها را هم با خودش می‌برد. شاید هنوز چیز ارزش دیدنی در تالار اسرار باشد، و پیدا کردنش تو را وارث واقعی اسلیترین ثابت می‌کند. اما امیدت را خیلی بالا نبر. گمان می‌کنم تنها چیزی که پیدا می‌کنی بقایای هیولای اسلیترین است که آرام در گورش آرمیده.»",
+  "summary_fa": "هری جواب می‌دهد آوادا کداورا و حالش به هم می‌خورد؛ کویرل قاعده‌ی دوازدهم را می‌گوید و هشدار می‌دهد تالار احتمالاً فقط گور هیولا را دارد."
+ },
+ {
+  "id": 18,
+  "paras": [
+   69,
+   70,
+   71,
+   72
+  ],
+  "verbatim_html": [
+   "They sat in silence for a while.",
+   "\"I could be wrong,\" said Professor Quirrell. \"In the end it is only a guess. But I did wish to warn you, Mr. Potter, so that you would not be too sorely disappointed.\"",
+   "Harry nodded shortly.",
+   "\"One might even regret your infant self's victory,\" said Professor Quirrell. His smile twisted. \"If only You-Know-Who had lived, you might have persuaded him to teach you some of the knowledge that would have been your heritage, from one Heir of Slytherin to another.\" The smile twisted further, as though to mock the obvious impossibility, even given the premise."
+  ],
+  "summary_en": "They sit in silence; Quirrell admits it is only a guess to spare Harry disappointment, and twists the knife musing that Harry's infant self might have learned Voldemort's lore heir-to-heir.",
+  "translation_fa": "مدتی در سکوت نشستند.\n\n«ممکن است اشتباه کنم،» پروفسور کویرل گفت. «در نهایت فقط حدس است. اما می‌خواستم بهت هشدار بدهم، آقای پاتر، تا زیادی ناامید نشوی.»\n\nهری کوتاه سر تکان داد.\n\n«حتی ممکن است آدم از پیروزی خودِ نوزادیت پشیمان شود،» پروفسور کویرل گفت. لبخندش کج شد. «کاش شما-می‌دانید-کی زنده مانده بود، شاید می‌توانستی متقاعدش کنی مقداری از دانشی را که میراثت می‌بود بهت یاد بدهد، از یک وارث اسلیترین به وارث دیگر.» لبخند بیشتر کج شد، گویی می‌خواست ناممکن بودن آشکار را به تمسخر بگیرد، حتی با فرض مقدمه.",
+  "summary_fa": "در سکوت می‌نشینند؛ کویرل می‌گوید فقط حدس است تا هری ناامید نشود، و با طعنه می‌گوید کاش ولدمورت زنده بود تا دانش میراث را وارث‌به‌وارث به هری می‌آموخت."
+ },
+ {
+  "id": 19,
+  "paras": [
+   73,
+   74,
+   75,
+   76
+  ],
+  "verbatim_html": [
+   "<em>Note to self,</em> thought Harry, with a slight chill and an edge of anger, <em>make sure to extract my heritage out of the Dark Lord's mind, one way or another.</em>",
+   "There was another silence. Professor Quirrell was looking at Harry as though waiting for him to ask something.",
+   "\"Well,\" said Harry, \"so long as we're on the topic, can I ask how you think the whole Parselmouth business actually -\"",
+   "There came a knock at the door, then. Professor Quirrell raised a cautionary finger, then opened the door with a wave. The waitress entered, balancing a huge platter with their meals as though the whole assembly weighed nothing (which was in fact probably the case). She gave Professor Quirrell his bowl of green soup, and a glass of his usual Chianti; and set down before Harry a plate of small meat strips smothered in a heavy-looking sauce, plus a glass of his accustomed treacle soda. Then she bowed, managing to make it seem like sincere respect rather than perfunctory acknowledgment, and departed."
+  ],
+  "summary_en": "Harry resolves to extract his heritage from the Dark Lord's mind; as he asks how Parseltongue works, the waitress arrives with soup, meat strips, and soda.",
+  "translation_fa": "یادداشت به خودم، فکر کرد هری، با لرز خفیفی و لبه‌ای از خشم، مطمئن شو میراثم را از ذهن لرد سیاه بیرون بکشم، به یک طریق یا دیگری.\n\nسکوت دیگری بود. پروفسور کویرل به هری نگاه می‌کرد گویی منتظر بود چیزی بپرسد.\n\n«خب،» هری گفت، «حالا که سر موضوعیم، می‌توانم بپرسم فکر می‌کنی کل ماجرای پارسل‌زبانی واقعاً چطور —»\n\nبعد در زده شد. پروفسور کویرل انگشت احتیاطی بالا برد، بعد با تکانی در را باز کرد. پیشخدمت وارد شد، سینی بزرگی را با غذاهایشان متعادل کرده بود گویی کل مجموعه هیچ وزنی نداشت (که در واقع احتمالاً همین بود). به پروفسور کویرل کاسه‌ی سوپ سبزش را داد و لیوانی از کیانتی همیشگی‌اش؛ و جلوی هری بشقابی از نوارهای کوچک گوشتِ غرق در سس سنگین‌نمایی گذاشت، به‌علاوه‌ی لیوانی از نوشابه‌ی شیرین همیشگی‌اش. بعد تعظیم کرد، و طوری وانمود کرد که احترام صمیمانه است نه اذعان تشریفاتی، و رفت.",
+  "summary_fa": "هری تصمیم می‌گیرد میراثش را از ذهن لرد سیاه بیرون بکشد؛ وقتی می‌خواهد سازوکار پارسل‌زبانی را بپرسد، پیشخدمت با سوپ و گوشت و نوشابه می‌رسد."
+ },
+ {
+  "id": 20,
+  "paras": [
+   77,
+   78,
+   79,
+   80
+  ],
+  "verbatim_html": [
+   "When she was gone, Professor Quirrell held up a finger for silence again, and drew his wand.",
+   "And then Professor Quirrell began performing a certain series of incantations that Harry recognized, making him take a sharp breath. It was the series and ordering that Mr. Bester had used, the full set of twenty-seven spells that you would perform before discussing anything of truly great import.",
+   "If the discussion of the Chamber of Secrets <em>hadn't</em> counted as important -",
+   "When Professor Quirrell was done - he'd performed <em>thirty</em> spells, three of which Harry hadn't heard before - the Defense Professor said, \"Now we shall not be interrupted for a time. Can you keep a secret, Mr. Potter?\""
+  ],
+  "summary_en": "Quirrell draws his wand and casts a full set of privacy spells — thirty, three unknown to Harry — and asks whether Harry can keep a truly serious secret.",
+  "translation_fa": "وقتی رفت، پروفسور کویرل دوباره انگشتی برای سکوت بالا برد و چوبدستی‌اش را بیرون کشید.\n\nو بعد پروفسور کویرل شروع کرد به اجرای مجموعه‌ای از افسون‌ها که هری شناخت، و نفسش را تند کرد. همان مجموعه و ترتیبی بود که آقای بستر استفاده کرده بود، مجموعه‌ی کامل بیست‌وهفت طلسمی که پیش از بحث درباره‌ی هر چیز واقعاً مهم اجرا می‌کنی.\n\nاگر بحث درباره‌ی تالار اسرار مهم حساب نشده بود —\n\nوقتی پروفسور کویرل تمام کرد — سی طلسم اجرا کرده بود، سه‌تایش را هری قبلاً نشنیده بود — پروفسور دفاع گفت: «حالا مدتی قطع نمی‌شویم. می‌توانی راز نگه داری، آقای پاتر؟»",
+  "summary_fa": "کویرل چوبدستی می‌کشد و مجموعه‌ی کامل طلسم‌های حریم خصوصی را اجرا می‌کند — سی طلسم — و می‌پرسد هری می‌تواند رازی واقعاً جدی نگه دارد."
+ },
+ {
+  "id": 21,
+  "paras": [
+   81,
+   82,
+   83,
+   84
+  ],
+  "verbatim_html": [
+   "Harry nodded.",
+   "\"A serious secret, Mr. Potter,\" Professor Quirrell said. His eyes were intent, his face grave. \"One which could potentially send me to Azkaban. Think about it before you reply.\"",
+   "For a moment Harry didn't even see why the question should be hard, given his growing collection of secrets. Then -",
+   "<em>If this secret could send Professor Quirrell to Azkaban, that means he's done something illegal...</em>"
+  ],
+  "summary_en": "Harry nods; Quirrell warns the secret could send him to Azkaban, and Harry realizes it means something illegal while weighing whether to hear it.",
+  "translation_fa": "هری سر تکان داد.\n\n«رازی جدی، آقای پاتر،» پروفسور کویرل گفت. چشم‌هایش مصمم بود، چهره‌اش جدی. «رازی که بالقوه می‌تواند مرا به آزکابان بفرستد. پیش از پاسخ دادن فکر کن.»\n\nبرای لحظه‌ای هری حتی نفهمید چرا سؤال باید سخت باشد، با توجه به مجموعه‌ی رو به رشد رازهایش. بعد —\n\nاگر این راز می‌توانست پروفسور کویرل را به آزکابان بفرستد، یعنی کار غیرقانونی‌ای کرده...",
+  "summary_fa": "هری سر تکان می‌دهد؛ کویرل هشدار می‌دهد راز می‌تواند او را به آزکابان بفرستد، و هری می‌فهمد یعنی کاری غیرقانونی کرده است."
+ },
+ {
+  "id": 22,
+  "paras": [
+   85,
+   86,
+   87,
+   88
+  ],
+  "verbatim_html": [
+   "Harry's brain performed a few calculations. Whatever the secret, Professor Quirrell did not think his illegal act would reflect badly on him in Harry's eyes. There was no advantage to be gained from <em>not</em> hearing it. And if it did reveal something wrong with Professor Quirrell, then it was very much to Harry's advantage to know it, even if he had promised not to tell anyone.",
+   "\"I never had very much respect for authority,\" Harry said. \"Legal and governmental authority included. I will keep your secret.\"",
+   "Harry didn't bother asking whether the revelation was worth the danger it would pose to Professor Quirrell. The Defense Professor wasn't stupid.",
+   "\"Then I must test whether you are truly a descendant of Salazar,\" said Professor Quirrell, and stood up from his chair. Harry, prompted more by reflex and instinct than calculation, shoved himself up out of his own chair as well."
+  ],
+  "summary_en": "Harry calculates there is no downside to hearing it and pledges to keep the secret, scorning authority; Quirrell stands to test whether Harry is truly Salazar's descendant.",
+  "translation_fa": "مغز هری چند محاسبه انجام داد. هرچه راز بود، پروفسور کویرل فکر نمی‌کرد عمل غیرقانونی‌اش در چشم‌های هری بد جلوه کند. مزیتی در نشنیدنش نبود. و اگر چیز اشتباهی درباره‌ی پروفسور کویرل فاش می‌کرد، آن‌وقت دانستنش خیلی به نفع هری بود، حتی اگر قول داده بود به کسی نگوید.\n\n«هرگز احترام زیادی برای مرجعیت قائل نبودم،» هری گفت. «مرجعیت قانونی و دولتی هم شاملش می‌شود. رازت را نگه می‌دارم.»\n\nهری به زحمت نیفتاد که بپرسد آیا افشاگری ارزش خطری را دارد که برای پروفسور کویرل ایجاد می‌کند. پروفسور دفاع احمق نبود.\n\n«پس باید آزمایش کنم آیا واقعاً از نوادگان سالازاری،» پروفسور کویرل گفت و از صندلی‌اش بلند شد. هری، بیشتر از روی بازتاب و غریزه تا محاسبه، خودش را هم از صندلی‌اش بیرون هل داد.",
+  "summary_fa": "هری حساب می‌کند شنیدنش ضرری ندارد و با تحقیر مرجعیت قول نگه‌داری راز می‌دهد؛ کویرل بلند می‌شود تا بیازماید هری واقعاً نواده‌ی سالازار است."
+ },
+ {
+  "id": 23,
+  "paras": [
+   89,
+   90,
+   91,
+   92
+  ],
+  "verbatim_html": [
+   "There was a blur, a shift, a sudden motion.",
+   "Harry aborted his panicked backward leap halfway through, leaving him windmilling his arms and trying not to fall over, a frantic flush of adrenaline running through him.",
+   "At the other end of the room swayed a snake a meter high, bright green and intricately banded in white and blue. Harry didn't know enough snakelore to recognize it, but he knew that 'brightly colored' meant 'poisonous'.",
+   "The constant sense of doom had diminished, ironically enough, after the Defense Professor of Hogwarts had turned into a venomous snake."
+  ],
+  "summary_en": "A blur resolves into a bright venomous snake where Quirrell stood; Harry aborts his panicked leap, and the sense of doom ironically fades.",
+  "translation_fa": "تاری بود، جابه‌جایی‌ای، حرکتی ناگهانی.\n\nهری جهش عقب وحشت‌زده‌اش را نیمه‌کاره متوقف کرد، و دست‌هایش را آسیاب‌وار چرخاند و سعی کرد نیفتد، در حالی که موج دیوانه‌ی آدرنالین در تنش می‌دوید.\n\nدر آن سوی اتاق ماری به ارتفاع یک متر تاب می‌خورد، سبز روشن و با نوارهای پیچیده‌ی سفید و آبی. هری به‌اندازه‌ی کافی ماردانشی نمی‌دانست تا آن را بشناسد، اما می‌دانست «رنگ روشن» یعنی «سمی».\n\nحس دائمی شوم به‌شکل طعنه‌آمیزی کم شده بود، بعد از این‌که پروفسور دفاع هاگوارتز به مار سمی تبدیل شده بود.",
+  "summary_fa": "تاری محو می‌شود و ماری سمی و روشن جای کویرل است؛ هری جهش وحشت‌زده‌اش را نیمه‌کاره متوقف می‌کند و حس شوم به‌طرز طعنه‌آمیزی کم می‌شود."
+ },
+ {
+  "id": 24,
+  "paras": [
+   93,
+   94,
+   95,
+   96
+  ],
+  "verbatim_html": [
+   "Harry swallowed hard and said, \"Greetings - ah, hssss, no, ah, <em>greetingss.</em>\"",
+   "\"<em>Sso,</em>\" hissed the snake. \"<em>You sspeak, I hear. I sspeak, you hear?</em> \"",
+   "\"<em>Yess, I hear,</em>\" hissed Harry. \"<em>You are an Animaguss?</em> \"",
+   "\"<em>Obvioussly,</em>\" hissed the snake. \"<em>Thirty-sseven ruless, number thirty-four: Become Animaguss. All ssensible people do, if can. Thuss,</em> <em>very rare.</em>\" The snake's eyes were flat surfaces ensconced within dark pits, sharp black pupils in dark gray fields. \"<em>This iss mosst ssecure way to sspeak. You ssee? No otherss undersstand uss.</em>\""
+  ],
+  "summary_en": "Harry greets the snake in Parseltongue; the snake confirms they hear each other, reveals itself as an Animagus, and calls snake-form the most secure way to speak.",
+  "translation_fa": "هری آب دهانش را قورت داد و گفت: «درود — آه، هسسس، نه، آه، درودها.»\n\n«سسو،» مار هیس کشید. «تو حرف می‌زنی، من می‌شنوم. من حرف می‌زنم، تو می‌شنوی؟»\n\n«بله، می‌شنوم،» هری هیس کشید. «تو انیماگوسی؟»\n\n«بدیهی است،» مار هیس کشید. «سی‌وهفت قاعده، شماره‌ی سی‌وچهار: انیماگوس شو. همه‌ی آدم‌های عاقل می‌شوند، اگر بتوانند. پس، خیلی نادر.» چشم‌های مار سطوح تختی بودند که در گودال‌های تیره جای گرفته بودند، مردمک‌های سیاه تیز در زمینه‌های خاکستری تیره. «این امن‌ترین راه حرف زدن است. می‌بینی؟ هیچ‌کس دیگر ما را نمی‌فهمد.»",
+  "summary_fa": "هری به پارسل‌زبانی سلام می‌کند؛ مار تأیید می‌کند همدیگر را می‌شنوند، فاش می‌کند انیماگوس است و مارشدن را امن‌ترین راه حرف‌زدن می‌داند."
+ },
+ {
+  "id": 25,
+  "paras": [
+   97,
+   98,
+   99,
+   100
+  ],
+  "verbatim_html": [
+   "\"<em>Even if they are ssnake Animagi?</em> \"",
+   "\"<em>Not unlesss heir of Sslytherin willss.</em>\" The snake gave a series of short hisses which Harry's brain translated as sardonic laughter. \"<em>Sslytherin not sstupid. Ssnake Animaguss not ssame as Parsselmouth. Would be huge flaw in sscheme.</em>\"",
+   "Well <em>that</em> definitely argued that Parseltongue was personal magic, not snakes being sentient beings with a learnable language -",
+   "\"<em>I am not regisstered,</em>\" hissed the snake. The dark pits of its eyes stared at Harry. \"<em>Animaguss musst be regisstered. Penalty is two yearss imprissonment. Will you keep my ssecret, boy?</em> \""
+  ],
+  "summary_en": "The snake explains Slytherin barred even snake Animagi from understanding unless the heir wills it, proving Parseltongue is personal magic; it confesses it is unregistered and asks Harry to keep the secret.",
+  "translation_fa": "«حتی اگر انیماگوس مار باشند؟»\n\n«نه مگر این‌که وارث اسلیترین بخواهد.» مار مجموعه‌ای از هیس‌های کوتاه کشید که مغز هری به‌عنوان خنده‌ی طعنه‌آمیز ترجمه‌اش کرد. «اسلیترین احمق نبود. انیماگوس مار همان پارسل‌زبان نیست. نقص بزرگی در طرح می‌بود.»\n\nخب آن قطعاً استدلال می‌کرد که پارسل‌زبانی جادوی شخصی است، نه این‌که مارها موجودات باشعوری باشند با زبانی آموختنی —\n\n«من ثبت نشده‌ام،» مار هیس کشید. گودال‌های تیره‌ی چشم‌هایش به هری خیره شدند. «انیماگوس باید ثبت شود. مجازات دو سال زندان است. رازم را نگه می‌داری، پسر؟»",
+  "summary_fa": "مار توضیح می‌دهد اسلیترین حتی انیماگوس‌های مار را بی‌اجازه‌ی وارث از فهمیدن محروم کرده، که نشان می‌دهد پارسل‌زبانی جادوی شخصی است؛ و اعتراف می‌کند ثبت‌نشده است و رازداری می‌خواهد."
+ },
+ {
+  "id": 26,
+  "paras": [
+   101,
+   102,
+   103,
+   104
+  ],
+  "verbatim_html": [
+   "\"<em>Yess,</em>\" hissed Harry. \"<em>Would never break promisse.</em>\"",
+   "The snake seemed to hold still, as though in shock, and then began to sway again. \"<em>We come here next in sseven dayss. Bring cloak to passs unsseen, bring hourglasss to move through time -</em>\"",
+   "\"<em>You know?</em> \" hissed Harry in shock. \"<em>How -</em>\"",
+   "Again the series of short quick hisses that translated as sardonic laughter. \"<em>You arrive in my firsst classs while sstill in other classs, sstrike down enemy with pie, two ballss of memory -</em>\""
+  ],
+  "summary_en": "Harry swears to keep the promise; the snake arranges a meeting in seven days with cloak and Time-Turner, astonishing Harry by knowing of both.",
+  "translation_fa": "«بله،» هری هیس کشید. «هرگز قولم را نمی‌شکنم.»\n\nمار به نظر رسید بی‌حرکت ماند، گویی شوکه شده، و بعد دوباره شروع به تاب خوردن کرد. «هفت روز دیگر این‌جا می‌آییم. شنل را بیاور تا نادیده بگذری، ساعت‌شنی را بیاور تا در زمان حرکت کنی —»\n\n«می‌دانی؟» هری در شوک هیس کشید. «چطور —»\n\nدوباره مجموعه‌ی هیس‌های کوتاه سریعی که به‌عنوان خنده‌ی طعنه‌آمیز ترجمه شد. «تو در اولین کلاسم می‌رسی در حالی که هنوز در کلاس دیگری هستی، دشمن را با پای می‌زنی، دو گوی خاطره —»",
+  "summary_fa": "هری به نگه‌داشتن قول سوگند می‌خورد؛ مار دیداری در هفت روز دیگر با شنل و ساعت‌شنی ترتیب می‌دهد و هری را با دانستن هر دو شگفت‌زده می‌کند."
+ },
+ {
+  "id": 27,
+  "paras": [
+   105,
+   106,
+   107,
+   108
+  ],
+  "verbatim_html": [
+   "\"<em>Never mind,</em>\" hissed Harry. \"<em>Sstupid question, forgot you were ssmart.</em>\"",
+   "\"<em>Foolissh thing to forget,</em>\" said the snake, but the hiss did not seem offended.",
+   "\"<em>Hourglasss is resstricted,</em>\" Harry said. \"<em>Cannot usse until ninth hour.</em>\"",
+   "The snake twitched its head, a snakish nod. \"<em>Many resstrictionss. Locked to your usse only, cannot be sstolen. Cannot transsport other humanss. But ssnake carried in pouch, I ssuspect will go with. Think posssible to hold hourglasss motionlesss within sshell, without dissturbing wardss, while you turn sshell around it. We will tesst in sseven dayss. Will not sspeak of planss beyond thiss. You ssay nothing, to no one. Give no ssign of expectancy, none. Undersstand?</em> \""
+  ],
+  "summary_en": "Harry concedes Quirrell is smart; he notes the Time-Turner is restricted until the ninth hour, and the snake details constraints and a plan to smuggle itself in his pouch.",
+  "translation_fa": "«بی‌خیال،» هری هیس کشید. «سؤال احمقانه، یادم رفت باهوشی.»\n\n«چیز احمقانه‌ای برای فراموش کردن،» مار گفت، اما هیس آزرده به نظر نمی‌رسید.\n\n«ساعت‌شنی محدود است،» هری گفت. «نمی‌توانم تا ساعت نهم استفاده کنم.»\n\nمار سرش را تکان داد، سری مارگونه. «محدودیت‌های زیاد. فقط برای استفاده‌ی تو قفل شده، نمی‌شود دزدیدش. نمی‌تواند انسان‌های دیگر را جابه‌جا کند. اما مارِ حمل‌شده در کیسه، گمان می‌کنم می‌آید. فکر کنم ممکن باشد ساعت‌شنی را درون پوسته بی‌حرکت نگه داشت، بی‌آن‌که محافظ‌ها را آشفته کرد، در حالی که تو پوسته را دور آن می‌چرخانی. هفت روز دیگر آزمایش می‌کنیم. از طرح‌ها فراتر از این حرف نمی‌زنیم. تو چیزی نمی‌گویی، به هیچ‌کس. هیچ نشانه‌ای از انتظار نشان نده، هیچ. فهمیدی؟»",
+  "summary_fa": "هری قبول می‌کند کویرل باهوش است؛ محدودیت ساعت‌شنی تا ساعت نهم را می‌گوید و مار محدودیت‌ها و نقشه‌ی قاچاق خودش در کیسه را شرح می‌دهد."
+ },
+ {
+  "id": 28,
+  "paras": [
+   109,
+   110,
+   111,
+   112
+  ],
+  "verbatim_html": [
+   "Harry nodded.",
+   "\"<em>Ansswer in sspeech.</em>\"",
+   "\"<em>Yess.</em>\"",
+   "\"<em>Will do as I ssaid?</em> \""
+  ],
+  "summary_en": "Harry nods; the snake demands a spoken answer, Harry says yes, and it asks whether he will do as told.",
+  "translation_fa": "هری سر تکان داد.\n\n«در گفتار جواب بده.»\n\n«بله.»\n\n«آن‌طور که گفتم می‌کنی؟»",
+  "summary_fa": "هری سر تکان می‌دهد؛ مار پاسخ گفتاری می‌خواهد، هری بله می‌گوید و مار می‌پرسد آیا همان‌طور که گفته می‌کند."
+ },
+ {
+  "id": 29,
+  "paras": [
+   113,
+   114,
+   115,
+   116
+  ],
+  "verbatim_html": [
+   "\"<em>Yess. But,\"</em> Harry gave a wobbling rasp that was how his mind had translated a hesitant 'Ahhh' into snakish, \"<em>I do not promisse to do whatever thiss iss, you have not ssaid -</em>\"",
+   "The snake performed a shiver that Harry's mind translated as a severe glare. \"<em>Of coursse not. Will disscusss sspecificss at next meeting.</em>\"",
+   "The blur and motion reversed itself, and Professor Quirrell was standing there once more. For a moment the Defense Professor himself seemed to sway, as the snake had swayed, and his eyes seemed cold and flat; and then his shoulders straightened and he was human once more.",
+   "And the aura of doom had returned."
+  ],
+  "summary_en": "Harry agrees but refuses a blank promise; the snake accepts deferring specifics, transforms back, and the aura of doom returns.",
+  "translation_fa": "«بله. اما،» هری خرخرِ لرزانی داد که ذهنش «آههه» مرددی را به مارگونه این‌طور ترجمه کرده بود، «قول نمی‌دهم هرچه این است بکنم، نگفته‌ای —»\n\nمار لرزید که ذهن هری آن را به‌عنوان نگاه خشمگینِ شدید ترجمه کرد. «البته که نه. جزئیات را در دیدار بعدی بحث می‌کنیم.»\n\nتاری و حرکت معکوس شد و پروفسور کویرل یک بار دیگر آن‌جا ایستاده بود. برای لحظه‌ای خود پروفسور دفاع به نظر رسید تاب خورد، مثل ماری که تاب خورده بود، و چشم‌هایش سرد و تخت به نظر رسیدند؛ و بعد شانه‌هایش صاف شد و یک بار دیگر انسان بود.\n\nو هاله‌ی شوم برگشته بود.",
+  "summary_fa": "هری می‌پذیرد اما قول سفید امضا نمی‌دهد؛ مار جزئیات را به دیدار بعد موکول می‌کند، به شکل انسان برمی‌گردد و هاله‌ی شوم بازمی‌گردد."
+ },
+ {
+  "id": 30,
+  "paras": [
+   117,
+   118,
+   119,
+   120
+  ],
+  "verbatim_html": [
+   "Professor Quirrell's chair scooted back for him, and he sat down in it. \"No sense in letting this go to waste,\" Professor Quirrell said as he picked up his spoon, \"though at the moment I would much prefer a live mouse. One can never quite disentangle the mind from the body it wears, you see...\"",
+   "Harry slowly took his seat and began eating.",
+   "\"So the line of Salazar did not die with You-Know-Who after all,\" said Professor Quirrell after a time. \"It would seem that rumors have already begun to spread, among our fine student body, that you are Dark; I wonder what they would think, if they knew that.\"",
+   "\"Or if they knew that I had destroyed a Dementor,\" Harry said, and shrugged. \"I figure all the fuss will blow over over the next time I do something interesting. Hermione is having trouble, though, and I was wondering if you might have any suggestions for her.\""
+  ],
+  "summary_en": "Quirrell jokes about preferring a live mouse as they eat; he notes rumors call Harry Dark, and Harry shrugs it off before asking advice for Hermione's troubles.",
+  "translation_fa": "صندلی پروفسور کویرل برایش عقب رفت و او در آن نشست. «حیف است این را هدر بدهیم،» پروفسور کویرل گفت در حالی که قاشقش را برداشت، «هرچند در حال حاضر موش زنده را خیلی ترجیح می‌دادم. آدم هرگز نمی‌تواند ذهن را کاملاً از بدنی که می‌پوشد جدا کند، می‌بینی...»\n\nهری آهسته سر جایش نشست و شروع به خوردن کرد.\n\n«پس نسل سالازار با شما-می‌دانید-کی نمرد،» پروفسور کویرل بعد از مدتی گفت. «به نظر می‌رسد شایعه‌ها قبلاً شروع به پخش شدن کرده‌اند، میان دانش‌آموزان نازنین ما، که تو تاریکی؛ کنجکاوم چه فکر می‌کنند، اگر می‌دانستند.»\n\n«یا اگر می‌دانستند که دمنتوری را نابود کردم،» هری گفت و شانه بالا انداخت. «فکر کنم همه‌ی هیاهو با دفعه‌ی بعدی که کار جالبی می‌کنم فروکش می‌کند. هرمیون دارد اذیت می‌شود، هرچند، و کنجکاو بودم اگر پیشنهادی برایش داشتی.»",
+  "summary_fa": "کویرل با شوخی درباره‌ی موش زنده غذایشان را می‌خورند؛ او به شایعه‌های تاریک‌بودن هری اشاره می‌کند و هری بی‌اعتنا سراغ پیشنهاد برای مشکلات هرمیون می‌رود."
+ },
+ {
+  "id": 31,
+  "paras": [
+   121,
+   122,
+   123,
+   124
+  ],
+  "verbatim_html": [
+   "The Defense Professor ate several spoonfuls of soup in silence, then; and when he spoke again, his voice was oddly flat. \"You really care about that girl.\"",
+   "\"Yes,\" Harry said quietly.",
+   "\"I suppose that is why she was able to bring you out of your Dementation?\"",
+   "\"More or less,\" Harry said. The statement was true in a way, just not exact; it was not that his Demented self had cared, but that it had been confused."
+  ],
+  "summary_en": "Quirrell eats in silence, then flatly observes Harry really cares for Hermione, and guesses she pulled him out of his Dementation.",
+  "translation_fa": "پروفسور دفاع چند قاشق سوپ را در سکوت خورد، بعد؛ و وقتی دوباره حرف زد، صدایش عجیب تخت بود. «واقعاً به آن دختر اهمیت می‌دهی.»\n\n«بله،» هری آرام گفت.\n\n«گمان کنم به همین دلیل بود که توانست تو را از دمنتیشن بیرون بیاورد؟»\n\n«کم‌وبیش،» هری گفت. جمله به‌شکلی درست بود، فقط دقیق نبود؛ این نبود که خودِ دمنت‌شده‌اش اهمیت می‌داد، بلکه گیج شده بود.",
+  "summary_fa": "کویرل در سکوت سوپ می‌خورد، بعد تخت می‌گوید هری واقعاً به هرمیون اهمیت می‌دهد و حدس می‌زند او هری را از دمنتیشن بیرون کشیده است."
+ },
+ {
+  "id": 32,
+  "paras": [
+   125,
+   126,
+   127,
+   128
+  ],
+  "verbatim_html": [
+   "\"I did not have any friends like that when I was young.\" Still the same emotionless voice. \"What would have become of you, I wonder, if you had been alone?\"",
+   "Harry shivered before he could stop himself.",
+   "\"You must be feeling grateful to her.\"",
+   "Harry just nodded. Not quite exact, but true."
+  ],
+  "summary_en": "Quirrell says he had no such friends young and wonders what would have become of Harry alone; Harry shivers and can only nod to feeling grateful.",
+  "translation_fa": "«وقتی جوان بودم دوستی مثل آن نداشتم.» هنوز همان صدای بی‌احساس. «کنجکاوم ازت چه می‌شد، اگر تنها بودی؟»\n\nهری پیش از آن‌که بتواند جلویش را بگیرد لرزید.\n\n«حتماً احساس سپاسگزاری به او داری.»\n\nهری فقط سر تکان داد. کاملاً دقیق نبود، اما درست بود.",
+  "summary_fa": "کویرل می‌گوید در جوانی چنین دوستی نداشته و می‌پرسد اگر هری تنها بود چه می‌شد؛ هری می‌لرزد و فقط به سپاسگزاری‌اش سر تکان می‌دهد."
+ },
+ {
+  "id": 33,
+  "paras": [
+   129
+  ],
+  "verbatim_html": [
+   "\"Then here is what I might have done at your age, if there had been anyone to do it for -\""
+  ],
+  "summary_en": "Quirrell begins to say what he might have done at Harry's age for such a friend, leaving the thought unfinished.",
+  "translation_fa": "«پس این همان کاری است که در سنت ممکن بود کرده باشم، اگر کسی بود که برایش بکنم —»",
+  "summary_fa": "کویرل شروع می‌کند بگوید در سن هری برای چنین دوستی چه می‌کرده، و جمله را ناتمام می‌گذارد."
+ }
+]
