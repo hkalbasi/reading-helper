@@ -1,0 +1,664 @@
+[
+ {
+  "id": 1,
+  "paras": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "verbatim_html": [
+   "If you're five hours past your bedtime and still reading this, may I suggest getting some sleep? The fic will still be here tomorrow... unless, you know, something <em>bad</em> happens to it and the next morning there's just a 404 at this address and you're left with nothing but a fading memory and an eternal regret that you didn't stay awake longer and keep reading while you still had the chance... but hey, how probable is that?",
+   "This story spreads by blogging, tweeting, word of mouth, favoriting, plugging on forums, and adding to lists; and remember, if the readers before you hadn't taken a moment to do that, you probably wouldn't have found this. If that's not enough to motivate you, then let me add that if you don't help spread rationality, Hermione will be sad. You don't want her to be sad, right?",
+   "Don't forget to visit LessWrong dot com and read the Sequences, the true existence of which this fic is but a shadow. I recommend starting with the sequence <em>How to Actually Change Your Mind.</em>",
+   "And now, with all universes owned by their respective creators, I present:<em><br/></em>"
+  ],
+  "summary_en": "The author's note jokes about the reader's lost sleep, asks them to spread the story and rationality, and directs them to the Sequences before introducing the crossover chapter.",
+  "translation_fa": "«اگر پنج ساعت از وقت خوابت گذشته و هنوز داری این را می‌خوانی، اجازه بده پیشنهاد کنم کمی بخوابی؟ داستان فردا هم همین‌جا خواهد بود... مگر این‌که، می‌دانی، اتفاق بدی برایش بیفتد و صبح روز بعد فقط یک خطای ۴۰۴ در این نشانی باشد و تو چیزی نداشته باشی جز خاطره‌ای محو و حسرتی ابدی که بیشتر بیدار نماندی و تا فرصت داشتی به خواندن ادامه ندادی... اما خب، این چقدر احتمال دارد؟»\n\n«این داستان با وبلاگ‌نویسی، توییت کردن، دهان به دهان، افزودن به علاقه‌مندی‌ها، معرفی در انجمن‌ها و اضافه کردن به فهرست‌ها منتشر می‌شود؛ و یادت باشد، اگر خوانندگان پیش از تو لحظه‌ای را صرف این کار نکرده بودند، احتمالاً این را پیدا نمی‌کردی. اگر این برای انگیزه دادن به تو کافی نیست، بگذار اضافه کنم که اگر به گسترش عقلانیت کمک نکنی، هرماینی غمگین می‌شود. تو که نمی‌خواهی غمگین شود، مگر نه؟»\n\n«فراموش نکن از لس‌رانگ دات کام دیدن کنی و «سری‌ها» را بخوانی، که این داستان تنها سایه‌ای از وجود حقیقی آن‌هاست. پیشنهاد می‌کنم با مجموعه‌ی «چگونه واقعاً نظرت را تغییر دهی» شروع کنی.»\n\n«و اکنون، در حالی که همه‌ی جهان‌ها متعلق به آفرینندگانشان هستند، تقدیم می‌کنم: »",
+  "summary_fa": "یادداشت نویسنده با شوخی از بی‌خوابی خواننده می‌گوید، از او می‌خواهد داستان و عقلانیت را گسترش دهد و او را به «سری‌ها» می‌فرستد، سپس فصل کراس‌اور را معرفی می‌کند."
+ },
+ {
+  "id": 2,
+  "paras": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "verbatim_html": [
+   "Frodo glanced at all the faces, but they were not turned to him. All the Council sat with downcast eyes, as if in deep thought. A great dread fell on him, as if he was awaiting the pronouncement of some doom that he had long foreseen and vainly hoped might after all never be spoken. An overwhelming longing to rest and remain at peace by Bilbo's side in Rivendell filled all his heart. At last with an effort he spoke, and wondered to hear his own words, as if some other will was using his small voice.",
+   "\"We cannot,\" said Frodo. \"We must not. Do you not see? It is exactly what the Enemy desires. All of this he has foreseen.\"",
+   "The faces turned to him, puzzled the Dwarves and grave the Elves; sternness in the eyes of the Men; and so keen the gazes of Elrond and of Gandalf that Frodo almost could not withstand it. It was very hard, then, not to grasp the Ring in his hand, and harder still not to put it on, to face them as only Frodo.",
+   "\"Do you not question it?\" Frodo said, thin like the wind his voice, and wavering like a breeze. \"You have chosen, of all things, to send the Ring into Mordor; should you not wonder? How did it come to this? That we might, of all our choices, do that single thing our Enemy most desires? Perhaps the Cracks of Doom are already guarded, strongly enough to hold off Gandalf and Elrond and Glorfindel all together; or perhaps the Master of that place has cooled the lava there, set it to trap the Ring so that he may simply bring it out after it is thrown in...\" A memory of awful clarity came over Frodo then, and a flash of black laughter, and the thought came to him that it was <em>just</em> what the Enemy would do. Only the thought came to him so: <em>thus it would amuse me to do, if I meant to rule...</em>"
+  ],
+  "summary_en": "At the Council of Elrond, Frodo argues that sending the Ring into Mordor is precisely what the Enemy expects, and warns that the Cracks of Doom may already be guarded or trapped.",
+  "translation_fa": "فرودو نگاهی به همه‌ی چهره‌ها انداخت، اما آن‌ها به او برنگشته بودند. تمام شورا با چشمانی به زیر افکنده نشسته بودند، گویی در اندیشه‌ای ژرف. ترسی بزرگ بر او فرود آمد، گویی در انتظار اعلام سرنوشتی بود که دیرزمانی پیش دیده و بیهوده امید داشته بود هرگز بر زبان نیاید. آرزویی سهمگین برای استراحت و ماندن در آرامش در کنار بیلبو در ریوندل تمام قلبش را پر کرد. سرانجام با تلاشی سخن گفت و از شنیدن واژه‌های خودش شگفت‌زده شد، گویی اراده‌ای دیگر از صدای کوچکش استفاده می‌کرد.\n\n«نمی‌توانیم،» فرودو گفت. «نباید. مگر نمی‌بینید؟ این دقیقاً همان چیزی است که دشمن می‌خواهد. او همه‌ی این را پیش‌بینی کرده است.»\n\nچهره‌ها به سوی او چرخیدند، حیران دورف‌ها و جدی الف‌ها؛ سختی در چشمان انسان‌ها؛ و نگاه‌های الروند و گندالف چنان تیز بود که فرودو تقریباً نمی‌توانست تحملش کند. آن‌گاه بسیار سخت بود که حلقه را در دست نگیرد، و سخت‌تر آن‌که آن را به انگشت نکند و به آن‌ها تنها به‌عنوان فرودو رو نکند.\n\n«آیا در آن شک نمی‌کنید؟» فرودو گفت، صدایش نازک چون باد و لرزان چون نسیم. «شما از میان همه‌چیز برگزیده‌اید که حلقه را به موردور بفرستید؛ آیا نباید شگفت‌زده شوید؟ چگونه کار به این‌جا رسید؟ که ما از میان همه‌ی انتخاب‌هایمان همان تنها کاری را بکنیم که دشمن‌مان بیش از همه می‌خواهد؟ شاید شکاف‌های در سرنوشت پیشاپیش نگهبانی شده باشند، به‌قدری نیرومند که گندالف و الروند و گلورفیندل را با هم بازدارند؛ یا شاید خدای آن‌جا گدازه را سرد کرده، تله‌ای برای حلقه ساخته تا پس از انداختن آن به سادگی بیرونش آورد...» آن‌گاه خاطره‌ای با وضوحی هولناک بر فرودو فرود آمد، و برقی از خنده‌ای سیاه، و این اندیشه به او رسید که این دقیقاً کاری است که دشمن می‌کرد. فقط این اندیشه چنین به او رسید: چنین چیزی مرا سرگرم می‌کرد اگر می‌خواستم فرمانروایی کنم...",
+  "summary_fa": "در شورای الروند، فرودو استدلال می‌کند که فرستادن حلقه به موردور دقیقاً همان چیزی است که دشمن انتظار دارد، و هشدار می‌دهد که شکاف‌های در سرنوشت شاید از پیش نگهبانی یا تله‌گذاری شده باشند."
+ },
+ {
+  "id": 3,
+  "paras": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "verbatim_html": [
+   "There were doubtful glances exchanged within the council; Glóin and Gimli and Boromir were now looking at the Elves more skeptically than before, like they had awoken out of a dream of words.",
+   "\"The Enemy is very wise,\" said Gandalf, \"and weighs all things to a nicety in the scales of his malice. But the only measure that he knows is desire, desire for power; and so he judges all hearts. Into his heart the thought will not enter that any will refuse it, that having the Ring we may seek to destroy it -\"",
+   "\"He <em>will</em> think of it!\" cried Frodo. He struggled for words, trying to convey things that had once seemed perfect in his comprehension, and then faded like melting snow. \"If the Enemy thought that all his foes were moved by desire for power alone - he would guess wrongly, over and over, and the Maker of this Ring would <em>see</em> that, he would <em>know</em> that somewhere he had made a mistake!\" Frodo's hands stretched forth pleadingly.",
+   "Boromir stirred, and his voice was doubtful. \"You speak fair of the Enemy,\" said Boromir, \"for one of his foes.\""
+  ],
+  "summary_en": "Gandalf insists Sauron judges all hearts by desire for power, but Frodo cries out that the Enemy would anticipate even that reasoning; Boromir notes how fairly Frodo speaks of the Enemy.",
+  "translation_fa": "در شورا نگاه‌های تردیدآمیز رد و بدل شد؛ گلویین و گیملی و بورومیر اکنون با تردیدی بیش از پیش به الف‌ها می‌نگریستند، گویی از خواب واژه‌ها بیدار شده بودند.\n\n«دشمن بسیار خردمند است،» گندالف گفت، «و همه‌چیز را با دقتی تمام در ترازوی کینه‌اش می‌سنجد. اما تنها معیاری که می‌شناسد میل است، میل به قدرت؛ و از این رو همه‌ی دل‌ها را با آن می‌سنجد. اندیشه‌ای که کسی ردش کند به قلب او راه نمی‌یابد، که ما با داشتن حلقه ممکن است در پی نابودی‌اش باشیم ـــ»\n\n«او به آن فکر خواهد کرد!» فرودو فریاد زد. برای واژه‌ها تقلا کرد، می‌کوشید چیزهایی را بگوید که زمانی در فهمش کامل به نظر می‌رسیدند و سپس چون برف آب‌شده محو شده بودند. «اگر دشمن گمان کند که همه‌ی دشمنانش تنها به میل قدرت حرکت می‌کنند ـــ آن‌گاه بارها و بارها اشتباه حدس می‌زد، و سازنده‌ی این حلقه آن را می‌دید، می‌دانست که جایی مرتکب اشتباهی شده است!» دستان فرودو التماس‌کنان پیش رفت.\n\nبورومیر تکان خورد و صدایش مردد بود. «درباره‌ی دشمن زیبا سخن می‌گویی،» بورومیر گفت، «برای یکی از دشمنانش.»",
+  "summary_fa": "گندالف اصرار دارد که سائورون همه‌ی دل‌ها را با میل به قدرت می‌سنجد، اما فرودو فریاد می‌زند که دشمن حتی همین استدلال را هم پیش‌بینی می‌کرد؛ بورومیر می‌گوید فرودو به‌طرز عجیبی منصفانه از دشمن سخن می‌گوید."
+ },
+ {
+  "id": 4,
+  "paras": [
+   13,
+   14,
+   15,
+   16
+  ],
+  "verbatim_html": [
+   "Frodo's mouth opened and shut in desperate bewilderment; for Frodo knew, he knew the Man was mad, but he could think of nothing to say.",
+   "Then Bilbo spoke, and his withered voice silenced the whole room, even Elrond who had been about to speak. \"Frodo is right, I fear,\" whispered the old hobbit. \"I remember, I remember what it was like. To see with the Black Sight. I remember. The Enemy will think that we might not trust one another, that the weaker among us will propose to destroy the Ring so that the stronger may not have it. He knows that even one not truly good might still cry to destroy the Ring, to make a show of pretended goodness. And the Enemy will <em>not</em> think it impossible that such a decision be made by this council, for you see, he does not trust us to be wise.\" A whispering chuckle rose from the ancient hobbit's throat. \"And if he did - why, he would <em>still</em> guard the Cracks of Doom. It would cost him little.\"",
+   "Now foreboding was on the faces even of the Elves, and the Wise; Elrond had frowned, and the sharp eyebrows of Gandalf furrowed.",
+   "Frodo gazed at them all, feeling a wildness come over him, a despair; and as his heart weakened a shadow came over his vision, a darkness and a wavering. From within the shadow Frodo saw Gandalf, and the wizard's strength was revealed as weakness, and his wisdom folly. For Frodo knew, as the Ring seemed to drag and weigh on his breast, that Gandalf had not thought at all of history and lore, when the wizard spoke of how the Enemy would not understand any desire save power; that Gandalf had not remembered how Sauron had cast down and corrupted the Men of Númenor in the days of their glory. Just as it had not occurred to Gandalf that the Enemy might learn to comprehend foes of goodwill by <em>looking...</em>"
+  ],
+  "summary_en": "Bilbo recalls the Black Sight and explains that the Enemy will expect the weak to propose destroying the Ring, yet would guard the Cracks anyway; Frodo then sees Gandalf's wisdom as folly through the Ring's shadow.",
+  "translation_fa": "دهان فرودو باز و بسته شد، در سردرگمی‌ای ناامیدانه؛ زیرا فرودو می‌دانست، می‌دانست که آن مرد دیوانه است، اما چیزی برای گفتن به ذهنش نمی‌رسید.\n\nسپس بیلبو سخن گفت، و صدای خش‌دارش تمام اتاق را به سکوت واداشت، حتی ال‌روند را که می‌خواست سخن بگوید. «فرودو درست می‌گوید، می‌ترسم،» هابیت کهن نجوا کرد. «به یاد می‌آورم، به یاد می‌آورم که چگونه بود. دیدن با بینش سیاه. به یاد می‌آورم. دشمن گمان خواهد کرد که ما ممکن است به یکدیگر اعتماد نکنیم، که ضعیف‌ترها پیشنهاد نابودی حلقه را بدهند تا نیرومندترها به آن دست نیابند. او می‌داند که حتی کسی که به‌راستی نیک نیست نیز ممکن است برای نمایش نیکی دروغین فریاد نابودی حلقه را سر دهد. و دشمن ناممکن نخواهد دانست که چنین تصمیمی در این شورا گرفته شود، زیرا می‌بینی، او به خردمند بودن ما اعتماد ندارد.» خنده‌ای نجواگونه از گلوی هابیت کهن برخاست. «و اگر هم داشت ـــ خب، باز هم شکاف‌های در سرنوشت را نگهبانی می‌کرد. برایش هزینه‌ی کمی داشت.»\n\nاکنون پیش‌بینی بد بر چهره‌ی حتی الف‌ها و خردمندان نیز نشسته بود؛ ال‌روند اخم کرده بود و ابروهای تیز گندالف درهم رفته بودند.\n\nفرودو به همه‌شان خیره شد، دیوانگی‌ای بر او چیره می‌شد، ناامیدی؛ و چون قلبش سست می‌شد سایه‌ای بر دیدش افتاد، تاریکی‌ای و لرزشی. از درون سایه فرودو گندالف را دید، و نیروی جادوگر چون ضعفی آشکار شد، و خردش چون حماقت. زیرا فرودو می‌دانست، در حالی که حلقه گویی بر سینه‌اش می‌کشید و سنگینی می‌کرد، که گندالف هرگز به تاریخ و دانش نیندیشیده بود، آن‌گاه که جادوگر از این گفت که دشمن هیچ میلی جز قدرت را نمی‌فهمد؛ که گندالف به یاد نیاورده بود چگونه سائورون مردان نومنور را در روزگار شکوهشان فروانداخت و تباه کرد. همان‌گونه که به گندالف خطور نکرده بود که دشمن ممکن است دشمنانِ خیرخواه را با نگاه کردن... بشناسد.",
+  "summary_fa": "بیلبو «بینش سیاه» را به یاد می‌آورد و می‌گوید دشمن انتظار دارد ضعیف‌ترها نابودی حلقه را پیشنهاد کنند، اما باز هم شکاف‌ها را نگهبانی می‌کند؛ سپس فرودو در سایه‌ی حلقه خرد گندالف را حماقت می‌بیند."
+ },
+ {
+  "id": 5,
+  "paras": [
+   17,
+   18,
+   19,
+   20
+  ],
+  "verbatim_html": [
+   "Frodo's gaze swung to Elrond, but there was no hope there, no answer and no rescue in the shadowy vision; for Elrond had let Isildur go, carrying the Ring from the Cracks of Doom where it should have been destroyed, to the cost of all this war. Not for Isildur's own sake, not for friendship had it been done, for the Ring had killed Isildur in the end, and far worse fates could have followed him. But the Doom that had stemmed from Isildur's deed would have seemed unsure to Elrond then, unsure and distant in time; and yet the cost to Elrond himself of taking his sword's pommel to the back of Isildur's head would have been surer, and nearer...",
+   "As though in desperation, Frodo turned to look at Aragorn, the weathered man who had donned his travel-worn clothes for this council, the heir of kings who spoke softly to hobbits. But Frodo's vision seemed to double, and in the shadowy second image Frodo saw a Man who had spent too much of his youth among Elves, who had learned to wear humble and stained clothes amid the gold and jewels, knowing he could not match them wisdom for wisdom, and hoping to outplay them in a fashion they would not emulate...",
+   "In the sight of the Ring, which was the sight of the Ring's own Maker, all noble things faded into stratagems and lies, a world of grey and darkness without any light. They had not made their choices knowingly, Gandalf or Elrond or Aragorn; the impulses had come from the dark hidden parts of themselves, the black secret depths which the Ring had rendered plain in Frodo's vision. Would they outthink the Shadow, when they could not comprehend even their own selves, or the forces that moved them?",
+   "\"Frodo!\" came the sharp whisper of Bilbo's voice, and Frodo came to himself, and halted his hand reaching up toward where the Ring lay on his breast, on its chain, dragging like a vast stone around his neck."
+  ],
+  "summary_en": "Frodo's Ring-shadowed vision exposes the hidden motives of Elrond, Aragorn and Gandalf, reducing their noble choices to fear and stratagem, until Bilbo's whisper stops Frodo from grasping the Ring.",
+  "translation_fa": "نگاه فرودو به ال‌روند چرخید، اما آن‌جا امیدی نبود، نه پاسخی و نه رهایی در آن رؤیای سایه‌گون؛ زیرا ال‌روند گذاشته بود ایزیلدور برود و حلقه را از شکاف‌های در سرنوشت، جایی که باید نابود می‌شد، ببرد، به بهای تمام این جنگ. نه به خاطر خود ایزیلدور، نه برای دوستی چنین نشده بود، زیرا حلقه در پایان ایزیلدور را کشت، و سرنوشت‌هایی به‌مراتب بدتر می‌توانست در انتظارش باشد. اما سرنوشتی که از کردار ایزیلدور برخاسته بود آن‌گاه برای ال‌روند نامعلوم می‌نمود، نامعلوم و دور در زمان؛ و با این حال بهای آن برای خود ال‌روند اگر دسته‌ی شمشیرش را بر پشت سر ایزیلدور می‌کوبید، معلوم‌تر و نزدیک‌تر بود...\n\nگویی از سر ناامیدی، فرودو روی به آراگورن کرد، مردِ آفتاب‌خورده‌ای که برای این شورا جامه‌های فرسوده‌ی سفرش را پوشیده بود، وارث پادشاهانی که با هابیت‌ها نرم سخن می‌گفت. اما دید فرودو گویی دوگانه شد، و در تصویر دوم سایه‌گون مردی را دید که بیش‌ازحد از جوانی‌اش را میان الف‌ها گذرانده بود، که آموخته بود در میان زر و گوهر جامه‌های فروتن و لکه‌دار بپوشد، می‌دانست که در خرد با آن‌ها هم‌تراز نیست، و امید داشت در شیوه‌ای بازی‌شان دهد که آن‌ها از آن پیروی نکنند...\n\nدر نظر حلقه، که نظر سازنده‌ی خود حلقه بود، همه‌ی چیزهای نجیب به نیرنگ و دروغ محو می‌شدند، جهانی خاکستری و تاریک بی‌هیچ نوری. آن‌ها انتخاب‌هایشان را آگاهانه نکرده بودند، گندالف یا ال‌روند یا آراگورن؛ تکانه‌ها از بخش‌های تاریک و پنهان خودشان آمده بود، آن ژرفاهای رازآلود سیاه که حلقه در رؤیای فرودو آشکارشان کرده بود. آیا آن‌ها می‌توانستند سایه را در اندیشه شکست دهند، وقتی حتی خودشان یا نیروهایی را که به حرکتشان می‌انداخت نمی‌فهمیدند؟\n\n«فرودو!» نجوای تیز صدای بیلبو آمد، و فرودو به خود آمد و دستش را که به سوی حلقه بر سینه‌اش بالا می‌رفت، جایی که روی زنجیرش بود و چون سنگی عظیم گردنش را می‌کشید، متوقف کرد.",
+  "summary_fa": "رؤیای سایه‌گون حلقه انگیزه‌های پنهان ال‌روند، آراگورن و گندالف را آشکار می‌کند و انتخاب‌های نجیبشان را به ترس و نیرنگ فرو می‌کاهد، تا آن‌که نجوای بیلبو فرودو را از گرفتن حلقه بازمی‌دارد."
+ },
+ {
+  "id": 6,
+  "paras": [
+   21,
+   22,
+   23,
+   24
+  ],
+  "verbatim_html": [
+   "Reaching up to grasp the Ring wherein all answers lay.",
+   "\"How did you bear this thing?\" Frodo whispered to Bilbo, as if the two of them were the only souls in the room, though all the Council watched them. \"For years? I cannot imagine it.\"",
+   "\"I kept it locked in a room to which only Gandalf had the key,\" said his uncle, \"and when I began to imagine ways to open it, I remembered Gollum.\"",
+   "A shudder went through Frodo, remembering the tales. The horror of the Misty Mountains, thinking, always thinking in the dark; ruling the goblins from the shadows and filling the tunnels with traps; but for Bilbo wearing the ring that first time not a single dwarf would have lived. And now, Legolas the Elf had told them, Gollum had given up on sending his agents against the Shire, had at last found the courage to leave his mountains and seek the Ring himself. That was Gollum, the fate which Frodo would share himself, if the Ring were not destroyed."
+  ],
+  "summary_en": "Frodo asks Bilbo how he endured the Ring for years; Bilbo says he locked it away and remembered Gollum, whose fate Frodo realizes he would share if the Ring is not destroyed.",
+  "translation_fa": "دست بالا رفت تا حلقه را بگیرد که همه‌ی پاسخ‌ها در آن بود.\n\n«چگونه این چیز را تحمل کردی؟» فرودو به بیلبو نجوا کرد، گویی آن دو تنها جان‌های اتاق بودند، هرچند تمام شورا آن‌ها را می‌پایید. «برای سال‌ها؟ نمی‌توانم تصورش کنم.»\n\n«آن را در اتاقی قفل کرده بودم که تنها گندالف کلیدش را داشت،» عمویش گفت، «و وقتی شروع کردم به خیال‌پردازی درباره‌ی راه‌های باز کردنش، گالوم را به یاد آوردم.»\n\nلرزه‌ای بر فرودو گذشت، با یادآوری آن داستان‌ها. وحشت کوهستان مه‌آلود، اندیشیدن، همیشه اندیشیدن در تاریکی؛ فرمانروایی بر گابلین‌ها از سایه‌ها و پر کردن تونل‌ها از تله؛ اما اگر بیلبو آن بار اول حلقه را نپوشیده بود، یک دورف هم زنده نمی‌ماند. و اکنون، لگولاس الف به آن‌ها گفته بود، گالوم از فرستادن عواملش علیه شایر دست کشیده بود، سرانجام جسارت یافته بود کوه‌هایش را ترک کند و خودش در پی حلقه بیاید. این بود گالوم، همان سرنوشتی که فرودو خودش شریک می‌شد، اگر حلقه نابود نمی‌شد.",
+  "summary_fa": "فرودو از بیلبو می‌پرسد چگونه سال‌ها حلقه را تحمل کرد؛ بیلبو می‌گوید آن را پنهان کرد و گالوم را به یاد آورد، و فرودو درمی‌یابد که اگر حلقه نابود نشود سرنوشت گالوم را شریک خواهد شد."
+ },
+ {
+  "id": 7,
+  "paras": [
+   25,
+   26,
+   27,
+   28
+  ],
+  "verbatim_html": [
+   "Only they had no way to destroy the Ring.",
+   "The Shadow had foreseen every move they could make. Had <em>almost</em> - Frodo still could not imagine how it had been done, how the Shadow had arranged such a thing - had <em>almost</em> maneuvered the Council into sending the Ring straight into Mordor with only a tiny guard set on it, as they would have done if Frodo and Bilbo had not been there.",
+   "And having foregone that swiftest of all possible defeats, the only question remaining was how long it would take to lose. Gandalf had delayed too long, delayed far too long to set this march in motion. It could have been so easy, if only Bilbo had set out eighty years earlier, if only Bilbo had been told what Gandalf had already suspected, if only Gandalf's heart had not silently flinched away from the prospect of being embarrassingly wrong...",
+   "Frodo's hand spasmed on his breast; without thought, his fingers began to rise again toward the vast weight of the chain on which the Ring hung."
+  ],
+  "summary_en": "Frodo realizes the Shadow has anticipated every move and nearly maneuvered the Council into carrying the Ring into Mordor; he reflects that Gandalf delayed far too long.",
+  "translation_fa": "فقط آن‌ها هیچ راهی برای نابودی حلقه نداشتند.\n\nسایه هر حرکتی را که می‌توانستند بکنند پیش‌بینی کرده بود. تقریباً ـــ فرودو هنوز نمی‌توانست تصور کند چگونه چنین کاری شده بود، چگونه سایه چنین چیزی را ترتیب داده بود ـــ تقریباً شورا را به این سو رانده بود که حلقه را مستقیم به موردور بفرستد با نگهبانی کوچک، همان‌گونه که می‌کردند اگر فرودو و بیلبو آن‌جا نبودند.\n\nو پس از چشم‌پوشی از آن سریع‌ترین شکستِ ممکن، تنها پرسش باقی‌مانده این بود که چقدر طول می‌کشد تا ببازند. گندالف بیش‌ازحد درنگ کرده بود، بسیار بیش‌ازحد درنگ کرده بود تا این لشکرکشی را به راه اندازد. می‌توانست چنین آسان باشد، اگر فقط بیلبو هشتاد سال پیش راه می‌افتاد، اگر فقط به بیلبو گفته می‌شد آنچه گندالف پیشاپیش گمان می‌کرد، اگر فقط قلب گندالف خاموشانه از چشم‌انداز اشتباه بودنِ شرم‌آورش می‌گریخت...\n\nدست فرودو بر سینه‌اش گرفت؛ بی‌اندیشه، انگشتانش دوباره به سوی وزن عظیم زنجیری که حلقه بر آن آویخته بود بالا رفتند.",
+  "summary_fa": "فرودو درمی‌یابد که سایه همه‌ی حرکات را پیش‌بینی کرده و نزدیک بود شورا را به بردن حلقه به موردور بکشاند؛ او می‌اندیشد که گندالف بسیار بیش‌ازحد درنگ کرده است."
+ },
+ {
+  "id": 8,
+  "paras": [
+   29,
+   30,
+   31,
+   32
+  ],
+  "verbatim_html": [
+   "All he had to do was put on the Ring.",
+   "Just that, and all would become clear to him, once more the slowness and mud would leave his thoughts, all possibilities and futures transparent to him, he would see through the Shadow's plans and devise an irresistible counterstroke -",
+   "- and he would never be able to take off the Ring, not again, not by any will that would be left to him. All Frodo had of those moments were fading memories, but he knew that it had felt like dying, to let all his towers of thought collapse and become only Frodo once more. It had felt like dying, he remembered that much of Weathertop even if he remembered little else. And if he did wear the Ring again, it would be better to die with it on his finger, to end his life while he was still himself; for Frodo knew that he could not withstand the effects of wearing the Ring a second time, not afterward when the limitless clarity was lost to him...",
+   "Frodo looked around the Council, at the poor lost leaderless Wise, and he knew they could not defeat the Shadow by their own strength."
+  ],
+  "summary_en": "Frodo is tempted to put on the Ring for clarity and power, knowing it would consume him, and concludes the Wise cannot defeat the Shadow by their own strength.",
+  "translation_fa": "تنها کاری که باید می‌کرد این بود که حلقه را بپوشد.\n\nهمین، و همه‌چیز دوباره برایش روشن می‌شد، کندی و گِل از اندیشه‌اش می‌رفت، همه‌ی امکان‌ها و آینده‌ها برایش شفاف می‌شد، نقشه‌های سایه را می‌دید و ضربه‌ای مقاومت‌ناپذیر می‌اندیشید ـــ\n\nـــ و هرگز نمی‌توانست حلقه را از انگشت درآورد، نه دیگر، با هیچ اراده‌ای که برایش باقی می‌ماند. فرودو از آن لحظه‌ها تنها خاطراتی محو داشت، اما می‌دانست که رها کردن همه‌ی برج‌های اندیشه‌اش و دوباره تنها فرودو شدن، چون مردن بود. چون مردن بود، این‌قدر از ودرتاپ را به یاد می‌آورد حتی اگر چیز دیگری را کم. و اگر دوباره حلقه را می‌پوشید، بهتر بود با آن بر انگشت بمیرد، زندگی‌اش را در حالی که هنوز خودش بود پایان دهد؛ زیرا فرودو می‌دانست که نمی‌تواند اثرات پوشیدن دوباره‌ی حلقه را تحمل کند، نه پس از آن، وقتی آن وضوح بی‌کران از دست رفته بود...\n\nفرودو به گرد شورا نگریست، به خردمندانِ گم‌شده و بی‌رهبر، و دانست که آن‌ها با نیروی خودشان نمی‌توانند سایه را شکست دهند.",
+  "summary_fa": "فرودو وسوسه می‌شود حلقه را برای وضوح و قدرت بپوشد، می‌داند که این کار نابودش می‌کند، و نتیجه می‌گیرد که خردمندان با نیروی خود نمی‌توانند سایه را شکست دهند."
+ },
+ {
+  "id": 9,
+  "paras": [
+   33,
+   34,
+   35,
+   36
+  ],
+  "verbatim_html": [
+   "\"I will wear it one last time,\" Frodo said, his voice broken and failing, as he had known from the beginning that he would say in the end, \"one last time to find the answer for this Council, and then there will be other hobbits.\"",
+   "\"<em>No!</em> \" screamed the voice of Sam, as the other hobbit began to rush forward from where he had hidden; even as Frodo, with movement as swift and precise as a Nazgûl, took out the Ring from beneath his shirt; and somehow Bilbo was already standing there and had already thrust his finger through.",
+   "It all happened before even Gandalf's staff could point, before Aragorn could level the hilt-shard of his sword; the Dwarves shouted in shock, and the Elves were dismayed.",
+   "\"Of course,\" said Bilbo's voice, as Frodo began to weep, \"I see it now, I understand everything at last. Listen, listen and swiftly, here is what you must do -\""
+  ],
+  "summary_en": "Frodo declares he will wear the Ring one last time to find an answer, but Bilbo slips it on first, telling Frodo to listen quickly to his instructions.",
+  "translation_fa": "«یک بار آخر آن را می‌پوشم،» فرودو گفت، صدایش شکسته و ناتوان، همان‌گونه که از آغاز می‌دانست سرانجام خواهد گفت، «یک بار آخر تا پاسخ این شورا را بیابم، و سپس هابیت‌های دیگری خواهند بود.»\n\n«نه!» صدای سَم فریاد کشید، در حالی که هابیت دیگر از جایی که پنهان شده بود به جلو شتافت؛ همان‌دم فرودو با حرکتی به سرعت و دقت یک نازگول حلقه را از زیر پیراهنش بیرون آورد؛ و به‌نحوی بیلبو پیشاپیش آن‌جا ایستاده بود و انگشتش را از میان حلقه گذرانده بود.\n\nهمه‌چیز پیش از آن‌که حتی عصای گندالف بتواند نشانه بگیرد رخ داد، پیش از آن‌که آراگورن تیغه‌ی شکسته‌ی شمشیرش را بالا بیاورد؛ دورف‌ها از شوک فریاد زدند و الف‌ها هراسان شدند.\n\n«البته،» صدای بیلبو گفت، در حالی که فرودو به گریه افتاد، «اکنون می‌بینمش، سرانجام همه‌چیز را می‌فهم. گوش کن، گوش کن و شتاب کن، این است آنچه باید بکنی ـــ»",
+  "summary_fa": "فرودو اعلام می‌کند برای یافتن پاسخ یک بار آخر حلقه را می‌پوشد، اما بیلبو پیش‌دستی می‌کند و آن را به انگشت می‌کند و از فرودو می‌خواهد شتاب‌زده گوش کند."
+ },
+ {
+  "id": 10,
+  "paras": [
+   37,
+   38,
+   39,
+   40
+  ],
+  "verbatim_html": [
+   "With a critical eye, Peter looked over the encamped Centaurs with their bows, Beavers with their long daggers, and talking Bears with their chain-mail draped over them. He was in charge, because he was one of the mythical Sons of Adam and had declared himself High King of Narnia; but the truth was he didn't really know much about encampments, weapons, and guard patrols. In the end all he could see was that they all looked proud and confident, and Peter had to hope they were right about that; because if you couldn't believe in your own people, you couldn't believe in anyone.",
+   "\"They'd scare <em>me</em>, if I had to fight 'em,\" Peter said finally, \"but I don't know if it's enough to beat... <em>her.</em>\"",
+   "\"You don't suppose this mysterious lion will actually show up and help us, d'you?\" said Lucy. Her voice was very quiet, so that none of the creatures around them would hear. \"Only it'd be nice to really have him, don't you think, instead of just letting people think that he put us in charge?\"",
+   "Susan shook her head, shaking the magical arrows in the quiver on her back. \"If there was really someone like that,\" Susan said, \"he wouldn't have let the White Witch cover the land in winter for a hundred years, would he?\""
+  ],
+  "summary_en": "Peter surveys the Narnian army and admits he knows little of war; Lucy wonders whether Aslan will really come, and Susan doubts a good lion would have allowed the Witch's endless winter.",
+  "translation_fa": "پیتر با چشمی نقاد به قنطورس‌های اردوگاه‌زده با کمان‌هایشان، سگ‌های آبی با خنجرهای بلندشان، و خرس‌های سخنگو با زره‌های زنجیری‌شان که بر تن داشتند نگریست. او فرمانده بود، چون یکی از پسران اسطوره‌ای آدم بود و خود را پادشاه والای نارنیا خوانده بود؛ اما حقیقت این بود که چندان درباره‌ی اردوگاه‌ها، سلاح‌ها و گشت‌های نگهبانی نمی‌دانست. در پایان تنها می‌دید که همه‌شان سرافراز و مطمئن به نظر می‌رسند، و پیتر باید امیدوار بود که در این باره درست بگویند؛ زیرا اگر نمی‌توانستی به مردم خودت باور داشته باشی، به هیچ‌کس نمی‌توانستی باور داشته باشی.\n\n«اگر مجبور بودم با آن‌ها بجنگم، من را می‌ترساندند،» پیتر سرانجام گفت، «اما نمی‌دانم کافی است تا... او را شکست دهیم.»\n\n«فکر نمی‌کنی این شیر مرموز واقعاً بیاید و به ما کمک کند؟» لوسی گفت. صدایش بسیار آهسته بود تا هیچ‌یک از موجودات اطرافشان نشنوند. «فقط خوب می‌شد واقعاً او را داشت، نه؟ به‌جای این‌که فقط بگذاریم مردم فکر کنند او ما را به فرماندهی گذاشته است.»\n\nسوزان سر تکان داد، تیرهای جادویی در تیردان بر پشتش را تکان داد. «اگر واقعاً کسی چنین بود،» سوزان گفت، «نمی‌گذاشت جادوگر سفید صد سال زمین را در زمستان بپوشاند، مگر نه؟»",
+  "summary_fa": "پیتر سپاه نارنیا را می‌پاید و می‌پذیرد که از جنگ چیزی نمی‌داند؛ لوسی می‌پرسد آیا اصلان واقعاً می‌آید و سوزان شک می‌کند شیری نیک‌خواه اجازه داده باشد جادوگر زمستان بی‌پایان را برقرار کند."
+ },
+ {
+  "id": 11,
+  "paras": [
+   41,
+   42,
+   43,
+   44
+  ],
+  "verbatim_html": [
+   "\"I had the strangest dream,\" Lucy said, her voice even quieter, \"where we didn't have to organize any creatures or convince them to fight, we just walked into this place and the lion was already here, with all the armies already mustered, and he went and rescued Edmund, and then we rode alongside him into this tremendous battle where he killed the White Witch...\"",
+   "\"Did the dream have a moral?\" said Peter.",
+   "\"I don't know,\" said Lucy, blinking and looking a little puzzled. \"In the dream it all seemed pointless somehow.\"",
+   "\"I think maybe the land of Narnia was trying to tell you,\" said Susan, \"or maybe it was just your own dreams trying to tell you, that if there was really such a person as that lion, there'd be no use for <em>us</em>.\""
+  ],
+  "summary_en": "Lucy describes a dream in which Aslan had already gathered the armies and rescued Edmund, and Susan suggests the dream means that such a lion would leave no need for them.",
+  "translation_fa": "«عجیب‌ترین خوابی را دیدم،» لوسی گفت، صدایش حتی آهسته‌تر، «که لازم نبود هیچ موجودی را سازماندهی کنیم یا راضی کنیم بجنگند، فقط وارد این جا شدیم و شیر از پیش آن‌جا بود، با همه‌ی سپاه‌ها که گرد آمده بودند، و او رفت و ادموند را نجات داد، و سپس در کنارش به این نبرد عظیم رفتیم که در آن جادوگر سفید را کشت...»\n\n«خواب درس عبرتی داشت؟» پیتر گفت.\n\n«نمی‌دانم،» لوسی گفت، پلک زد و کمی سردرگم به نظر رسید. «در خواب همه‌چیز به‌نحوی بی‌معنا بود.»\n\n«شاید سرزمین نارنیا می‌خواست به تو بگوید،» سوزان گفت، «یا شاید فقط خواب‌های خودت می‌خواستند بگویند که اگر واقعاً کسی چون آن شیر بود، دیگر به ما نیازی نبود.»",
+  "summary_fa": "لوسی خوابی را تعریف می‌کند که در آن اصلان از پیش سپاه‌ها را گرد آورده و ادموند را نجات داده بود، و سوزان می‌گوید این خواب یعنی اگر چنین شیری بود به آن‌ها نیازی نبود."
+ },
+ {
+  "id": 12,
+  "paras": [
+   45,
+   46,
+   47,
+   48
+  ],
+  "verbatim_html": [
+   "\"Applejack, who told me outright that I was mistaken, represents the spirit of... <em>honesty!</em> \" Twilight Sparkle raised her head even higher, mane blowing like a wind about the dusky sky of her neck. \"Fluttershy, who approached the manticore to find out about the thorn in its paw, represents the spirit of... <em>investigation!</em> Pinkie Pie, who realized that the awful faces were just trees, represents the spirit of... <em>formulating alternative hypotheses!</em> Rarity, who solved the serpent's problem represents the spirit of... <em>creativity!</em> Rainbow Dash, who saw through the false offer of her heart's desire, represents the spirit of... <em>analysis!</em> Marie-Susan, who made us convince her that we were right before she agreed to come on our expedition, represents the spirit of... <em>peer review!</em> And when those Elements are ignited by the spark of curiosity that resides in the heart of all of us, it creates the seventh element - the Element of Sci-\"",
+   "The blast of power that came forth was like a wind of moonless night, it caught Marie-Susan before the pony could even flinch, and she was gone without a trace before any of them had the chance to rear in shock.",
+   "From the dark thing that stood in the center of the dais where the Elements had shattered, from the scarce-recognizable void-black outline of a horse, came a voice that seemed to bypass all ears and burn like cold fire, sounding directly in the brain of everypony who heard:",
+   "<em>Did you expect me to just stand there and let you finish?</em>"
+  ],
+  "summary_en": "Twilight Sparkle renames the Elements after honesty, investigation, alternative hypotheses, creativity, analysis and peer review, and is cut off by a blast from Nightmare Moon.",
+  "translation_fa": "«اپل‌جک که صریح به من گفت اشتباه می‌کنم، نماینده‌ی روح... صداقت است!» توایلایت اسپارکل سرش را حتی بالاتر برد، یالش چون بادی بر آسمان غروب‌گونِ گردنش می‌وزید. «فلاترشای که به مانتیکور نزدیک شد تا خار در پنجه‌اش را پیدا کند، نماینده‌ی روح... بررسی است! پینکی پای که فهمید آن چهره‌های هولناک فقط درخت‌اند، نماینده‌ی روح... فرمول‌بندی فرضیه‌های جایگزین است! رریتی که مشکل مار را حل کرد، نماینده‌ی روح... خلاقیت است! رنگین‌کمان دش که فریب پیشنهاد دروغین آرزوی قلبش را دید، نماینده‌ی روح... تحلیل است! ماری-سوزان که وادارمان کرد پیش از پیوستن به سفرمان او را متقاعد کنیم که درست می‌گوییم، نماینده‌ی روح... داوری همتا است! و چون آن عناصر با جرقه‌ی کنجکاوی که در قلب همه‌ی ما هست برافروخته شوند، عنصر هفتم را می‌سازند ـــ عنصر علمـــ»\n\nانفجار نیرویی که بیرون آمد چون باد شبی بی‌ماه بود، ماری-سوزان را پیش از آن‌که حتی بتواند بترسد گرفت، و پیش از آن‌که هیچ‌یک فرصت کنند از شوک پس بکشند، بی‌هیچ اثری ناپدید شد.\n\nاز چیز تاریکی که در میان سکو، جایی که عناصر خرد شده بودند، ایستاده بود، از سیمای سیاه-تهی و به‌سختی بازشناختیِ اسبی، صدایی آمد که گویی از همه‌ی گوش‌ها می‌گذشت و چون آتش سرد می‌سوخت و مستقیم در مغز هر پونی که می‌شنید طنین می‌انداخت:\n\nانتظار داشتی فقط آن‌جا بایستم و بگذارم تمامش کنی؟",
+  "summary_fa": "توایلایت اسپارکل عناصر را به صداقت، بررسی، فرضیه‌های جایگزین، خلاقیت، تحلیل و داوری همتا تغییر نام می‌دهد و ناگهان با انفجاری از نایت‌میر مون قطع می‌شود."
+ },
+ {
+  "id": 13,
+  "paras": [
+   49,
+   50,
+   51,
+   52
+  ],
+  "verbatim_html": [
+   "Twilight Sparkle stared at the space where Marie-Susan had been, where not a trace of the unicorn remained. <em>She - she just - she -</em> In the back of her mind, unheard, she was aware that Rarity was screaming.",
+   "<em>That wasn't a disintegration,</em> said the voice of Nightmare. <em>I sent her somewhere else.</em>",
+   "Rarity's scream stopped abruptly.",
+   "Twilight Sparkle felt like her own scream was only beginning. Seven. It took seven ponies to use the Elements of Inquiry. Everyone knew that no matter how honest, investigating, skeptical, creative, analytic, or curious you were, what really made your work Science was when you published your results in a prestigious journal. Everyone knew that. Could there be more than one Element of Peer Review at a time - how long would it take to find another one - and the Nightmare wouldn't just stand there and let them do it -"
+  ],
+  "summary_en": "Nightmare Moon reveals she teleported Marie-Susan rather than disintegrating her, leaving Twilight to realize the Elements of Inquiry now need a seventh bearer.",
+  "translation_fa": "توایلایت اسپارکل به جایی خیره شد که ماری-سوزان آن‌جا بود، جایی که هیچ اثری از آن یونیکورن نمانده بود. او ـــ او فقط ـــ او ـــ در پس ذهنش، ناشنیده، آگاه بود که رریتی جیغ می‌کشد.\n\nآن تلاشی نبود، صدای نایت‌میر گفت. او را جای دیگری فرستادم.\n\nجیغ رریتی ناگهان قطع شد.\n\nتوایلایت اسپارکل حس کرد جیغ خودش تازه آغاز شده است. هفت. هفت پونی لازم بود تا عناصر پژوهش را به کار ببرند. همه می‌دانستند که مهم نیست چقدر صادق، کاوشگر، شکاک، خلاق، تحلیلی یا کنجکاو باشی، آنچه واقعاً کارت را علم می‌کرد این بود که نتایجت را در مجله‌ای معتبر منتشر کنی. همه این را می‌دانستند. آیا می‌توانست هم‌زمان بیش از یک عنصر داوری همتا وجود داشته باشد ـــ چقدر طول می‌کشید یکی دیگر پیدا کنند ـــ و کابوس قرار نبود فقط بایستد و بگذارد چنین کنند ـــ",
+  "summary_fa": "نایت‌میر مون آشکار می‌کند که ماری-سوزان را به‌جای متلاشی کردن به جای دیگری فرستاده، و توایلایت درمی‌یابد که عناصر پژوهش اکنون به حامل هفتمی نیاز دارند."
+ },
+ {
+  "id": 14,
+  "paras": [
+   53,
+   54,
+   55,
+   56
+  ],
+  "verbatim_html": [
+   "\"Where?\" yelled Rainbow Dash. \"Where'd you put her?\"",
+   "<em>I put the little pony in the same place I bound my pathetic sister, in the heart of her pathetic Sun.</em>",
+   "\"She'll die!\" cried Fluttershy, staring at the Nightmare in horror. \"It's too hot, she'll burn!\"",
+   "<em>Oh, don't worry. The power of the Nightmare surrounds your little friend, keeping her safe and cool, sustaining her without food or drink. She will suffer nothing more than boredom...</em>"
+  ],
+  "summary_en": "Nightmare Moon says she has imprisoned Marie-Susan in the heart of the Sun, kept alive by her power, and Fluttershy fears the heat will kill her.",
+  "translation_fa": "«کجا؟» رنگین‌کمان دش فریاد زد. «او را کجا گذاشتی؟»\n\nپونی کوچک را همان‌جا گذاشتم که خواهر رقت‌انگیزم را بند کردم، در قلب خورشید رقت‌انگیزش.\n\n«خواهد مرد!» فلاترشای گریست، هراسان به کابوس خیره شد. «خیلی داغ است، می‌سوزد!»\n\nآه، نگران نباش. نیروی کابوس دوست کوچکت را احاطه کرده، او را امن و خنک نگه می‌دارد، بی‌غذا و بی‌نوشیدنی زنده‌اش می‌دارد. چیزی بیشتر از ملالت تحمل نخواهد کرد...",
+  "summary_fa": "نایت‌میر مون می‌گوید ماری-سوزان را در قلب خورشید زندانی کرده و نیرویش او را زنده نگه می‌دارد، و فلاترشای می‌ترسد گرما او را بکشد."
+ },
+ {
+  "id": 15,
+  "paras": [
+   57,
+   58,
+   59,
+   60
+  ],
+  "verbatim_html": [
+   "The void-black outline stepped off the dais, walking slowly, deliberately, past the remaining six ponies.",
+   "<em>...so long as the Nightmare's power is not broken. By any backup plans my sister may have set in motion, for example, and which may be known to you. In that case she will vaporize instantly. Such a lovely thing, friendship. It makes such a wonderful instrument of blackmail. Be sure to keep safe the Elements of Inquiry. You wouldn't want anyone else using them on me, now would you?</em>",
+   "\"No,\" whispered Twilight Sparkle, as the horror began to dawn on her.",
+   "Then a crawling sensation all over her skin, as the Nightmare walked past her, and the deadly power brushed her with its cold caress."
+  ],
+  "summary_en": "Nightmare Moon warns that Marie-Susan will vaporize if the Nightmare's power is broken, using her as leverage to keep the Elements of Inquiry safe.",
+  "translation_fa": "سیمای سیاه-تهی از سکو پایین آمد، آهسته و آگاهانه راه می‌رفت، از کنار شش پونی باقی‌مانده می‌گذشت.\n\n...تا زمانی که نیروی کابوس شکسته نشود. مثلاً با هیچ نقشه‌ی پشتیبانی که خواهرم ممکن است به راه انداخته باشد و شاید شما از آن خبر داشته باشید. در آن صورت، او فوراً بخار می‌شود. چه چیز دوست‌داشتنی‌ای است دوستی. ابزار شگفت‌انگیزی برای باج‌گیری می‌سازد. مطمئن شوید عناصر پژوهش را امن نگه دارید. نمی‌خواهید کس دیگری آن‌ها را علیه من به کار ببرد، مگر نه؟\n\n«نه،» توایلایت اسپارکل نجوا کرد، در حالی که وحشت بر او آشکار می‌شد.\n\nآن‌گاه حسی خزنده در سراسر پوستش، چون کابوس از کنارش گذشت و نیروی مرگبار با نوازشی سرد او را لمس کرد.",
+  "summary_fa": "نایت‌میر مون هشدار می‌دهد که اگر نیروی کابوس شکسته شود ماری-سوزان بخار می‌شود، و او را ابزار باج‌گیری برای محافظت از عناصر پژوهش می‌کند."
+ },
+ {
+  "id": 16,
+  "paras": [
+   61,
+   62,
+   63,
+   64
+  ],
+  "verbatim_html": [
+   "<em>Now if you'll pardon me, my little ponies, I have an eternal night to rule over.</em>",
+   "\"Consider the computational power required to manifest over a hundred shadow clones,\" the Uchiha genius said in his dispassionate tones. \"It is an error of rationality, Sakura, to say 'fluke' and think you have explained anything. 'Fluke' is simply the name one gives to data that one is ignoring.\"",
+   "\"But it <em>has</em> to be a fluke!\" Sakura yelled. With effort, she calmed her voice into the careful precision expected of a rationality ninja; it wouldn't do to have her crush think she was stupid. \"Like you said, the computational power required to use over a hundred Kage Bunshin is simply absurd. We're talking the level of a major superintelligence. Naruto's the dead last of our class. He's not even jounin-level smart, let alone a superintelligence!\"",
+   "The Uchiha's eyes gleamed, almost as though he had activated his Smartingan. \"Naruto can manifest a hundred independently acting clones. He <em>must</em> have the raw brainpower. But, under ordinary circumstances, something prevents him from using this computational power efficiently... like a mind at war within itself, perhaps? We now have cause to believe that Naruto is in some way connected to a superintelligence, and as a recently graduated genin, he, like us, is fifteen years old. What happened fifteen years ago, Sakura?\""
+  ],
+  "summary_en": "Sasuke argues Naruto's hundred shadow clones imply vast computational power and asks Sakura what happened fifteen years ago, opening the explanation of the Nine-Brains Demon Fox.",
+  "translation_fa": "حالا اگر اجازه بدهید، پونی‌های کوچک من، من شبی جاودان برای فرمانروایی دارم.\n\n«توان محاسباتی لازم برای تجلی بیش از صد سایه‌ی بدل را در نظر بگیر،» نابغه‌ی اوچیها با لحن بی‌احساسش گفت. «این خطای عقلانیت است، ساکورا، که بگویی «اتفاقی» و گمان کنی چیزی را توضیح داده‌ای. «اتفاقی» فقط نامی است که آدم به داده‌هایی می‌دهد که نادیده می‌گیرد.»\n\n«اما باید اتفاقی باشد!» ساکورا فریاد زد. با تلاش، صدایش را به دقتِ محتاطانه‌ای که از یک نینجای عقلانیت انتظار می‌رفت آرام کرد؛ خوب نبود که کرش او را احمق بپندارد. «همان‌طور که گفتی، توان محاسباتی لازم برای استفاده از بیش از صد کاگه بونشین کاملاً پوچ است. داریم از سطح یک ابرهوش بزرگ حرف می‌زنیم. ناروتو آخرین شاگرد کلاس ماست. او حتی در حد جونین هم باهوش نیست، چه برسد به ابرهوش!»\n\nچشمان اوچیها درخشید، تقریباً چنان که گویی اسمارتینگانش را فعال کرده بود. «ناروتو می‌تواند صد بدلِ مستقل از هم را تجلی دهد. او باید آن قدرت خام مغزی را داشته باشد. اما در شرایط عادی، چیزی مانع می‌شود که از این توان محاسباتی به‌طور کارآمد استفاده کند... مثلاً ذهنی که با خودش در جنگ است؟ اکنون دلیلی داریم که باور کنیم ناروتو به‌نحوی به یک ابرهوش وصل است، و او به‌عنوان یک گنین تازه‌فارغ‌التحصیل، مثل ما، پانزده ساله است. پانزده سال پیش چه اتفاقی افتاد، ساکورا؟»",
+  "summary_fa": "ساسکه استدلال می‌کند صد بدل سایه‌ی ناروتو نشانه‌ی توان محاسباتی عظیم است و از ساکورا می‌پرسد پانزده سال پیش چه شد، تا توضیح شیطان روباه نه‌مغز آغاز شود."
+ },
+ {
+  "id": 17,
+  "paras": [
+   65,
+   66,
+   67,
+   68
+  ],
+  "verbatim_html": [
+   "It took a moment for Sakura to comprehend, to remember, and then she understood.",
+   "The attack of the Nine-Brains Demon Fox.",
+   "Just a small bone-white creature with big ears and bigger tail and beady red eyes. It was no stronger than an ordinary fox, it didn't breathe fire or flash laser eyes, it possessed no chakra and no magic of any kind, but its intelligence was over nine thousand times that of a human being.",
+   "Hundreds had been killed, half the buildings wrecked, almost the whole village of Beisugakure had been destroyed."
+  ],
+  "summary_en": "Sakura recalls the attack of the Nine-Brains Demon Fox, a small creature of superhuman intelligence that devastated the village of Beisugakure.",
+  "translation_fa": "لحظه‌ای طول کشید تا ساکورا بفهمد، به یاد بیاورد، و سپس درک کرد.\n\nحمله‌ی شیطان روباه نه‌مغز.\n\nفقط موجودی کوچک و استخوان‌سفید با گوش‌های بزرگ و دمی بزرگ‌تر و چشمان سرخ مهره‌ای. از روباه معمولی نیرومندتر نبود، آتش نمی‌دمید و چشم‌های لیزری نمی‌تاباند، هیچ چاکرا و هیچ جادویی از هیچ نوعی نداشت، اما هوشش بیش از نه هزار برابر هوش یک انسان بود.\n\nصدها نفر کشته شده بودند، نیمی از ساختمان‌ها ویران، تقریباً تمام روستای بیسوگاکوره نابود شده بود.",
+  "summary_fa": "ساکورا حمله‌ی شیطان روباه نه‌مغز را به یاد می‌آورد، موجودی کوچک با هوشی فراانسانی که روستای بیسوگاکوره را ویران کرد."
+ },
+ {
+  "id": 18,
+  "paras": [
+   69,
+   70,
+   71,
+   72
+  ],
+  "verbatim_html": [
+   "\"You think the Kyubey is hiding inside Naruto?\" Sakura said. A moment later, her brain automatically went on to fill in the obvious implications of the theory. \"And the software conflict between their existences is why he acts like a gibbering idiot half the time, but can control a hundred Kage Bunshin. Huh. That makes... a lot of sense... actually...\"",
+   "Sasuke gave her the brief, contemptuous nod of someone who had figured all this out on his own, without anyone else needing to prompt <em>him</em>.",
+   "\"Ano...\" said Sakura. Only years of sanity exercises channeled her complete screaming panic into pragmatically useful policy options. \"Shouldn't we... <em>tell</em> someone about this? Like, sometime in the next five seconds?\"",
+   "\"The adults already know,\" Sasuke said emotionlessly. \"It is the obvious explanation for their treatment of Naruto. No, the real question is how this fits into the outwitting of the Uchiha...\""
+  ],
+  "summary_en": "Sakura deduces that the Kyubey is hidden inside Naruto and that their mental conflict explains his behavior; Sasuke says the adults already know and turns to how this fits the Uchiha plot.",
+  "translation_fa": "«تو فکر می‌کنی کیوبی داخل ناروتو پنهان شده؟» ساکورا گفت. لحظه‌ای بعد، مغزش به‌طور خودکار به پر کردن پیامدهای آشکار این نظریه پرداخت. «و تضاد نرم‌افزاری میان وجودشان دلیل آن است که نیمی از وقت چون یک احمق بی‌معنی رفتار می‌کند، اما می‌تواند صد کاگه بونشین را کنترل کند. هوم. این... واقعاً خیلی منطقی است...»\n\nساسکه به او تکان سری کوتاه و تحقیرآمیز داد، مانند کسی که خودش همه‌ی این‌ها را فهمیده بود، بی‌آن‌که کسی نیاز باشد او را راهنمایی کند.\n\n«آنو...» ساکورا گفت. تنها سال‌ها تمرین سلامت عقل بود که وحشت فریادکش کاملش را به گزینه‌های سیاستیِ عملی هدایت کرد. «نباید... به کسی بگوییم؟ مثلاً، در پنج ثانیه‌ی آینده؟»\n\n«بزرگ‌ترها از پیش می‌دانند،» ساسکه بی‌احساس گفت. «این توضیح آشکار رفتارشان با ناروتو است. نه، پرسش واقعی این است که این ماجرا چگونه در فریب دادن اوچیها جا می‌گیرد...»",
+  "summary_fa": "ساکورا نتیجه می‌گیرد که کیوبی در ناروتو پنهان است و تضاد ذهنی‌شان رفتار او را توضیح می‌دهد؛ ساسکه می‌گوید بزرگ‌ترها می‌دانند و به ارتباط این ماجرا با توطئه‌ی اوچیها می‌پردازد."
+ },
+ {
+  "id": 19,
+  "paras": [
+   73,
+   74,
+   75,
+   76
+  ],
+  "verbatim_html": [
+   "\"I don't see how it fits at all -\" began Sakura.",
+   "\"It <em>must</em> fit!\" A tinge of frantic emotion flickered in Sasuke's voice. \"I asked that man <em>why</em> he did it, and he told me that when I knew the answer to that, it would explain <em>everything!</em> Surely <em>this</em> must also be part of what is to be explained!\"",
+   "Sakura sighed to herself. Her personal hypothesis was that Itachi had just been trying to drive his brother into clinical paranoia.",
+   "\"Yo, kids,\" said the voice of their rationality sensei from their radio earpieces. \"There's a village in Wave trying to build a bridge, and it keeps falling down for no reason anyone can figure out. Meet up at the gates at noon. It's time for your first C-ranked analysis mission.\""
+  ],
+  "summary_en": "Sakura doubts the connection while Sasuke insists it must explain Itachi's actions; their sensei then sends them on their first C-ranked analysis mission in Wave.",
+  "translation_fa": "«نمی‌بینم چطور هیچ جایی جا می‌گیرد ـــ» ساکورا آغاز کرد.\n\n«باید جا بگیرد!» رگه‌ای از هیجان دیوانه‌وار در صدای ساسکه سوسو زد. «از آن مرد پرسیدم چرا این کار را کرد، و او به من گفت وقتی پاسخ آن را دانستم، همه‌چیز را توضیح خواهد داد! مطمئناً این هم باید بخشی از آنچه باید توضیح داده شود باشد!»\n\nساکورا در دلش آهی کشید. فرضیه‌ی شخصی‌اش این بود که ایتاچی فقط می‌کوشید برادرش را به پارانویای بالینی بکشاند.\n\n«هی، بچه‌ها،» صدای استاد عقلانیتشان از گوشی‌های رادیویی آمد. «روستایی در موج هست که می‌خواهد پلی بسازد، و هر بار بی‌دلیل مشخصی فرو می‌ریزد. ظهر جلوی دروازه‌ها باشید. وقت اولین مأموریت تحلیلی رده‌ی C شماست.»",
+  "summary_fa": "ساکورا در این ارتباط شک می‌کند اما ساسکه اصرار دارد که باید کردار ایتاچی را توضیح دهد؛ سپس استادشان آن‌ها را به نخستین مأموریت تحلیلی رده‌ی C در موج می‌فرستد."
+ },
+ {
+  "id": 20,
+  "paras": [
+   77,
+   78,
+   79,
+   80
+  ],
+  "verbatim_html": [
+   "(<em>This has now inspired an extended fanfiction, _Lighting Up the Dark_ by Velorien.</em>)",
+   "\"How could you do it, Anita?\" said Richard, his voice very tight. \"How could you coauthor a paper with Jean-Claude? You <em>study</em> the undead, you don't collaborate with them on papers!\"",
+   "\"And what about you?\" I spat. \"You coauthored a paper with Sylvie! It's all right for <em>you</em> to be prolific but not <em>me?</em> \"",
+   "\"I'm the <em>head of her institute</em>,\" Richard growled. I could feel the waves of science radiating off him; he was angry. \"I <em>have</em> to work with Sylvie, it doesn't mean anything! I thought our own research was special, Anita!\""
+  ],
+  "summary_en": "Richard accuses Anita of coauthoring with the vampire Jean-Claude, and Anita retorts that his work with Sylvie is no different.",
+  "translation_fa": "(این بخش اکنون الهام‌بخش یک فن‌فیکشن بلند به نام «روشن کردن تاریکی» از ولورین شده است.)\n\n«چطور توانستی این کار را بکنی، آنیتا؟» ریچارد گفت، صدایش بسیار فشرده. «چطور توانستی مقاله‌ای را با ژان-کلود هم‌نویسنده شوی؟ تو مردگان را مطالعه می‌کنی، با آن‌ها در مقاله همکاری نمی‌کنی!»\n\n«و تو چطور؟» آب دهانم را با خشم پرتاب کردم. «تو با سیلوی مقاله هم‌نویسنده شدی! برای تو اشکالی ندارد که پرکار باشی ولی برای من؟»\n\n«من رئیس مؤسسه‌ی او هستم،» ریچارد غرید. می‌توانستم موج‌های علم را که از او می‌تابید احساس کنم؛ عصبانی بود. «باید با سیلوی کار کنم، این هیچ معنایی ندارد! فکر می‌کردم پژوهش خودمان چیز ویژه‌ای است، آنیتا!»",
+  "summary_fa": "ریچارد آنیتا را متهم می‌کند که با ژان-کلود خون‌آشام مقاله نوشته، و آنیتا پاسخ می‌دهد که همکاری او با سیلوی تفاوتی ندارد."
+ },
+ {
+  "id": 21,
+  "paras": [
+   81,
+   82,
+   83,
+   84
+  ],
+  "verbatim_html": [
+   "\"It <em>is,</em>\" I said, feeling helpless about my inability to explain things to Richard. He didn't understand the thrill of being a polymath, the new worlds that were opening up to me. \"I didn't share <em>our</em> research with anyone -\"",
+   "\"But you wanted to,\" said Richard.",
+   "I didn't say anything, but I knew that the look on my face said it all.",
+   "\"God, Anita, you've changed,\" said Richard. He seemed to slump in on himself. \"Do you realize that the monsters are joking about Blake numbers, now? I used to be your partner in everything, and now - I'm just another werewolf with a Blake number of 1.\""
+  ],
+  "summary_en": "Anita insists her research with Richard remains special, but Richard says she has changed and laments being reduced to another werewolf with a Blake number of 1.",
+  "translation_fa": "«هست،» گفتم، درمانده از ناتوانی‌ام در توضیح دادن به ریچارد. او هیجان یک همه‌چیزدان شدن را نمی‌فهمید، جهان‌های تازه‌ای را که به روی من باز می‌شد. «من پژوهش خودمان را با هیچ‌کس در میان نگذاشتم ـــ»\n\n«اما می‌خواستی،» ریچارد گفت.\n\nچیزی نگفتم، اما می‌دانستم که نگاه چهره‌ام همه‌چیز را می‌گوید.\n\n«خدایا، آنیتا، تو عوض شده‌ای،» ریچارد گفت. گویی در خودش فرو ریخت. «متوجه هستی که هیولاها الان درباره‌ی اعداد بلیک شوخی می‌کنند؟ من زمانی شریک تو در همه‌چیز بودم، و حالا ـــ فقط یک گرگینه‌ی دیگر با عدد بلیک ۱ هستم.»",
+  "summary_fa": "آنیتا اصرار دارد پژوهشش با ریچارد هنوز ویژه است، اما ریچارد می‌گوید او عوض شده و از این‌که به گرگینه‌ای دیگر با عدد بلیک ۱ فروکاسته شده گلایه می‌کند."
+ },
+ {
+  "id": 22,
+  "paras": [
+   85,
+   86,
+   87,
+   88
+  ],
+  "verbatim_html": [
+   "\"I am <em>sick</em> of this!\" shouted Liono. \"Sick of doing this <em>every single week!</em> Our species was capable of <em>interstellar travel</em>, Panthro, I <em>know</em> the quantities of energy involved! There is no <em>way</em> you can't build a nuke or steer an asteroid or <em>somehow</em> blow up that ever-living idiot's pyramid!\"",
+   "\"Fabulous secret knowledge was revealed to me on the day I held aloft my magic book and said: <em>By the power of Bayes's Theorem!</em> \"",
+   "The eleven-year-old boy who would someday become legend - slayer of dragons, killer of kings - had but one thought upon his mind, as he approached the Sorting Hat to enter into the study of mysteries.",
+   "<em>Anywhere but Ravenclaw anywhere but Ravenclaw oh please anywhere but Ravenclaw...</em>"
+  ],
+  "summary_en": "Liono rages that the Thundercats' advanced technology should let them destroy Mumm-Ra, while a young Kvothe approaches the Sorting Hat begging not to be placed in Ravenclaw.",
+  "translation_fa": "«از این خسته شده‌ام!» لایونو فریاد زد. «خسته از این‌که هر هفته این کار را بکنیم! گونه‌ی ما قادر به سفر میان‌ستاره‌ای بود، پنترو، می‌دانم چه مقدار انرژی در کار است! اصلاً ممکن نیست که نتوانی بمب بسازی یا سیارکی را هدایت کنی یا به‌نحوی آن هرمِ آن احمقِ همیشه‌زنده را منفجر کنی!»\n\n«دانش رازآلود شگفت‌انگیزی در روزی بر من آشکار شد که کتاب جادویی‌ام را بالا گرفتم و گفتم: به نیروی قضیه‌ی بیز!»\n\nپسر یازده‌ساله‌ای که روزی افسانه می‌شد ـــ کشنده‌ی اژدهایان، قاتل پادشاهان ـــ در حالی که به کلاه گروه‌بندی نزدیک می‌شد تا به مطالعه‌ی رازها بپردازد، تنها یک اندیشه در ذهن داشت.\n\nهر جا جز ریونکلا، هر جا جز ریونکلا، آه لطفاً هر جا جز ریونکلا...",
+  "summary_fa": "لایونو خشمگین است که فناوری پیشرفته‌ی تاندرکت‌ها باید نابودی مام-را را ممکن کند، در حالی که کووث جوان به کلاه گروه‌بندی نزدیک می‌شود و التماس می‌کند در ریونکلا نیفتد."
+ },
+ {
+  "id": 23,
+  "paras": [
+   89,
+   90,
+   91,
+   92
+  ],
+  "verbatim_html": [
+   "But no sooner the brim of the ancient felted device slipped over his forehead -",
+   "\"RAVENCLAW!\"",
+   "As the table decked in blue began to applaud him, as he approached the dread table where he would spend the next seven years, Kvothe was already wincing inside, waiting for the inevitable; and the inevitable happened almost at once, exactly as he had feared it, before he'd even had a chance to sit down properly.",
+   "\"So!\" an older boy said with the happy expression of someone who's thought of something terribly clever. \"Kvothe the Raven, huh?\""
+  ],
+  "summary_en": "The Sorting Hat places Kvothe in Ravenclaw anyway, and an older student immediately teases him as Kvothe the Raven.",
+  "translation_fa": "اما به‌محض آن‌که لبه‌ی آن کلاه نمدی کهن بر پیشانی‌اش لغزید ـــ\n\n«ریونکلا!»\n\nدر حالی که میز آراسته به آبی او را تشویق می‌کرد، و به سمت آن میز هراس‌انگیزی می‌رفت که هفت سال آینده را در آن می‌گذراند، کووث از پیش در دلش می‌لرزید، در انتظار آن ناگزیر؛ و ناگزیر تقریباً بی‌درنگ رخ داد، دقیقاً همان‌گونه که می‌ترسید، حتی پیش از آن‌که فرصت کند درست بنشیند.\n\n«خب!» پسری بزرگ‌تر با چهره‌ی شادی گفت، شادیِ کسی که به چیزی فوق‌العاده باهوشانه فکر کرده. «کووثِ زاغ، ها؟»",
+  "summary_fa": "کلاه گروه‌بندی کووث را با این حال در ریونکلا می‌گذارد و دانش‌آموزی بزرگ‌تر بی‌درنگ او را «کووثِ زاغ» دست می‌اندازد."
+ },
+ {
+  "id": 24,
+  "paras": [
+   93,
+   94,
+   95,
+   96
+  ],
+  "verbatim_html": [
+   "I have a truly marvelous story for this crossover which this margin is too narrow to contain.",
+   "<em>(Note: Written after I heard Alicorn was writing a Twilight fanfic, but before I read _Luminosity_. It's obvious if you're one of us.)</em>",
+   "\"Edward,\" said Isabella tenderly. She reached up a hand and stroked his cold, sparkling cheek. \"You don't have to protect me from anything. I've listed out all the upsides and all the downsides, assigned them consistent relative weights, and it's just really obvious that the benefits of becoming a vampire outweigh the drawbacks.\"",
+   "\"Bella,\" Edward said, and swallowed desperately. \"Bella -\""
+  ],
+  "summary_en": "Isabella calmly lists the costs and benefits of becoming a vampire and concludes the benefits outweigh the drawbacks, while Edward struggles to answer.",
+  "translation_fa": "برای این کراس‌اور داستانی به‌راستی شگفت دارم که این حاشیه برای گنجاندنش بیش از حد باریک است.\n\n(یادداشت: پس از آن نوشته شد که شنیدم آلیکورن دارد فن‌فیکشن گرگ‌ومیش می‌نویسد، اما پیش از آن‌که «درخشش» را بخوانم. اگر یکی از ما باشی، واضح است.)\n\n«ادوارد،» ایزابلا با مهربانی گفت. دست بالا برد و گونه‌ی سرد و درخشانش را نوازش کرد. «لازم نیست از هیچ‌چیز محافظتکننده‌ی من باشی. همه‌ی خوبی‌ها و بدی‌ها را فهرست کرده‌ام، وزن‌های نسبیِ سازگار به آن‌ها داده‌ام، و کاملاً واضح است که مزایای خون‌آشام شدن بر معایبش می‌چربد.»\n\n«بلا،» ادوارد گفت، و درمانده آب دهانش را قورت داد. «بلا ـــ»",
+  "summary_fa": "ایزابلا با آرامش هزینه‌ها و فایده‌های خون‌آشام شدن را می‌شمارد و نتیجه می‌گیرد که فایده‌ها بر معایب می‌چربند، در حالی که ادوارد درمانده است."
+ },
+ {
+  "id": 25,
+  "paras": [
+   97,
+   98,
+   99,
+   100
+  ],
+  "verbatim_html": [
+   "\"Immortality. Perfect health. Awakening psychic powers. Easy enough to survive on animal blood once you do it. Even the beauty, Edward, there are people who would give their lives to be pretty, and don't you dare call them shallow until you've tried being ugly. Do you think I'm scared of the word 'vampire'? I'm tired of your arbitrary deontological constraints, Edward. The whole human species ought to be in on your fun, and people are dying by the thousands even as you hesitate.\"",
+   "The gun in his lover's hand was cold against his forehead. It wouldn't kill him, but it would disable him for long enough -",
+   "Aladdin's face was wistful, but determined, as the newly minted street urchin addressed the blue being of cosmic power for one last time, prepared to leave behind the wealth and hope he had so briefly tasted for the sake of his friend. \"Genie, I make my third wish. I wish for you to be -\"",
+   "Princess Jasmine, who had been staring at this with her mouth open, not quite believing what she was seeing, just barely managed to overcome her paralysis and yank the lamp out of the boy's hand before he could finish the fatal sentence."
+  ],
+  "summary_en": "Isabella dismisses Edward's deontological objections with a gun to his forehead, then Jasmine snatches Aladdin's lamp before he can waste his third wish on the Genie's freedom.",
+  "translation_fa": "«جاودانگی. سلامت کامل. بیداری نیروهای روانی. پس از آن، زنده ماندن با خون حیوانات به‌قدر کافی آسان است. حتی زیبایی، ادوارد، آدم‌هایی هستند که جانشان را می‌دادند تا زیبا باشند، و جرئت نکن آن‌ها را سطحی بخوانی تا وقتی خودت زشت بودن را امتحان نکرده‌ای. فکر می‌کنی از واژه‌ی «خون‌آشام» می‌ترسم؟ از محدودیت‌های وظیفه‌گرایانه‌ی خودسرانه‌ات خسته‌ام، ادوارد. تمام گونه‌ی انسان باید در این سرگرمی تو شریک باشد، و مردم هزاران هزار می‌میرند حتی وقتی تو درنگ می‌کنی.»\n\nاسلحه در دست معشوقش بر پیشانی‌اش سرد بود. او را نمی‌کشت، اما به‌قدر کافی ناتوانش می‌کرد ـــ\n\nچهره‌ی علاءالدین حسرت‌بار اما مصمم بود، در حالی که آن ولگرد تازه‌به‌شهر برای آخرین بار با موجود آبیِ نیروی کیهانی سخن می‌گفت، آماده بود ثروت و امیدی را که چنین کوتاه چشیده بود به خاطر دوستش رها کند. «جن، آرزوی سومم را می‌کنم. آرزو می‌کنم که تو ـــ»\n\nشاهدخت یاسمین که با دهان باز به این ماجرا خیره شده بود و باور نمی‌کرد آنچه می‌بیند، به‌سختی توانست فلج بودنش را بشکند و چراغ را از دست پسر بکشد، پیش از آن‌که جمله‌ی مرگبار را تمام کند.",
+  "summary_fa": "ایزابلا با اسلحه‌ای بر پیشانی ادوارد اعتراض‌های وظیفه‌گرایانه‌اش را رد می‌کند، سپس یاسمین چراغ را پیش از آن‌که علاءالدین آرزوی سومش را صرف آزادی جن کند می‌قاپد."
+ },
+ {
+  "id": 26,
+  "paras": [
+   101,
+   102,
+   103,
+   104
+  ],
+  "verbatim_html": [
+   "\"Excuse me,\" said Jasmine. \"Aladdin, my darling, you're cute but you're an idiot, do you know that? Did you not notice how once Jafar got his hands on this lamp, he got his own three wishes - oh, never mind. Genie, I wish for everyone to always be young and healthy, I wish nobody ever had to die if they didn't want to, and I wish for everyone's intelligence to gradually increase at a rate of 1 IQ point per year.\" She tossed the lamp back to Aladdin. \"Go back to what you were doing.\"",
+   "HAMLET<br/> Interloper, abandon this strange prank,<br/> which makes cruel use of the blindness of my grief,<br/> and the good heart of my good friend Horatio.<br/> Or else, if thou hast true title to this belov'd form,<br/> tell me:<br/> What drawing did I present to Hamlet King,<br/> when six years old and scarce out of my sling?",
+   "Ghost<br/> 'twas a unicorn clad all in mail.",
+   "HAMLET<br/> What."
+  ],
+  "summary_en": "Jasmine calls Aladdin an idiot and uses the lamp to wish for universal youth, health, optional death and slowly rising intelligence; Hamlet's ghost then answers a childhood token.",
+  "translation_fa": "«ببخشید،» یاسمین گفت. «علاءالدین، عزیزم، تو خوش‌قیافه‌ای اما احمقی، می‌دانی؟ متوجه نشدی که وقتی جعفر چراغ را به دست آورد، سه آرزوی خودش را گرفت ـــ آه، ولش کن. جن، آرزو می‌کنم همه همیشه جوان و سالم باشند، آرزو می‌کنم هیچ‌کس اگر نمی‌خواهد مجبور نباشد بمیرد، و آرزو می‌کنم هوش همه به‌تدریج سالی یک واحد IQ افزایش یابد.» چراغ را به علاءالدین انداخت. «برگرد سر کاری که می‌کردی.»\n\nهملت ای مدعی، این نیرنگ غریب را رها کن، که به‌دستِ ظلم، از کوریِ سوگ من، و دل نیک دوست نیکم هوراشیو، سوءاستفاده می‌کند. وگرنه، اگر بر این پیکر محبوب حقیقتاً حقی داری، بگویم: پادشاه هملت به من چه نقشی داد، آن‌گاه که شش‌ساله بودم و به‌سختی از قنداقم بیرون آمده بودم؟\n\nشبح یک تک‌شاخ بود، سراپا در زره.\n\nهملت چه.",
+  "summary_fa": "یاسمین علاءالدین را احمق می‌خواند و با چراغ برای جوانی و سلامت همگانی، مرگ اختیاری و افزایش تدریجی هوش آرزو می‌کند؛ سپس شبح هملت نشان کودکی را می‌گوید."
+ },
+ {
+  "id": 27,
+  "paras": [
+   105,
+   106,
+   107,
+   108
+  ],
+  "verbatim_html": [
+   "Ghost<br/> Mark me.",
+   "HAMLET<br/> Father, I will.",
+   "Ghost<br/> My hour is almost come,<br/> When I to sulphurous and tormenting flames<br/> Must render up myself.",
+   "HAMLET<br/> Thou art in torment?"
+  ],
+  "summary_en": "The Ghost says Hamlet's father must soon surrender himself to tormenting flames, and Hamlet asks whether he is truly in torment.",
+  "translation_fa": "شبح گوش کن.\n\nهملت پدر، می‌کنم.\n\nشبح ساعت من نزدیک است، که به شعله‌های گوگردی و شکنجه‌آور خودم را بسپارم.\n\nهملت تو در شکنجه‌ای؟",
+  "summary_fa": "شبح می‌گوید پدر هملت به‌زودی باید خود را به شعله‌های شکنجه بسپارد، و هملت می‌پرسد آیا واقعاً در شکنجه است."
+ },
+ {
+  "id": 28,
+  "paras": [
+   109,
+   110,
+   111,
+   112
+  ],
+  "verbatim_html": [
+   "Ghost<br/> Ay, as are all who die unshriven.",
+   "HAMLET<br/> Like every Dane this is what I've been taught.<br/> Yet I did figure such caprice ill-suited to almighty God.<br/> For all who suffer unlook'd for deaths, unattended by God's chosen priests,<br/> to be then punish'd for the ill-ordering of the world...",
+   "Ghost<br/> 'twas not the world that killed me, nor accident of any kind.",
+   "HAMLET<br/> What?"
+  ],
+  "summary_en": "The Ghost confirms that all who die unshriven suffer, and Hamlet objects that punishing people for the world's disorder is unworthy of God; the Ghost says no accident killed him.",
+  "translation_fa": "شبح آری، چنان‌که همه که بی‌توبه می‌میرند.\n\nهملت این همان است که هر دانمارکی به من آموخته‌اند. اما گمان می‌کردم چنین دلبخواهی سزاوار خدای قادر مطلق نیست. که همه‌ی آن‌ها که مرگ‌های ناگهانی می‌میرند، بی‌آن‌که کشیشان برگزیده‌ی خدا کنارشان باشند، باز هم برای نابسامانی جهان مجازات شوند...\n\nشبح جهان مرا نکشت، و نه هیچ حادثه‌ای از هیچ نوع.\n\nهملت چه؟",
+  "summary_fa": "شبح تأیید می‌کند که همه‌ی بی‌توبه‌مردگان شکنجه می‌شوند و هملت اعتراض می‌کند که مجازات کردن مردم برای نابسامانی جهان سزاوار خدا نیست؛ شبح می‌گوید هیچ حادثه‌ای او را نکشته."
+ },
+ {
+  "id": 29,
+  "paras": [
+   113,
+   114,
+   115,
+   116
+  ],
+  "verbatim_html": [
+   "Ghost<br/> If thou didst ever thy dear father love,<br/> Revenge his foul and most unnatural murder.",
+   "HAMLET<br/> Oh God.",
+   "Ghost<br/> My time grows ever shorter. Wilt thou hear the tale?",
+   "HAMLET<br/> No."
+  ],
+  "summary_en": "The Ghost urges Hamlet to avenge his murder, but Hamlet refuses to hear the tale.",
+  "translation_fa": "شبح اگر هرگز پدر عزیزت را دوست داشتی، انتقام قتل نفرت‌انگیز و غیرطبیعی‌اش را بگیر.\n\nهملت خدای من.\n\nشبح وقتم هر دم کوتاه‌تر می‌شود. می‌خواهی حکایت را بشنوی؟\n\nهملت نه.",
+  "summary_fa": "شبح هملت را به خون‌خواهی قتلش فرا می‌خواند، اما هملت از شنیدن حکایت سر باز می‌زند."
+ },
+ {
+  "id": 30,
+  "paras": [
+   117,
+   118,
+   119,
+   120
+  ],
+  "verbatim_html": [
+   "Ghost<br/> What?",
+   "HAMLET<br/> My love for you does call me to avenge your death,<br/> but greater crimes have I heard told this night.<br/> If all those murdered go to Hell, and others as well,<br/> who would have confess'd had they the time,<br/> If people who are, in balance, good, suffer grisly<br/> at the hands of God, then I defy God's plan.",
+   "Good Ghost, as one who dwells beyond the veil,<br/> you know things that we mortals scarce conceive.<br/> Tell me: is there some philter or device,<br/> outside nature's ken but not outside her means,<br/> by which death itself may be escap'd?",
+   "Ghost<br/> You seek to evade Hell?"
+  ],
+  "summary_en": "Hamlet explains that if good people suffer Hell for dying unprepared, he defies God's plan, and asks whether any means exists to escape death itself.",
+  "translation_fa": "شبح چه؟\n\nهملت عشق من به تو مرا به خون‌خواهیِ مرگت می‌خواند، اما جنایت‌های بزرگ‌تری امشب شنیده‌ام. اگر همه‌ی کشته‌شدگان به جهنم می‌روند، و دیگران نیز، که اگر وقت داشتند اعتراف می‌کردند، اگر مردمی که در مجموع نیک‌اند، به‌دست خدا مرگ‌های وحشتناک می‌بینند، آن‌گاه من با نقشه‌ی خدا مخالفم.\n\nشبحِ نیک، تو که آن سوی پرده می‌زیستی، چیزهایی می‌دانی که ما فانیان به‌سختی درک می‌کنیم. به من بگو: آیا اکسیر یا وسیله‌ای هست، خارج از فهم طبیعت اما نه خارج از توانش، که با آن خودِ مرگ را بتوان طفره رفت؟\n\nشبح در پی گریز از جهنم هستی؟",
+  "summary_fa": "هملت توضیح می‌دهد که اگر نیکان به‌خاطر مرگ بی‌آمادگی به جهنم بروند، او با نقشه‌ی خدا مخالف است، و می‌پرسد آیا راهی برای گریز از خود مرگ هست."
+ },
+ {
+  "id": 31,
+  "paras": [
+   121,
+   122,
+   123,
+   124
+  ],
+  "verbatim_html": [
+   "HAMLET<br/> I seek to deny Hell to everyone!<br/> and Heaven too, for I suspect the Heaven of our mad God<br/> might be a paltry thing, next to the Heaven I will make of Earth,<br/> when I am its immortal king.",
+   "Ghost<br/> I care not for these things.<br/> Death and hell have stripp'd away all of my desires,<br/> save for revenge upon my murderer.",
+   "HAMLET<br/> Thou shalt not be avenged, save that thou swear:<br/> an I slay thine killer, so wilt thou vouchsafe to me the means<br/> by which I might slay death.",
+   "He who killed you will join you in the Pit,<br/> and then that's it. No further swelling of Hell's ranks will I permit."
+  ],
+  "summary_en": "Hamlet declares he wants to deny Hell and Heaven alike and become Earth's immortal king; the Ghost cares only for revenge, and Hamlet demands the secret of killing death in exchange.",
+  "translation_fa": "هملت در پی انکار جهنم برای همه‌ام! و بهشت نیز، زیرا گمان می‌کنم بهشتِ خدای دیوانه‌ی ما در برابر بهشتی که از زمین خواهم ساخت چیز ناچیزی باشد، آن‌گاه که پادشاه جاودانش باشم.\n\nشبح مرا با این چیزها کاری نیست. مرگ و جهنم تمام آرزوهایم را از من گرفته‌اند، جز انتقام از قاتلم.\n\nهملت انتقام گرفته نخواهی شد، مگر آن‌که سوگند بخوری: اگر قاتلت را بکشم، تو نیز وسیله‌ای به من بسپاری که با آن بتوانم مرگ را بکشم.\n\nآن‌که تو را کشت به تو در گودال خواهد پیوست، و سپس تمام است. دیگر اجازه نمی‌دهم صفوف جهنم پرتر شود.",
+  "summary_fa": "هملت اعلام می‌کند جهنم و بهشت را یکسان انکار خواهد کرد و پادشاه جاودان زمین می‌شود؛ شبح فقط انتقام می‌خواهد و هملت در عوض راز کشتن مرگ را می‌طلبد."
+ },
+ {
+  "id": 32,
+  "paras": [
+   125,
+   126,
+   127,
+   128
+  ],
+  "verbatim_html": [
+   "Ghost<br/> Done. When my brother is slain, he who poured the poison in my ear,<br/> then will I pour in yours the precious truth:<br/> the making of the Philosopher's Stone. With this Stone, thou may'st procure<br/> a philter to render any man immune to death, and more transmute<br/> base metal to gold, to fund the provision of this philter to all mankind.",
+   "HAMLET<br/> Truly there is nothing beyond the dreaming of philosophy.<br/> Wait.<br/> The man whom I must kill-my uncle the king?",
+   "Ghost<br/> Ay, that incestuous, that adulterate beast,<br/> With witchcraft of his wit, with traitorous gifts-",
+   "HAMLET<br/> Indeed, he has such gifts I near despair,<br/> of killing him and yet succeeding to his throne.<br/> 'twill be an awesome fight for awesome stakes.<br/> Hast thou advice?"
+  ],
+  "summary_en": "The Ghost agrees and promises the secret of the Philosopher's Stone once Claudius is slain; Hamlet then asks for advice about killing the king and taking the throne.",
+  "translation_fa": "شبح پذیرفتم. چون برادرم کشته شود، همان که زهر در گوشم ریخت، آن‌گاه من در گوش تو حقیقت گران‌بها را خواهم ریخت: ساختن سنگ فیلسوف. با این سنگ می‌توانی اکسیری به دست آوری که هر کس را از مرگ مصون کند، و افزون بر آن فلز پست را به طلا بدل کنی، تا تأمین این اکسیر برای همه‌ی بشریت را هزینه کنی.\n\nهملت به‌راستی چیزی فراتر از رؤیاهای فلسفه نیست. صبر کن. مردی که باید بکشم ـــ عمویم، پادشاه؟\n\nشبح آری، آن زناکار، آن جانور زناکار، با جادوی خردش، با هدایای خیانتکارانه‌اش ـــ\n\nهملت به‌راستی، او چنان هدایایی دارد که نزدیک است ناامید شوم از کشتنش و با این حال رسیدن به تختش. نبردی عظیم برای جایزه‌ای عظیم خواهد بود. توصیه‌ای داری؟",
+  "summary_fa": "شبح می‌پذیرد و پس از کشته شدن کلادیوس راز سنگ فیلسوف را وعده می‌دهد؛ هملت سپس درباره‌ی کشتن پادشاه و رسیدن به تخت توصیه می‌خواهد."
+ },
+ {
+  "id": 33,
+  "paras": [
+   129,
+   130,
+   131,
+   132
+  ],
+  "verbatim_html": [
+   "<em>A cock crows. Exit Ghost.</em>",
+   "\"Revenge?\" said the peg-legged man. \"On a <em>whale?</em> No, I decided I'd just get on with my life.\"",
+   "Alice was sitting by her sister on the bank, reading a book. She had several friends who were older, and if she just asked nicely, they were often happy to lend her books without <em>quite</em> so many pictures and conversations as was thought appropriate for a girl her age.",
+   "Hot days often made her feel sleepy and stupid, so Alice had thoughtfully wet a handkerchief and placed it at the back of her neck. Still her mind had gone off wandering (just as if it was some little kitten whose owner had taken off her eyes for just a moment), and she had just decided that the pleasure of making a daisy-chain would be worth around 4/3 of the trouble of getting up and picking the daisies, which was nonetheless not equal to the opportunity cost of putting down her book, when suddenly a White Rabbit with pink eyes ran close by her."
+  ],
+  "summary_en": "After the Ghost departs at cockcrow, the omake jumps to a peg-legged man who declines revenge on a whale and to Alice, who calculates the cost of making a daisy-chain before a White Rabbit runs past.",
+  "translation_fa": "خروسی بانگ می‌زند. شبح خارج می‌شود.\n\n«انتقام؟» مرد چوب‌پایی گفت. «از یک نهنگ؟ نه، تصمیم گرفتم فقط به زندگی‌ام ادامه دهم.»\n\nآلیس کنار خواهرش روی ساحل نشسته بود و کتابی می‌خواند. چند دوست بزرگ‌تر داشت، و اگر فقط با مهربانی می‌خواست، اغلب خوشحال می‌شدند کتاب‌هایی به او قرض دهند که آن‌قدر تصویر و گفت‌وگو نداشته باشند که برای دختری در سن او مناسب می‌دانستند.\n\nروزهای گرم اغلب او را خواب‌آلود و کند می‌کرد، پس آلیس با تدبیر دستمالی را خیس کرده و پشت گردنش گذاشته بود. با این حال ذهنش به گشت و گذار رفته بود (درست مثل بچه‌گربه‌ای کوچک که صاحبش برای لحظه‌ای چشمانش را از او برداشته)، و تازه تصمیم گرفته بود که لذت ساختن زنجیر گل مروارید حدود ۴/۳ زحمت بلند شدن و چیدن گل‌ها می‌ارزد، که با این حال برابر با هزینه‌ی فرصتِ زمین گذاشتن کتابش نبود، که ناگهان خرگوشی سفید با چشمان صورتی از نزدیکش گذشت.",
+  "summary_fa": "پس از رفتن شبح با بانگ خروس، روایت به مرد چوب‌پایی می‌پرد که از انتقام گرفتن از نهنگ صرف‌نظر می‌کند و به آلیس که پیش از دیدن خرگوش سفید هزینه‌ی ساختن زنجیر گل را می‌سنجد."
+ },
+ {
+  "id": 34,
+  "paras": [
+   133,
+   134,
+   135,
+   136
+  ],
+  "verbatim_html": [
+   "There was nothing so <em>very</em> remarkable in that; nor, in fact, did Alice think it so <em>very</em> much out of the way to hear the Rabbit say to itself, \"Oh dear! Oh dear! I shall be late!\" But when the Rabbit actually <em>took a watch out of its waistcoat- pocket,</em> and looked at it, and then hurried on, Alice froze in sudden clarity and fear, for she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it. \"Oh bother,\" she said to herself (though not aloud; she had long since cured herself of that habit, as it made people take her even less seriously than they already did). \"If I did not immediately recognize how much curiouser that was than the average rabbit, then something is interfering with my curiosity, and that is most curious of all.\" So, burning with questions, she ran across the field after it, and was just in time to see it pop down a large rabbit-hole under the hedge.",
+   "MORPHEUS: For the longest time, I wouldn't believe it. But then I saw the fields with my own eyes, watched them liquefy the dead so they could be fed intravenously to the living -",
+   "NEO <em>(politely)</em>: Excuse me, please.",
+   "MORPHEUS: Yes, Neo?"
+  ],
+  "summary_en": "Alice follows the Rabbit down its hole after realizing that something must be interfering with her curiosity; Morpheus then begins explaining the fields of the dead to Neo.",
+  "translation_fa": "هیچ چیز چندان قابل‌توجهی در آن نبود؛ و در واقع، آلیس حتی شنیدن این‌که خرگوش با خودش می‌گفت «آه عزیزم! آه عزیزم! دیر می‌کنم!» را چندان عجیب نمی‌دانست. اما وقتی خرگوش واقعاً ساعتی از جیب جلیقه‌اش بیرون آورد و به آن نگاه کرد و سپس شتاب گرفت، آلیس در وضوح و ترسی ناگهانی خشکش زد، زیرا پیش‌تر هرگز خرگوشی با جیب جلیقه یا ساعتی برای بیرون آوردن ندیده بود. «آه بگیرش،» با خودش گفت (البته نه بلند؛ مدت‌ها پیش خودش را از این عادت درمان کرده بود، چون باعث می‌شد مردم حتی کمتر از پیش جدی‌اش بگیرند). «اگر فوراً درنیافتم که این چقدر از خرگوش معمولی عجیب‌تر است، پس چیزی با کنجکاوی‌ام دخالت می‌کند، و این از همه عجیب‌تر است.» پس با پرسش‌هایی سوزان از میدان به دنالش دوید و درست به‌موقع دید که در سوراخی بزرگ زیر پرچین فرو رفت.\n\nمورفیوس: مدت‌های مدید باور نمی‌کردم. اما بعد با چشمان خودم مزارع را دیدم، تماشا کردم که مردگان را مایع می‌کردند تا آن‌ها را از راه ورید به زندگان بخورانند ـــ\n\nنئو (مؤدبانه): ببخشید، لطفاً.\n\nمورفیوس: بله، نئو؟",
+  "summary_fa": "آلیس پس از درک این‌که چیزی با کنجکاوی‌اش دخالت می‌کند به دنبال خرگوش به سوراخش می‌رود؛ سپس مورفیوس شروع به توضیح مزارع مردگان برای نئو می‌کند."
+ },
+ {
+  "id": 35,
+  "paras": [
+   137,
+   138,
+   139,
+   140
+  ],
+  "verbatim_html": [
+   "NEO: I've kept quiet for as long as I could, but I feel a certain need to speak up at this point. The human body is the most inefficient source of energy you could possibly imagine. The efficiency of a power plant at converting thermal energy into electricity <em>decreases</em> as you run the turbines at lower temperatures. If you had any sort of food humans could eat, it would be more efficient to burn it in a furnace than feed it to humans. And now you're telling me that their food is <em>the bodies of the dead, fed to the living?</em> Haven't you ever heard of the laws of thermodynamics?",
+   "MORPHEUS: Where did <em>you</em> hear about the laws of thermodynamics, Neo?",
+   "NEO: Anyone who's made it past one science class in high school ought to know about the laws of thermodynamics!",
+   "MORPHEUS: Where did you go to high school, Neo?"
+  ],
+  "summary_en": "Neo interrupts Morpheus to object that human bodies are a wildly inefficient energy source and cites thermodynamics, only to be asked where he attended high school.",
+  "translation_fa": "نئو: تا آن‌جا که توانستم سکوت کرده‌ام، اما احساس می‌کنم در این نقطه نیاز دارم چیزی بگویم. بدن انسان ناکارآمدترین منبع انرژی است که می‌توانی تصور کنی. بازده نیروگاه در تبدیل انرژی گرمایی به برق کاهش می‌یابد وقتی توربین‌ها را در دماهای پایین‌تر می‌گردانی. اگر غذایی داشتی که انسان‌ها می‌توانستند بخورند، سوختاندنش در کوره کارآمدتر از خوراندنش به انسان بود. و حالا به من می‌گویی غذایشان جسد مردگان است که به زندگان خورانده می‌شود؟ آیا هرگز قانون‌های ترمودینامیک را نشنیده‌ای؟\n\nمورفیوس: تو از کجا قانون‌های ترمودینامیک را شنیدی، نئو؟\n\nنئو: هر کس که در دبیرستان از یک کلاس علوم گذشته باشد باید قانون‌های ترمودینامیک را بداند!\n\nمورفیوس: به کدام دبیرستان رفتی، نئو؟",
+  "summary_fa": "نئو سخن مورفیوس را قطع می‌کند و با استناد به ترمودینامیک می‌گوید بدن انسان منبع انرژی بسیار ناکارآمدی است، و در پاسخ می‌شنود که به کدام دبیرستان رفته است."
+ },
+ {
+  "id": 36,
+  "paras": [
+   141,
+   142,
+   143,
+   144
+  ],
+  "verbatim_html": [
+   "(Pause.)",
+   "NEO: ...in the Matrix.",
+   "MORPHEUS: The machines tell elegant lies.",
+   "(Pause.)"
+  ],
+  "summary_en": "Neo admits he went to high school in the Matrix, and Morpheus replies that the machines tell elegant lies.",
+  "translation_fa": "(درنگ.)\n\nنئو: ...در ماتریکس.\n\nمورفیوس: ماشین‌ها دروغ‌های شیک می‌گویند.\n\n(درنگ.)",
+  "summary_fa": "نئو می‌پذیرد که در ماتریکس به دبیرستان رفته، و مورفیوس پاسخ می‌دهد که ماشین‌ها دروغ‌های شیک می‌گویند."
+ },
+ {
+  "id": 37,
+  "paras": [
+   145,
+   146
+  ],
+  "verbatim_html": [
+   "NEO <em>(in a small voice)</em>: Could I please have a real physics textbook?",
+   "MORPHEUS: There is no such thing, Neo. The universe doesn't run on math."
+  ],
+  "summary_en": "Neo meekly asks for a real physics textbook, and Morpheus says no such thing exists because the universe does not run on math.",
+  "translation_fa": "نئو (با صدایی کوچک): می‌توانم لطفاً یک کتاب درسی فیزیک واقعی داشته باشم؟\n\nمورفیوس: چنین چیزی وجود ندارد، نئو. جهان با ریاضیات کار نمی‌کند.",
+  "summary_fa": "نئو با صدایی کوچک کتاب درسی فیزیک واقعی می‌خواهد، و مورفیوس می‌گوید چنین چیزی وجود ندارد چون جهان با ریاضیات کار نمی‌کند."
+ }
+]
