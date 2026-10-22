@@ -1,0 +1,430 @@
+[
+  {
+    "id": 1,
+    "paras": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "summary_en": "In the shifting upper reaches of Hogwarts, a battle is about to be fought. Constant observation temporarily stabilizes the corridors, but the ground must still be relearned each time. It is Sunday, March 1st, and Quirrell has recovered enough to supervise battles again.",
+    "translation_fa": "در بلندی‌های هاگوارتز، جایی که اتاق‌ها و راهروها هر روز تغییر می‌کردند، جایی که خودِ قلمرو نامعلوم بود نه فقط نقشه، جایی که ثبات قلعه بی‌آن‌که سبک معماری یا استحکام ظاهری‌اش عوض شود به رؤیا و آشوب می‌گریخت ـــ در بلندی‌های هاگوارتز، به‌زودی نبردی درمی‌گرفت.\n\nحضور این‌همه دانش‌آموز راهروها را برای مدتی پایدار می‌کرد، به نیروی مشاهدهٔ مداوم. اتاق‌ها و راهروهای هاگوارتز گاهی حتی وقتی مردم مستقیم به آن‌ها نگاه می‌کردند جابه‌جا می‌شدند، ولی تغییر نمی‌کردند. هاگوارتز حتی پس از هشت قرن، هنوز کمی خجالت می‌کشید که جلوی مردم تغییر کند.\n\nولی به‌رغم این ثبات گذرا (استاد دفاع گفته بود)، بلندی‌های بالایی هاگوارتز هنوز واقع‌گرایی نظامی داشت: باید هر بار زمین را از نو می‌آموختی، و هر گنجه را دوباره برای راهروهای مخفی بازرسی می‌کردی.\n\nیکشنبه بود، یکشنبهٔ اول مارس. پروفسور کوییرل به‌قدر کافی بهبود یافته بود که دوباره بر نبردها نظارت کند، و همه داشتند کارهای عقب‌افتاده را جبران می‌کردند.",
+    "summary_fa": "در بلندی‌های متغیر هاگوارتز نبردی در راه است. مشاهدهٔ مداوم راهروها را موقتاً پایدار می‌کند، ولی زمین را باید هر بار از نو آموخت. یکشنبه اول مارس است و کوییرل به‌قدر کافی بهبود یافته تا دوباره بر نبردها نظارت کند.",
+    "verbatim_html": [
+      "In the high reaches of Hogwarts where rooms and corridors changed on a daily basis, where the territory itself was uncertain and not just the map, where the stability of the castle began to fray into dreams and chaos without changing its architectural style or apparent solidity - in the high reaches of Hogwarts, a battle would soon be fought.",
+      "The presence of so many students would stabilize the corridors for a time, by dint of constant observation. The rooms and corridors of Hogwarts sometimes <em>moved</em> even while people looked directly at them, but they wouldn't <em>change</em>. Even after eight centuries, Hogwarts was still a little shy about changing in front of people.",
+      "But despite that transient permanence (the Defense Professor had said) the upper reaches of Hogwarts still had a military realism: you had to learn the ground anew each time, and check every closet for secret corridors all over again.",
+      "Sunday it was, Sunday the first of March. Professor Quirrell had recovered enough to supervise battles once more, and they were all catching up on the backlog."
+    ]
+  },
+  {
+    "id": 2,
+    "paras": [
+      5,
+      6,
+      7
+    ],
+    "summary_en": "Draco watches his Sun and Chaos compasses, knowing only Hermione and Harry hold compasses pointing to Dragon Army. He senses that Harry has become truly lordly since Bellatrix escaped, and wishes Hermione would accept his aid instead of proudly insisting on defeating Potter alone.",
+    "translation_fa": "ژنرال اژدها، دراکو مالفوی، دو قطبنمایی را که در هر دست داشت می‌پایید. یکی به رنگ خورشید بود، دیگری درخششی رنگارنگ و رنگین‌کمانی داشت که نشانهٔ آشوب بود. دراکو می‌دانست دو ژنرال دیگر قطبنماهای خودشان را گرفته‌اند؛ تنها دست هرماینی گرنجر و دست هری پاتر قطبنمایی را می‌گرفتند که نارنجی‌سرخ بود و بازتاب‌هایش مثل آتش سوسو می‌زد، و همیشه به سوی بزرگ‌ترین گروه فعال ارتش اژدها اشاره می‌کرد.\n\nبدون آن قطبنماها ممکن بود روزها بگردند و هرگز یکدیگر را پیدا نکنند، که در بلندی‌های هاگوارتز خطری سرزمینی برای جنگیدن بود.\n\nدراکو دربارهٔ آنچه وقتی ارتش اژدها لژیون آشوب را پیدا می‌کرد احساس بدی داشت. هری پاتر از زمانی که بلاکستریکس بلک گریخت تغییر کرده بود؛ وارث اسلیترین حالا واقعاً ارباب‌وار به نظر می‌رسید (و پروفسور کوییرل از کجا می‌دانست چنین خواهد شد؟). دراکو خیلی بهتر بود اگر هرماینی گرنجر با بیست‌وسه سرباز آفتابش کنارش می‌ایستاد، ولی نه، ژنرال آفتاب احمقانه مغرور بود و کمک علیه ژنرال پاتر را رد می‌کرد. او به دراکو گفته بود که می‌خواهد خودش پاتر را زمین بزند.",
+    "summary_fa": "دراکو قطبنماهای خورشید و آشوبش را می‌پاید و می‌داند فقط هرماینی و هری قطبنمای ارتش اژدها را دارند. او حس می‌کند هری پس از فرار بلاکستریکس واقعاً ارباب‌وار شده و آرزو دارد هرماینی به‌جای اصرار مغرورانه بر شکست دادن پاتر، کمکش را بپذیرد.",
+    "verbatim_html": [
+      "The Dragon General, Draco Malfoy, watched two compasses he held in either hand. One compass was the color of the Sun, the other had a multicolored, iridescent sheen to indicate Chaos. The other two generals, Draco knew, had been given their own compasses; only Hermione Granger's hand, and Harry Potter's hand, would hold a compass that was orange-red and flickered in its reflections like fire, pointing always to the direction of the largest active contingent of Dragon Army.",
+      "Without those compasses they might have searched for days and never found each other, which was a territorial hazard of fighting in the upper levels of Hogwarts.",
+      "Draco had a bad feeling about what would happen when Dragon Army found the Chaos Legion. Harry Potter had changed since Bellatrix Black had escaped; the Heir of Slytherin had begun to seem truly Lordly now (and how had Professor Quirrell known that would happen?) Draco would have felt a lot better with Hermione Granger standing alongside him with her twenty-three Sunshine Soldiers in tow, but no, the Sunshine General was being stupidly proud and refusing to accept aid against General Potter. She wanted to take down Potter herself, she'd told him."
+    ]
+  },
+  {
+    "id": 3,
+    "paras": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "summary_en": "House Malfoy has survived for centuries by accepting second place under a stronger lord and by never being dragged down with a falling master. Draco therefore secretly coordinates with three captains so Dragon and Sunshine do not fight before facing Chaos; when the battle bell rings, Dragon runs to put Chaos between itself and Sunshine.",
+    "translation_fa": "خاندان نجیب و بسیار کهن مالفوی قرن‌ها نفوذشان را بر بریتانیا با درک این نکته حفظ کرده بود که همیشه نمی‌توانی قدرتمندترین باشی. گاهی ارباب دیگری فقط قوی‌تر بود، و باید به این راضی می‌شدی که فقط سردستهٔ او باشی. می‌شد طی دوازده نسل دوم بودن، جایگاه چشمگیری از ثروت و قدرت ساخت. فقط باید مراقب می‌بودی که هر بار خاندانت با سقوط اربابی که خدمتش می‌کردی پایین کشیده نشود. این سنت مالفوی بود که قرن‌ها تجربه صیقلش داده بود...\n\nو پس پدرش به‌طور کامل به دراکو توضیح داده بود که اگر به کسی برخورد که آشکارا از او قوی‌تر است، دراکو نباید این را بد ببیند و نباید انکارش کند و نباید قهر کند که جایگاه بالقوه‌اش را خراب کند، بلکه باید مطمئن شود جایش در ساختار قدرت نسل بعد از دوم پایین‌تر نباشد.\n\nظاهراً گرنجر این درس را از والدین خودش نگرفته بود، و هنوز واقعیت آشکار قوی‌تر شدن هری پاتر از خودش را انکار می‌کرد.\n\nپس دراکو پنهانی با کاپیتان گلدشتاین و کاپیتان بونز و کاپیتان مک‌میلان دیده بود و آن‌ها توافق کرده بودند همه نهایت تلاششان را بکنند که اژدها و آفتاب پیش از رویارویی با تهدید بزرگ‌ترِ آشوب، به هم حمله نکنند.\n\nاین واقعاً نقض پیمان علیه خائنان نبود؛ اگر صادقانه قصد کمک به ارتش دیگر را داشتی، خائن نمی‌طلبدی.\n\nصدای زنگ بلندی در راهروها پیچید تا آغاز نبرد را اعلام کند، و لحظه‌ای بعد دراکو فریاد زد «بروید!» و اژدهاها شروع به دویدن کردند. این سربازانش را خسته می‌کرد، حتی پس از ایستادن و نفس تازه کردن چیزی از آن‌ها می‌گرفت، ولی باید آشوب را مستقیماً میان خودشان و هنگ آفتاب می‌گذاشتند.",
+    "summary_fa": "خاندان مالفوی قرن‌ها با پذیرش جایگاه دوم زیر اربابی قوی‌تر و پرهیز از سقوط همراه ارباب زنده مانده است. پس دراکو پنهانی با سه کاپیتان هماهنگ می‌کند تا اژدها و آفتاب پیش از رویارویی با آشوب نجنگند؛ با زنگ نبرد، اژدها می‌دود تا آشوب را میان خود و آفتاب قرار دهد.",
+    "verbatim_html": [
+      "The Noble and Most Ancient House of Malfoy had maintained their influence over Britain for centuries by understanding that you couldn't always be <em>the</em> most powerful. Sometimes another Lord was just stronger, and you had to settle for <em>merely</em> being his foremost lieutenant. You could build up <em>quite</em> a position of wealth and power over a dozen generations of being second in command. You just had to be careful, each time, not to let your House be dragged down with the fall of the Lord you served. That was the Malfoy tradition which centuries of experience had honed...",
+      "And so Father had thoroughly explained to Draco that if he ran into someone who was obviously stronger than him, Draco was <em>not</em> to resent this and <em>not</em> to deny it and <em>not</em> to throw a tantrum that could sabotage his potential position, but Draco <em>was</em> to make sure that his place in the next generation's power structure wasn't any lower than second.",
+      "Granger, apparently, had never gotten this lecture from her own parents, and was still in denial about the obvious fact that Harry Potter was becoming stronger than her.",
+      "So Draco had secretly met with Captain Goldstein and Captain Bones and Captain Macmillan and they'd agreed to all do their best to make sure that Dragon and Sunshine didn't engage each other before they engaged the larger threat of Chaos.",
+      "It wasn't <em>really</em> violating the agreement against traitors, you weren't soliciting traitors if you honestly meant to <em>help</em> the other army.",
+      "A high ringing tone belled through the corridors to signal the start of the battle, and a moment later Draco shouted \"<em>Go!</em> \" and the Dragons started running. It would tire his soldiers, it would cost them something even after they stopped and caught their breath, but they <em>had</em> to put Chaos directly between themselves and the Sunshine Regiment."
+    ]
+  },
+  {
+    "id": 4,
+    "paras": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "summary_en": "Harry and Neville walk leisurely toward Sunshine, their footsteps heavy from hidden weights. Neville asks whether that is why they trained with weight; he worries about muscle, balance, and transfiguring a Muggle artifact, and Harry explains that wizards wore such weights historically and that the tactic is safe because no one outside first-year spells would try it.",
+    "translation_fa": "هری و نویل با گامی آسوده در راهروها پیش می‌رفتند، هری قطبنمای زردطلایی را می‌پایید که به مکان هنگ آفتاب اشاره می‌کرد، و نویل مراقب بود که مبادا به کس دیگری برخوردند.\n\nاگر دقیق گوش می‌دادی، صدای قدم‌هایشان کمی سنگین و کوبنده بود.\n\n«خب،» ستوان آشوب پس از مدتی گفت. «برای همین بود که وادارمان کردی با آن‌همه وزنهٔ بسته‌شده دوئل تمرین کنیم؟»\n\nهری سر تکان داد و چشمانش را بر قطبنمایی نگه داشت که به آفتاب می‌رسید؛ اگر جهت ظاهری به‌سرعت تغییر می‌کرد، یعنی نزدیک می‌شدند.\n\n«نمی‌خواستم جلوی بقیه چیزی بگویم، ولی چند هفته زمان زیادی برای ساختن عضلهٔ اضافی نیست،» نویل گفت. «و تعادل فرق دارد، و فکر می‌کنم این یکی واقعاً سنگین‌تر است، و این به‌حساب تبدیل‌شکل دادن یک مصنوع مگلی نمی‌آید؟»\n\n«نه،» هری گفت. «از قبل بررسی کردم. در مجسمه‌های هاگوارتز می‌بینی‌اش، پس بعضی جادوگرها قبلاً آن را می‌پوشیدند، حتی اگر فقط برای مد بودن در قرون تاریک بود.» و چون هیچ‌کس هرگز این کار را نمی‌کرد مگر آن‌که با دانش‌آموزان سال اولی که طلسم‌های ضعیف مثل طلسم خواب به کار می‌برند می‌جنگید، به‌حساب لو دادن ایده‌های خوب هم نمی‌آمد.",
+    "summary_fa": "هری و نویل آسوده به سوی آفتاب می‌روند و قدم‌هایشان از وزنه‌های پنهان سنگین است. نویل می‌پرسد آیا برای همین با وزنه تمرین کردند و نگران عضله، تعادل و تبدیل مصنوع مگلی است؛ هری توضیح می‌دهد جادوگرها چنین وزنه‌هایی می‌پوشیدند و این تاکتیک ایمن است چون کسی جز دانش‌آموزان سال اول با طلسم‌های ضعیف آن را امتحان نمی‌کند.",
+    "verbatim_html": [
+      "Harry and Neville walked at a leisurely pace through the corridors, Harry watching the yellow-golden compass that pointed toward the location of the Sunshine Regiment, and Neville keeping a lookout just in case they ran into someone else.",
+      "Their footsteps sounded a bit thumpy, if you listened closely.",
+      "\"So,\" the Chaotic Lieutenant said after a while. \"That's why you had us practice dueling with all that weight strapped on?\"",
+      "Harry nodded, keeping his eyes on the compass that led to Sunshine; if the apparent direction started to change quickly then they were getting close.",
+      "\"I didn't want to say anything in front of the others, but a couple of weeks isn't a lot of time to put on extra muscle,\" said Neville. \"And the balance is different, and I think this weighs <em>more</em> actually, and doesn't this count as Transfiguring a Muggle artifact?\"",
+      "\"Nope,\" Harry said. \"I checked that in advance. You can see it in Hogwarts statues, so some wizards <em>used</em> to wear it, even if they were just being fashionable for the Dark Ages.\" And since nobody would ever try this if they <em>weren't</em> fighting first-year students using weak spells like the Sleep Hex, it didn't count as giving away good ideas, either."
+    ]
+  },
+  {
+    "id": 5,
+    "paras": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "summary_en": "At a Y-intersection Harry chooses the better route, and Neville suggests silencing their noisy weights before they get close. They continue through the stone corridors past statues, stained glass, and armored knights.",
+    "translation_fa": "به دوراهیِ وای‌شکلی رسیدند، از آن دوراهی‌های آزاردهنده؛ هیچ‌کدام از دو راهرو دقیقاً به آن شکل خم نمی‌شد که آن‌ها را در مسیر رهگیری مستقیم به جایی برساند که آفتاب می‌رفت، وقتی لژیون آشوب را دنبال می‌کردند که ارتش اژدها را دنبال می‌کرد. پس هری گزینه‌ای را برگزید که بهتر به نظر می‌رسید، و نویل پشت سرش راه افتاد.\n\n«بهتر است وقتی نزدیک شدیم یک طلسم سکوت سریع روی این چیزها امتحان کنیم،» نویل گفت. «یک‌جورهایی پرصداست، ممکن است بفهمند.»\n\nهری سر تکان داد، و بعد گفت «فکر خوبی است» به این احتمال که نویل به او نگاه نکرده باشد.\n\nآن‌ها در راهروی سنگیِ بلندی‌های هاگوارتز سنگین‌قدم پیش رفتند، روشن با پنجره‌هایی از شیشهٔ ساده یا شیشهٔ رنگی، و گاهی از کنار مجسمه‌های جادوگرها و اژدهاها و حتی جادوگرشوالیه‌های گاه‌به‌گاه زره‌پوش یا زنجیرپوش می‌گذشتند.",
+    "summary_fa": "در دوراهی هری مسیر بهتر را برمی‌گزیند و نویل پیشنهاد می‌کند پیش از نزدیک شدن، وزنه‌های پرصدایشان را سکوت کنند. آن‌ها در راهروهای سنگی از کنار مجسمه‌ها، شیشه‌های رنگی و شوالیه‌های زره‌پوش می‌گذرند.",
+    "verbatim_html": [
+      "They came to a Y-intersection, an annoying one; neither corridor bent in quite the right way to take them on a direct intercept course toward where Sunshine would go as they followed the Chaos Legion following Dragon Army. So Harry chose what seemed like the better of the two options, and Neville followed.",
+      "\"We'd better try a quick Silencing Charm on this stuff when we get close,\" Neville said. \"It's kind of noisy, they might figure it out.\"",
+      "Harry nodded, and then said \"Good idea\" in case Neville hadn't been looking at him.",
+      "They trudged on through the stone-floored corridor of the upper reach of Hogwarts, lit by windows of plain glass or stained glass, now and then passing statues of witches and dragons and even the occasional wizard-knight in plate armor or chainmail."
+    ]
+  },
+  {
+    "id": 6,
+    "paras": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "summary_en": "The Sunshine soldiers advance with wands out, Contego shields around the officers, planning to mix into enemy ranks after only four hours of practice. Hermione's morale efforts have not stopped fearful rumors, so she consulted Anthony. Ernie then reports that Dragon has moved to the far side of Chaos, which now seems to be attacking Dragon instead of maneuvering.",
+    "translation_fa": "سربازان آفتاب با چوب‌دستی‌های بیرون‌آمده و نشانه‌رفته در راهرویی دراز و پهن گام برمی‌داشتند. نمی‌توانستند هنگام مانور از سپر منشوری استفاده کنند، ولی پارواتی پاتیل و جنی روستاد الان دور گروه افسران که نخستین هدف هر کمینی می‌بودند سپرهای کونتگو نگه داشته بودند.\n\nتاکتیکشان برای نبرد بعدی، که او و افسرانش تصمیم گرفته بودند، این بود که هرچه سریع‌تر مستقیماً میان سربازان دشمن بروند ـــ پس از آن‌که میان خودشان تمرین کرده بودند چگونه از یکدیگر پشتیبانی کنند، به هم شلیک نکنند، و به موقعیت‌هایی برسند که سربازان دشمن در شلیک تردید کنند. فقط چهار ساعت تمرین کرده بودند، ولی او فکر می‌کرد سربازانش از قبل در این نوع جنگِ درهم‌آمیخته بهتر از سربازانی باشند که اصلاً تمرین نکرده‌اند. این از آن تاکتیک‌هایی به نظر می‌رسید که آشوب به کار می‌برد، ولی آن‌ها واقعاً هنوز استفاده نکرده بودند.\n\nاو باور داشت راهبرد خوبی است. و با این حال، هرچه برای سربازانش سخنرانی کرده بود، آن‌ها همچنان در پچ‌پچ شایعه‌های ترسناک دربارهٔ آنچه هری و نویل یاد می‌گیرند اصرار داشتند. سرانجام رفته بود با کاپیتان گلدشتاین حرف بزند، کسی که چیزهایی مثل روحیهٔ نیروها را می‌فهمید، و آنتونی پیشنهاد داده بود ـــ\n\n«این عجیب است،» کاپیتان مک‌میلان ناگهان گفت و با اخم به قطبنماهای آتشین و رنگین‌کمانیِ در دو دستش نگاه کرد. (ارنی، به تعبیر هری، «در تجسم فضایی خوب» بود، و بنابراین انتخاب شده بود دو قطبنما را نگه دارد و بفهمد دشمنان چه می‌کنند.) «فکر می‌کنم... اژدها دیگر سریع حرکت نمی‌کند... فکر می‌کنم اول به آن سوی آشوب از ما رسید... و به نظر می‌رسد آشوب حالا می‌خواهد به آن‌ها حمله کند، نه این‌که بخواهد از میانشان بیرون بیاید؟»",
+    "summary_fa": "سربازان آفتاب با سپرهای کونتگو دور افسران پیش می‌روند و می‌خواهند پس از فقط چهار ساعت تمرین میان صفوف دشمن حل شوند. سخنرانی‌های هرماینی شایعه‌های ترسناک را متوقف نکرده، پس با آنتونی مشورت کرده است. ارنی گزارش می‌دهد اژدها به آن سوی آشوب رفته و آشوب حالا به‌جای مانور، به اژدها حمله می‌کند.",
+    "verbatim_html": [
+      "The Sunshine Soldiers were striding through a long, wide corridor with their wands out and pointed. They couldn't use the Prismatic Shield while they were maneuvering, but Parvati Patil and Jenny Rustad were currently maintaining <em>Contegos</em> around the officer group, who would be the first targets of any ambush.",
+      "Their tactic for the next battle, she and her officers had decided, would be to mix directly in with the enemy soldiers as fast as possible - after having practiced among <em>themselves</em> how to support one another, avoid hitting each other, and get into positions where enemy soldiers would hesitate to fire. They'd only gotten in four hours practice, but she thought her troops would already be better at that kind of mixed-in fighting than soldiers who hadn't practiced at all. It seemed like the sort of tactic Chaos would use, but they hadn't actually used it yet.",
+      "It was a good strategy, she believed. And yet still, no matter how much she'd lectured her soldiers, they'd persisted in whispering fearful rumors about what Harry and Neville were learning to do. Finally she'd gone off and talked with Captain Goldstein, who understood things like Troop Morale, and Anthony had suggested -",
+      "\"That's weird,\" Captain Macmillan spoke up suddenly, frowning at the fiery and iridescent compasses he held in either hand. (Ernie was, as Harry would have termed it, \"good at spatial visualization\", and so had been designated to hold both compasses and try to figure out what their enemies were doing.) \"I think... Dragon's not moving fast anymore... I think they got on the other side of Chaos from us first... and it looks like Chaos is moving to attack them instead of trying to maneuver out from in between?\""
+    ]
+  },
+  {
+    "id": 7,
+    "paras": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "summary_en": "Hermione and her officers realize that if Chaos and Dragon fight each other, Sunshine may win by default. Zabini suggests Potter thinks Dragon and Sunshine are allied, or believes he can beat both armies separately, and asks to be promoted back to officer. The others ignore him and confirm they are still heading the right way, though not yet close.",
+    "translation_fa": "هرماینی اخم کرد و کوشید بفهمد، و اخم‌های مشابهی را بر چهرهٔ آنتونی و ران دید. اگر آشوب و اژدها مستقیم به هم حمله می‌کردند و تمام نیرویشان را صرف جنگ با یکدیگر می‌کردند، عملاً نبرد را به آفتاب واگذار می‌کردند...\n\n«پاتر فکر می‌کند ما متحدیم، پس حالا به مالفوی حمله می‌کند، پیش از آن‌که اژدها بتواند به ما بپیوندد،» بلیز زابینی از میان صفوف معمولی سربازان گفت. «یا پاتر فقط فکر می‌کند می‌تواند دو ارتش را پشت سر هم شکست دهد، اگر جداگانه به آن‌ها حمله کند.» پسر اسلیترین آهی تحقیرآمیز کشید. «حالا می‌خواهید به افسری ارتقایم بدهید؟ می‌دانید که بدون من hopeless‌اید.»\n\nهمه صداهای حرف‌زدنِ دهان زابینی را نشنیده گرفتند.\n\n«هنوز در جهت درست می‌رویم؟» آنتونی گفت.\n\n«آره،» ارنی گفت.\n\n«داریم به آن‌ها نزدیک می‌شویم؟» ران گفت.\n\n«هنوز نه ـــ»",
+    "summary_fa": "هرماینی و افسرانش می‌فهمند اگر آشوب و اژدها با هم بجنگند، آفتاب ممکن است بدون جنگ برنده شود. زابینی می‌گوید پاتر فکر می‌کند آفتاب و اژدها متحدند یا می‌تواند هر دو ارتش را جداگانه شکست دهد، و درخواست ارتقا به افسری می‌کند. بقیه نادیده‌اش می‌گیرند و تأیید می‌کنند هنوز در مسیر درست‌اند، هرچند هنوز نزدیک نشده‌اند.",
+    "verbatim_html": [
+      "Hermione frowned, trying to understand, and she saw similar frowns on the faces of Anthony and Ron. If Chaos and Dragon attacked each other straight out, and spent all their forces fighting each other, that was practically conceding the battle to Sunshine...",
+      "\"Potter thinks we're allied so he's attacking Malfoy now, before Dragon can link up with us,\" said Blaise Zabini from the common ranks of soldiers. \"Or Potter just thinks he can beat both armies in a row, if he attacks them separately.\" The Slytherin boy gave a condescending sigh. \"Are you going to promote me back to officer now? You lot are hopeless without me, you know.\"",
+      "They all ignored the talking noises coming from Zabini's mouth.",
+      "\"We still moving in the right direction?\" said Anthony.",
+      "\"Yeah,\" said Ernie.",
+      "\"We getting close to them?\" said Ron.",
+      "\"Not yet -\""
+    ]
+  },
+  {
+    "id": 8,
+    "paras": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "summary_en": "The corridor doors burst open to reveal two grey-cloaked figures, one already aiming at Hermione. Harry screams Stupefy; the stunner breaks through the Contego and she barely dodges, while Susan is hit and knocked into Ron. Anthony and a dozen others respond with Somnium.",
+    "translation_fa": "آن هنگام بود که درهای بزرگ چوب‌سیاه انتهای راهرو باز شدند و به دیوار کوبیدند، و دو پیکر را نمایان کردند که تقریباً کاملاً در شنل‌های خاکستری پیچیده شده بودند، پارچهٔ خاکستری روی صورت‌هایشان زیر کلاه‌های خاکستری کشیده شده بود، و یکی از آن دو از قبل چوب‌دستی‌اش را بالا آورده و مستقیم به سوی او نشانه رفته بود.\n\nو آن‌گاه چهرهٔ بازی به‌شدت عوض شد، چون صدای هری، بلند و از فرط تلاش کشیده، این واژه را فریاد زد:\n\n«استیوفای!»\n\nطلسم بی‌هوش‌کنندهٔ درجهٔ دوئل به سویش شتافت، آن‌قدر شوکه بود که تا تقریباً خیلی دیر شروع به حرکت نکرد، پرتو سرخ نور مستقیم از سپر کونتگوی جلویشان گذشت و او به‌سختی جاخالی داد، وقتی نور سرخ از کنارش گذشت سوزشی روی بازویش حس کرد، و از گوشهٔ چشم دید سوزان هدف قرار گرفت و از پایش بلند شد و به ران خورد ـــ\n\n«سومنیوم!» صدای آنتونی غرید، و لحظه‌ای بعد ده‌ها صدا فریاد زدند «سومنیوم!»",
+    "summary_fa": "درهای راهرو باز می‌شوند و دو پیکر شنل‌خاکستری نمایان می‌شوند که یکی از قبل به هرماینی نشانه رفته است. هری استیوفای فریاد می‌زند؛ طلسم از سپر کونتگو می‌گذرد و هرماینی به‌سختی جاخالی می‌دهد، در حالی که سوزان هدف می‌گیرد و به ران می‌خورد. آنتونی و ده‌ها تن دیگر با سومنیوم پاسخ می‌دهند.",
+    "verbatim_html": [
+      "That was when the huge black-wooden doors at the end of the corridor flew open and crashed into the wall, revealing two figures almost completely enveloped in grey cloaks, grey cloth stretched over the faces beneath the grey hoods, one of those figures already raising a wand and pointing it directly at her.",
+      "And then the face of the game changed drastically, as Harry's voice, high and strained with the effort, screamed the word:",
+      "\"<em>Stupefy!</em> \"",
+      "The dueling-grade stunner blasted toward her, she was so shocked that she didn't start to move until almost too late, as the red jet of light <em>smashed</em> right through the <em>Contego</em> shield to their front and she just barely dodged, there was a tingle on her arm as the red light went past her, and she saw out of the corner of her eye Susan getting hit and blown off her feet into Ron -",
+      "\"<em>Somnium!</em> \" bellowed Anthony's voice, followed a moment later by a dozen voices crying \"<em>Somnium!</em> \""
+    ]
+  },
+  {
+    "id": 9,
+    "paras": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "summary_en": "Hermione rises and sees the two grey figures untouched by a dozen Sleep Hexes, which should be impossible. Neville stuns Ron, and the two reveal themselves as the Grey Knights of Chaos, claiming to be invincible while Chaos's other army destroys Dragon.",
+    "translation_fa": "هرماینی دیوانه‌وار خودش را به پا رساند، و وقتی برخاست دید دو پیکر شنل‌خاکستری همان‌جا ایستاده‌اند.\n\nطلسم‌های خواب دیده نمی‌شدند، طلسم слишком ضعیف بود ـــ\n\nولی هیچ راهی نبود که همه‌شان خطا کرده باشند.\n\n«استیوفای!» صدای نویل لانگ‌باتم جیغ کشید، و پرتو سرخ دیگری به سویش شتافت، او هنگام چرخیدنِ ناامیدانه به‌شکل بی‌آبرومندی روی زمین افتاد، و وقتی نفس‌نفس‌زنان بلند شد دید این بار تیر بی‌هوش‌کننده به ران خورده که داشت از زمین بلند می‌شد.\n\n«سلام، آفتاب،» صدای هری از زیر کلاهش گفت.\n\n«ما شوالیه‌های خاکستری آشوبیم،» صدای نویل گفت.\n\n«برای این نبرد حریفان شما خواهیم بود،» صدای هری گفت، «در حالی که ارتش دیگر آشوب اژدهاها را قتل‌عام می‌کند.»\n\n«و راستی،» صدای نویل گفت، «ما شکست‌ناپذیریم.»\n\nدو پسر در شنل‌ها و ردای خاکستری، با پارچهٔ خاکستری روی صورت، روبروی تمام ارتش آفتاب ایستاده بودند و ظاهراً از ده‌ها طلسم خواب هیچ آزاری ندیده بودند.",
+    "summary_fa": "هرماینی برمی‌خیزد و می‌بیند دو پیکر خاکستری از ده‌ها طلسم خواب اثر نگرفته‌اند، که باید ناممکن باشد. نویل ران را بی‌هوش می‌کند و آن دو خود را شوالیه‌های خاکستری آشوب معرفی می‌کنند و می‌گویند شکست‌ناپذیرند، در حالی که ارتش دیگر آشوب اژدها را نابود می‌کند.",
+    "verbatim_html": [
+      "Hermione frantically pushed herself to her feet, and as she rose, she saw the two figures in the grey cloaks just standing there.",
+      "You couldn't <em>see</em> Sleep Hexes, the spell was too weak -",
+      "But there was no way they all could've <em>missed</em>.",
+      "\"<em>Stupefy!</em> \" shrieked the voice of Neville Longbottom, and another red jet shot at her, she fell in an undignified heap as she desperately twisted out of the way, and when she scrambled up, panting, she saw that this time the stunbolt had gotten Ron where he'd been rising from the ground.",
+      "\"Hello there, Sunshine,\" said Harry's voice from beneath his hood.",
+      "\"We're the Grey Knights of Chaos,\" said Neville's voice.",
+      "\"We'll be your opponents for this battle,\" said Harry's voice, \"while Chaos's <em>other</em> army slaughters the Dragons.\"",
+      "\"And by the way,\" said Neville's voice, \"we're invincible.\"",
+      "The two boys in their grey cloaks and robes, grey cloth over their faces, stood facing Sunshine's entire army, seemingly unfazed by a dozen Sleep Hexes."
+    ]
+  },
+  {
+    "id": 10,
+    "paras": [
+      49,
+      50,
+      51
+    ],
+    "summary_en": "Daphne notices Hannah staring at Neville with parted lips. Realizing her friend is fixated on Neville rather than Harry, Daphne finds Neville suddenly interesting, forgets her mother's lessons on demure behavior, and remembers how she wants her own courtship to go, along with a few spells a Greengrass ought to know.",
+    "translation_fa": "دافنه آهی نرم از کنارش شنید، و وقتی سرش را چرخاند دید لب‌های هانا از هم باز است و چشمان دختر هافلپاف گشاد شده و به چیزی خیره است ـــ\n\nتوصیف آشفتگی افکاری که در ذهن دافنه گذشت سخت می‌بود، وقتی فهمید هانا به نویل خیره است نه هری، که به‌نوبهٔ خود انگار بخشی از وجودش را بیدار کرد تا متوجه شود نویل در میان پسرها اخیراً واقعاً جالب شده بود، در واقع همین حالا آخرین فرزند لانگ‌باتم کاملاً باحال به نظر می‌رسید، و چیزی درونش بیدار شد و لب‌های خودش از هم باز شد و هر آنچه بانو مادرش دربارهٔ رفتار موقرانه و چاپلوسی و شامپوی معطر به او آموخته بود چنان با شدت از ذهنش بیرون رفت که باید موهایش را دور گوش‌هایش به پرواز درمی‌آورد، چون رفتار هرماینی و هری را دیده بود و می‌دانست خواستگاری خودش را چگونه می‌خواهد ـــ\n\nبانو مادرش اخیراً چند طلسم هم به او آموخته بود که اگر وابسته به خاندان نجیب و بسیار کهن گرین‌گرس بودی، ندانستنشان شرم‌آور می‌بود.",
+    "summary_fa": "دافنه می‌بیند هانا با لب‌های باز به نویل خیره است. او که می‌فهمد دوستش به‌جای هری شیفتهٔ نویل شده، ناگهان نویل را جالب می‌یابد، درس‌های مادرش دربارهٔ رفتار موقرانه را فراموش می‌کند و به یاد می‌آورد خواستگاری‌اش را چگونه می‌خواهد، همراه با چند طلسم که یک گرین‌گرس باید بداند.",
+    "verbatim_html": [
+      "Daphne heard a soft sigh from beside her, and when her head turned she saw that Hannah's lips were parted, and the Hufflepuff girl's eyes were huge, and she was staring at -",
+      "It would have been hard to describe the jumble of thoughts that flashed through Daphne's mind as she realized that Hannah was staring at Neville rather than Harry, which in turn seemed to trigger some part of her into noticing that in point of fact Neville <em>had</em> been getting pretty interesting lately as boys went, in fact right now the Last Scion of Longbottom was seeming downright <em>cool,</em> and something woke up inside her and her own lips parted and everything the Lady her Mother had ever instructed her about demure demeanors and flattery and scented shampoo blew straight out of her mind so hard it should have fluffed her hair about her ears, because she'd watched Hermione and Harry and she knew how she wanted <em>her</em> own courtship to go -",
+      "Her Lady Mother had also recently instructed her on a few spells it might be embarrassing not to know if you belonged to the Noble and Most Ancient House of Greengrass."
+    ]
+  },
+  {
+    "id": 11,
+    "paras": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ],
+    "summary_en": "Daphne casts Tonare, Ravum Calvaria, and Lucis Gladius, summoning a blazing light-sword despite the magical drain. She advances to face Neville, declares herself Daphne of Greengrass of Sunshine, and challenges Nevvy to show what he has got.",
+    "translation_fa": "چوب‌دستی دافنه چرخید و به سمت چپش اشاره کرد، و او فریاد زد «توناره!»\n\nچوب‌دستی از بالای سرش گذشت، و وِرد «راوم کالواریا!» را بر زبان آورد.\n\nو سرانجام چوب‌دستی‌اش را با دو دست گرفت و جیغ کشید «لوسیس گلادیوس!»\n\nتخلیهٔ عظیم جادویی تقریباً او را به زانو درآورد، ولی تحملش کرد، و وقتی شکل فروزان کاملاً شکل گرفت و پایدار شد، تخلیه کمی کمتر شد.\n\nبا این حال حس می‌کرد بهتر است مدت زیادی با این چیز نجنگد.\n\nاین‌که همه به او خیره شده بودند کاملاً واضح بود، و باید پیش می‌پرید تا با موهای به‌پرواز درآمده روبروی نویل بایستد، ولی تمام کاری که از دستش برمی‌آمد این بود که پیوسته جلو برود و تیغهٔ بسیار کهنش را به سوی نویل لانگ‌باتم بگیرد. این‌که همه کنار رفتند و راه را برایش باز کردند هم واضح بود.\n\n«من دافنه‌ام، از خاندان نجیب و بسیار کهن گرین‌گرس!» فریاد زد. «گرین‌گرسِ آفتاب!» حالت‌های دوئل کاملاً از ذهنش رفته بود، آن‌قدر نمایش دیده بود که چالش‌های مرگ و چالش خون را یادش باشد ولی اصلاً به یاد نمی‌آورد برای این وضعیت چه مناسب است، پس فقط شمشیر فروزان را به سوی محبوبش گرفت و فریاد زد: «بیا ببینیم چه داری، نِوی!»",
+    "summary_fa": "دافنه با وجود تخلیهٔ شدید جادویی، توناره، راوم کالواریا و لوسیس گلادیوس می‌خواند و شمشیر نوری فروزان می‌سازد. او پیش می‌رود، خود را دافنه از گرین‌گرسِ آفتاب معرفی می‌کند و از نِوی می‌خواهد نشان دهد چه دارد.",
+    "verbatim_html": [
+      "Daphne's wand swung to point to her left, and she shouted \"<em>Tonare!</em> \"",
+      "The wand went over her head, and she spoke the incantation \"<em>Ravum Calvaria!</em> \"",
+      "And finally she grasped her wand in both hands and shrieked, \"<em>Lucis Gladius!</em> \"",
+      "The huge magical drain almost sent her to her knees, but she bore it, and when the blazing shape had fully formed and stabilized the drain was a little less.",
+      "Still, she had a feeling she'd better not try to fight with this for long.",
+      "That everyone was staring at her went <em>quite</em> without saying, and she <em>should</em> have leaped forward to confront Neville with her hair billowing around her, but it was all she could do to walk forward steadily to level her Most Ancient Blade at Neville Longbottom. That everyone moved aside and made way for her also went without saying.",
+      "\"<em>I hight Daphne, of the Noble and Most Ancient House of Greengrass!</em> \" she cried. \"<em>Greengrass of Sunshine!</em> \" The dueling forms had gone completely out of her mind, she'd seen enough plays to remember death challenges and blood challenges but she couldn't remember at all what was appropriate for this, so she just pointed the incandescent sword toward the object of her crush and yelled, \"<em>Let's see what you got, Nevvy!</em> \""
+    ]
+  },
+  {
+    "id": 12,
+    "paras": [
+      59,
+      60,
+      61,
+      62
+    ],
+    "summary_en": "Daphne knocks Harry's stunner back with her blade. Neville summons his own lightsaber, and the two slowly duel; Hermione guesses the spell drains them heavily, and notes they deserve credit for using lightsabers at all.",
+    "translation_fa": "باز هم صدای هری «استیوفای!» جیغ کشید، و بعدها وقتی این لحظه را به یاد می‌آورد، هرگز نمی‌توانست کاملاً باور کند که توانسته این کار را بکند، ولی با تیغهٔ نورش مثل چوبدستیِ یک بیتر ضربه زد و تیر بی‌هوش‌کننده را به سوی خود هری برگرداند، و هری به‌سختی توانست جاخالی بدهد.\n\n«توناره!» نویل از خاندان نجیب و بسیار کهن لانگ‌باتم فریاد زد. «راوم کالواریا، لوسیس گلادیوس!»\n\nبرای چند ثانیه هیچ‌کس کاری نکرد جز خیره شدن به نویل و دافنه که شروع کردند به ضربه زدن به یکدیگر. هر دو آهسته حرکت می‌کردند، و هرماینی حدس زد طلسم نیروی زیادی از آن‌ها می‌گیرد. اگر مگل‌زاده بودی و فیلم‌های خاصی را دیده بودی، این صحنه چندان چشمگیر به نظر نمی‌رسید.\n\nولی باز هم باید برای استفاده از شمشیرهای نوری نمرهٔ اضافه می‌دادی.",
+    "summary_fa": "دافنه با تیغهٔ نورش تیر بی‌هوش‌کنندهٔ هری را پس می‌زند. نویل شمشیر نوری خودش را می‌سازد و آن دو آهسته با هم دوئل می‌کنند؛ هرماینی حدس می‌زند طلسم نیروی زیادی از آن‌ها می‌گیرد و می‌گوید برای استفاده از شمشیر نوری نمرهٔ اضافه لازم است.",
+    "verbatim_html": [
+      "Once again Harry's voice shrieked \"<em>Stupefy!</em> \", and later on, when she was remembering this, she could never quite believe she'd managed to do it, but she slashed out with her blade of light like it was a Beater's bat, and <em>hit the stunbolt back at Harry</em> who just barely managed to twist out of the way.",
+      "\"<em>Tonare!</em> \" shouted Neville, of the Noble and Most Ancient House of Longbottom. \"<em>Ravum Calvaria, Lucis Gladius!</em> \"",
+      "For a few seconds, no one did anything but stare at Neville and Daphne as they started whacking at each other. They were both moving slowly, and Hermione guessed that the spell was taking a lot of strength out of them. It wasn't very impressive by comparison, if you were a Muggleborn and you'd watched certain movies.",
+      "But you still had to give them extra credit for using lightsabers at all."
+    ]
+  },
+  {
+    "id": 13,
+    "paras": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "summary_en": "Harry asks whether the blades would cut if they hit; Hermione explains they only stun. She tells him the spell is legal only for Noble and Most Ancient Houses, then points out that he dodged his own reflected stunner, so he is not invincible.",
+    "translation_fa": "«تذکر آیین‌نامه‌ای،» صدای هری گفت. «می‌دانم استاد دفاع دارد تماشا می‌کند، ولی باید بپرسم، کسی می‌داند اگر واقعاً به هم بزنند، یکدیگر را از وسط نصف می‌کنند ـــ»\n\n«نه،» هرماینی با بی‌حواسی گفت. این در یکی از کتاب‌های تاریخش بود، هرچند هیچ تصوری نداشت شمشیر دوئل جادویی این‌طور باشد. «آن را طوری می‌خوانند که اگر تماس پیدا کرد فقط بی‌هوش کند.»\n\n«این طلسم را می‌دانی؟»\n\n«اوه، نه، این طلسم تیغهٔ بسیار کهن است، استفاده از آن فقط برای خاندان‌های نجیب و بسیار کهن قانونی است ـــ»\n\nهرماینی حرفش را قطع کرد و به هری نگاه کرد، یا بهتر است بگوییم به کلاه خاکستری هری.\n\n«خب،» صدای هری گفت، «پس حدس می‌زنم می‌توانم بقیهٔ هنگ آفتاب را خودم تنها بزنم.» صورتش را نمی‌دید، ولی صدایش مثل کسی بود که لبخند می‌زند.\n\n«وقتی دافنه طلسم خودت را به سویت برگرداند، جاخالی دادی،» هرماینی گفت. «پس هر کاری هم که کرده باشی، شکست‌ناپذیر نیستی. استیوفای باز هم می‌تواند بگیردت.»",
+    "summary_fa": "هری می‌پرسد آیا شمشیرها در صورت برخورد می‌بُرند؛ هرماینی توضیح می‌دهد فقط بی‌هوش می‌کنند. او می‌گوید استفاده از این طلسم فقط برای خاندان‌های نجیب و بسیار کهن قانونی است، و بعد خاطرنشان می‌کند هری از طلسم برگشتهٔ خودش جاخالی داده، پس شکست‌ناپذیر نیست.",
+    "verbatim_html": [
+      "\"Point of order,\" said Harry's voice. \"I know the Defense Professor is watching, but I still have to ask, does anyone know whether they'll slice each other in half if they actually hit -\"",
+      "\"No,\" Hermione said absently. This had been in one of her history books, though she'd had no idea the magical dueling sword looked like <em>that</em>. \"They cast it so it'll only stun if it touches.\"",
+      "\"You <em>know</em> that spell?\"",
+      "\"Oh, no, it's the Charm of the Most Ancient Blade, it's only legal for Noble and Most Ancient Houses to use -\"",
+      "Hermione stopped talking and looked at Harry, or Harry's grey hood rather.",
+      "\"Well,\" said Harry's voice, \"I guess I could take down the rest of the Sunshine Regiment by myself, then.\" She couldn't see his face, but his voice sounded like he was smiling.",
+      "\"You dodged when Daphne hit your own spell back at you,\" Hermione said. \"So whatever you did, you're <em>not</em> invincible. A <em>Stupefy</em> can still get you.\""
+    ]
+  },
+  {
+    "id": 14,
+    "paras": [
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "summary_en": "Hermione says she read about the Stunning Hex and wonders if she remembers it correctly, aiming at Harry. Harry replies that he can simply use Somnium, which takes less effort, and Contego shields spring up in front of Hermione as he speaks.",
+    "translation_fa": "«نظریهٔ جالبی است،» صدای هری از زیر کلاه گفت. «کسی در ارتشت هست که بتواند امتحانش کند؟»\n\n«یک بار دربارهٔ طلسم بی‌هوش‌کننده خوانده‌ام،» هرماینی گفت. «چند ماه پیش. نمی‌دانم می‌توانم دستورها را درست به یاد بیاورم؟» چوب‌دستی‌اش بالا آمد و به هری نشانه رفت.\n\nسکوت کوتاهی برقرار شد، در حالی که در نزدیکی پسری و دختری با نفس‌های شنیدنی و سنگین آهسته با شمشیرهای نوری به هم ضربه می‌زدند.\n\n«البته،» هری گفت و چوب‌دستی خودش را به سوی او گرفت، «من می‌توانم فقط سومنیوم رویت به کار ببرم. این خیلی تلاش کمتری می‌برد.»\n\nسپرهای کونتگوی تازه هم‌زمان با حرف هری جلوی هرماینی پدیدار شدند، که جنی و پارواتی خوانده بودند.",
+    "summary_fa": "هرماینی می‌گوید دربارهٔ طلسم بی‌هوش‌کننده خوانده و نمی‌داند دستورش را درست به یاد می‌آورد، و به هری نشانه می‌رود. هری پاسخ می‌دهد می‌تواند به‌سادگی سومنیوم به کار ببرد که تلاش کمتری می‌برد، و هم‌زمان سپرهای کونتگو جلوی هرماینی برمی‌خیزند.",
+    "verbatim_html": [
+      "\"Interesting theory,\" said Harry's voice from beneath the hood. \"Got anyone in your army who can test it?\"",
+      "\"I read about the Stunning Hex once,\" said Hermione. \"A few months ago. I wonder if I can remember the instructions right?\" Her wand came up to point at Harry.",
+      "There was a slight pause, as nearby a boy and a girl breathing in audible gasps slowly whacked at each other with lightsabers.",
+      "\"Of course,\" Harry said, leveling his own wand on her, \"<em>I</em> can just use Somnium on you. That'll take a lot less effort.\"",
+      "New <em>Contego</em> shields sprung into existence in front of her, cast by Jenny and Parvati, even as Harry spoke."
+    ]
+  },
+  {
+    "id": 15,
+    "paras": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "summary_en": "Hermione rehearses the wand motion for the Stunning Hex, knowing she must succeed on the first try. She tells Harry she is tired of people treating him like a god; Harry says people keep underestimating him, and warns that only another Harry Potter could defeat him now. Hermione says she is taking him down a peg.",
+    "translation_fa": "نوک چوب‌دستی خود هرماینی حرکات کوچکی در هوا آغاز کرد، الماسی درون یک دایره، الماسی درون یک دایره، تمرین حرکت تا دقیقاً با آنچه در کتاب دیده بود جور شود. حتی برای او هم کار سختی می‌بود، ولی باید طلسم را از اولین تلاش درست می‌خواند، نمی‌توانست شکست در اجرا را تحمل کند که انرژی‌اش را می‌خشکاند.\n\n«می‌دانی،» هرماینی گرنجر گفت، «می‌فهمم که واقعاً تقصیر تو نیست، ولی خسته شده‌ام از شنیدن حرف مردم دربارهٔ پسری که زنده ماند، مثل این‌که تو ـــ مثل این‌که تو نوعی خدا هستی یا چیزی شبیه آن.»\n\n«من هم همین‌طور، باید بگویم،» هری پاتر گفت. «غم‌انگیز است که مردم مدام دست‌کمم می‌گیرند.»\n\nچوب‌دستی‌اش همچنان الماس درون دایره را بارها و بارها تمرین می‌کرد. هری داشت نیرویش را دوباره پر می‌کرد، این را می‌دانست، همان‌طور که او تا جای ممکن پیش از حمله تمرین می‌کرد. «دارم فکر می‌کنم لازم است یک پله از جایت پایین بیای، ژنرال آشوب.»\n\n«ممکن است حق داشته باشی،» هری خونسرد گفت. پاهایش شروع کردند به حرکت در چیزی که او آن را رقص دوئل‌بازان شناخت. «متأسفانه حالا هیچ چیزی باقی نمانده که بتواند مرا شکست دهد جز یک هری پاتر دیگر.»",
+    "summary_fa": "هرماینی حرکت چوب‌دستیِ طلسم بی‌هوش‌کننده را تمرین می‌کند و می‌داند باید بار اول موفق شود. او به هری می‌گوید از این‌که مردم او را مثل خدا می‌بینند خسته شده؛ هری می‌گوید مردم مدام دست‌کمش می‌گیرند و هشدار می‌دهد حالا فقط یک هری پاتر دیگر می‌تواند شکستش دهد. هرماینی می‌گوید می‌خواهد یک پله از جاهش پایین بیاورد.",
+    "verbatim_html": [
+      "The tip of Hermione's own wand began making small motions in the air, a diamond within a circle, a diamond within a circle, rehearsing the gesture to match exactly what she remembered seeing in the book. It would be a difficult feat even for her, but she <em>had</em> to cast the spell right on the first try, she couldn't afford any failed castings that would sap her energy.",
+      "\"You know,\" said Hermione Granger, \"I understand that it's not really your fault, but I'm getting tired of hearing people talk about the Boy-Who-Lived like you're - like you're some kind of <em>god</em> or something.\"",
+      "\"Same here, I must say,\" said Harry Potter. \"It's sad how people keep underestimating me.\"",
+      "Her wand kept rehearsing the diamond within the circle, over and over. Harry would be recharging his own strength, she knew, even as she practiced as much as she could before her attack. \"I'm starting to think you need taking down a peg, General Chaos.\"",
+      "\"You could be right,\" Harry said equably. His feet began to shuffle through what she recognized as a duelist's dance. \"Unfortunately there's nothing left that can defeat me now except another Harry Potter.\""
+    ]
+  },
+  {
+    "id": 16,
+    "paras": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ],
+    "summary_en": "Hermione declares specifically that she is taking Potter down a peg, and after banter about arrogance she raises her fist. Eight soldiers levitate her, and she rockets through the air shouting that here is Super Hermione, casting a perfectly formed Stupefy at Harry.",
+    "translation_fa": "«بگذار دقیق بگویم، آقای پاتر. من دارم یک پله از جایت پایین می‌آورم.»\n\n«تو و کدام ارتش دیگر؟»\n\n«فکر می‌کنی خیلی باحالی، نه؟» هرماینی گفت.\n\n«چرا، بله،» هری گفت. «بله، فکر می‌کنم. بعضی‌ها ممکن است این را خودپسندی بنامند، ولی مگر من باید آخرین نفر در هاگوارتز باشم که متوجه می‌شود چقدر فوق‌العاده‌ام؟»\n\nهرماینی دست چپش را بالا برد و مشت کرد.\n\nاین یک علامت بود. هشت سربازِ تعیین‌شده در ارتشش چوب‌دستی‌هایشان را به سوی او می‌گرفتند و آرام طلسم وینگاردیوم لویوسا را می‌خواندند.\n\nاین را هم تمرین کرده بودند، پس از آن‌که هرماینی از سخنرانی برای سربازانش دست کشید و به پیشنهاد آنتونی کوشید ژنرال آفتابی به آن‌ها بدهد که به نظر می‌رسید می‌تواند دشمنان شکست‌ناپذیر را شکست دهد.\n\n«تو خودت را سوپرمن جا می‌زنی،» هرماینی گفت. مشتش را بالاتر برد و هشت سربازی که نگهش می‌داشتند او را از زمین بلند کردند. «خب، این هم سوپرهرماینی!» دستش را جلو برد، و همان‌طور که به‌سرعت در هوا به سوی هری می‌شتافت، تنها تأسفش این بود که نمی‌توانست نگاه صورتش را ببیند، چوب‌دستی‌اش الماسی درون دایره ساخت و تمام جادویی را که می‌توانست فراخواند، حسش مثل چیزی بود که تصور می‌کرد لمس سیم برق‌دار داشته باشد، وقتی آن طلسم بیش‌ازحد نیرومند از درونش سرازیر شد و صدایش جیغ کشید «استیوفای!»",
+    "summary_fa": "هرماینی صریحاً می‌گوید می‌خواهد پاتر را یک پله پایین بیاورد، و پس از شوخی دربارهٔ خودپسندی مشتش را بالا می‌برد. هشت سرباز او را معلق می‌کنند و او در هوا می‌شتافد و می‌گوید این هم سوپرهرماینی است، و استیوفایِ بی‌نقصی به سوی هری می‌خواند.",
+    "verbatim_html": [
+      "\"Let me be specific, Mr. Potter. <em>I'm</em> taking you down a peg.\"",
+      "\"You and what other army?\"",
+      "\"You think you're pretty cool, don't you,\" said Hermione.",
+      "\"Why, yes,\" said Harry. \"Yes, I do. Some might call that arrogant, but am I supposed to be the last person in Hogwarts to notice how awesome I am?\"",
+      "Hermione raised her left hand into the air, and made a fist.",
+      "It was a signal. Eight designated soldiers in her army would be pointing their wands at her, and quietly casting <em>Wingardium Leviosa</em>.",
+      "They'd practiced <em>this,</em> too, once Hermione had given up on lecturing her soldiers, and at Anthony's suggestion, tried giving them a Sunshine General who <em>looked</em> like she could defeat invincible enemies.",
+      "\"You pretend you're Superman,\" said Hermione. She raised her left fist higher in the air, and the eight soldiers supporting her Hovered her off the ground. \"<em>Well here's Super Hermione!</em> \" Her hand pushed forward, and as she shot rapidly through the air toward Harry, regretting only that she couldn't see the look on his face, her wand made a diamond within a circle and she summoned up all the magic she could, it felt like she imagined touching a live wire would feel as the too-powerful spell poured through her when her voice screamed \"<em>Stupefy!</em> \""
+    ]
+  },
+  {
+    "id": 17,
+    "paras": [
+      88,
+      89,
+      90
+    ],
+    "summary_en": "The red bolt is perfectly formed, but Harry dodges it. Because they never practiced the landing inside hallways, Hermione crashes into a wall.",
+    "translation_fa": "پرتو سرخ از چوب‌دستی‌اش بیرون زد، کاملاً شکل‌گرفته.\n\nهری جاخالی داد.\n\nو بعد، چون تمرین نکرده بودند این بخش را داخل راهرو انجام دهند، به دیوار خورد.",
+    "summary_fa": "پرتو سرخ بی‌نقص شکل می‌گیرد، ولی هری جاخالی می‌دهد. چون فرود آمدن در راهرو را تمرین نکرده بودند، هرماینی به دیوار می‌خورد.",
+    "verbatim_html": [
+      "The red bolt burst from her wand, perfectly formed.",
+      "Harry dodged it.",
+      "And then, because they hadn't practiced doing this part inside of hallways, she crashed into a wall."
+    ]
+  },
+  {
+    "id": 18,
+    "paras": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "summary_en": "Draco duels Theodore Nott, who grins evilly and does not bother dodging. Draco realizes he is getting winded while Theodore keeps advancing, and frantically tries to form hypotheses about Harry's trick even as he dodges another Sleep Hex.",
+    "translation_fa": "«سومنیوم!» دراکو جیغ کشید، و بعد از چند ثانیه برای پر کردن دوباره نیرو، «سومنیوم، لعنتی!»\n\nمی‌دانست که دارد تئودور را می‌زند، پسر دیگر حتی سعی نمی‌کرد جاخالی بدهد، ولی فرزند نات فقط مثل پدرش شریرانه لبخند زد و چوب‌دستی‌اش را بالا آورد ـــ\n\nدراکو توانست کنار بپرد همان لحظه که تئودور گفت «سومنیوم!» ولی دراکو داشت نفس کم می‌آورد، نمی‌توانست این را ادامه دهد، تئودور اصلاً زحمت جاخالی دادن را به خود نمی‌داد در حالی که دراکو مجبور بود مدام حرکت کند، این دیوانگی بود.\n\nحالا به‌قدر کافی نیرو داشت که دوباره شلیک کند، ولی ـــ\n\nحماقت یعنی انجام دادن همان کار و انتظار نتیجهٔ متفاوت، هری گفته بود، این به‌نحوی کار هری بود، دیگر نمی‌توانست مصنوع مگلی باشد ولی دراکو نمی‌فهمید چه می‌تواند باشد، و باید به فرضیه‌ها و راه‌های آزمودنشان فکر می‌کرد ولی بیش از حد مشغول جاخالی دادنِ دیوانه‌وار بود، تئودور می‌خندید و طلسم خواب دیگری به سویش می‌انداخت، آن بار دراکو هنگام چرخیدن کمی بی‌حسی در پهلو حس کرد، این خیلی خیلی نزدیک بود، و سرانجام دراکو دیگر نتوانست تحمل کند، زحمت نکشید بفهمد چه نظریه‌ای را می‌آزماید یا چرا، فقط ـــ",
+    "summary_fa": "دراکو با تئودور نات دوئل می‌کند که شریرانه لبخند می‌زند و زحمت جاخالی را به خود نمی‌دهد. دراکو نفس کم می‌آورد و در حالی که از طلسم خواب دیگری جاخالی می‌دهد، دیوانه‌وار می‌کوشد دربارهٔ ترفند هری فرضیه بسازد.",
+    "verbatim_html": [
+      "\"<em>Somnium!</em> \" shrieked Draco, and then after only a few seconds to recharge, \"<em>SOMNIUM, CURSE YOU!</em> \"",
+      "He <em>knew</em> he was hitting Theodore, the other boy wasn't even trying to dodge, but the scion of Nott only grinned as evilly as his father and leveled his wand -",
+      "Draco managed to leap aside just as Theodore said \"<em>Somnium!</em> \" but Draco was getting winded, he couldn't keep this up, Theodore wasn't bothering to dodge at all while Draco had to keep moving, this was <em>crazy.</em>",
+      "He had enough strength now to fire again, but -",
+      "<em>Stupidity is doing the same thing and expecting a different result,</em> Harry had said, this was <em>Harry's</em> work somehow, it couldn't be a Muggle artifact anymore but Draco couldn't figure out what it <em>could</em> be, and he should be thinking of hypotheses and ways to test them but he was too busy frantically dodging as Theodore laughed and shot another Sleep Hex at him, Draco felt a little numbness in his side that time as he twisted, that had been a very very near miss and finally Draco couldn't take it anymore, he didn't bother working out what theory he was testing or why as he just -"
+    ]
+  },
+  {
+    "id": 19,
+    "paras": [
+      96,
+      97,
+      98,
+      99
+    ],
+    "summary_en": "Draco rapidly casts Luminos, Dulak, Expelliarmus and Flipendo, confirming Theodore is still affected by magic. Theodore crashes to the ground, then dodges Draco's next Somnium and shouts a code seven.",
+    "translation_fa": "«لومینوس!» دراکو فریاد زد، و تئودور در نور سرخ هاله‌گون شد، «دولاک!» و نور خاموش شد (پس تئودور هنوز زیر تأثیر جادو بود)، «اکسپلیارموس!» و چوب‌دستی تئودور به پرواز درآمد (که حالا دراکو می‌فهمید به‌هرحال طلسم خوبی بود)، ولی تئودور با آغوش باز به سوی دراکو می‌شتافت تا او را بگیرد، پس دراکو فریاد زد «فلیپندو!» و پاهای پسر دیگر ناگهان به بالا کشیده شد ـــ\n\nـ و پشت تئودور با صدای برخوردی به‌طرز شگفت‌آوری بلند و فلزی به زمین خورد.\n\nدید دراکو حالا از خواندن چهار طلسم با این سرعت پشت سر هم می‌چرخید، و تئودور از قبل کوشش می‌کرد بلند شود، پس حتی وقت فکر کردن با کلمات هم نبود، ولی دراکو هنوز توانست بگوید «سومنیوم!» و این بار به‌جای سینه صورت تئودور را نشانه گرفت.\n\nتئودور جاخالی داد (جاخالی داد!) و پسر فریاد زد «کد هفت روی مالفوی!»",
+    "summary_fa": "دراکو به‌سرعت لومینوس، دولاک، اکسپلیارموس و فلیپندو می‌خواند و می‌فهمد تئودور هنوز زیر تأثیر جادوست. تئودور به زمین می‌خورد، سپس از سومنیوم بعدی دراکو جاخالی می‌دهد و کد هفت را فریاد می‌زند.",
+    "verbatim_html": [
+      "\"<em>Luminos!</em> \" shouted Draco, and Theodore was haloed in red light, \"<em>Dulak!</em> \" and it went out again (so Theodore <em>was</em> still being affected by magic), \"<em>Expelliarmus!</em> \" and Theodore's wand went flying (that had been a good spell to cast anyway now that Draco realized it) but Theodore was rushing toward Draco with his arms outstretched to grapple so Draco yelled \"<em>Flipendo!</em> \" and the other boy's feet were abruptly yanked up -",
+      "- and Theodore's back hit the ground with a surprisingly loud and <em>metallic</em>-sounding crash.",
+      "Draco's vision was swimming now from casting four spells in such fast succession, and Theodore was already scrambling to his feet, so there wasn't even time to think in words, but Draco still managed to say \"<em>Somnium!</em> \" and <em>this</em> time he aimed for Theodore's face instead of the chest.",
+      "Theodore dodged (he <em>dodged!</em>) and the boy shouted \"<em>Code seven on Malfoy!</em> \""
+    ]
+  },
+  {
+    "id": 20,
+    "paras": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "summary_en": "Padma's Prismatis saves Draco as four Chaotic voices cast Somnium. Draco, on his hands and knees, deduces the Sleep Hex does not work and tells the others to aim for the face because the Lieutenants seem to wear metal shirts. Finnigan boasts that Dragon has lost too many soldiers; Draco hopes Granger will soon hit Chaos from behind.",
+    "translation_fa": "«پریزماتیس!» صدای پادما فریاد زد و ناگهان دیواری رنگین‌کمانی و درخشان جلوی دراکو پیدا شد، همان لحظه که چهار صدای آشوبی «سومنیوم!» فریاد زدند.\n\nو سکوتی برقرار شد، در حالی که همه به کرهٔ بزرگ منشوری نگاه می‌کردند که از بازماندهٔ ارتش اژدها محافظت می‌کرد.\n\nخواندن آن پنجمین طلسم دراکو را به دست و زانو انداخته بود، ولی سرش را بالا آورد و تا جای ممکن شفاف گفت: «اگر طلسم خواب ـــ کار نمی‌کند ـــ صورت را نشانه بگیرید ـــ فکر می‌کنم ستوان‌ها پیراهن فلزی پوشیده‌اند.»\n\n«شما از قبل سربازان زیادی را از دست داده‌اید،» فینیگان از آن سوی سد بلند گفت، «به‌هرحال شکستتان می‌دهیم،» و بعد پسر گریفیندور شریرانه خندید. حالا تقریباً به‌خوبی هری پاتر شریرانه می‌خندید، و دیگر لژیونرهای آشوب هم کمی بعد با او شروع به خندیدن کردند.\n\nدراکو از گوشهٔ چشم می‌دید گرگوری و وینسنت بی‌هوش افتاده‌اند. پادما هنوز کرهٔ منشوری را نگه داشته بود، بزرگ‌ترین کره‌ای که دراکو دیده بود او بسازد؛ ولی نفس‌نفس می‌زد و از وقتی برای گرفتن موقعیت دویده بودند هنوز آشکارا عرق‌کرده بود، دختر ریونکلاو جادوگر قدرتمندی بود ولی ورزشکار نبود.\n\nواقعاً امیدوار بود ژنرال گرنجر زود برسد و از پشت به آشوب حمله کند. ژنرال پاتر و نویلِ آشوب ناپدید بودند، و دراکو می‌توانست حدس بزند کجا رفته‌اند، ولی دو سرباز به‌تنهایی نمی‌توانستند تمام هنگ آفتاب را برای مدت طولانی معطل کنند، می‌توانستند؟",
+    "summary_fa": "پریزماتیسِ پادما دراکو را نجات می‌دهد. دراکو که روی دست و زانو افتاده نتیجه می‌گیرد طلسم خواب اثر نمی‌کند و می‌گوید صورت را نشانه بگیرند، چون ستوان‌ها پیراهن فلزی دارند. فینیگان می‌گوید اژدها سربازان زیادی را از دست داده؛ دراکو امیدوار است گرنجر زود از پشت به آشوب حمله کند.",
+    "verbatim_html": [
+      "\"<em>Prismatis!</em> \" cried Padma's voice and there was suddenly a shimmering rainbow wall in front of Draco, just as four Chaotic voices cried \"<em>Somnium!</em> \"",
+      "And there was a pause, as everyone looked at the huge Prismatic Sphere protecting the remnants of Dragon Army.",
+      "Casting that fifth spell had sent Draco to his hands and knees, but he looked up and managed to say, as clearly as he could, \"If the Sleep Hex - doesn't work - aim for the face - I think the Lieutenants are wearing metal shirts.\"",
+      "\"You've already lost too many soldiers,\" Finnigan said loudly from across the barrier, \"we'll beat you anyway,\" and then the Gryffindor boy laughed evilly. He did the evil laughter almost as well as Harry Potter by now, and the other Chaotic Legionnaires started laughing with him soon afterward.",
+      "Draco could see from the corner of his eye where Gregory and Vincent lay unconscious. Padma was still sustaining the Prismatic Sphere, the largest one he'd ever seen her cast; but she was breathing hard, still visibly sweaty from when they'd all jogged to get into position, the Ravenclaw girl was a strong witch but not an <em>athletic</em> one.",
+      "He really hoped General Granger got here soon and hit Chaos from behind. General Potter and Neville of Chaos were missing, and Draco could guess where they'd gone, but two soldiers couldn't delay the whole Sunshine Regiment for too long all by themselves, could they?"
+    ]
+  },
+  {
+    "id": 21,
+    "paras": [
+      106,
+      107,
+      108,
+      109
+    ],
+    "summary_en": "Hermione wishes Daphne had lasted longer. Neville destroys one of the Prismatic Walls and takes down Hannah, weakening the Hover Charms holding Hermione aloft. She begins falling as Harry says Somnium, the last word she hears in the battle.",
+    "translation_fa": "می‌دانست منصفانه نیست، دختر دیگر هرچه داشت داده بود، ولی هرماینی هنوز آرزو می‌کرد دافنه بیشتر دوام می‌آورد.\n\n«لاگان!» صدای نویل از پشت سرش آمد در حالی که پرواز می‌کرد، و صدای خرد شدن یک دیوار منشوری بلند شد، صدای هانا ناامیدانه «سومنیوم!» فریاد زد، و چند لحظه بعد صدای نویل آرام گفت «سومنیوم» و صدای برخورد تنِ سرباز دیگری که می‌افتاد بلند شد.\n\nو نیرویی که او را در هوا نگه می‌داشت باز هم کم شد، هرماینی کشش طلسم‌های معلق‌کننده را حس می‌کرد که به او فشار می‌آورد، ولی حالا دیگر کافی نبود.\n\nپروازش ایستاد و در حرکت آهسته به سوی زمین افتادن شروع کرد، و باید به سربازانش علامت می‌داد رهایش کنند، ولی بیش از حد خشمگین و گیج بود و به‌قدر کافی سریع فکر نمی‌کرد و هنوز می‌کوشید نیرو برای آخرین طلسم بی‌هوش‌کننده جمع کند، و پس جایی برای رفتن نبود وقتی هری چوب‌دستی‌اش را به سوی او گرفت و گفت «سومنیوم»، و این آخرین کلمه‌ای بود که هرماینی گرنجر از نبردش شنید.",
+    "summary_fa": "هرماینی آرزو می‌کند دافنه بیشتر دوام می‌آورد. نویل یکی از دیوارهای منشوری را می‌شکند و هانا را زمین می‌زند و طلسم‌های معلق‌کنندهٔ هرماینی را ضعیف می‌کند. او شروع به افتادن می‌کند که هری سومنیوم می‌گوید، آخرین کلمه‌ای که در این نبرد می‌شنود.",
+    "verbatim_html": [
+      "She knew it wasn't fair, that the other girl had given all she could, but Hermione still wished that Daphne had lasted longer.",
+      "\"<em>Lagann!</em> \" said Neville's voice from behind her as she flew, and there was the sound of a Prismatic Wall shattering, Hannah's voice desperately cried \"<em>Somnium!</em> \" and then a few moments later Neville's voice calmly said \"Somnium\" and there was the thud of another of her soldiers falling over.",
+      "And the force keeping her in the air diminished again, Hermione could feel the grab of the Hover Charms straining at her, but now it just wasn't enough.",
+      "Her flight stopped and she began falling in slow motion toward the ground, and she should've signaled her soldiers to just <em>drop</em> her, but she was too angry and confused and not thinking fast enough and still trying to muster the strength for one last Stunning Hex, and so there was nowhere to go when Harry pointed his wand at her and said \"<em>Somnium</em>\" and that was the last word that Hermione Granger heard of her battle."
+    ]
+  }
+]

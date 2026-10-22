@@ -1,0 +1,448 @@
+[
+  {
+    "id": 1,
+    "paras": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "summary_en": "Hermione is furious that two soldiers defeated her whole army. Quirrell, looking unwell, says only Draco has guessed why all three generals were summoned, and asks whether Harry broke a law by firing on Daphne.",
+    "translation_fa": "هرماینی همین حالا حس خوبی نداشت، یا حس خوبی هم نه؛ گلوله‌ای داغ از خشم درونش می‌سوخت و حیران بود آیا این چیزی شبیه تاریکی هری است (هرچند احتمالاً حتی نزدیک هم نبود) و نباید به‌خاطر یک بازی کوچک و احمقانه این‌طور حس می‌کرد، ولی ـــ\n\nتمام ارتشش. دو سرباز ارتش کاملش را شکست داده بودند. این چیزی بود که پس از بیدار شدن به او گفته بودند.\n\nکمی زیادی بود.\n\n«خب،» پروفسور کوییرل گفت. از نزدیک، استاد دفاع آن‌قدرها هم که آخرین بار در دفترش دیده بود سالم به نظر نمی‌رسید؛ پوستش رنگ‌پریده‌تر بود، و کمی آهسته‌تر حرکت می‌کرد. حالت چهره‌اش مثل همیشه سخت‌گیر بود، و نگاهش همان‌قدر نافذ؛ انگشتانش تند روی میزش ضربه می‌زدند، تَق‌تَق. «حدس می‌زنم از میان شما سه نفر، فقط آقای مالفوی حدس زده چرا اینجا خواسته‌ام‌تان.»\n\n«چیزی مربوط به خاندان‌های نجیب و بسیار کهن؟» هری از کنارش گفت و گیج به نظر می‌رسید. «مگر با شلیک به دافنه قانون دیوانه‌وارِ خاصی را نقض کردم؟»",
+    "summary_fa": "هرماینی از این‌که دو سرباز تمام ارتشش را شکست داده‌اند خشمگین است. کوییرل که ناسالم به نظر می‌رسد می‌گوید فقط دراکو حدس زده چرا هر سه ژنرال را احضار کرده، و می‌پرسد آیا هری با شلیک به دافنه قانونی را شکسته است.",
+    "verbatim_html": [
+      "Hermione wasn't feeling very nice right now, or Good either, there was a hot ball of anger burning inside her and she wondered if this was something like Harry's darkness (though it probably wasn't even close) and she shouldn't have felt that way over some silly little game but -",
+      "Her whole army. Two soldiers had beaten her whole army. That was what she'd been told after she woke up.",
+      "It was a little too much.",
+      "\"Well,\" Professor Quirrell said. From up close the Defense Professor didn't look quite as healthy as he had the last time she'd been in his office; his skin looked paler, and he moved a little slower. His expression was as stern as ever, and his gaze as penetrating; his fingers tapped sharply on his desk, rap-rap. \"I would guess that of the three of you, only Mr. Malfoy has guessed why I've asked you here.\"",
+      "\"Something to do with Noble and Most Ancient Houses?\" said Harry from beside her, sounding puzzled. \"I didn't violate some kind of crazy law by firing on Daphne, did I?\""
+    ]
+  },
+  {
+    "id": 2,
+    "paras": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "summary_en": "Quirrell explains that because Daphne did not invoke the correct dueling forms, she cannot demand Harry be stripped of his House name, though he would not have allowed a formal duel anyway. Draco says Harry against the other two armies is no longer a fair fight; Quirrell corrects Hermione that Daphne was stunned from behind, not exhausted.",
+    "translation_fa": "«دقیقاً نه،» مرد با طعنهٔ سنگین گفت. «چون خانم گرین‌گرس شکل‌های درست دوئل را فرا نخواند، حق ندارد بخواهد نام خاندانت را از تو بگیرند. هرچند البته من هرگز اجازهٔ یک دوئل رسمی را نمی‌دادم. جنگ‌ها چنین قواعدی را رعایت نمی‌کنند.» استاد دفاع به جلو خم شد و چانه‌اش را روی دستان به‌هم‌چسبیده گذاشت، انگار نشستنِ راست او را هم خسته کرده بود. چشمانش آن‌ها را می‌پایید، تیز و خطرناک. «ژنرال مالفوی. چرا تو را اینجا خواستم؟»\n\n«ژنرال پاتر در برابر ما دو نفر دیگر نبرد منصفانه‌ای نیست،» دراکو مالفوی با صدایی آرام گفت.\n\n«چی؟» هرماینی پرید. «نزدیک بود بگیریمشان، اگر دافنه غش نکرده بود ـــ»\n\n«خانم گرین‌گرس از خستگی جادویی غش نکرد،» پروفسور کوییرل خشک گفت. «آقای پاتر زمانی که سربازانت با دیدن پرواز ژنرالشان به دیوار حواسشان پرت بود، با طلسم خواب از پشت به او شلیک کرد. ولی با این حال تبریک می‌گویم، خانم گرنجر، که با فقط بیست‌وچهار سرباز آفتاب، نزدیک بود دو لژیونر آشوب را شکست دهی.»",
+    "summary_fa": "کوییرل توضیح می‌دهد چون دافنه شکل‌های درست دوئل را فرا نخوانده نمی‌تواند بخواهد نام خاندان هری گرفته شود، هرچند خودش هرگز اجازهٔ دوئل رسمی نمی‌داد. دراکو می‌گوید هری در برابر دو ارتش دیگر نبرد منصفانه‌ای نیست؛ کوییرل تصحیح می‌کند که دافنه از پشت بی‌هوش شد، نه از خستگی.",
+    "verbatim_html": [
+      "\"Not quite,\" the man said with heavy irony. \"Since Miss Greengrass did not invoke the correct dueling forms, she is not entitled to demand that you be stripped of your House name. Although of course I would not have permitted a formal duel. Wars do not respect such rules.\" The Defense Professor leaned forward and rested his chin on steepled hands, as though sitting upright had already tired him. His eyes gazed at them, sharp and dangerous. \"General Malfoy. Why did I call you here?\"",
+      "\"General Potter against the two of us isn't a fair fight anymore,\" Draco Malfoy said in a quiet voice.",
+      "\"<em>What?</em> \" blurted Hermione. \"We almost <em>had</em> them, if Daphne hadn't fainted -\"",
+      "\"Miss Greengrass did not faint from magical exhaustion,\" Professor Quirrell said dryly. \"Mr. Potter shot her in the back with a Sleep Hex while your soldiers were distracted by the sight of their general flying into a wall. But congratulations nonetheless, Miss Granger, on <em>almost</em> defeating two Chaotic Legionnaires with a mere twenty-four Sunshine Soldiers.\""
+    ]
+  },
+  {
+    "id": 3,
+    "paras": [
+      10,
+      11,
+      12
+    ],
+    "summary_en": "Quirrell lectures that every lost battle had countless ignored alternatives, such as a massed Finite Incantatem to remove Harry's chainmail or swarming him physically. Hermione lost because she relied on the Stunning Hex and pinned all hope on herself; he compares this to the Death Eaters and the Ministry, then notes Chaos has twice matched both other armies combined and orders Harry to give up eight soldiers.",
+    "translation_fa": "خون در گونه‌هایش کمی داغ‌تر شد. «آن ـــ آن فقط ـــ اگر فقط فهمیده بودم زره پوشیده ـــ»\n\nپروفسور کوییرل از بالای انگشتان به‌هم‌رسیده به او خیره شد. «البته راه‌هایی بود که می‌توانستی ببری، خانم گرنجر. همیشه هست، در هر نبرد شکست‌خورده. جهان پیرامون ما از فرصت‌ها لبریز است، از فرصت‌ها منفجر می‌شود، که تقریباً همه مردم نادیده‌اش می‌گیرند چون باید عادتی فکری را بشکنند؛ در هر نبرد هزار استخوان هافلپاف منتظر است تا به نیزه تیز شود. اگر به فکر افتاده بودی که به‌عنوان یک اصل کلی فینیته اینکانتاتم جمعی به کار ببری، زره زنجیری آقای پاتر و هر چیز دیگری که پوشیده بود جز زیرجامه‌اش از بین می‌رفت، که مرا به این گمان می‌اندازد آقای پاتر کاملاً به آسیب‌پذیری خودش پی نبرده بود. یا می‌توانستی سربازانت را روی آقای پاتر و آقای لانگ‌باتم بریزی و چوب‌دستی‌ها را با زور از دستشان بگیری. پاسخ خود آقای مالفوی را دلیل‌مند نمی‌نامم، ولی دست‌کم هزار گزینهٔ دیگرش را کاملاً نادیده نگرفت.» لبخندی طعنه‌آمیز. «ولی تو، خانم گرنجر، بدشانسی آوردی که یادت ماند طلسم بی‌هوش‌کننده را چطور بخوانی، و پس در حافظهٔ عالی‌ات دنبال ده‌ها طلسم آسان‌تر نگشتی که می‌توانستند مؤثر باشند. و همهٔ امید ارتشت را به شخص خودت بستی، پس وقتی افتادی روحیه‌شان را باختند. بعد از آن هم به خواندن طلسم‌های بی‌فایدهٔ خواب ادامه دادند، زیر فرمان عادت‌های جنگی‌ای که در آن‌ها تربیت شده بود، و نتوانستند مثل آقای مالفوی الگو را بشکنند. کاملاً نمی‌فهمم وقتی مردم همان راهبرد شکست‌خورده را بارها و بارها تکرار می‌کنند چه در ذهنشان می‌گذرد، ولی ظاهراً این درک به‌طرز شگفت‌آوری نادر است که می‌توانی چیز دیگری را امتحان کنی. و این‌طور هنگ آفتاب با دو سرباز نابود شد.» استاد دفاع بی‌شوق لبخند زد. «آدم شباهت‌هایی با این می‌بیند که چطور پنجاه مرگ‌خوار بر تمام بریتانیای جادویی تسلط یافتند، و چطور وزارت محبوب‌مان همچنان حکومت می‌کند.»\n\nاستاد دفاع آه کشید. «با این حال، خانم گرنجر، واقعیت این است که این نخستین شکست از این نوع برای تو نیست. در نبرد پیشین، تو و آقای مالفوی نیروهایتان را یکی کردید، و باز هم تا بن‌بست جنگیدید، چنان‌که تو و آقای مالفوی مجبور شدید آقای پاتر را تا پشت‌بام دنبال کنید. لژیون آشوب حالا دو بار پیاپی نشان داده که قدرتش برابر دو ارتش دیگر روی هم است. این برای من گزینه‌ای باقی نمی‌گذارد. ژنرال پاتر، تو هشت سرباز از ارتشت انتخاب می‌کنی، شامل دست‌کم یک ستوان آشوب، تا میان ارتش اژدها و هنگ آفتاب تقسیم شوند ـــ»",
+    "summary_fa": "کوییرل سخنرانی می‌کند که هر نبرد شکست‌خورده گزینه‌های نادیدهٔ بی‌شماری داشت، مثل فینیته اینکانتاتمِ جمعی برای برداشتن زره زنجیری هری یا هجوم فیزیکی سربازان. هرماینی باخت چون به طلسم بی‌هوش‌کننده تکیه کرد و همهٔ امیدش را به خودش بست؛ کوییرل این را با مرگ‌خوارها و وزارت مقایسه می‌کند، سپس می‌گوید آشوب دو بار با دو ارتش دیگر برابری کرده و دستور می‌دهد هری هشت سرباز را واگذار کند.",
+    "verbatim_html": [
+      "The blood flaming in her cheeks grew a little hotter. \"That - that was just - if I'd only figured out he was wearing armor -\"",
+      "Professor Quirrell gazed at her from over touched fingers. \"Of course there are ways you <em>could</em> have won, Miss Granger. There always are, in every lost battle. The world around us redunds with opportunities, explodes with opportunities, which nearly all folk ignore because it would require them to violate a habit of thought; in every battle a thousand Hufflepuff bones waiting to be sharpened into spears. If you had thought to try a massed <em>Finite Incantatem</em> on general principles, you would have dispelled Mr. Potter's suit of chainmail and everything else he was wearing except his underwear, which leads me to suspect that Mr. Potter did not quite realize his own vulnerability. Or you could have had your soldiers swarm Mr. Potter and Mr. Longbottom and physically wrest the wands from their hands. Mr. Malfoy's own response was not what I would term <em>well-reasoned,</em> but at least he did not wholly ignore his thousand alternatives.\" A sardonic smile. \"But you, Miss Granger, had the misfortune to remember how to cast the Stunning Hex, and so you did not search your excellent memory for a dozen easier spells that might have proved efficacious. And you pinned all your army's hopes on your own person, so they lost spirit when you fell. Afterward they continued to cast their futile Sleep Hexes, governed by the habits of fighting that had been trained into them, unable to break the pattern as Mr. Malfoy did. I cannot quite comprehend what goes through people's minds when they repeat the same failed strategy over and over, but apparently it is an astonishingly rare realization that you can try something else. And so the Sunshine Regiment was wiped out by two soldiers.\" The Defense Professor grinned mirthlessly. \"One perceives certain similarities to how fifty Death Eaters dominated all of magical Britain, and how our much-loved Ministry continues in its rule.\"",
+      "The Defense Professor sighed. \"<em>Nonetheless,</em> Miss Granger, the fact remains that this is not the first such defeat for you. In the previous battle, you and Mr. Malfoy united your forces, and yet you were fought to a standstill, so that you and Mr. Malfoy had to pursue Mr. Potter onto the roof. The Chaos Legion has now demonstrated, twice in succession, military strength equal to both other armies combined. This leaves me no choice. General Potter, you will select eight soldiers from your army, including at least one Chaotic Lieutenant, to be divided among Dragon Army and the Sunshine Regiment -\""
+    ]
+  },
+  {
+    "id": 4,
+    "paras": [
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "summary_en": "Hermione, Harry and Draco react with shock and resignation. Quirrell insists the contest is over and the armies must be rebalanced. He accuses Harry of deliberately annihilating exactly as much of the united force as he pleased and of holding back in class, and orders him to use his full abilities. Hermione leaves with a larger army, less dignity, and near tears.",
+    "translation_fa": "«چی؟» هرماینی دوباره منفجر شد، نگاهی به ژنرال‌های دیگر انداخت و دید هری به‌اندازهٔ او شوکه است، در حالی که دراکو مالفوی فقط تسلیم به نظر می‌رسید.\n\n«ژنرال پاتر از هر دو شما روی هم قوی‌تر است،» پروفسور کوییرل با دقت و آرامش گفت. «مسابقه‌تان تمام است، او برده، و وقت آن است که سه ارتش را دوباره متعادل کنیم تا چالش تازه‌ای پیش رویش بگذاریم.»\n\n«پروفسور کوییرل!» هری گفت. «من ـــ»\n\n«این تصمیم من به‌عنوان استاد جادوی نبرد در مدرسهٔ جادوگری و جادوگری هاگوارتز است و قابل مذاکره نیست.» واژه‌ها هنوز دقیق بودند، ولی نگاه چشمان پروفسور کوییرل خون هرماینی را سرد کرد، هرچند به هری خیره بود نه او. «و مشکوک می‌دانم، آقای پاتر، که همان لحظه که خواستی خانم گرنجر و آقای مالفوی را جدا کنی و وادارشان کنی تا پشت‌بام دنبالت کنند، توانستی دقیقاً همان‌قدر از نیروی متحدشان را که می‌خواستی نابود کنی. راستش، این همان سطح عملکردی است که از آغاز امسال از تو انتظار داشتم، و آزرده‌ام که می‌بینم تمام این مدت در کلاس‌هایم خودت را نگه داشته‌ای! دیده‌ام واقعاً چه می‌توانی بکنی، آقای پاتر. تو بسیار فراتر از آنی که آقای مالفوی یا خانم گرنجر بتوانند هم‌سطحت بجنگند، و اجازه داده نمی‌شود خلافش را تظاهر کنی. این را، آقای پاتر، به‌عنوان استادت به تو می‌گویم: برای این‌که به تمام توانایی‌ات بیاموزی، باید تمام توانت را به کار ببری و به هیچ دلیلی خودت را نگه نداری ـــ به‌ویژه نه به‌خاطر نگرانی‌های بچگانه دربارهٔ این‌که دوستانت چه فکر می‌کنند!»\n\nاو با ارتشی بزرگ‌تر و حیثیتی کمتر از دفتر استاد دفاع بیرون رفت، و حس می‌کرد مثل حشرهٔ کوچک غمگینی است که همین حالا له شده، و به‌سختی کوشش می‌کرد گریه نکند.",
+    "summary_fa": "هرماینی، هری و دراکو با شوک و تسلیم واکنش می‌دهند. کوییرل اصرار دارد مسابقه تمام است و ارتش‌ها باید متعادل شوند. او هری را متهم می‌کند عمداً دقیقاً همان‌قدر از نیروی متحد را که خواسته نابود کرده و در کلاس خودش را نگه داشته، و دستور می‌دهد تمام توانش را به کار ببرد. هرماینی با ارتشی بزرگ‌تر و حیثیتی کمتر و نزدیک به گریه بیرون می‌رود.",
+    "verbatim_html": [
+      "\"<em>What?</em> \" Hermione burst out again, she glanced over at the other generals and saw that Harry looked as shocked as her, while Draco Malfoy only looked resigned.",
+      "\"General Potter is stronger than both of you together,\" Professor Quirrell said with calm precision. \"Your contest is over, he has won, and it is time to rebalance the three armies to present him with a renewed challenge.\"",
+      "\"<em>Professor Quirrell!</em> \" said Harry. \"I didn't -\"",
+      "\"This is my decision as the Professor of Battle Magic at the Hogwarts School of Witchcraft and Wizardry and it is not subject to negotiation.\" The words were still precise, but the look in Professor Quirrell's eyes chilled Hermione's blood, even though he was glaring at Harry and not at her. \"And I find it <em>suspicious</em>, Mr. Potter, that the moment you wished to isolate Miss Granger and Mr. Malfoy and force them to chase you onto the roof, you were able to annihilate just exactly as much of their united force as you pleased. Indeed, that is the level of performance I <em>expected</em> of you since the start of this year, and I am <em>annoyed</em> to discover that you have been holding back in my classes this entire time! I have seen what you can truly do, Mr. Potter. You are far beyond the point where Mr. Malfoy or Miss Granger can fight you on an equal level, and you will not be permitted to pretend otherwise. This, Mr. Potter, I tell you in my capacity as your professor: For you to learn to your full potential, you must exercise your full abilities and not hold back for <em>any</em> reason - particularly not childish frets over what your friends might think!\"",
+      "She left the Defense Professor's office with a larger army, and less dignity, and feeling a lot like a sad little bug that had just been squished, and trying very very hard not to cry."
+    ]
+  },
+  {
+    "id": 5,
+    "paras": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "summary_en": "Once out of sight, Harry insists he was not holding back, while Draco finds it suspicious that Harry could beat both armies whenever he chose. Hermione cannot answer for fear of crying, and Harry explains he used tricks he had been saving for an important reason, revealing a side of himself he would not usually use in Defense class.",
+    "translation_fa": "«من خودم را نگه نداشتم!» هری گفت، به‌محض این‌که از دفتر پروفسور کوییرل پیچیدند و در چوبی از دید پشت دیوارهای سنگی محو شد. «تظاهر نمی‌کردم، هیچ‌وقت نگذاشتم هیچ‌کدام از شما ببرید!»\n\nاو جواب نداد، نمی‌توانست جواب دهد؛ اگر یک کلمه می‌گفت همه‌چیز می‌ترکید.\n\n«واقعاً؟» دراکو مالفوی گفت. ژنرال اژدها هنوز همان حالت تسلیم را داشت. «چون کوییرل راست می‌گوید، می‌دانی، مشکوک است که هر وقت خواستی وادارمان کنی پشت‌بام دنبالت کنیم، توانستی تقریباً همه را در هر دو ارتش شکست دهی. و آن‌وقت چیزی نگفتی، پاتر، دربارهٔ این‌که باید وقتی واقعاً می‌جنگی شکستت بدهیم؟»\n\nحس سوختن داشت از گلویش بالا می‌خزید، و وقتی به چشمانش می‌رسید اشک می‌ریخت، و از آن به بعد برای هر دویشان فقط دختر کوچک گریان بود.\n\n«آن ـــ» صدای هری فوری گفت، او به او نگاه نمی‌کرد ولی صدایش مثل کسی بود که سرش را به سوی او چرخانده. «آن ـــ آن بار خیلی بیشتر تلاش کردم، دلیل مهمی بود، مجبور بودم، پس کلی ترفند به کار بردم که ذخیره کرده بودم ـــ و ـــ»\n\nاو همیشه نهایت تلاشش را می‌کرد، هر بار.\n\n«ـ و من، من طرفی از خودم را رها کردم که معمولاً برای چیزی مثل کلاس دفاع به کار نمی‌برم ـــ»",
+    "summary_fa": "هری بیرون از دفتر اصرار می‌کند خودش را نگه نداشته، ولی دراکو مشکوک است که هر وقت خواسته توانسته هر دو ارتش را شکست دهد. هرماینی از ترس گریه نمی‌تواند جواب دهد، و هری توضیح می‌دهد ترفندهایی را که برای دلیل مهمی ذخیره کرده بود به کار برده و طرفی از خودش را رها کرده که معمولاً در کلاس دفاع به کار نمی‌برد.",
+    "verbatim_html": [
+      "\"I <em>wasn't</em> holding back!\" Harry said as soon as they turned the first corner away from Professor Quirrell's office, the moment the wooden door faded out of sight behind the stone walls. \"I wasn't pretending, I never <em>let</em> either of you win!\"",
+      "She didn't answer, couldn't answer, it would all break loose if she tried to say a word.",
+      "\"Really?\" said Draco Malfoy. The Dragon General still had that air of resignation. \"Because Quirrell's right, you know, it's <em>suspicious</em> that you could beat nearly everyone in both our armies as soon as you wanted to make us chase you onto the roof. And didn't you say something then, Potter, about us needing to beat you when you were fighting for real?\"",
+      "The burning sensation was creeping up her throat, and when it reached her eyes she would burst into tears, and from then on she would be just a crying little girl to both of them.",
+      "\"That -\" Harry's voice said urgently, she wasn't looking at him but his voice sounded like he had his head turned toward her. \"That was - I tried a lot harder that time, there was an important reason, I <em>had</em> to, so I used a whole bunch of tricks I'd been saving up - and -\"",
+      "She'd always been trying her hardest, every time.",
+      "\"- and I, I let out a side of myself I wouldn't usually use for something like Defense class -\""
+    ]
+  },
+  {
+    "id": 6,
+    "paras": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "summary_en": "Hermione concludes that Harry can always use his dark side if she gets close to winning, and realizes she cannot even look at him when he is scary. She takes a different corridor to be alone; Harry follows, insisting he did not run away when she beat him in class. She reflects that he will never understand the asymmetry between them.",
+    "translation_fa": "پس اگر روزی نزدیک می‌شد واقعاً در برابر هری ببرد، او فقط می‌توانست به سمت تاریکش برود و خردش کند، همین بود؟\n\nالبته که همین بود. او حتی نمی‌توانست وقتی هری ترسناک بود به چشمانش نگاه کند، پس چطور فکر کرده بود واقعاً می‌تواند شکستش دهد؟\n\nراهرو دو شاخه شد، و هری پاتر و دراکو مالفوی به چپ رفتند به سوی پله‌ای که به طبقهٔ دوم می‌رفت، و او به راست رفت، حتی نمی‌دانست آن گذرگاه کجا می‌رود ولی همین حالا ترجیح می‌داد در قلعه گم شود.\n\n«ببخشید، دراکو،» صدای هری گفت، و بعد صدای قدم‌های تند و سبکی پشت سرش آمد.\n\n«ولم کن،» گفت، محکم به گوش آمد ولی بعد مجبور شد دهانش را ببندد و لب‌هایش را محکم به هم فشار دهد و نفسش را نگه دارد تا همه‌چیز بیرون نریزد.\n\nآن پسر باز هم آمد، دورش دوید و جلویش ایستاد، چون احمق بود دلیلش هم همین بود، و هری گفت، صدایش حالا پچ‌پچی بلند و درمانده بود: «من فرار نکردم وقتی در همهٔ کلاس‌هایم جز اسب‌سواری داشتی شکستم می‌دادی!»\n\nاو نمی‌فهمید، و هرگز نمی‌فهمید، هری پاتر هرگز نمی‌فهمید، چون هر مسابقه‌ای را هم که می‌باخت باز پسری بود که زنده ماند؛ اگر تو هری پاتر بودی و هرماینی گرنجر شکستت می‌داد، معنایش این بود که همه انتظار داشتند به چالش برخیزی؛ اگر تو هرماینی گرنجر بودی و هری پاتر شکستت می‌داد، معنایش این بود که تو فقط هیچ‌کس بودی.",
+    "summary_fa": "هرماینی نتیجه می‌گیرد اگر نزدیک بردن شود هری همیشه می‌تواند از سمت تاریکش استفاده کند، و می‌فهمد حتی نمی‌تواند وقتی ترسناک است به او نگاه کند. او راهروی دیگری برای تنها بودن می‌گیرد؛ هری دنبالش می‌آید و اصرار می‌کند وقتی در کلاس شکستش می‌داد فرار نکرد. او می‌اندیشد هری هرگز نامتقارنی میانشان را نمی‌فهمد.",
+    "verbatim_html": [
+      "So if she ever got close to winning against Harry when it <em>really</em> mattered, he could just go into his dark side and crush her, was that it?",
+      "...of course it was. She couldn't even <em>look</em> Harry in the eyes when he was being scary, how had she ever thought she could beat him for real?",
+      "The corridor forked, and Harry Potter and Draco Malfoy went left toward a staircase that climbed to the second floor, and she went right instead, she didn't even know where that passage went but right now she'd rather be lost in the castle.",
+      "\"Excuse me, Draco,\" said Harry's voice, and then there was a pattering of footsteps behind her.",
+      "\"Leave me alone,\" she said, it came out sounding stern but then she had to shut her mouth and press her lips together tightly and hold her breath to stop it all from coming out.",
+      "That boy just kept on coming, and ran around her and put himself in front of her, because he was stupid that was why, and Harry said, his voice now a high and desperate whisper, \"I didn't run away when <em>you</em> were beating <em>me</em> in all my classes except broomstick riding!\"",
+      "He didn't understand, and he would never understand, Harry Potter would never understand, because no matter what contest he lost he would still be the Boy-Who-Lived, if you were Harry Potter and Hermione Granger was beating you then it meant everyone was expecting you to rise to the challenge, if you were Hermione Granger and Harry Potter was beating you that meant you were just no one."
+    ]
+  },
+  {
+    "id": 7,
+    "paras": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "summary_en": "Hermione says it is unfair that she must fight his dark side, thinking she is only twelve. Harry says he used it only once, when he had to. When she asks whether he beat her army as just Harry, he admits he did not expect to win and only meant to slow her. She walks past him, and he asks whether being her friend means he must always fear doing better; she runs away without answering.",
+    "translation_fa": "«منصفانه نیست،» گفت، صدایش می‌لرزید ولی هنوز گریه نمی‌کرد، هنوز نه، «نباید مجبور باشم با سمت تاریکت بجنگم، من فقط ـــ من فقط ـــ» من فقط دوازده سالمه، این آن‌وقت فکرش بود.\n\n«من فقط یک بار از سمت تاریکم استفاده کردم و آن هم ـــ وقتی مجبور بودم!»\n\n«پس امروز تمام ارتش من را در حالی که فقط هری بودی شکست دادی؟» هنوز گریه نمی‌کرد، و حیران بود صورتش حالا چه شکلی است، آیا شبیه هرماینی خشمگین است یا هرماینی غمگین.\n\n«من ـــ» هری گفت. صدایش کمی پایین‌تر آمد: «آن بار... واقعاً انتظار بردن نداشتم، می‌دانم گفتم شکست‌ناپذیرم ولی آن فقط برای ترساندنت بود، واقعاً فکر می‌کردم فقط کمی معطلتان می‌کنیم ـــ»\n\nدوباره شروع به راه رفتن کرد، مستقیم از کنارش گذشت، و وقتی رد می‌شد صورت هری جمع شد، انگار می‌خواست گریه کند.\n\n«پروفسور کوییرل راست می‌گوید؟» پچ‌پچی بلند و درمانده از پشت سرش آمد. «اگر تو را دوست داشته باشم، همیشه می‌ترسم بهتر باشم چون می‌دانم ناراحتت می‌کند؟ این منصفانه نیست، هرماینی!»\n\nنفسی گرفت و نگه داشت و دوید، پاهایش تا جای ممکن تند روی سنگ‌ها تَق‌تَق کردند، تا جای ممکن با دیدی تار دوید، دوید تا کسی صدایش را نشنود، و این بار هری دنبالش نکرد.",
+    "summary_fa": "هرماینی می‌گوید منصفانه نیست مجبور باشد با سمت تاریک هری بجنگد و فکر می‌کند فقط دوازده‌ساله است. هری می‌گوید فقط یک بار آن را به کار برده، وقتی مجبور بوده. وقتی می‌پرسد آیا ارتشش را فقط با هری بودن شکست داده، اعتراف می‌کند انتظار بردن نداشته و فقط می‌خواسته کمی معطلش کند. او از کنارش می‌گذرد، و هری می‌پرسد آیا دوستی با او یعنی همیشه ترس از بهتر بودن؛ هرماینی بی‌جواب فرار می‌کند.",
+    "verbatim_html": [
+      "\"It's not fair,\" she said, her voice was shaking but she wasn't crying yet, not yet, \"<em>I</em> shouldn't have to fight your dark side, I'm just - I'm only -\" <em>I'm only twelve,</em> that was what she thought then.",
+      "\"I only used my dark side <em>once</em> and that was - when I <em>had</em> to!\"",
+      "\"So today you beat my <em>whole army</em> being just Harry?\" She still wasn't crying yet, and she wondered what her face looked like right now, if she looked like an angry Hermione or a sad one.",
+      "\"I -\" Harry said. His voice got a little lower, \"I wasn't... really <em>expecting</em> to win, that time, I know I said I was invincible but that was just to try to scare you, I really just thought we'd slow you down for a bit -\"",
+      "She started walking again, walked right past him, and as she passed Harry's face tightened up like <em>he</em> was going to cry.",
+      "\"Is Professor Quirrell right?\" came a high desperate whisper from behind her. \"If I have you for a friend, will I always be afraid to do better because I know it will hurt your feelings? That's not fair, Hermione!\"",
+      "She took a breath and held it and ran, her feet pattering across the stone as fast as they could, running as fast as she dared with her vision all blurry, ran so that no one would hear her, and this time Harry didn't follow."
+    ]
+  },
+  {
+    "id": 8,
+    "paras": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "summary_en": "Professor McGonagall is grading a dangerous fifth-year Transfiguration essay and has grown resigned to students who never learn. A knock interrupts her outside office hours, so she suspends judgment and invites the visitor in; the girl who enters has clearly been crying.",
+    "translation_fa": "مینروا داشت پوست‌های تبدیل‌شکلِ موعد دوشنبه را بررسی می‌کرد، و همین حالا دویست نمرهٔ منفی برای پوست یک دانش‌آموز سال پنجم ثبت کرده بود که خطایش می‌توانست کسی را بکشد. در سال اول استادی‌اش از حماقت دانش‌آموزان بزرگ‌تر خشمگین می‌شد، حالا فقط تسلیم بود. بعضی مردم نه فقط هرگز یاد نمی‌گیرند، بلکه هرگز متوجه نمی‌شوند که ناامیدند؛ روشن و مشتاق می‌مانند و به تلاش ادامه می‌دهند. گاهی باورت می‌کردند وقتی پیش از ترک هاگوارتز بهشان می‌گفتی هرگز چیزی غیرمعمول را امتحان نکنند، تبدیل‌شکل آزاد را رها کنند و هنر را فقط با طلسم‌های شناخته‌شده به کار ببرند؛ و گاهی... نمی‌کردند.\n\nدر میانهٔ تلاش برای رمزگشایی از پاسخی به‌ویژه پیچیده بود که در زدن به در افکارش را به‌هم زد؛ ساعت اداری‌اش نبود، ولی به‌عنوان رئیس خانهٔ گریفیندور فقط زمان کوتاهی لازم بود تا بیاموزد داوری را معلق کند. همیشه می‌شد بعداً از نمرهٔ خانه کم کرد.\n\n«بیا داخل،» با صدایی شفاف گفت.\n\nدختر جوانی که وارد دفترش شد آشکارا گریه کرده بود، و بعد صورتش را شسته بود به این امید که معلوم نشود ـــ",
+    "summary_fa": "پروفسور مک‌گوناگال در حال تصحیح مقالهٔ خطرناک تبدیل‌شکل سال پنجمی است و به دانش‌آموزانی که هرگز یاد نمی‌گیرند خو گرفته. ضربه‌ای در خارج از ساعت اداری افکارش را قطع می‌کند، پس داوری را معلق می‌کند و می‌گوید داخل بیایند؛ دختری که وارد می‌شود آشکارا گریه کرده است.",
+    "verbatim_html": [
+      "Minerva was going over the Transfiguration parchment due Monday, and had just marked down to negative two hundred points a fifth-year parchment with an error that could have potentially killed someone. During her first year as a professor she'd been indignant at the folly of older students, now she was just resigned. Some people not only never learned, they never noticed that they were hopeless, they stayed bright and eager and kept on trying. Sometimes they believed you when you told them, before they left Hogwarts, that they must <em>never</em> try anything unusual, give up free Transfiguration and use the art only through established Charms; and sometimes... they didn't.",
+      "She was in the middle of trying to unravel a particularly convoluted answer when a knock at the door disrupted her thoughts; and it wasn't her office hours, but it had only taken a very short time as Head of Gryffindor House for her to learn to suspend judgment. You could always deduct House points <em>afterward.</em>",
+      "\"Come in,\" she said in a crisp voice.",
+      "The young girl who entered her office had clearly been crying, and then afterward had washed her face in hopes it wouldn't show -"
+    ]
+  },
+  {
+    "id": 9,
+    "paras": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "summary_en": "McGonagall recognizes a red-eyed, puffy-faced Hermione and asks what happened. Hermione recalls that the professor told her to come at once if she was ever worried or uncomfortable, and begins to explain.",
+    "translation_fa": "«خانم گرنجر!» پروفسور مک‌گوناگال گفت. لحظه‌ای طول کشید تا آن صورت با چشمان سرخ و گونه‌های پف‌کرده را بشناسد. «چه شده؟»\n\n«پروفسور،» دختر جوان با صدایی لرزان گفت، «شما گفتید اگر هر وقت نگران یا ناراحت چیزی بودم، باید فوراً پیش شما بیایم ـــ»\n\n«بله،» پروفسور مک‌گوناگال گفت، «حالا چه شده؟»\n\nدختر شروع کرد به توضیح دادن ـــ",
+    "summary_fa": "مک‌گوناگال هرماینیِ سرخ‌چشم و پف‌کرده را می‌شناسد و می‌پرسد چه شده. هرماینی یادآوری می‌کند پروفسور گفته بود هر وقت نگران یا ناراحت شد فوراً پیش او بیاید، و شروع به توضیح می‌کند.",
+    "verbatim_html": [
+      "\"Miss Granger!\" said Professor McGonagall. It had taken her a moment to recognize that face with its eyes reddened and cheeks puffed. \"What happened?\"",
+      "\"Professor,\" said the young girl in a wavering voice, \"you said that if I was ever worried or uncomfortable about anything, I should come to you at once -\"",
+      "\"Yes,\" said Professor McGonagall, \"now what <em>happened?</em> \"",
+      "The girl started to explain -"
+    ]
+  },
+  {
+    "id": 10,
+    "paras": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "summary_en": "Hermione rides an endless revolving stair toward the Headmaster, thinking about the many alternatives she failed to try. After crying herself out, she realized she should consider other mistakes too and went to McGonagall, not for a plan but to tell her everything. She described how Harry changed after Fawkes, how people see her as an appendage of his, and how he seems to be withdrawing; McGonagall decided they must speak to the Headmaster.",
+    "translation_fa": "هرماینی بی‌حرکت ایستاد و پله‌ها دورش چرخیدند، مارپیچی گردان که نباید او را به جایی می‌برد، و در عوض پیوسته بالا بردش. هرماینی فکر کرد این باید طلسم پلهٔ بی‌پایان باشد، که در سال ۱۷۳۳ جادوگری به نام ارام سابتی اختراعش کرد، کسی که در روزگاری که هیچ مگلی نمی‌توانست قلهٔ اورست را بالا برود، بالای آن زندگی می‌کرد. فقط این نمی‌توانست درست باشد چون هاگوارتز خیلی قدیمی‌تر بود ـــ شاید طلسم از نو اختراع شده بود؟\n\nباید می‌ترسید، باید دربارهٔ دومین دیدارش با مدیر نگران می‌بود.\n\nدر واقع، از دومین دیدارش با مدیر می‌ترسید و نگران بود.\n\nفقط هرماینی گرنجر فکر کرده بود؛ خیلی فکر کرده بود، بعد از آن‌که نتوانست بیشتر بدود و در حالی که ریه‌هایش می‌سوخت پشت دیوار سر خورد، فکر کرده بود وقتی به شکل توپ جمع شده بود، پشتش به دیوار سرد سنگی، پاهایش جمع و گریه‌اش بلند.\n\nحتی اگر به هری پاتر می‌باخت، هرگز، هرگز به دراکو مالفوی نمی‌باخت، این کاملاً مطلقاً غیرقابل‌قبول بود، و پروفسور کوییرل ژنرال مالفوی را برای نادیده نگرفتن هزار گزینه‌اش ستوده بود؛ و پس از آن‌که هرماینی گریه‌اش تمام شد، چهارده طلسم دیگر به ذهنش رسید که باید علیه هری و نویل امتحان می‌کرد، و بعد شروع کرد به فکر این‌که نکند دربارهٔ چیزهای دیگر هم همین نوع اشتباه را می‌کند؛ و این‌طور شد که کارش به زدن در اتاق پروفسور مک‌گوناگال کشید. نه درخواست کمک، چون همین حالا هیچ نقشه‌ای نداشت که برایش کمک بخواهد، فقط گفتن همه‌چیز به پروفسور مک‌گوناگال، چون وقتی به آن فکر کرده بود یکی از همان هزار گزینه‌ای به نظر می‌رسید که پروفسور کوییرل از آن حرف می‌زد.\n\nو برای پروفسور مک‌گوناگال تعریف کرده بود که هری پاتر از روزی که ققنوس روی شانه‌اش بود چطور عوض شده، و این‌که مردم بیشتر و بیشتر او را فقط چیزی از هری می‌دیدند، و این‌که به نظر می‌رسید هری بیشتر و بیشتر از بقیهٔ هم‌سالانش دور می‌شود و گاهی با حالتی غمگین می‌گردد، انگار چیزی را از دست می‌دهد، و دیگر نمی‌دانست چه کند.\n\nو پروفسور مک‌گوناگال گفته بود باید با مدیر حرف بزنند.",
+    "summary_fa": "هرماینی سوار پلهٔ بی‌پایان به سوی مدیر می‌شود و به بسیار گزینه‌هایی فکر می‌کند که امتحان نکرده. پس از گریه‌اش درمی‌یابد باید دربارهٔ اشتباه‌های دیگری هم بیندیشد و به مک‌گوناگال روی می‌آورد، نه برای نقشه بلکه برای گفتن همه‌چیز. او شرح می‌دهد هری پس از ققنوس چطور عوض شده، مردم او را ضمیمهٔ هری می‌بینند و هری در حال فاصله گرفتن است؛ مک‌گوناگال تصمیم می‌گیرد با مدیر صحبت کنند.",
+    "verbatim_html": [
+      "Hermione stood still and the stairs turned around her, a revolving helix that shouldn't have taken her anywhere at all, and instead bore her continuously <em>upward.</em> Hermione thought it seemed like the Enchantment of the Endless Stair, which had been invented in 1733 by the wizard Arram Sabeti who'd lived on top of Mount Everest in the days when no Muggles could climb it. Only that couldn't be right because Hogwarts was much older - maybe the enchantment had been <em>re</em>invented?",
+      "She should've been frightened, should've been nervous about her second meeting with the Headmaster.",
+      "She <em>was</em>, in fact, frightened and nervous about her second meeting with the Headmaster.",
+      "Only Hermione Granger had been thinking; she'd been thinking a lot, after she hadn't been able to run any further and had slid down against the wall with her lungs on fire, thinking while she curled up in a ball with her back against the chilly stone wall and her legs drawn up and crying.",
+      "Even if she lost to Harry Potter she was never, ever going to lose to Draco Malfoy, that was just totally <em>absolutely</em> unacceptable, and Professor Quirrell had praised General Malfoy for not ignoring his thousand alternatives; and so after Hermione had cried herself out she'd thought of fourteen other spells she <em>should've</em> tried against Harry and Neville, and then she'd started wondering if she might be making the same sort of mistake about other things; and that was how she'd ended up knocking on Professor McGonagall's door. Not asking for help, right now Hermione didn't have any plans she could ask for help <em>with,</em> just telling Professor McGonagall everything, because when she'd thought of it that had seemed like one of the thousand alternatives that Professor Quirrell had been talking about.",
+      "And she'd told Professor McGonagall about how Harry Potter had changed since the day the phoenix had been on his shoulder, and about how people more and more seemed to see her as just something of Harry's, and how it seemed like Harry was pulling farther and farther away from everyone else in their school year and went around with a sad air sometimes like he was losing something, and <em>she didn't know what to do anymore.</em>",
+      "And Professor McGonagall had told her that they needed to talk to the Headmaster."
+    ]
+  },
+  {
+    "id": 11,
+    "paras": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "summary_en": "Hermione decides to try being unafraid like Harry and sees what happens. The stair stops, the door opens by itself, and she enters Dumbledore's cluttered office. She is distracted counting the room's objects, and when Dumbledore asks her name she blushes; McGonagall gently asks her to tell him what she said about Harry.",
+    "translation_fa": "و هرماینی نگران شده بود، ولی بعد این فکر به ذهنش رسید که هری پاتر از مدیر نمی‌ترسید. هری پاتر فقط جلو می‌رفت و هر کاری را که در پی انجامش بود می‌کرد. شاید (این فکر به ذهنش رسید) ارزش داشت امتحان کند مثل او باشد، نترسد، فقط هر کاری بکند، و ببیند چه بر سرش می‌آید؛ واقعاً که نمی‌توانست بدتر باشد.\n\nپلهٔ بی‌پایان از چرخیدن ایستاد.\n\nدر بزرگ بلوطیِ جلویشان با کوبندهٔ برنجیِ گریفین بی‌آن‌که لمس شود باز شد.\n\nپشت میز بلوطی سیاهی با ده‌ها کشوی روبه‌همه‌جهت، که به نظر می‌رسید کشوهایی درون کشوهای دیگر دارد، مدیر ریش‌نقره‌ای هاگوارتز روی تختش نشسته بود، آلبوس پرسیوال وولفریک برایان دامبلدور، که هرماینی حدود سه ثانیه در چشمان ملایم و برق‌زنش نگاه کرد تا این‌که همهٔ چیزهای دیگر اتاق حواسش را پرت کردند.\n\nمدتی بعد ـــ مطمئن نبود چقدر، ولی وقتی بود که برای سومین بار می‌کوشید تعداد چیزهای اتاق را بشمارد و هنوز پاسخ یکسانی نمی‌گرفت، با این‌که حافظه‌اش اصرار داشت چیزی اضافه یا کم نشده ـــ مدیر گلویش را صاف کرد و گفت: «خانم گرنجر؟»\n\nسر هرماینی با تکان چرخید، و کمی گرما در گونه‌هایش حس کرد؛ ولی دامبلدور اصلاً به نظر نمی‌رسید از او آزرده باشد، فقط آرام بود، و نگاهی پرسشگر در آن چشمان ملایم و نیمه‌پشت‌عینکی داشت.\n\n«هرماینی،» پروفسور مک‌گوناگال گفت، صدای جادوگر بزرگ‌تر ملایم بود و دستش اطمینان‌بخش روی شانهٔ هرماینی نشسته بود، «لطفاً به مدیر بگو دربارهٔ هری چه گفتی.»",
+    "summary_fa": "هرماینی تصمیم می‌گیرد مثل هری نترسد و ببیند چه می‌شود. پله می‌ایستد، در خودبه‌خود باز می‌شود و او وارد دفتر پرازدحام دامبلدور می‌شود. او با شمردن اشیای اتاق حواسش پرت می‌شود و وقتی دامبلدور نامش را می‌پرسد سرخ می‌شود؛ مک‌گوناگال مهربانانه از او می‌خواهد آنچه دربارهٔ هری گفته بود برای مدیر بازگو کند.",
+    "verbatim_html": [
+      "And Hermione had felt worried, but then the thought had come to her that <em>Harry Potter</em> wouldn't have been scared of the Headmaster. Harry Potter would have just barged ahead doing whatever he was trying to do. Maybe (the thought had come to her) it was worth <em>trying</em> to be like that, <em>not</em> being scared, just doing whatever, and seeing what happened to her, it couldn't really be worse.",
+      "The Endless Stair stopped turning.",
+      "The great oaken door in front of them with the brass griffin knocker opened without being touched.",
+      "Behind a black oaken desk with dozens of drawers facing in every direction, looking like it had drawers set <em>inside</em> other drawers, was the silver-bearded Headmaster of Hogwarts upon his throne, Albus Percival Wulfric Brian Dumbledore, into whose gently twinkling eyes Hermione looked for around three seconds before she was distracted by all the other things in the room.",
+      "Some time later - she wasn't sure how long but it was while she was trying to count the number of things in the room for the third time and <em>still</em> not getting the same answer, even though her memory insisted that nothing had been added or removed - the Headmaster cleared his throat and said, \"Miss Granger?\"",
+      "Hermione's head snapped around, and she felt a little heat in her cheeks; but Dumbledore didn't appear annoyed with her at all, only serene, and with an inquiring look in those mild, half-glassed eyes.",
+      "\"Hermione,\" said Professor McGonagall, the older witch's voice was gentle and her hand rested reassuringly on Hermione's shoulder, \"please tell the Headmaster what you said to me about Harry.\""
+    ]
+  },
+  {
+    "id": 12,
+    "paras": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "summary_en": "Hermione nervously explains how Harry changed after Fawkes. Dumbledore says it is a hero's burden, and reveals he was once a hero who opposed Grindelwald. He tells her that heroes must grow strong for their tasks, and that only she, not he, can gentle Harry's path, because he is only Harry's mysterious old wizard.",
+    "translation_fa": "هرماینی شروع به حرف زدن کرد، و با وجود عزم تازه‌اش صدایش هنوز کمی از نگرانی می‌لرزید، و تعریف کرد هری در چند هفتهٔ گذشته، از وقتی فاکس روی شانه‌اش بود، چگونه عوض شده بود.\n\nوقتی تمام شد سکوت کوتاهی بود، و بعد مدیر آه کشید. «متأسفم، هرماینی گرنجر،» دامبلدور گفت. آن چشمان آبی هنگام حرف زدن او غمگین‌تر شده بودند. «این... تأسف‌انگیز است، ولی نمی‌توانم بگویم غیرمنتظره. این بار یک قهرمان است، می‌بینی.»\n\n«قهرمان؟» هرماینی گفت. با نگرانی به پروفسور مک‌گوناگال نگاه کرد و دید چهرهٔ استاد تبدیل‌شکل سخت شده، هرچند دستش هنوز اطمینان‌بخش شانه‌اش را می‌فشرد.\n\n«بله،» دامبلدور گفت. «من خودم روزگاری قهرمان بودم، پیش از آن‌که جادوگر پیر و مرموزی باشم، در روزهایی که با گرینل‌والد مخالفت می‌کردم. کتاب‌های تاریخ خوانده‌ای، خانم گرنجر؟»\n\nهرماینی سر تکان داد.\n\n«خب،» دامبلدور گفت، «قهرمان‌ها باید این کار را بکنند، خانم گرنجر؛ وظیفه‌هایی دارند و باید برای انجامشان قوی شوند، و این چیزی است که می‌بینی بر سر هری می‌آید. اگر کاری بشود کرد که مسیرش را نرم‌تر کند، تو باید انجامش دهی، نه من. چون من دوست هری نیستم، افسوس، فقط جادوگر پیر و مرموزش هستم.»",
+    "summary_fa": "هرماینی با نگرانی توضیح می‌دهد هری پس از فاکس چطور عوض شده. دامبلدور می‌گوید این بار یک قهرمان است و فاش می‌کند خودش روزگاری قهرمان بوده و با گرینل‌والد مخالفت می‌کرده. او می‌گوید قهرمان‌ها باید برای وظیفه‌هایشان قوی شوند و فقط هرماینی، نه خود او، می‌تواند مسیر هری را نرم‌تر کند، چون او فقط جادوگر پیر و مرموز هری است.",
+    "verbatim_html": [
+      "Hermione began speaking, despite her newfound resolution her voice still stumbled a little with nervousness, as she described how Harry had changed in the last few weeks since Fawkes had been on his shoulder.",
+      "When she was done there was a pause, and then the Headmaster sighed. \"I am sorry, Hermione Granger,\" said Dumbledore. Those blue eyes had grown sadder as she spoke. \"That is... unfortunate, but I cannot say it is unexpected. That is a hero's burden, which you see.\"",
+      "\"A <em>hero?</em> \" said Hermione. She looked up nervously at Professor McGonagall and saw that the Transfiguration Professor's face had grown tight, though her hand still squeezed Hermione's shoulder reassuringly.",
+      "\"Yes,\" said Dumbledore. \"I was a hero myself once, before I was a mysterious old wizard, in the days when I opposed Grindelwald. You have read history books, Miss Granger?\"",
+      "Hermione nodded.",
+      "\"Well,\" said Dumbledore, \"that is what heroes have to do, Miss Granger, they have their tasks and they must grow strong to accomplish them, and that is what you see happening to Harry. If there is anything that can be done to gentle his pathway, then <em>you</em> will be the one to do it, and not I. For I am not Harry's friend, alas, but only his mysterious old wizard.\""
+    ]
+  },
+  {
+    "id": 13,
+    "paras": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "summary_en": "Hermione hesitates to say she still wants to be Harry's friend. Dumbledore says nobody can stop her from leaving, but denying the friendship would wound Harry terribly. She struggles to explain that being near Harry makes her disappear as a person. Dumbledore agrees the world is unjust and says her name may be remembered only as Harry's companion, which is more glory than she would find alone.",
+    "translation_fa": "«من ـــ» هرماینی گفت. «مطمئن نیستم ـــ هنوز می‌خواهم ـــ» صدایش ایستاد، گفتنش با صدای بلند بیش از حد وحشتناک به نظر می‌رسید.\n\nدامبلدور چشمانش را بست، و وقتی بازشان کرد کمی پیرتر از قبل به نظر می‌رسید. «هیچ‌کس نمی‌تواند مانعت شود، خانم گرنجر، اگر تصمیم بگیری دیگر دوست هری نباشی. اما دربارهٔ این‌که چه بر سر او می‌آورد، ممکن است تو بهتر از من بدانی.»\n\n«این ـــ منصفانه به نظر نمی‌رسد،» هرماینی گفت، صدایش می‌لرزید. «این‌که باید دوست هری باشم چون او کس دیگری ندارد؟ این منصفانه به نظر نمی‌رسد.»\n\n«دوست بودن چیزی نیست که بتوانی مجبورش شوی، خانم گرنجر.» آن چشمان آبی انگار از او رد می‌شدند. «احساس‌ها هستند، یا نیستند. اگر هستند، می‌توانی بپذیریشان یا انکارشان کنی. تو دوست هری هستی ـــ و انتخاب انکارش او را به‌شدت زخمی می‌کرد، شاید درمان‌ناپذیر. ولی خانم گرنجر، چه چیزی تو را به چنین افراطی می‌کشاند؟»\n\nنمی‌توانست واژه پیدا کند. هرگز نتوانسته بود واژه پیدا کند. «اگر زیادی به هری نزدیک شوی ـــ بلعیده می‌شوی، و دیگر کسی تو را نمی‌بیند، تو فقط چیزی از او می‌شوی، همه فکر می‌کنند تمام جهان حول او می‌گردد و...» واژه‌ها را نداشت.\n\nجادوگر پیر آهسته سر تکان داد. «واقعاً در جهانی ناعادلانه زندگی می‌کنیم، خانم گرنجر. حالا تمام جهان می‌داند من بودم که گرینل‌والد را شکست دادم، و کمتری به یاد می‌آورند الیزابت بکت را که برای باز کردن راه من جان داد. و با این حال او به یاد می‌آید. هری پاتر قهرمان این نمایش است، خانم گرنجر؛ جهان واقعاً حول او می‌گردد. او برای کارهای بزرگ مقدر است؛ و گمان می‌کنم با گذشت زمان نام آلبوس دامبلدور بیشتر از هر کار دیگری که کرده‌ام، به‌عنوان جادوگر پیر و مرموز هری پاتر به یاد بماند. و شاید نام هرماینی گرنجر به‌عنوان همراه او به یاد بماند، اگر در روزگار خودت شایسته‌اش باشی. چون این را به تو راست می‌گویم: هرگز به‌تنهایی شکوهی بیش از شکوه در مصاحبت هری پاتر نخواهی یافت.»",
+    "summary_fa": "هرماینی مردد است بگوید هنوز می‌خواهد دوست هری بماند. دامبلدور می‌گوید هیچ‌کس نمی‌تواند مانع رفتنش شود، ولی انکار دوستی هری را به‌شدت زخمی می‌کند. او به‌سختی توضیح می‌دهد که نزدیک هری بودن باعث می‌شود به‌عنوان یک شخص محو شود. دامبلدور می‌پذیرد جهان ناعادلانه است و می‌گوید نام او شاید فقط به‌عنوان همراه هری به یاد بماند، که شکوهی بیش از شکوه تنهایی است.",
+    "verbatim_html": [
+      "\"I -\" said Hermione. \"I'm not sure - I still want to be -\" Her voice stopped, it seemed too awful to say aloud.",
+      "Dumbledore closed his eyes, and when he opened them, he looked a little older than before. \"No one can stop you, Miss Granger, if you choose to stop being Harry's friend. As for what it would do to him, you may know that better than I.\"",
+      "\"That - doesn't seem <em>fair,</em>\" Hermione said, her voice trembling. \"That I've <em>got</em> to be Harry's friend because he's got no one else? That doesn't seem fair.\"",
+      "\"<em>Being</em> a friend is not something you can be forced to, Miss Granger.\" The blue eyes seemed to look right through her. \"The feelings are there, or they are not. If they are there, you can accept them or deny them. You <em>are</em> Harry's friend - and choosing to deny it would wound him terribly, perhaps beyond healing. But Miss Granger, what would drive you to such extremes?\"",
+      "She couldn't find words. She'd never been able to find words. \"If you get too near Harry - you get <em>swallowed up,</em> and no one sees <em>you</em> any more, you're just something of <em>his,</em> everyone thinks the whole world revolves around him and...\" She didn't have the words.",
+      "The old wizard nodded slowly. \"It is indeed an unjust world we live in, Miss Granger. All the world now knows that it is I who defeated Grindelwald, and fewer remember Elizabeth Beckett who died opening the way so I could pass through. And yet she is remembered. Harry Potter <em>is</em> the hero of this play, Miss Granger; the world <em>does</em> revolve around him. He is destined for great things; and I ween that in time the name of Albus Dumbledore will be remembered as Harry Potter's mysterious old wizard, more than for anything else I have done. And perhaps the name of Hermione Granger will be remembered as his companion, if you prove worthy of it in your day. For this I tell you true: never will you find more glory on your own, than in Harry Potter's company.\""
+    ]
+  },
+  {
+    "id": 14,
+    "paras": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ],
+    "summary_en": "Hermione insists it is not about glory but about belonging to someone else. Dumbledore says he would have been happier belonging to someone like Harry, and that she does not understand how fortunate she is compared to heroes. Hermione says she just wants to be herself. Dumbledore calls that a tall order and points to the faded Hogwarts shield, asking what a Gryffindor would say.",
+    "translation_fa": "هرماینی به‌سرعت سرش را تکان داد. «ولی این ـــ» می‌دانست که نمی‌تواند توضیح دهد. «ربطی به شکوه ندارد، ربط دارد به این‌که ـــ چیزی باشی که متعلق به کس دیگری است!»\n\n«پس فکر می‌کنی ترجیح می‌دهی خودت قهرمان باشی؟» جادوگر پیر آه کشید. «خانم گرنجر، من قهرمان بوده‌ام، و رهبر؛ و هزار بار خوشحال‌تر می‌بودم اگر می‌توانستم به کسی مثل هری پاتر تعلق داشته باشم. کسی ساخته‌شده از جنسی سخت‌تر از من، تا تصمیم‌های دشوار را بگیرد، و در عین حال شایستهٔ رهبری من. یک بار فکر کردم چنین مردی را می‌شناسم، ولی اشتباه می‌کردم... خانم گرنجر، هیچ تصوری نداری که کسانی مثل تو، در مقایسه با قهرمان‌ها، چقدر خوشبخت‌اند.»\n\nحس داغ سوختن باز از گلویش بالا می‌خزید، همراه با درماندگی؛ نمی‌فهمید چرا پروفسور مک‌گوناگال او را اینجا آورده بود اگر مدیر قصد کمک نداشت، و از نگاه به چهرهٔ پروفسور مک‌گوناگال چنین برمی‌آمد که او هم حالا مطمئن نبود این کار ایدهٔ خوبی بوده.\n\n«من نمی‌خواهم قهرمان باشم،» هرماینی گرنجر گفت، «نمی‌خواهم همراه یک قهرمان باشم، فقط می‌خواهم خودم باشم.»\n\n(چند ثانیه بعد این فکر به ذهنش رسید که شاید در واقع می‌خواهد قهرمان باشد، ولی تصمیم گرفت حرفش را عوض نکند.)\n\n«آه،» جادوگر پیر گفت. «این خواستهٔ بزرگی است، خانم گرنجر.» دامبلدور از تختش برخاست، از پشت میزش بیرون آمد، و به نمادی روی دیوار اشاره کرد، چنان فراگیر که چشمان هرماینی مستقیم از رویش رد شده بود؛ سپری رنگ‌پریده که نشان هاگوارتز بر آن حک شده بود، شیر و مار، و گورکن و کلاغ، و واژه‌هایی به لاتین حکاکی‌شده که هرگز منظورشان را نفهمیده بود. بعد، وقتی فهمید آن سپر کجاست و چقدر قدیمی به نظر می‌رسد، ناگهان به ذهن هرماینی رسید که این می‌تواند اصل باشد ـــ",
+    "summary_fa": "هرماینی اصرار می‌کند موضوع شکوه نیست، بلکه تعلق داشتن به کس دیگری است. دامبلدور می‌گوید خودش ترجیح می‌داد به کسی مثل هری تعلق داشته باشد و او نمی‌داند در مقایسه با قهرمان‌ها چقدر خوشبخت است. هرماینی می‌گوید فقط می‌خواهد خودش باشد. دامبلدور این را خواستهٔ بزرگی می‌خواند و به سپر رنگ‌پریدهٔ هاگوارتز اشاره می‌کند و می‌پرسد یک گریفیندور چه می‌گوید.",
+    "verbatim_html": [
+      "Hermione shook her head rapidly. \"But that's <em>not</em> -\" She'd known she wouldn't be able to explain. \"It's not about <em>glory,</em> it's about being - something that belongs to someone else!\"",
+      "\"So you think you would rather be the hero?\" The old wizard sighed. \"Miss Granger, I have <em>been</em> a hero, and a leader; and I would have been a thousand times happier if I could have belonged to someone like Harry Potter. Someone made of sterner stuff than I, to make the hard decisions, and yet worthy to lead me. I thought, once, that I knew such a man, but I was mistaken... Miss Granger, you have no idea at <em>all</em> how fortunate are those like you, compared to heroes.\"",
+      "The hot burning feeling was creeping up her throat again, along with helplessness, she didn't understand why Professor McGonagall had brought her here if the Headmaster wasn't going to help, and from a glance at Professor McGonagall's face, it looked like Professor McGonagall also wasn't sure now that it had been a good idea.",
+      "\"I don't want to be a hero,\" said Hermione Granger, \"I don't want to be a hero's companion, I just want to be <em>me.</em>\"",
+      "(The thought came to her a few seconds later that maybe she <em>did</em> in fact want to be a hero, but she decided not to change what she'd said.)",
+      "\"Ah,\" said the old wizard. \"That is a tall order, Miss Granger.\" Dumbledore rose from his throne, stepped out behind his desk, and pointed to a symbol on the wall, so ubiquitous that Hermione's eyes had glossed right over it; a faded shield on which was inscribed the heraldry of Hogwarts, the lion and snake, and badger and raven, and in Latin engraved words whose point she'd never understood. Then, as she realized where that shield was, and how old it looked, it suddenly occurred to Hermione that this might be the <em>original</em> -"
+    ]
+  },
+  {
+    "id": 15,
+    "paras": [
+      79,
+      80,
+      81,
+      82,
+      83
+    ],
+    "summary_en": "Dumbledore explains that Hufflepuff would blame laziness, Ravenclaw ignorance, and Slytherin following desires, yet most Dark Wizards were Slytherins. He touches the lion and asks what a Gryffindor would say; Hermione answers fear. Dumbledore says fear is important but not Gryffindor's answer: people become themselves by doing what is right. Hermione thinks about it because she is a Ravenclaw.",
+    "translation_fa": "«یک هافلپاف می‌گفت،» دامبلدور گفت و انگشتش را روی گورکن رنگ‌پریده زد و هرماینی از این توهین لرزید (اگر اصل بود)، «که مردم به آنچه باید بشوند نمی‌رسند، چون بیش از حد تنبل‌اند که تمام کار لازم را بکنند. یک ریونکلاو،» و کلاغ را زد، «آن واژه‌ها را تکرار می‌کرد که دانایان می‌دانند بسیار قدیمی‌تر از سقراط است، خودت را بشناس، و می‌گفت مردم از جهل و بی‌اندیشگی به آنچه باید بشوند نمی‌رسند. و سالازار اسلیترین،» دامبلدور اخم کرد وقتی انگشتش مار رنگ‌پریده را زد، «خب، او می‌گفت ما با پیروی از خواسته‌هایمان هر جا که ما را ببرد، به آنچه باید بشویم می‌رسیم. شاید می‌گفت مردم نمی‌توانند خودشان شوند چون از انجام آنچه برای رسیدن به جاه‌طلبی‌شان لازم است سر باز می‌زنند. ولی بعد توجه می‌کنی که تقریباً همهٔ جادوگران تاریکی که از هاگوارتز بیرون آمده‌اند اسلیترین بوده‌اند. آیا آنچه باید می‌شدند شدند؟ فکر نمی‌کنم.» انگشت دامبلدور شیر را زد، و بعد به سوی او چرخید. «بگو، خانم گرنجر، یک گریفیندور چه می‌گفت؟ لازم نیست بپرسم آیا کلاه مرتب‌سازی آن خانه را به تو پیشنهاد کرد.»\n\nسؤال سختی به نظر نمی‌رسید. «یک گریفیندور می‌گفت مردم آنچه باید باشند نمی‌شوند، چون می‌ترسند.»\n\n«بیشتر مردم می‌ترسند، خانم گرنجر،» جادوگر پیر گفت. «تمام زندگی‌شان را در محدودهٔ ترسی فلج‌کننده می‌گذرانند که هر چه می‌توانستند به دست آورند و هر چه می‌توانستند بشوند را می‌بُرد؛ ترس از گفتن یا انجام دادن کار نادرست، ترس از دست دادن همان داشته‌های اندک، ترس از مرگ، و بالاتر از همه ترس از این‌که دیگران دربارهٔ آن‌ها چه فکر می‌کنند. چنین ترسی هولناک‌ترین چیز است، خانم گرنجر، و دانستنش به‌طرز هولناکی مهم است. ولی این چیزی نیست که گودریک گریفیندور می‌گفت. مردم، خانم گرنجر، با انجام دادن آنچه درست است به آنچه باید بشوند می‌رسند.» صدای جادوگر پیر ملایم بود. «پس بگو، خانم گرنجر، چه چیزی به نظر تو انتخاب درست است؟ چون آن همانی است که واقعاً هستی، و هر جا آن مسیر برود، همانی است که باید بشوی.»\n\nفضای طولانی‌ای پر شد از صداهای چیزهایی که نمی‌شد شمرد.\n\nاو درباره‌اش فکر کرد، چون ریونکلاو بود.",
+    "summary_fa": "دامبلدور توضیح می‌دهد هافلپاف تنبلی، ریونکلاو جهل و اسلیترین پیروی از خواسته‌ها را سرزنش می‌کرد، با این حال بیشتر جادوگران تاریک اسلیترین بودند. او شیر را لمس می‌کند و می‌پرسد گریفیندور چه می‌گوید؛ هرماینی پاسخ می‌دهد ترس. دامبلدور می‌گوید ترس مهم است ولی پاسخ گریفیندور نیست: مردم با انجام دادن آنچه درست است خودشان می‌شوند. هرماینی چون ریونکلاو است درباره‌اش می‌اندیشد.",
+    "verbatim_html": [
+      "\"A Hufflepuff would say,\" said Dumbledore, tapping his finger on the faded badger and making Hermione wince for the sacrilege (if it <em>was</em> the original), \"that people fail to become who they are meant to be, because they are too lazy to put in all the work involved. A Ravenclaw,\" tapping the raven, \"would repeat those words that the wise know to be far older than Socrates, <em>know thyself,</em> and say that people fail to become who they are meant to be, through ignorance and lack of thought. And Salazar Slytherin,\" Dumbledore frowned as his finger tapped the faded snake, \"why, he said that we become who we are meant to be by following our desires wherever they lead. Perhaps he would say that people fail to become themselves because they refuse to do what is necessary to achieve their ambitions. But then one notes that nearly all of the Dark Wizards to come out of Hogwarts have been Slytherins. Did they become what they were meant to be? I think not.\" Dumbledore's finger tapped the lion, and then he turned toward her. \"Tell me, Miss Granger, what would a Gryffindor say? I do not need to ask whether the Sorting Hat offered you that House.\"",
+      "It didn't seem like a hard question. \"A Gryffindor would say that people don't become who they should be, because they're afraid.\"",
+      "\"Most people <em>are</em> afraid, Miss Granger,\" said the old wizard. \"They live their whole lives circumscribed by crippling fear that cuts off everything they might accomplish, everything they might become. Fear of saying or doing the wrong thing, fear of losing their mere possessions, fear of death, and above all the fear of what other people will think of them. Such fear is a most terrible thing, Miss Granger, and it is terribly important to know that. But it is not what Godric Gryffindor would have said. People become who they are meant to be, Miss Granger, by doing what is right.\" The old wizard's voice was gentle. \"So tell me, Miss Granger, what seems to you like the <em>right</em> choice? For <em>that</em> is who you truly are, and wherever that path leads, that is who you are meant to become.\"",
+      "There was a long space filled with the sounds of things that could not be counted.",
+      "She thought about it, because she was a Ravenclaw."
+    ]
+  },
+  {
+    "id": 16,
+    "paras": [
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "summary_en": "Hermione says it is not right for someone to live in another's shadow. Dumbledore warns that events around Harry could go very badly and that she would not dream of walking away if she knew his quest. She asks what happened to Harry and why Fawkes was on his shoulder; Dumbledore says he grew up after being told he must fight someone, but refuses to say who or why. Hermione guesses Bellatrix Black, and he denies it.",
+    "translation_fa": "«فکر نمی‌کنم درست باشد،» هرماینی آهسته گفت، «که کسی مجبور باشد این‌طور در سایهٔ کس دیگری زندگی کند...»\n\n«بسیاری چیزها در جهان درست نیستند،» جادوگر پیر گفت، «پرسش این است که تو در برابرشان چه کار درستی باید بکنی. هرماینی گرنجر، کمتر از حد معمول یک جادوگر پیر و مرموز زیرکی می‌کنم و صریح می‌گویم که نمی‌توانی تصور کنی اگر رویدادهای پیرامون هری پاتر بد پیش برود اوضاع چقدر می‌تواند بد شود. مأموریت او چیزی است که اگر می‌دانستی، حتی در خواب هم به کنار کشیدن از آن فکر نمی‌کردی.»\n\n«چه مأموریتی؟» هرماینی گفت. صدایش می‌لرزید، چون کاملاً روشن بود مدیر چه پاسخی می‌خواهد و او نمی‌خواست بدهد. «آن‌وقت چه بر سر هری آمد، چرا فاکس روی شانه‌اش بود؟»\n\n«او بزرگ شد،» جادوگر پیر گفت. چشمانش چند بار زیر عینک نیم‌ماهه پلک زد، و چهره‌اش ناگهان بسیار چین‌خورده به نظر رسید. «می‌بینی، خانم گرنجر، مردم به‌خاطر زمان بزرگ نمی‌شوند، مردم وقتی بزرگ می‌شوند که در موقعیت‌های بزرگسالانه قرار می‌گیرند. این همان چیزی است که آن شنبه بر سر هری پاتر آمد. به او گفته شد ـــ این اطلاعات را با هیچ‌کس در میان نگذار، می‌فهمی ـــ به او گفته شد که باید با کسی بجنگد. نمی‌توانم بگویم با چه کسی. نمی‌توانم بگویم چرا. ولی این چیزی است که بر سرش آمد، و دلیل این‌که به دوستانش نیاز دارد.»\n\nسکوت کوتاهی بود.\n\n«بلاکستریکس بلک؟» هرماینی گفت. اگر کسی سیم برقی در گوشش فرو می‌کرد هم این‌قدر شوکه نمی‌شد. «شما می‌خواهید هری را وادار کنید با بلاکستریکس بلک بجنگد؟»\n\n«نه،» جادوگر پیر گفت. «او نه. نمی‌توانم بگویم چه کسی، یا چرا.»",
+    "summary_fa": "هرماینی می‌گوید درست نیست کسی در سایهٔ دیگری زندگی کند. دامبلدور هشدار می‌دهد رویدادهای پیرامون هری می‌توانند بسیار بد پیش بروند و اگر او مأموریت هری را می‌دانست هرگز به کنار کشیدن فکر نمی‌کرد. هرماینی می‌پرسد چه بر سر هری آمده و چرا فاکس روی شانه‌اش بود؛ دامبلدور می‌گوید او با قرار گرفتن در موقعیتی بزرگسالانه بزرگ شد و باید با کسی بجنگد، ولی نمی‌گوید با چه کسی یا چرا. هرماینی بلاکستریکس بلک را حدس می‌زند و او انکار می‌کند.",
+    "verbatim_html": [
+      "\"I don't <em>think</em> it's right,\" Hermione said slowly, \"for someone to have to live inside someone else's shadow like that...\"",
+      "\"Many things in the world are not right,\" said the old wizard, \"the question is what is right for <em>you</em> to do about them. Hermione Granger, I shall be less subtle than is usual for a mysterious old wizard, and tell you outright that you cannot <em>imagine</em> how badly things could go if the events surrounding Harry Potter turn to ill. His quest is a matter you would not even <em>dream</em> of walking away from, if you knew.\"",
+      "\"<em>What</em> quest?\" said Hermione. Her voice was trembling, because it was very clear what answer the Headmaster was looking for and she didn't want to give it. \"What <em>happened</em> to Harry back then, <em>why</em> was Fawkes on his shoulder?\"",
+      "\"He grew up,\" said the old wizard. His eyes blinked several times, beneath the half-moon glasses, and his face suddenly looked very lined. \"You see, Miss Granger, people do not grow up because of time, people grow up when they are placed in grownup situations. That is what happened to Harry Potter that Saturday. He was told - you are not to share this information with anyone, you understand - he was told that he would have to fight someone. I cannot tell you who. I cannot tell you why. But that is what happened to him, and why he needs his friends.\"",
+      "There was a pause.",
+      "\"<em>Bellatrix Black?</em> \" Hermione said. She couldn't have been more shocked if someone had plugged an electrical cord into her ear. \"You're going to make Harry fight <em>Bellatrix Black?</em> \"",
+      "\"No,\" said the old wizard. \"Not her. I cannot tell you who, or why.\""
+    ]
+  },
+  {
+    "id": 17,
+    "paras": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "summary_en": "Hermione asks whether she can keep up with Harry and be an equal friend or a hero too. Dumbledore says only she can decide, and refuses to help her as he helps Harry; when she asks for a quest he wryly reminds her she is only in her first year and should not be too eager to grow up.",
+    "translation_fa": "او بیشتر درباره‌اش فکر کرد.\n\n«هیچ راهی هست که بتوانم با هری همراه بمانم؟» هرماینی گفت. «یعنی، نمی‌گویم همین کار را خواهم کرد، ولی ـــ اگر او به دوستان نیاز دارد، می‌توانیم دوستان برابر باشیم؟ می‌توانم من هم قهرمان باشم؟»\n\n«آه،» جادوگر پیر گفت و لبخند زد. «فقط خودت می‌توانی این را تصمیم بگیری، خانم گرنجر.»\n\n«ولی شما نمی‌خواهید مثل هری به من کمک کنید.»\n\nجادوگر پیر سرش را تکان داد. «به او هم کمک بسیار کمی کرده‌ام، خانم گرنجر. و اگر از من مأموریتی می‌خواهی ـــ» جادوگر پیر باز هم لبخند زد، نسبتاً تلخ. «خانم گرنجر، تو سال اول هاگوارتزی. بیش از حد مشتاق بزرگ شدن نباش؛ بعداً وقت کافی برایش خواهد بود.»",
+    "summary_fa": "هرماینی می‌پرسد آیا می‌تواند با هری همراه بماند و دوست برابر یا خودش هم قهرمان باشد. دامبلدور می‌گوید فقط خودش می‌تواند تصمیم بگیرد و از کمک کردن به او مانند هری سر باز می‌زند؛ وقتی مأموریتی می‌خواهد، تلخ لبخند می‌زند و یادآوری می‌کند که فقط سال اول است و نباید این‌قدر مشتاق بزرگ شدن باشد.",
+    "verbatim_html": [
+      "She thought about it some more.",
+      "\"Is there any way I can <em>keep up</em> with Harry?\" said Hermione. \"I mean, I'm not saying it's what I'll <em>do</em>, but - if he needs friends then can we be <em>equal</em> friends? Can I be a hero too?\"",
+      "\"Ah,\" said the old wizard, and smiled. \"Only you can decide that, Miss Granger.\"",
+      "\"But you're not going to help me like you're helping Harry.\"",
+      "The old wizard shook his head. \"I have helped him little enough, Miss Granger. And if you are asking me for a quest -\" The old wizard smiled again, rather wryly. \"Miss Granger, you are in your first year of Hogwarts. Do not be too eager to grow up; there will be time enough for that later.\""
+    ]
+  },
+  {
+    "id": 18,
+    "paras": [
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "summary_en": "Hermione points out she is twelve and Harry eleven; Dumbledore says Harry is special, with a piercing look that reminds her of the Dementor day. She touches McGonagall's hand and asks to leave. As the door opens, Dumbledore asks whether she has chosen her path yet.",
+    "translation_fa": "«من دوازده‌سالم. هری یازده‌ساله.»\n\n«هری پاتر خاص است،» جادوگر پیر گفت. «همان‌طور که می‌دانی، خانم گرنجر.» چشمان آبی ناگهان زیر عینک نیم‌ماهه نافذ شدند، و او روز دیوانه‌ساز را به یاد آورد، وقتی صدای دامبلدور در ذهنش گفته بود از سمت تاریک هری خبر دارد.\n\nهرماینی دستش را بالا برد و دست پروفسور مک‌گوناگال را لمس کرد که تمام این مدت محکم روی شانه‌اش مانده بود، و هرماینی گفت، و خودش هم حیرت کرد که صدایش نشکست: «می‌خواهم حالا بروم، لطفاً.»\n\n«البته،» پروفسور مک‌گوناگال گفت، و هرماینی حس کرد دست روی شانه‌اش به‌آرامی او را چرخاند تا رو به در بلوطی بایستد.\n\n«مسیرت را انتخاب کرده‌ای، هرماینی گرنجر؟» صدای آلبوس دامبلدور از پشت سرش آمد، همان‌طور که در به‌آرامی غژغژ می‌کرد و باز می‌شد تا طلسم پلهٔ بی‌پایان را نمایان کند.",
+    "summary_fa": "هرماینی یادآوری می‌کند دوازده‌ساله است و هری یازده‌ساله؛ دامبلدور با نگاهی نافذ که روز دیوانه‌ساز را به یادش می‌آورد می‌گوید هری خاص است. او دست مک‌گوناگال را لمس می‌کند و اجازهٔ رفتن می‌خواهد. وقتی در باز می‌شود، دامبلدور می‌پرسد آیا مسیرش را انتخاب کرده است.",
+    "verbatim_html": [
+      "\"I'm twelve. Harry's <em>eleven.</em>\"",
+      "\"Harry Potter is special,\" said the old wizard. \"As you know, Miss Granger.\" The blue eyes were suddenly piercing beneath the half-moon glasses, and she was reminded of the day of the Dementor when Dumbledore's voice had said, inside her mind, that he knew about Harry's dark side.",
+      "Hermione put up her hand and touched Professor McGonagall's hand, which had stayed strong on her shoulder this whole time, and Hermione said, she was surprised that her voice didn't break, \"I'd like to go, now, please.\"",
+      "\"Of course,\" said Professor McGonagall, and Hermione felt the hand on her shoulder gently turning her around to face the oaken door.",
+      "\"Have you chosen your path yet, Hermione Granger?\" said Albus Dumbledore's voice from behind her, even as the door slowly creaked open to reveal the Enchantment of the Endless Stair."
+    ]
+  },
+  {
+    "id": 19,
+    "paras": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "summary_en": "Hermione nods, then stammers that she will do what is right. She says nothing more as the Endless Stair begins to revolve again.",
+    "translation_fa": "سر تکان داد.\n\n«و؟»\n\n«من،» گفت، صدایش گیر کرد، «من، من ـــ»\n\nآب دهانش را قورت داد.\n\n«من ـــ کاری را که درست است ـــ انجام می‌دهم ـــ»\n\nچیز دیگری نگفت، نمی‌توانست، و بعد پلهٔ بی‌پایان دوباره دورش شروع به چرخیدن کرد.",
+    "summary_fa": "هرماینی سر تکان می‌دهد و در حالی که صدایش گیر می‌کند می‌گوید کاری را که درست است انجام می‌دهد. دیگر چیزی نمی‌گوید و پلهٔ بی‌پایان دوباره دورش می‌چرخد.",
+    "verbatim_html": [
+      "She nodded.",
+      "\"And?\"",
+      "\"I'll,\" she said, her voice stuck, \"I'll, I'll -\"",
+      "She swallowed.",
+      "\"I'll do - what's right -\"",
+      "She didn't say anything else, she couldn't, and then the Endless Stair began revolving around her once again."
+    ]
+  },
+  {
+    "id": 20,
+    "paras": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "summary_en": "Neither speaks on the way down. Outside, McGonagall whispers that she is sorry and thinks the Headmaster has forgotten what it is like to be a child. Hermione asks whether McGonagall can help if she has decided to be a hero too; McGonagall shakes her head and says she is not sure the Headmaster is wrong, because Hermione is twelve. Hermione simply says okay.",
+    "translation_fa": "نه او و نه پروفسور مک‌گوناگال در راه پایین آمدن حرفی نزدند.\n\nوقتی غول‌های سنگیِ جاری از سر راهشان کنار رفتند و آن دو به راهروهای هاگوارتز قدم گذاشتند، پروفسور مک‌گوناگال سرانجام حرف زد و در حالی که پچ‌پچ می‌کرد گفت: «من بسیار متأسفم، خانم گرنجر. فکر نمی‌کردم مدیر چنین چیزهایی به تو بگوید. فکر می‌کنم واقعاً فراموش کرده بچه بودن چه حسی دارد.»\n\nهرماینی به او نگاه کرد و دید پروفسور مک‌گوناگال طوری به نظر می‌رسید که نزدیک است گریه کند... فقط نه واقعاً، ولی سخت‌شدنی در صورتش بود که شبیه آن بود.\n\n«اگر من هم بخواهم قهرمان باشم،» هرماینی گفت، «اگر تصمیم گرفته باشم من هم قهرمان باشم، کاری هست که شما بتوانید بکنید تا کمکم کنید؟»\n\nپروفسور مک‌گوناگال به‌سرعت سرش را تکان داد و گفت: «خانم گرنجر، مطمئن نیستم مدیر در این باره اشتباه کرده باشد. تو دوازده سالته.»\n\n«باشه،» هرماینی گفت.",
+    "summary_fa": "در راه پایین هیچ‌کدام حرف نمی‌زنند. بیرون، مک‌گوناگال پچ‌پچ می‌کند که متأسف است و فکر می‌کند مدیر فراموش کرده بچه بودن چه حسی دارد. هرماینی می‌پرسد اگر او هم تصمیم گرفته قهرمان باشد آیا مک‌گوناگال می‌تواند کمکش کند؛ مک‌گوناگال سر تکان می‌دهد و می‌گوید مطمئن نیست مدیر اشتباه کرده باشد، چون هرماینی دوازده ساله است. هرماینی فقط می‌گوید باشه.",
+    "verbatim_html": [
+      "Neither she nor Professor McGonagall spoke on the way down.",
+      "When the Flowing Stone gargoyles stepped out of their way, and the two of them stepped out into the corridors of Hogwarts, Professor McGonagall finally spoke, and she said in a whisper, \"I'm so terribly sorry, Miss Granger. I did not think the Headmaster would say such things to you. I think he truly has forgotten what it is like to be a child.\"",
+      "Hermione glanced back up to her and saw that Professor McGonagall looked like <em>she</em> was about to burst into tears... only not really, but there was a tightness in her face that was like that.",
+      "\"If I want to be a hero too,\" said Hermione, \"if I've decided to be a hero too, is there anything <em>you</em> can do to help?\"",
+      "Professor McGonagall rapidly shook her head, and said, \"Miss Granger, I'm not sure the Headmaster is wrong about <em>that.</em> You <em>are</em> twelve.\"",
+      "\"Okay,\" said Hermione."
+    ]
+  },
+  {
+    "id": 21,
+    "paras": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "summary_en": "Hermione asks to walk back to Ravenclaw alone. As she climbs, she wonders who else might give her a chance to be a hero, but suspects Flitwick and Quirrell cannot or should not help. Almost at the tower, she sees a flash of gold.",
+    "translation_fa": "کمی جلو رفتند.\n\n«ببخشید،» هرماینی گفت، «اشکالی ندارد اگر خودم تنها به برج ریونکلاو برگردم؟ متأسفم، تقصیر شما یا چیزی نیست، فقط همین حالا می‌خواهم تنها باشم.»\n\n«البته، خانم گرنجر،» پروفسور مک‌گوناگال گفت، صدایش کمی گرفته به نظر می‌رسید، و هرماینی شنید قدم‌هایش ایستاد، و بعد پشت سرش چرخید.\n\nهرماینی گرنجر دور شد.\n\nاز پله‌ای بالا رفت، و بعد پله‌ای دیگر، و حیران بود آیا کس دیگری در هاگوارتز هست که به او فرصت قهرمان شدن بدهد. پروفسور فلیتویک همان حرف پروفسور مک‌گوناگال را می‌زد، و حتی اگر نمی‌زد، احتمالاً نمی‌توانست کمک کند؛ هرماینی نمی‌دانست چه کسی می‌تواند کمک کند. خب، پروفسور کوییرل اگر به‌قدر کافی از امتیازهای کوییرل خرج می‌کرد چیز زیرکانه‌ای به ذهنش می‌رسید، ولی حس می‌کرد پرسیدن از او ایدهٔ بدی است ـــ که استاد دفاع نمی‌توانست به کسی کمک کند به آن نوع قهرمانی بدل شود که ارزش شدن داشت، و حتی تفاوت را هم نمی‌فهمید.\n\nتقریباً به برج ریونکلاو رسیده بود که درخشش طلایی را دید.",
+    "summary_fa": "هرماینی می‌خواهد تنها به برج ریونکلاو برگردد. در راه بالا رفتن از خود می‌پرسد چه کس دیگری ممکن است فرصت قهرمان شدن به او بدهد، ولی گمان می‌کند فلیتویک و کوییرل نمی‌توانند یا نباید کمک کنند. تقریباً به برج رسیده که درخشش طلایی را می‌بیند.",
+    "verbatim_html": [
+      "They walked forward a bit.",
+      "\"Excuse me,\" said Hermione, \"is it okay if I walk back to the Ravenclaw tower by myself? I'm sorry, it's not your fault or anything, I just want to be by myself right now.\"",
+      "\"Of course, Miss Granger,\" said Professor McGonagall, her voice sounding a little hoarse, and Hermione heard her footsteps stop, and then turn around behind her.",
+      "Hermione Granger walked away.",
+      "She climbed a flight of stairs, and then another, wondering if there was anyone else in Hogwarts who would give her a chance to be a hero. Professor Flitwick would say the same thing as Professor McGonagall, and even if he didn't, he probably couldn't help, Hermione didn't know who <em>could</em> help. Well, Professor Quirrell would come up with something clever if she used up enough Quirrell points, but she had a feeling that asking him would be a bad idea - that the Defense Professor couldn't help anyone become the sort of hero that was worth becoming, and that he wouldn't even understand the difference.",
+      "She had almost gotten to the Ravenclaw tower when she saw the flash of gold."
+    ]
+  }
+]

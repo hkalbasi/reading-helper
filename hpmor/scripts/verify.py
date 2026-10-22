@@ -64,6 +64,11 @@ CHAPTERS = {
     "ch63": ("data/ch63_source.json", "data/ch63.json"),
     "ch64": ("data/ch64_source.json", "data/ch64.json"),
     "ch65": ("data/ch65_source.json", "data/ch65.json"),
+    "ch66": ("data/ch66_source.json", "data/ch66.json"),
+    "ch67": ("data/ch67_source.json", "data/ch67.json"),
+    "ch68": ("data/ch68_source.json", "data/ch68.json"),
+    "ch69": ("data/ch69_source.json", "data/ch69.json"),
+    "ch70": ("data/ch70_source.json", "data/ch70.json"),
 }
 
 failed = False

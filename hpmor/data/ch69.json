@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "paras": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "summary_en": "Hermione glimpses a flash of gold and red reflected in a statue, then hears a faint familiar call. She walks toward it and starts running.",
+    "translation_fa": "هرماینی گرنجر آن را از گوشهٔ چشم دید، بازتابی روی فلز صیقلی مجسمه‌ای در محل تلاقی دو راهرو، درخششی طلایی، درخششی سرخ، چیزی مثل تصویری از آتش؛ فقط لحظه‌ای دیدش، و بعد رفت.\n\nایستاد، حیران، و تقریباً دور شد، ولی آن درخشش کوتاه چیزی آشنا داشت ـــ\n\nهرماینی جلو رفت تا جایی که مجسمه ایستاده بود، و به راهرویی نگاه کرد که فکر می‌کرد بازتاب آتشین ممکن است از آن آمده باشد.\n\nبه‌سختی، انگار از جایی دور، فریاد را شنید، آن صدا زدن را.\n\nهرماینی شروع به دویدن کرد.",
+    "summary_fa": "هرماینی درخششی طلایی و سرخ را در بازتاب مجسمه‌ای می‌بیند و بعد صدای آشنایی را از دور می‌شنود. او به سوی آن راه می‌افتد و شروع به دویدن می‌کند.",
+    "verbatim_html": [
+      "It was out of the corner of her eye that Hermione Granger saw it, a reflection on the polished metal of a statue at the junction of two corridors, a flash of gold, a flash of red, something like an image of fire; just for a moment she saw it, and then it was gone.",
+      "She paused, puzzled, and she <em>almost</em> walked away, but there had been something familiar about that brief glow -",
+      "Hermione walked forward to where the statue had stood, looked at the corridor from which she thought the fiery reflection might have come.",
+      "Faintly, as though from a faraway place, she heard the cry, the call.",
+      "Hermione started to run."
+    ]
+  },
+  {
+    "id": 2,
+    "paras": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "summary_en": "Following flashes and distant calls, she runs until a four-way junction where she fears she imagined it. Then she hears a person cry out and finds three large Slytherins and a smaller Hufflepuff boy dangling by one foot from an invisible hand.",
+    "translation_fa": "مدتی دوید؛ هر جا به دوراهی می‌رسید می‌ایستاد، تا جای ممکن نفس می‌گرفت، و بعد درخششی از آتش را در یکی از جهت‌ها می‌دید، یا آن صدای دور را می‌شنید. اگر تمرین ارتشی‌اش نبود، از خستگی می‌افتاد که این‌طور می‌دوید.\n\nققنوس را هرگز ندید.\n\nو بعد به چهارراهی رسید و هیچ نبود، هیچ نشانی؛ ثانیه‌های طولانی صبر کرد و فریادی نشنید و آتشی ندید، و تازه داشت با حسی بیمار و غمگین به این فکر می‌افتاد که نکند همه‌اش را خیال کرده، که صدای فریاد یک آدم را شنید.\n\nوقتی پاهای تندروش پیچ راهرو را دور زدند، ذهنش تمام صحنه را یک‌جا گرفت: سه پسر بزرگ با ردای‌های حاشیهٔ سبز که از قبل به او نگاه می‌کردند، و پسری کوتاه‌تر و کوچک‌تر در زرد که با یک پا از هوا آویزان بود، پایش را دستی نامرئی بالا نگه داشته بود.",
+    "summary_fa": "هرماینی به دنبال درخشش‌ها و صداهای دور می‌دود تا به چهارراهی می‌رسد و می‌ترسد همه‌اش را خیال کرده باشد. بعد فریاد یک نفر را می‌شنود و سه اسلیترین بزرگ و پسری کوچک‌تر هافلپاف را می‌بیند که با یک پا از هوا آویزان است.",
+    "verbatim_html": [
+      "She ran for a while; whenever she got to a junction she would pause, catch as much breath as she could, and then she would see a flash of fire reflected from one direction or another, or hear that distant call. If it hadn't been for her army training she would've fallen over in exhaustion, running like that.",
+      "She never saw the phoenix.",
+      "And then she came to a four-way branch and there was <em>nothing,</em> no sign, she waited for long seconds and she heard no cry and saw no fire, and she was only just starting to wonder with a sick sad feeling if she'd imagined the whole thing, when she heard a <em>person</em> cry out.",
+      "When her rapidly racing feet turned the corner her mind took in the whole scene at a glance, three huge boys in green-trimmed robes already turning to look at her, and one shorter and smaller boy in yellow, who was dangling in the air from one foot held up high by an invisible hand."
+    ]
+  },
+  {
+    "id": 3,
+    "paras": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "summary_en": "Hermione instinctively fires two Sleep Hexes, dropping two bullies and the dangling Hufflepuff. Before she can cast a third, the last bully raises a Protego shield.",
+    "translation_fa": "ژنرال آفتاب حتی درباره‌اش فکر هم نکرد؛ کسانی که برای فکر کردن می‌ایستند کمین‌های خوبی نمی‌گذارند.\n\nچوب‌دستی‌اش در دستش بود، انگشتانش پیچیدند و لب‌هایش گفتند «سومنیوم!» و بزرگ‌ترین قلدر افتاد، پسر هافلپاف با صدای تَقی از هوا فرو افتاد و دو قلدر دیگر می‌کوشیدند چوب‌دستی‌هایشان را به سویش بگیرند و او باز گفت «سومنیوم!» و پسر بزرگ دیگری از پا افتاد ـــ کسی که چوب‌دستی‌اش را سریع‌تر نشانه گرفته بود، به همان شلیک کرده بود.\n\nمتأسفانه خواندن دو طلسم خواب پشت سر هم، حتی برای او هم سخت بود، و نتوانست سومی را پیش از آن‌که ـــ\n\nآخرین قلدر فریاد زد «پروتگو!» و هاله‌ای آبی و درخشان او را احاطه کرد.",
+    "summary_fa": "هرماینی بی‌درنگ دو طلسم خواب می‌خواند و دو قلدر و پسر آویزان هافلپاف را زمین می‌زند. پیش از آن‌که سومین طلسم را بخواند، آخرین قلدر سپر پروتگو می‌سازد.",
+    "verbatim_html": [
+      "The Sunshine General didn't even think about it, people who stopped to think didn't spring very good ambushes.",
+      "Her wand was in her hand, her fingers did the twist and her lips said \"<em>Somnium!</em> \" and the largest bully fell over, the Hufflepuff boy dropped out of the air with a <em>thump</em> and the other two bullies were trying to aim their wands at her and she said \"<em>Somnium!</em> \" again and another huge boy keeled over - the one who'd been aiming his wand faster, that was who she'd fired at.",
+      "Unfortunately casting two Sleep Hexes in a row like that was hard even for her, and she couldn't get off a third before -",
+      "The last bully shouted \"<em>Protego!</em> \" and was surrounded by a shimmering blue glow."
+    ]
+  },
+  {
+    "id": 4,
+    "paras": [
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "summary_en": "A day earlier this would have panicked her, but she dodges the bully's Stupefy and notes his aim is far worse than Harry's, reflecting that bullies and Quirrell's armies do not mix.",
+    "translation_fa": "بیست‌وچهار ساعت پیش، هرماینی از این کار وحشت می‌کرد؛ یک طلسم سپر واقعی به قلدر اجازه می‌داد حتی وقتی محافظت می‌شد روی او طلسم بخواند.\n\nحالا او ـــ\n\n«استیوفای!» قلدر فریاد زد.\n\nپرتو سرخ با درخششی هولناک به سویش شتافت، بسیار روشن‌تر از هر طلسمی که از چوب‌دستی هری بیرون آمده بود.\n\nهرماینی کمی به چپ کج شد و پرتو خطا رفت، چون نشانه‌گیری قلدر به‌هیچ‌وجه به‌خوبی هری نبود؛ و این فکر به ذهنش رسید که شاید قلدرها و ارتش‌های پروفسور کوییرل با هم جور درنمی‌آیند.",
+    "summary_fa": "یک روز پیش این هرماینی را به وحشت می‌انداخت، ولی او از استیوفای قلدر جاخالی می‌دهد و می‌بیند نشانه‌گیری‌اش بسیار بدتر از هری است؛ و فکر می‌کند قلدرها و ارتش‌های کوییرل با هم جور درنمی‌آیند.",
+    "verbatim_html": [
+      "Twenty-four hours ago, Hermione would have panicked at that, a <em>real</em> Shielding Charm would let the bully-boy cast spells on her even while he was protected.",
+      "<em>Now</em> she -",
+      "\"<em>Stupefy!</em> \" shouted the bully-boy.",
+      "The crimson bolt blasted toward her with a terrible brilliance, blazing far brighter than any hex that had sprung from Harry's wand.",
+      "Hermione swayed slightly to the left, and the bolt missed, because the bully's <em>aim</em> hadn't been nearly as good as Harry's; and the thought came to her that maybe bullies and Professor Quirrell's armies didn't mix."
+    ]
+  },
+  {
+    "id": 5,
+    "paras": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "summary_en": "The bully casts wildly, including Jellyfy, which weakens her knees. Hermione deliberately falls to dodge the next Stupefy, then casts Glisseo at the floor, knocking the bully down and making him drop his wand.",
+    "translation_fa": "«استیوفای!» قلدر دوباره فریاد زد. «اکسپلیارموس! استیوفای!»\n\nبه‌هرحال، حالا یک ساعت کامل صرف فکر کردن به همهٔ طلسم‌های دیگری کرده بود که می‌توانست به هری و نویل بزند ـــ\n\n«جلیفای!» قلدر فریاد زد، طلسمی با پرتو پهن که پرتوی دیدنی برای جاخالی دادن نداشت، و زانوهایش ناگهان حس کرد تقریباً بیش از حد ضعیف‌اند که نگهش دارند. و بعد، با غرشی خشمگین که درخششی حتی روشن‌تر از سرخ پدید آورد، «استیوفای!»\n\nبا عمداً افتادن از آن یکی جاخالی داد، و تا آن موقع به‌قدر کافی برای طلسم بعدی‌اش بازیابی شده بود، که این بود ـــ\n\n«گلیسئو،» هرماینی گفت و حرفش را خطاب به زمین کرد.\n\n«اوف،» قلدر گفت وقتی پاهایش از زیرش رفتند و واقعاً چوب‌دستی‌اش را انداخت.",
+    "summary_fa": "قلدر بی‌هدف طلسم می‌خواند، از جمله جلیفای که زانوهای هرماینی را سست می‌کند. هرماینی با عمداً افتادن از استیوفای بعدی جاخالی می‌دهد، سپس گلیسئو را روی زمین می‌خواند و قلدر را می‌اندازد و چوب‌دستی‌اش را از دستش می‌اندازد.",
+    "verbatim_html": [
+      "\"<em>Stupefy!</em> \" shouted the bully-boy again. \"<em>Expelliarmus! Stupefy!</em> \"",
+      "Anyway, <em>now</em> she'd just spent a whole hour thinking of all the <em>other</em> spells she could've cast on Harry and Neville -",
+      "\"<em>Jellyfy!</em> \" yelled the bully-boy, a wide-beam jinx with no visible bolt to dodge, and her knees suddenly felt almost too weak to support her. And then, with an angry roar producing an even brighter blaze of crimson, \"<em>Stupefy!</em> \"",
+      "She dodged that one by deliberately falling, and by then she'd recovered enough for her next spell, which was -",
+      "\"<em>Glisseo,</em>\" said Hermione, directing her remark to the floor.",
+      "\"Oof,\" said the bully-boy as his feet went out from under him and <em>he actually dropped his wand.</em>"
+    ]
+  },
+  {
+    "id": 6,
+    "paras": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "summary_en": "The Protego fades and Hermione puts the last bully to sleep. She checks on the Hufflepuff boy, realizing he could have broken his neck, and he recognizes her as General Sunshine.",
+    "translation_fa": "پروتگو چشمک‌زنان خاموش شد.\n\n«سومنیوم،» هرماینی گفت.\n\nهنوز نفس‌نفس می‌زد که به سوی پسری که نشسته بود خزید، ناله می‌کرد و جمجمه‌اش را می‌مالید، جایی که با سر روی زمین افتاده بود؛ خوب شد مگل نبود، هرماینی فهمید، وگرنه ممکن بود گردنش بشکند. واقعاً به آن فکر نکرده بود.\n\n«آه،» پسر گفت، موهایش رنگی بود که اگر دختر بود «قهوه‌ای» خوانده می‌شد، چشمانش قهوه‌ای معمولی که به‌نحوی کاملاً مناسب هافلپاف به نظر می‌رسید، اشکی روی صورتش نبود ولی کمی رنگ‌پریده بود. او را حدود سال چهارم یا سوم حدس زد.\n\nبعد چشمان قهوه‌ای گشاد شدند وقتی به او تمرکز کرد. «ژنرال آفتاب؟»",
+    "summary_fa": "پروتگو محو می‌شود و هرماینی آخرین قلدر را خواب می‌کند. او به پسر هافلپاف رسیدگی می‌کند و می‌فهمد ممکن بود گردنش بشکند؛ پسر او را ژنرال آفتاب می‌شناسد.",
+    "verbatim_html": [
+      "The <em>Protego</em> winked out.",
+      "\"<em>Somnium,</em>\" said Hermione.",
+      "She was still breathing in gasps as she crawled over to where the Hufflepuff boy was sitting up, and groaning and rubbing his skull where he'd been dropped head-first into the floor; it was a good thing he hadn't been a Muggle, Hermione realized, or he might have snapped his neck. She hadn't actually thought of that.",
+      "\"Uh,\" said the boy, his hair was of a color that would've been called 'brunette' if he was a girl, his eyes an undistinguished brown that somehow seemed just right for Hufflepuff, there weren't any tears on his face but he looked sort of pale. She pegged him at about fourth year, or third.",
+      "Then the brown eyes widened as he focused on her. \"<em>General Sunshine?</em> \""
+    ]
+  },
+  {
+    "id": 7,
+    "paras": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "summary_en": "Mike is awestruck. Hermione feels faint and asks him to Unjellyfy her legs; she has to correct his wand gesture before the counter-jinx works.",
+    "translation_fa": "«آره،» گفت. «همین (هوف) منم.» تصمیم گرفت اگر پسر هافلپاف چیزی دربارهٔ این‌که معشوقهٔ هری پاتر است بگوید، خواهد مرد.\n\n«واو،» پسر هافلپاف گفت. «این ـــ تو فقط ـــ یعنی قبل از کریسمس روی صفحه‌ها دیدمت ولی ـــ واو! باورم نمی‌شود همین حالا این کار را کردی!»\n\nسکوت کوتاهی بود.\n\nباورم نمی‌شود همین حالا این کار را کردم، هرماینی گرنجر فکر کرد، که ناگهان کمی حس ضعف پیدا کرده بود، حتماً از آن‌همه دویدن بود. «ببخشید (هوف)،» گفت، «می‌توانی (هوف) پاهایم را از جلیفای دربیاوری؟»\n\nپسر سر تکان داد، خودش را به پا رساند و دستش را داخل ردایش برد تا چوب‌دستی‌اش را بیاورد؛ ولی هرماینی مجبور شد حرکتش را تصحیح کند تا ضدطلسم درست کار کند.",
+    "summary_fa": "مایک مبهوت است. هرماینی احساس ضعف می‌کند و از او می‌خواهد پاهایش را از جلیفای دربیاورد؛ باید حرکت چوب‌دستی‌اش را تصحیح کند تا ضدطلسم درست کار کند.",
+    "verbatim_html": [
+      "\"Yeah,\" she said. \"That's <em>(gasp)</em> me.\" If the Hufflepuff boy said anything about her being Harry Potter's love interest, she decided, he was going to die.",
+      "\"Wow,\" said the Hufflepuff boy. \"That was - you just - I mean I saw you on the screens before Christmas but - wow! I can't believe you just did that!\"",
+      "There was a pause.",
+      "<em>I can't believe I just did that,</em> thought Hermione Granger, who was feeling a little faint all of a sudden, it must have been all that running. \"Excuse <em>(gasp)</em> me,\" she said, \"can you <em>(gasp)</em> Unjellyfy my legs?\"",
+      "The boy nodded, pushed himself to his feet, and reached inside his robes for his wand; but Hermione had to correct his gesture before the counter-Jinx worked right."
+    ]
+  },
+  {
+    "id": 8,
+    "paras": [
+      35,
+      36,
+      37,
+      38
+    ],
+    "summary_en": "Michael Hopkins introduces himself, and Hermione experiences euphoria greater than anything she has felt, simply from saving someone. She turns to look at the bullies.",
+    "translation_fa": "«من مایکل هاپکینز هستم،» پسر گفت وقتی هرماینی دوباره روی پاهای خودش ایستاد. دستش را دراز کرد. «یا فقط مایک داخل هافلپاف، امسال هیچ مایک دیگری در تمام هافلپاف نیست، باورت می‌شود؟»\n\nدست دادند، و مایک گفت: «به‌هرحال، ممنون.»\n\nهرماینی برای هجوم شادی آماده نبود که آن‌وقت به او زد؛ نجات دادن کسی این‌طور واقعاً از هر چیزی که در تمام زندگی‌اش حس کرده بود بهتر بود.\n\nروی برگرداند تا قلدرها را ببیند.",
+    "summary_fa": "مایکل هاپکینز خودش را معرفی می‌کند و هرماینی از نجات دادن کسی شادی‌ای حس می‌کند که از هر چیز دیگری در زندگی‌اش بهتر است. او روی برمی‌گرداند تا قلدرها را ببیند.",
+    "verbatim_html": [
+      "\"I'm Michael Hopkins,\" said the boy once Hermione had rolled back to her own feet. He stuck out his hand. \"Or just Mike inside Hufflepuff, there aren't any other Mikes in all of Hufflepuff this year, would you believe it?\"",
+      "They shook hands, and Mike said, \"Anyway, <em>thank you.</em>\"",
+      "Hermione wasn't prepared for the rush of euphoria that hit her then, saving someone like that literally felt better than anything she'd ever felt in her <em>whole life.</em>",
+      "She turned to look at the bullies."
+    ]
+  },
+  {
+    "id": 9,
+    "paras": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "summary_en": "Seeing the bullies, Hermione realizes how much difference Quirrell's extracurricular training made: aiming, thinking under pressure, and reacting to surprise attacks. Breathing hard, she tells Mike that five minutes ago she was wondering how to become a hero, and realizes a hero simply goes where the evil is.",
+    "translation_fa": "خیلی بزرگ بودند و به فکرش حدود پانزده ساله می‌آمدند، و ناگهان می‌فهمید چه تفاوت بزرگی میان دانش‌آموزان هاگوارتز که در همهٔ فعالیت‌های فوق‌برنامهٔ پروفسور کوییرل ثبت‌نام کرده بودند و دانش‌آموزانی که سال‌ها زیر بدترین استادهایی که تا به حال استادی کرده بودند آموزش دیده بودند، پیدا شده بود. مثلاً توانایی زدن چیزی که نشانه گرفته‌ای؛ یا توانایی فکر کردنِ به‌قدر کافی در میانهٔ نبرد برای فهمیدن این‌که باید هم‌پیمانان افتاده‌ات را با اینرویت بیدار کنی. و چیزهای دیگری که پروفسور کوییرل گفته بود، مثل این‌که در جهان واقعی تقریباً هر جنگی با یک حملهٔ غافلگیرانه حل می‌شود، ناگهان برایش خیلی بیشتر منطقی شد.\n\nهنوز می‌کوشید نفسش را بگیرد که دوباره به مایک نگاه کرد.\n\n«باورت (هوف) می‌شود،» هرماینی گرنجر گفت، «که پنج دقیقه پیش (هوف) داشتم به این فکر می‌کردم چطور می‌توانم (هوف) قهرمان شوم؟»\n\nواقعاً فکر کرده بود به اجازهٔ کسی نیاز دارد، یا قهرمان‌ها می‌نشینند و منتظر می‌مانند کس دیگری بهشان مأموریت بدهد؟ راستش خیلی ساده بود، فقط به جایی می‌رفتی که شر بود، تمام چیزی که برای قهرمان شدن لازم بود همین بود. باید یادش می‌ماند، نباید ققنوسی لازم داشت تا به او بگوید، که چیزهای بد گاهی همین‌جا در هاگوارتز رخ می‌دهند.",
+    "summary_fa": "با دیدن قلدرها هرماینی می‌فهمد تمرین‌های فوق‌برنامهٔ کوییرل چقدر تفاوت ایجاد کرده: نشانه‌گیری، فکر کردن زیر فشار و واکنش به حملهٔ غافلگیرانه. او نفس‌نفس‌زنان به مایک می‌گوید پنج دقیقه پیش حیران بود چطور قهرمان شود، و می‌فهمد قهرمان فقط به جایی می‌رود که شر هست.",
+    "verbatim_html": [
+      "They were very big and they looked, she thought, around fifteen years old, and she was suddenly realizing just how <em>large</em> a difference had sprung up between Hogwarts students who'd signed up for all of Professor Quirrell's extra-curricular activities, and students who'd had years of being taught by the worst Professors ever to go Professing. Being able to <em>hit</em> things that you aimed at, for example; or being able to think well enough in the middle of a fight to realize that you ought to <em>Innervate</em> your fallen allies. And other things Professor Quirrell had said, like that in the real world almost any fight would be settled by a surprise attack, suddenly made a lot more sense to her.",
+      "Still trying to catch her breath, she looked back at Mike.",
+      "\"Would you <em>(gasp)</em> believe,\" said Hermione Granger, \"that five minutes ago I was <em>(gasp)</em> having trouble figuring out how to become a <em>(gasp)</em> hero?\"",
+      "Had she really thought she needed <em>permission</em> from someone, or that heroes sat around waiting for someone else to give them quests? It was very simple actually, you just went where the evil was, that was all it ever took to be a hero. She should've remembered, she shouldn't have needed a phoenix to tell her, that bad things sometimes happened right here in Hogwarts."
+    ]
+  },
+  {
+    "id": 10,
+    "paras": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ],
+    "summary_en": "Hermione panics at the thought that the bullies might know and hurt her, then stops and remembers Harry facing five bullies on the first day without knowing how to use his wand, Dumbledore's words about growing up, and McGonagall saying she is twelve. She takes three deep breaths.",
+    "translation_fa": "بعد هرماینی با نگرانی به جایی که سه پسر بزرگ‌تر بی‌هوش افتاده بودند نگاه کرد و این واقعیت به او زد که آن‌ها او را دیده‌اند، ممکن است بدانند کیست، ممکن است پنهانی به او نزدیک شوند و غافلگیرش کنند و ـــ و واقعاً می‌توانستند به او آسیب بزنند ـــ\n\nهرماینی ایستاد.\n\nیادش آمد هری پاتر در نخستین روز کلاس خودش را وسط پنج قلدر اسلیترین انداخته بود، وقتی حتی نمی‌دانست چطور از چوب‌دستی‌اش استفاده کند.\n\nیادش آمد مدیر گفته بود با قرار گرفتن در موقعیت‌های بزرگسالانه بزرگ می‌شوی، و این‌که بیشتر مردم زندگی‌شان را درون دایره‌ای محدودکننده از ترس می‌گذرانند.\n\nو یادش آمد صدای پروفسور مک‌گوناگال می‌گفت: «تو دوازده سالته.»\n\nهرماینی نفس عمیقی کشید، یک بار، دو بار، و سه بار.",
+    "summary_fa": "هرماینی از این فکر که قلدرها ممکن است بشناسندش و آسیبش بزنند وحشت می‌کند، بعد می‌ایستد و به یاد می‌آورد هری در روز اول بدون دانستن استفاده از چوب‌دستی با پنج قلدر روبرو شد، و سخنان دامبلدور دربارهٔ بزرگ شدن و حرف مک‌گوناگال را که او دوازده ساله است. سه نفس عمیق می‌کشد.",
+    "verbatim_html": [
+      "Then Hermione glanced nervously back at where the three older boys were lying unconscious as the realization hit that they'd <em>seen</em> her, they might <em>know</em> who she was, they might sneak up on her and take <em>her</em> by surprise and - and they could really hurt her -",
+      "Hermione stopped.",
+      "She remembered that Harry Potter had put himself in the middle of <em>five</em> Slytherin bullies on the first day of class when he hadn't even known how to use his wand.",
+      "She remembered the Headmaster saying that you grew up by being put in grownup situations, and that most people lived their lives inside a constraining circle of fear.",
+      "And she remembered Professor McGonagall's voice saying, 'You <em>are</em> twelve.'",
+      "Hermione took a deep breath, once, twice, and three times."
+    ]
+  },
+  {
+    "id": 11,
+    "paras": [
+      49,
+      50,
+      51,
+      52
+    ],
+    "summary_en": "Hermione checks that Mike is okay and learns the bullies' names, then walks away smiling. She accepts that she may get hurt, decides that fear cannot stop a hero, and notes the Sorting Hat would now shout Gryffindor. At dinner her euphoria still has not worn off.",
+    "translation_fa": "از مایک پرسید آیا لازم است به دفتر مادام پامفری برود، که لازم نبود؛ و از او خواست نام پسرهای اسلیترین را بگوید، فقط برای احتیاط.\n\nو بعد هرماینی گرنجر از کنار تودهٔ قلدرهای بی‌هوش دور شد، و مطمئن شد هنگام راه رفتن لبخندی بر صورتش بگذارد.\n\nمی‌دانست احتمالاً دیر یا زود آسیب می‌بیند. ولی اگر بیش از حد از آسیب دیدن می‌ترسیدی که کار درست را بکنی، دیگر نمی‌توانستی قهرمان باشی، به همین سادگی؛ و اگر آن لحظه کلاه مرتب‌سازی را روی سرش می‌گذاشتند، حتی یک ثانیه هم صبر نمی‌کرد پیش از آن‌که فریاد بزند «گریفیندور!»\n\nوقتی برای شام پایین آمد هنوز درباره‌اش فکر می‌کرد؛ شادی نجات دادن کسی هنوز از بین نرفته بود، و کم‌کم نگران می‌شد که چیزی در مغزش خراب کرده باشد.",
+    "summary_fa": "هرماینی مطمئن می‌شود مایک خوب است و نام قلدرها را می‌پرسد، سپس لبخندزنان دور می‌شود. می‌پذیرد که ممکن است آسیب ببیند، تصمیم می‌گیرد ترس نتواند مانع قهرمانی شود، و می‌گوید کلاه مرتب‌سازی حالا گریفیندور فریاد می‌زد. سر شام شادی‌اش از بین نرفته است.",
+    "verbatim_html": [
+      "She asked Mike if he needed to go to Madam Pomfrey's office, which he didn't; and got him to tell her the names of the Slytherin boys, just in case.",
+      "And then Hermione Granger strolled away from the heap of unconscious bullies, making sure to put a smile on her face as she walked.",
+      "She knew that she was probably going to get hurt sooner or later. But if you were too scared of getting hurt to do what was right, then you couldn't be a hero, it was as simple as that; and if you'd put the Sorting Hat on her head at that moment it wouldn't have waited even <em>one</em> <em>second</em> before calling out 'GRYFFINDOR!'",
+      "She was still thinking about it when she came down to dinner; the euphoria of saving someone still hadn't worn off, and she was beginning to worry that it had broken something in her brain."
+    ]
+  },
+  {
+    "id": 12,
+    "paras": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "summary_en": "Whispers break out as Hermione reaches the Ravenclaw table. She sits across from a nervous Harry, serves herself a huge meal, and asks him how people fail to become themselves.",
+    "translation_fa": "وقتی به میز ریونکلاو نزدیک شد، ناگهان بیماری واگیردار پچ‌پچ شروع شد، و هرماینی حیران بود آیا پسر هافلپاف چیزی گفته، تا این‌که فهمید احتمالاً پچ‌پچ‌ها دربارهٔ آن نیست.\n\nروبروی هری پاتر نشست که به‌طرز عجیبی عصبی به نظر می‌رسید، احتمالاً چون او هنوز لبخند می‌زد.\n\n«آه ـــ» هری گفت، در حالی که هرماینی برای خودش نان تازه تست‌شده، کره، دارچین، هیچ میوه و سبزی‌ای، و سه سهم براونی شکلاتی کشید. «آه ـــ»\n\nگذاشت همین‌طور ادامه دهد تا لیوان آب‌گریپ‌فروت خودش را پر کند، و بعد گفت: «یک سؤال از تو دارم، آقای پاتر. فکر می‌کنی چطور می‌شود که مردم نمی‌توانند خودشان شوند؟»",
+    "summary_fa": "با رسیدن هرماینی به میز ریونکلاو پچ‌پچ بلند می‌شود. او روبروی هریِ عصبی می‌نشیند، غذای زیادی برای خودش می‌کشد و می‌پرسد به نظر او چطور می‌شود که مردم نمی‌توانند خودشان شوند.",
+    "verbatim_html": [
+      "As she approached the Ravenclaw table a sudden epidemic of whispers broke out, and Hermione wondered if the Hufflepuff boy had said anything yet before she realized that the whispers probably weren't about <em>that.</em>",
+      "She sat down across from Harry Potter who looked <em>extremely</em> nervous, probably because she was still smiling.",
+      "\"Uh -\" said Harry, as she served herself freshly toasted bread, butter, cinnamon, no fruits or vegetables whatsoever, and three helpings of chocolate brownies. \"Uh -\"",
+      "She let him go on like that until she'd finished pouring herself a glass of grapefruit juice, and then she said, \"I've got a question for you, Mr. Potter. How do you think people fail to become themselves?\""
+    ]
+  },
+  {
+    "id": 13,
+    "paras": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "summary_en": "Harry, confused but thinking it through, says people fail to become themselves because they absorb ideas from their environment and regurgitate them rather than inventing their own. Hermione reflects that there may be more than four viewpoints on the subject.",
+    "translation_fa": "«چی؟» هری گفت.\n\nبه او نگاه کرد. «فرض کن این‌همه ماجرا در جریان نیست،» گفت، «و فقط هر چیزی را که دیروز می‌گفتی بگو.»\n\n«امم...» هری گفت و بسیار گیج و نگران به نظر می‌رسید. «فکر می‌کنم ما از قبل خودمان هستیم... این‌طور نیست که من نسخهٔ ناقص کس دیگری باشم. ولی حدس می‌زنم اگر بخواهم با حس سؤال پیش بروم، می‌گویم مردم خودشان نمی‌شوند چون ما این‌همه چیزهای دیوانه‌وار را از محیط جذب می‌کنیم و بعد بالا می‌آوریم. یعنی، چند نفر از کسانی که کوییدیچ بازی می‌کنند اگر خودشان بازی را اختراع کرده بودند، چنین بازی‌ای می‌کردند؟ یا در بریتانیای مگلی، چند نفر از کسانی که خودشان را کارگر یا محافظه‌کار یا لیبرال‌دموکرات می‌دانند، اگر مجبور بودند همه‌چیز را خودشان از صفر بسازند، دقیقاً همین بستهٔ باورهای سیاسی را اختراع می‌کردند؟»\n\nهرماینی درباره‌اش فکر کرد. حیران بود آیا هری چیزی اسلیترین‌وار یا شاید حتی گریفیندوروار خواهد گفت، ولی این با فهرست مدیر جور درنمی‌آمد؛ و به ذهن هرماینی رسید که شاید دیدگاه‌های بسیار بیشتری از فقط چهار تا دربارهٔ این موضوع وجود داشته باشد.",
+    "summary_fa": "هری که گیج است ولی می‌اندیشد، می‌گوید مردم خودشان نمی‌شوند چون ایده‌ها را از محیط جذب و بازتولید می‌کنند به‌جای این‌که خودشان بسازند. هرماینی فکر می‌کند شاید بیش از چهار دیدگاه دربارهٔ این موضوع وجود داشته باشد.",
+    "verbatim_html": [
+      "\"<em>What?</em> \" said Harry.",
+      "She looked at him. \"Pretend there isn't all this stuff going on,\" she said, \"and just say whatever you'd have said yesterday.\"",
+      "\"Um...\" Harry said, looking very confused and worried. \"I think we already <em>are</em> ourselves... it's not like I'm an imperfect copy of someone else. But I guess if I try to run with the sense of the question, then I'd say that people don't become themselves because we absorb all this crazy stuff from the environment and then regurgitate it. I mean, how many people playing Quidditch would be playing a game like that if they'd invented the game themselves? Or back in Muggle Britain, how many people who think of themselves as Labour or Conservative or Liberal Democrat would invent that exact bundle of political beliefs if they had to come up with everything themselves?\"",
+      "Hermione considered this. She'd been wondering if Harry would say something Slytherin or maybe even Gryffindor, but this didn't seem to fit into the Headmaster's list; and it occurred to Hermione that there might be a lot more viewpoints on the subject than just four."
+    ]
+  },
+  {
+    "id": 14,
+    "paras": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "summary_en": "Harry defines heroes as rare people who must make everything up as they go, unlike people who only act when the world channels them into it. Hermione announces she stunned three Slytherin bullies and rescued a Hufflepuff, and that she is going to be a hero.",
+    "translation_fa": "«باشه،» هرماینی گفت، «سؤال متفاوت. چه چیزی کسی را قهرمان می‌کند؟»\n\n«قهرمان؟» هری گفت.\n\n«آره،» هرماینی گفت.\n\n«آه...» هری گفت. چنگال و چاقویش با اضطراب تکه‌ای استیک را می‌بریدند و به تکه‌های ریزتر و ریزتر تقسیمش می‌کردند. «فکر می‌کنم خیلی‌ها می‌توانند کارهایی بکنند وقتی جهان آن‌ها را به سویش هدایت می‌کند... مثلاً مردم انتظار دارند انجامش دهی، یا فقط مهارت‌هایی را به کار می‌برد که از قبل می‌دانی، یا قدرتی نظاره می‌کند که خطاهایت را بگیرد و مطمئن شود سهمت را انجام می‌دهی. ولی مشکلاتی از این نوع احتمالاً از قبل دارند حل می‌شوند، می‌دانی، و بعد نیازی به قهرمان نیست. پس فکر می‌کنم کسانی که آن‌ها را قهرمان می‌نامیم کمیاب‌اند چون باید همه‌چیز را همان‌طور که پیش می‌روند از خودشان بسازند، و بیشتر مردم با این راحت نیستند. چرا می‌پرسی؟» چنگال هری سه تکهٔ استیک کاملاً رشته‌رشته‌شده را سوراخ کرد و به دهانش برد.\n\n«اوه، فقط سه قلدر بزرگ‌تر اسلیترین را بی‌هوش کردم و یک هافلپاف را نجات دادم،» هرماینی گفت. «من می‌خواهم قهرمان شوم.»",
+    "summary_fa": "هری قهرمان‌ها را کمیاب می‌داند چون باید همه‌چیز را همان‌طور که پیش می‌روند از خودشان بسازند، برخلاف کسانی که فقط وقتی جهان هدایتشان می‌کند عمل می‌کنند. هرماینی اعلام می‌کند سه قلدر اسلیترین را بی‌هوش کرده و یک هافلپاف را نجات داده، و می‌خواهد قهرمان شود.",
+    "verbatim_html": [
+      "\"Okay,\" said Hermione, \"different question. What makes someone a hero?\"",
+      "\"A <em>hero?</em> \" said Harry.",
+      "\"Yeah,\" said Hermione.",
+      "\"Ah...\" Harry said. His fork and knife nervously sawed at a piece of steak, cutting it into tinier and tinier pieces. \"I think a lot of people can do things when the world channels them into it... like people are expecting you to do it, or it only uses skills you already know, or there's an authority watching to catch your mistakes and make sure you do your part. But problems like that are probably already being solved, you know, and then there's no need for heroes. So I think the people we call 'heroes' are rare because they've got to make everything up as they go along, and most people aren't comfortable with that. Why do you ask?\" Harry's fork stabbed three pieces of thoroughly shredded steak and lifted them up to his mouth.",
+      "\"Oh, I just stunned three older Slytherin bullies and rescued a Hufflepuff,\" said Hermione. \"I'm going to be a hero.\""
+    ]
+  },
+  {
+    "id": 15,
+    "paras": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "summary_en": "Harry chokes on his food, and Hermione tells the story, omitting the phoenix. She apologizes for her earlier behavior and says that if she can still beat him in Charms, he may do better in Defense. Harry asks grimly whether this is who she is, or whether it is him.",
+    "translation_fa": "وقتی هری از خفه شدن با غذایش تمام شد (بعضی از ریونکلاوهای دیگر در محدودهٔ شنیدن هنوز سرفه می‌کردند)، گفت: «چی؟»\n\nهرماینی ماجرا را تعریف کرد، و همان‌طور که حرف می‌زد پچ‌پچ‌ها بیشتر موج می‌زدند. (هرچند بخش ققنوس را حذف کرد، چون آن به نظر چیز خصوصیِ بین خودشان می‌آمد. هرماینی بعداً با فکر کردن به آن حیرت کرده بود که ققنوس برای کسی ظاهر شود که می‌خواهد قهرمان شود؛ وقتی این‌طور فکر می‌کرد کمی خودخواهانه به نظر می‌رسید؛ ولی شاید برای ققنوس‌ها مهم نبود تا وقتی می‌دیدند تو حاضر به کمک به مردم هستی.)\n\nوقتی حرفش تمام شد، هری از آن سوی میز به او خیره شد و کلمه‌ای نگفت.\n\n«برای رفتار قبلی‌ام متأسفم،» هرماینی گفت. جرعه‌ای از لیوان آب‌گریپ‌فروتش نوشید. «باید یادم می‌ماند که اگر هنوز در کلاس طلسم‌ها از تو بهترم، اشکالی ندارد که تو در دفاع بهتر باشی.»\n\n«لطفاً این را بد برداشت نکن،» هری گفت. حالا بیش از حد بزرگسال و جدی به نظر می‌رسید. «ولی مطمئنی این خودِ توست، و نه، رک بگویم، من؟»",
+    "summary_fa": "هری از خفه شدن با غذایش تمام می‌شود و هرماینی ماجرا را بدون بخش ققنوس تعریف می‌کند. او برای رفتار قبلی‌اش عذرخواهی می‌کند و می‌گوید اگر هنوز در طلسم‌ها از هری بهتر است، هری می‌تواند در دفاع بهتر باشد. هری جدی می‌پرسد آیا این خودِ اوست یا تقلید از هری.",
+    "verbatim_html": [
+      "When Harry had finished choking on his food (some of the other Ravenclaws in hearing distance were still coughing) he said, \"<em>What?</em> \"",
+      "Hermione told the story, it began rippling out in further whispers even as she spoke. (Though she left out the part about the phoenix, because that seemed like a private thing between the two of them. Hermione had felt surprised, thinking about it afterward, that a phoenix would appear for someone who <em>wanted</em> to be a hero; it seemed a bit selfish when she thought about it that way; but maybe it didn't matter to phoenixes so long as they saw that you were willing to help people.)",
+      "When she was done talking, Harry stared at her across the table and didn't say a word.",
+      "\"I'm sorry for how I acted earlier,\" Hermione said. She sipped from her glass of grapefruit juice. \"I should've remembered that if I'm still beating the pants off you in Charms class then it's okay for you to do better in Defense.\"",
+      "\"<em>Please</em> don't take this the wrong way,\" said Harry. He looked too-adult now, and grim. \"But are you sure this is who <em>you</em> are, and not, to put it bluntly, me?\""
+    ]
+  },
+  {
+    "id": 16,
+    "paras": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "summary_en": "Hermione is certain, joking that her name practically spells heroine. Harry warns that real heroing is hard, painful, and full of decisions without good answers, and that books cannot prepare her. Hermione points out those warnings never stopped him, so they will not stop her either.",
+    "translation_fa": "«کاملاً مطمئنم،» هرماینی گفت. «چرا، اسم من تقریباً واژهٔ heroine را هجی می‌کند، جز یک m اضافه، تا امروز متوجهش نشده بودم.»\n\n«قهرمان بودن همه‌اش تفریح و بازی نیست،» هری گفت. «نه قهرمانی واقعی، آن نوعی که بزرگ‌ترها مجبورند انجام دهند، این‌طور نیست، این‌قدر آسان نخواهد بود.»\n\n«می‌دانم،» هرماینی گفت.\n\n«سخت است و دردناک است و باید تصمیم‌هایی بگیری که هیچ پاسخ خوبی ندارند ـــ»\n\n«بله، هری، آن کتاب‌ها را من هم خوانده‌ام.»\n\n«نه،» هری گفت، «نمی‌فهمی، حتی اگر کتاب‌ها هشدار بدهند، هیچ راهی نیست که بفهمی تا وقتی ـــ»\n\n«این مانع تو نشد،» هرماینی گفت. «حتی ذره‌ای مانعت نشد. شرط می‌بندم هرگز به‌خاطر آن به این فکر هم نکردی که قهرمان نباشی. پس چرا فکر می‌کنی مانع من می‌شود؟»",
+    "summary_fa": "هرماینی مطمئن است و شوخی می‌کند که نامش تقریباً واژهٔ heroine را هجی می‌کند. هری هشدار می‌دهد قهرمانی واقعی سخت و دردناک است و پر از تصمیم‌های بی‌پاسخ خوب، و کتاب‌ها نمی‌توانند آماده‌اش کنند. هرماینی می‌گوید این هشدارها هرگز مانع هری نشد، پس مانع او هم نمی‌شود.",
+    "verbatim_html": [
+      "\"I'm quite certain,\" said Hermione. \"Why, my name practically spells out 'heroine' except for the extra 'm', I never noticed that until today.\"",
+      "\"Being a hero isn't all fun and games,\" said Harry. \"Not real heroing, the sort grownups have to do, it isn't like this, it isn't going to be this easy.\"",
+      "\"I know,\" said Hermione.",
+      "\"It's hard and it's painful and you've got to make decisions where there isn't any good answer -\"",
+      "\"Yes, Harry, I read those books too.\"",
+      "\"No,\" said Harry, \"you don't understand, even if the books warn you there's no way you <em>can</em> understand until -\"",
+      "\"That doesn't stop you,\" said Hermione. \"It doesn't stop you even a little. I bet you never even <em>considered</em> not being a hero because of that. So why d'you think it'll stop me?\""
+    ]
+  },
+  {
+    "id": 17,
+    "paras": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "summary_en": "Harry's face lights up with a huge boyish smile, and things are all right between them again. He predicts it will go horribly wrong, and Hermione jokes about finding another mysterious old wizard since Dumbledore refused.",
+    "translation_fa": "سکوت کوتاهی بود.\n\nلبخند بزرگ و ناگهانی‌ای صورت هری را روشن کرد، لبخندی به‌اندازهٔ روشنی و پسرانگیِ اخمِ سخت و بزرگسالانهٔ پیشین، و همه‌چیز میانشان دوباره خوب شد.\n\n«این به‌نحوی هولناک و مغزشکن پیش خواهد رفت،» هری گفت، هنوز با لبخندی بزرگ. «این را می‌دانی، درست است؟»\n\n«اوه، می‌دانم،» هرماینی گفت. لقمهٔ دیگری از نان تست خورد. «این یادم انداخت، دامبلدور از این‌که جادوگر پیر و مرموز من باشد سر باز زد، جایی هست که بتوانم بنویسم تا یکی دیگر بگیرم؟»",
+    "summary_fa": "صورت هری با لبخندی بزرگ و پسرانه روشن می‌شود و همه‌چیز میانشان دوباره خوب می‌شود. او پیش‌بینی می‌کند این کار به‌نحوی هولناک اشتباه پیش خواهد رفت، و هرماینی شوخی می‌کند چون دامبلدور قبول نکرده، جایی برای پیدا کردن جادوگر پیر و مرموز دیگر هست.",
+    "verbatim_html": [
+      "There was a pause.",
+      "A sudden huge smile lit Harry's face, a smile that was as bright and as boyish as the frown had been grim and adult, and everything was all right again between them.",
+      "\"This is going to go horribly mind-bogglingly wrong somehow,\" said Harry, still smiling hugely. \"You know that, right?\"",
+      "\"Oh, I know,\" said Hermione. She ate another bite of toast. \"That reminds me, Dumbledore refused to be my mysterious old wizard, is there someplace I can write to get another one?\""
+    ]
+  },
+  {
+    "id": 18,
+    "paras": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "summary_en": "Minerva confronts Dumbledore: Flitwick says Hermione's determination is unshakeable, and even a threat to transfer her to Gryffindor did not make her blink. Minerva realizes Dumbledore deliberately provoked her, and shrieks his name; he calmly explains that heroes react predictably to being told they are too young or not destined for heroism.",
+    "translation_fa": "پس‌لرزه:\n\n«...و پروفسور فلیتویک می‌گوید عزمش تزلزل‌ناپذیر به نظر می‌رسد،» مینروا با لحنی سخت گفت و به جادوگر پیر ریش‌نقره‌ای خیره شد که مسئول این ماجرا بود. آلبوس دامبلدور فقط ساکت نشسته بود و با نگاهی دور و غمگین به او گوش می‌داد. «خانم گرنجر حتی پلک هم نزد وقتی پروفسور فلیتویک تهدید کرد به گریفیندور منتقلش می‌کند، فقط گفت اگر برود همهٔ کتاب‌ها را با خودش می‌برد. هرماینی گرنجر تصمیم گرفته قهرمان شود و جواب نه نمی‌پذیرد. شک دارم می‌توانستی بیشتر از این به این کار هلش بدهی اگر تلاش هم می‌کردی ـــ»\n\nپنج ثانیهٔ کامل طول کشید تا مغز مینروا این واقعیت را هضم کند.\n\n«آلبوس!» جیغ کشید.\n\n«عزیزم،» جادوگر پیر گفت، «بعد از این‌که با حدود سی قهرمان سروکله زدی، می‌فهمی آن‌ها به چیزهای خاصی کاملاً قابل‌پیش‌بینی واکنش می‌دهند؛ مثل این‌که بهشان بگویند خیلی جوان‌اند، یا مقدر نیست قهرمان شوند، یا قهرمان بودن ناخوشایند است؛ و اگر واقعاً می‌خواهی مطمئن شوی، باید هر سه را بهشان بگویی. هرچند،» با آهی کوتاه، «بیش از حد آشکار بودن هم به کار نمی‌آید، وگرنه ممکن است معاون مدیرت تو را بگیرد.»",
+    "summary_fa": "مینروا به دامبلدور می‌گوید فلیتویک عزم هرماینی را تزلزل‌ناپذیر می‌داند و حتی تهدید انتقال به گریفیندور او را متزلزل نکرد. مینروا می‌فهمد دامبلدور عمداً او را تحریک کرده و نامش را جیغ می‌زند؛ او آرام توضیح می‌دهد قهرمان‌ها به شنیدن این‌که خیلی جوان‌اند یا مقدر به قهرمانی نیستند یا قهرمانی ناخوشایند است، واکنش قابل‌پیش‌بینی می‌دهند.",
+    "verbatim_html": [
+      "<em>Aftermath:</em>",
+      "\"...and Professor Flitwick says her determination seems unshakeable,\" Minerva said tightly, staring at the silver-bearded old wizard who was responsible for this. Albus Dumbledore was just sitting silently and listening to her with a distant sad look in his eyes. \"Miss Granger didn't even blink when Professor Flitwick threatened to have her transferred to Gryffindor, just said that if she left she would take all the books with her. Hermione Granger has decided she's going to be a hero and she's not taking no for an answer. I doubt you could have pushed her into this any harder if you had <em>tried</em> to -\"",
+      "It took all of five full seconds for Minerva's brain to process the realization.",
+      "<em>\"ALBUS!\"</em> she shrieked.",
+      "\"My dear,\" said the old wizard, \"after you have dealt with your thirtieth hero or so, you will realize that they react quite predictably to certain things; such as being told that they are too young, or that they are not destined to be heroes, or that being a hero is unpleasant; and if you truly wish to be sure you should tell them all three. Although,\" with a brief sigh, \"it does not do to be <em>too</em> blatant, or your Deputy Headmistress might catch you.\""
+    ]
+  },
+  {
+    "id": 19,
+    "paras": [
+      87,
+      88,
+      89,
+      90
+    ],
+    "summary_en": "Minerva threatens Dumbledore if Hermione is hurt. He replies that a true hero would not listen to warnings anyway, and it is better for Harry if Hermione does not fall too far behind. Minerva protests that she is a twelve-year-old girl.",
+    "translation_fa": "«آلبوس،» مینروا گفت، صدایش حتی سخت‌تر شده بود، «اگر او آسیب ببیند، قسم می‌خورم این بار ـــ»\n\n«او هم به‌موقع به همین جا می‌رسید،» آلبوس گفت، نگاه دور و غمگین هنوز در چشمانش بود. «اگر کسی مقدر باشد قهرمان شود، به هشدارهای ما گوش نمی‌دهد، مینروا، هرقدر هم تلاش کنیم. و با این حساب، برای هری بهتر است که خانم گرنجر خیلی از او عقب نماند.» آلبوس، انگار از هیچ‌جا، قوطی‌ای بیرون آورد که با تکان باز شد و تکه‌های کوچک زرد نشان داد؛ هرگز نفهمیده بود کجا نگهش می‌دارد و هرگز نتوانسته بود جادوی مربوط را تشخیص دهد. «آب‌نبات لیمو؟»\n\n«او یک دختر دوازده‌ساله است، آلبوس!»\n\nپس‌پس‌لرزه:",
+    "summary_fa": "مینروا به دامبلدور هشدار می‌دهد اگر هرماینی آسیب ببیند. او پاسخ می‌دهد قهرمان واقعی به هشدارها گوش نمی‌دهد و برای هری بهتر است هرماینی خیلی از او عقب نماند. مینروا اعتراض می‌کند که او فقط دختری دوازده‌ساله است.",
+    "verbatim_html": [
+      "\"Albus,\" Minerva said, her voice even tighter, \"if she is hurt, I swear this time I'll -\"",
+      "\"She would have come to that same place in due time,\" Albus said, the distant sad look still in his eyes. \"If someone is meant to become a hero then they will not listen to our warnings, Minerva, no matter how hard we try. And given that, it is better for Harry if Miss Granger does not fall too far behind him.\" Albus produced, as though from nowhere, a tin which flipped open to reveal small yellow lumps, she'd never been able to figure out where he kept it and she'd never been able to detect the magic involved. \"Lemon drop?\"",
+      "\"<em>She is a twelve-year-old girl, Albus!</em> \"",
+      "<em>Afteraftermath:</em>"
+    ]
+  },
+  {
+    "id": 20,
+    "paras": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "summary_en": "In the Slytherin common room, a sparkling Daphne sits with her head in her hands. She had expected to be teased for liking Neville and had prepared comebacks, because such teasing would mean she had grown into a real girl. Instead, nobody realized her challenge meant she liked him.",
+    "translation_fa": "درون پنجره‌ها، به‌سختی در تاریکی غروب دیده می‌شدند، ماهی‌ها در آب‌های سیاه شنا می‌کردند؛ با نزدیک شدن به درخشش روشن سالن عمومی اسلیترین روشن می‌شدند و با دور شدن در تاریکی محو می‌شدند.\n\nدافنه گرین‌گرس روی کاناپهٔ چرمی سیاه و راحتی نشسته بود، سرش در دستانش فرو افتاده، و به رنگ طلایی-زرد می‌درخشید، در حالی که جرقه‌های سفید روشن پیرامونش چشمک می‌زدند و محو می‌شدند.\n\nآماده بود به‌خاطر دوست داشتن نویل لانگ‌باتم سرزنش شود. انتظار داشت کلی حرف‌های کنایه‌آمیز دربارهٔ هافلپاف‌ها بشنود. در راه بازگشت به سیاه‌چال‌های اسلیترین طومارها از پاسخ‌های تیز برایش فکر کرده بود.\n\nبی‌صبرانه منتظر بود به‌خاطر دوست داشتن نویل سرزنش شود. سرزنش شدن دربارهٔ چنین چیزی یعنی به دختر واقعی‌ای بزرگ شده بودی.\n\nولی معلوم شد هیچ‌کس نفهمیده بود چالش دادنش به نویل برای یک دوئل بسیار کهن یعنی او را دوست دارد. فکر می‌کرد واضح است، ولی نه، ظاهراً هیچ‌کس دیگری حتی به آن فکر هم نکرده بود.",
+    "summary_fa": "در سالن اسلیترین دافنهٔ درخشان با سر در دستانش نشسته است. او انتظار داشت به‌خاطر دوست داشتن نویل سرزنش شود و پاسخ‌های آماده داشت، چون چنین سرزنشی یعنی به دختر واقعی‌ای بزرگ شده. ولی هیچ‌کس نفهمید چالش او یعنی نویل را دوست دارد.",
+    "verbatim_html": [
+      "Within the windows, barely visible in the evening gloom, fishes swam in the black waters; illuminated by the bright shine of the Slytherin common room as they came closer, fading into darkness as they swam away.",
+      "Daphne Greengrass was sitting in a comfortable black leather couch, her head collapsed into her hands, glowing golden-yellowish as bright sparks of white light winked in and out of existence around her.",
+      "She'd been ready to be teased about liking Neville Longbottom. She'd been expecting to hear a lot of snide remarks about Hufflepuffs. She'd thought of whole <em>reams</em> of snappy comebacks for it while she was on the way back to the Slytherin dungeons.",
+      "She'd been looking <em>forward</em> to being teased about liking Neville. Being teased about that sort of thing meant you'd grown up into a real girl.",
+      "As it turned out, nobody had worked out that her challenging Neville to a Most Ancient Duel meant that she liked him. She'd thought it would be <em>obvious</em> but no, nobody else had even thought of that apparently."
+    ]
+  },
+  {
+    "id": 21,
+    "paras": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "summary_en": "It is always the unseen hex that hits. Daphne regrets calling herself Greengrass of Sunshine, which has escalated through increasingly ridiculous titles to Sparkly Unicorn Princess of the Noble and Most Ancient House of Sparklypoo.",
+    "translation_fa": "همیشه همان طلسمی می‌زند که نمی‌بینی.\n\nباید فقط خودش را دافنهٔ آفتاب صدا می‌کرد، مثل نویلِ آشوب. یا دافنهٔ آفتابی مثل رانِ آفتابی. یا هر چیزی جز گرین‌گرسِ آفتاب.\n\nگرین‌گرسِ آفتاب.\n\nاز آنجا به گرین‌گرسِ آفتاب و آسمان‌های آبی رسیده بود.\n\nبعد کسی کوه‌های پوشیده از برف و موجودات جنگلیِ جست‌وخیزکننده را اضافه کرده بود.\n\nهمین حالا او را شاهزاده خانم تک‌شاخ درخشان از خاندان نجیب و بسیار کهنِ درخشان‌پو صدا می‌زدند.",
+    "summary_fa": "همیشه طلسمی می‌زند که نمی‌بینی. دافنه از این‌که خودش را گرین‌گرسِ آفتاب خوانده پشیمان است، لقبی که به عناوین مسخره‌تر و مسخره‌تر رسیده و اکنون شاهزاده خانم تک‌شاخ درخشان از خاندان درخشان‌پوست.",
+    "verbatim_html": [
+      "It was always the hex you didn't see that hit you.",
+      "She should've just called herself Daphne of Sunshine, like Neville of Chaos. Or Sunny Daphne like Sunny Ron. Or <em>anything</em> except Greengrass of Sunshine.",
+      "Greengrass of Sunshine.",
+      "It had gone from there to Greengrass of Sunshine and Blue Skies.",
+      "Then someone had added Snow-Topped Mountains and Frolicking Woodland Creatures.",
+      "Currently she was being referred to as the Sparkly Unicorn Princess of the Noble and Most Ancient House of Sparklypoo."
+    ]
+  },
+  {
+    "id": 22,
+    "paras": [
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "summary_en": "A cursed sixth-year hit Daphne with a Sparkling Jinx that Finite Incantatem could not remove. When the Carrow twins joke that the Wizengamot legalized let's-see-what-you-got challenges, Tracey repeats the phrase and falls asleep, and Daphne threatens to Floo them all into the sea.",
+    "translation_fa": "و دختری نفرین‌شده از سال ششم با طلسم درخشندگی به او زده بود، حتی نمی‌دانست چنین چیزی به نام طلسم درخشندگی وجود دارد، و فینیته اینکانتاتم کار نکرده بود، و او از دخترهای بزرگ‌تری که فکر می‌کرد دوستانش‌اند پرسیده بود (ظاهراً در این باره اشتباه کرده بود) و بعد خوانندهٔ طلسم را به آشوب سیاسی شدید از سوی پدرش تهدید کرده بود، و با این حال دافنه گرین‌گرس هنوز در سالن عمومی اسلیترین نشسته بود، سرش در دستانش، به‌روشنی می‌درخشید و حیران بود چطور شده تنها آدم عاقل هاگوارتز است.\n\nبعد از وقت شام بود و آن‌ها هنوز ادامه داشتند، و اگر تا فردا صبح متوقف نمی‌شدند، به دورم‌سترانگ منتقل می‌شد و بانوی تاریکی بعدی می‌شد.\n\n«هی، همه!» دوقلوهای کَرو با نمایشنامه‌ای از دیلی پروفت dramatic گفتند و روزنامه‌ای تکان دادند. «خبر را شنیدید؟ ویسن‌گاموت همین حالا حکم داد که «بیا ببینیم چه داری» یک چالش قانونی محسوب می‌شود که باید تا زمانی که چالش‌کننده دراز بکشد و چرت بزند ادامه یابد!»\n\n«چطور جسارت می‌کنی به شرافت شاهزاده خانم تک‌شاخ درخشان توهین کنی!» تریسی فریاد زد. «بیا ببینیم چه داری!» بعد تریسی صاف روی کاناپه‌اش دراز کشید و بلند خروپف کرد.\n\nسر درخشان دافنه بیشتر در دستان فروزانش فرو رفت. «بعد از این‌که خانواده‌ام قدرت را بگیرند، همه‌تان را زیر طلسم ضدظهرنوردی می‌گذارم و با فلو به دریا می‌فرستم،» به هیچ‌کس خاصی گفت. «همه‌تان با این موافقید، درست است؟»",
+    "summary_fa": "دختری لعنت‌شده از سال ششم طلسم درخشندگی به دافنه زده که فینیته اینکانتاتم از بین نمی‌بردش. وقتی دوقلوهای کرو شوخی می‌کنند ویسن‌گاموت «بیا ببینیم چه داری» را چالش قانونی اعلام کرده، تریسی همان عبارت را تکرار می‌کند و خوابش می‌برد، و دافنه تهدید می‌کند همه را با فلو به دریا می‌فرستد.",
+    "verbatim_html": [
+      "And some cursed sixth-year girl had hit her with a Sparkling Jinx, she hadn't even known there <em>was</em> such a thing as a Sparkling Jinx, and <em>Finite Incantatem</em> hadn't worked, and she'd asked older girls who she'd <em>thought</em> were her friends (she had apparently been wrong about this) and then she'd threatened the caster with grievous political mayhem wreaked by her father and nonetheless Daphne Greengrass was still sitting in the Slytherin common room with her head in her hands, sparkling brightly and wondering how she'd ended up as the only sane person in Hogwarts.",
+      "It was <em>after dinnertime</em> and they were <em>still at it</em> and if they didn't stop by tomorrow morning she was going to transfer to Durmstrang and become the next Dark Lady.",
+      "\"Hey, everyone!\" said the Carrow twins dramatically, waving an issue of the <em>Daily Prophet.</em> \"Did you hear the news? The Wizengamot just ruled that 'let's see what you got' constitutes a lawful challenge to be fought until the challenger lies down and has a nap!\"",
+      "\"How dare you insult the honor of the Sparkly Unicorn Princess!\" shouted Tracey. \"Let's see what you got!\" Then Tracey lay down flat on her sofa and started snoring loudly.",
+      "Daphne's sparkling head sank further into her glowing hands. \"After my family takes over I'm going to have you all put under anti-Apparition jinxes and Flooed into the sea,\" she said to no one in particular. \"You're all okay with that, right?\""
+    ]
+  },
+  {
+    "id": 23,
+    "paras": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "summary_en": "Daphne hears the Sunshine knock code and looks up in surprise. Mr. Goyle announces the knocking, and an older boy yanks the door open while repeating the challenge phrase.",
+    "translation_fa": "تِق‌تِق، تِق‌تِق‌تِق، تِق.\n\nدافنه حیرت‌زده سر بلند کرد؛ این یک نشانهٔ کد آفتاب بود ـــ\n\n«من کسی را به هجی می‌کنم که در می‌زند!» آقای گویل غرید. «در زدنِ در!»\n\n«بیا ببینیم چه داری، ای در!» پسری بزرگ‌تر نزدیک در فریاد زد و در را کشید و باز کرد.",
+    "summary_fa": "دافنه صدای کد ضربهٔ آفتاب را می‌شنود و حیرت‌زده سر بلند می‌کند. آقای گویل در زدن را اعلام می‌کند و پسری بزرگ‌تر با تکرار عبارت چالش، در را باز می‌کند.",
+    "verbatim_html": [
+      "<em>Thunk-thunk, thunk-thunk-thunk, thunk.</em>",
+      "Daphne looked up, surprised; that was a Sunshine code-signal -",
+      "\"<em>I hight someone knocking!</em> \" bellowed Mr. Goyle. \"<em>Knocking of the door!</em> \"",
+      "\"<em>Let's see what you've got, door!</em> \" shouted an older boy near the door, and yanked the door open."
+    ]
+  },
+  {
+    "id": 24,
+    "paras": [
+      111,
+      112,
+      113,
+      114
+    ],
+    "summary_en": "Everyone is astonished to see the Sunshine General, who asks to speak with Daphne and then notices her sparkling. Millicent rushes in reporting that Hermione beat up Derrick and his crew, then spots Hermione in the doorway.",
+    "translation_fa": "لحظه‌ای سکوت و حیرت کامل بود.\n\n«آمده‌ام با خانم گرین‌گرس حرفی بزنم،» ژنرال آفتاب گفت، و صدایش طوری بود که می‌کوشید بااعتماد به نفس به نظر برسد. «می‌شود کسی لطفاً ـــ»\n\nاز چهرهٔ هرماینی معلوم بود که همین حالا متوجه درخشش دافنه شده.\n\nو همان‌وقت بود که میلیسنت بولسترود از خوابگاه‌های پایین بالا دوید و فریاد زد: «هی، همه، حدس بزنید چی، حالا گرنجر رفته دریک و هر چه از گروهش مانده را کتک زده، و پدرش برایش جغد فرستاده و گفته اگر ـــ»",
+    "summary_fa": "همه از دیدن ژنرال آفتاب حیرت می‌کنند؛ او می‌خواهد با دافنه حرف بزند و سپس درخشش او را می‌بیند. میلیسنت با خبر این‌که هرماینی دریک و گروهش را کتک زده وارد می‌شود و هرماینی را در چارچوب در می‌بیند.",
+    "verbatim_html": [
+      "There was a moment of complete surprise.",
+      "\"I've come to have a word with Miss Greengrass,\" said the Sunshine General, sounding like she was trying to sound confident. \"Could someone please -\"",
+      "From the look on Hermione's face she had just noticed Daphne sparkling.",
+      "And <em>that</em> was when Millicent Bulstrode raced up from the lower dorms and shouted, \"Hey, everyone, guess what, now <em>Granger</em> went and beat up Derrick and what's left of his crew, and his father owled him and said that if he didn't -\""
+    ]
+  },
+  {
+    "id": 25,
+    "paras": [
+      115,
+      116,
+      117,
+      118
+    ],
+    "summary_en": "In the loud silence, Daphne asks what the General is doing there. Hermione explains that mysterious old wizards should not give only some people a chance at heroism, and that history lacks girl heroes, then asks why Daphne is glowing.",
+    "translation_fa": "میلیسنت هرماینی را دید که در چارچوب در ایستاده بود.\n\nسکوت بسیار بلندی برقرار شد.\n\n«آه،» دافنه گفت. چه؟ مغزش گفت. «آه، اینجا چه کار می‌کنی، ژنرال؟»\n\n«خب،» هرماینی گرنجر با لبخندی عجیب بر صورت گفت، «تصمیم گرفتم منصفانه نیست اگر جادوگران پیر و مرموز به بعضی‌ها فرصت قهرمان شدن بدهند و به بعضی‌ها نه، و تازه، کتاب‌های تاریخ خوانده‌ام و قهرمان‌های دختر به‌قدر کافی درشان نیستند. پس فکر کردم سری بزنم و ببینم تو هم می‌خواهی قهرمان شوی، و چرا این‌طور می‌درخشی؟»",
+    "summary_fa": "در سکوت سنگین دافنه می‌پرسد ژنرال اینجا چه می‌کند. هرماینی توضیح می‌دهد منصفانه نیست جادوگران پیر و مرموز فقط به بعضی‌ها فرصت قهرمانی بدهند و تاریخ قهرمان دختر کم دارد، سپس می‌پرسد چرا دافنه می‌درخشد.",
+    "verbatim_html": [
+      "Millicent caught sight of Hermione standing in the doorway.",
+      "There was a very loud silence.",
+      "\"Uh,\" said Daphne. <em>What?</em> said her brain. \"Uh, what're you doing here, General?\"",
+      "\"Well,\" said Hermione Granger with a strange smile on her face, \"I've decided it's not fair if mysterious old wizards give some people a chance to be heroes and not others, and also I've read history books and there aren't nearly enough girl heroes in them. So I thought I'd just drop by and see if you wanted to be a hero and why are you glowing like that?\""
+    ]
+  },
+  {
+    "id": 26,
+    "paras": [
+      119,
+      120,
+      121,
+      122
+    ],
+    "summary_en": "Daphne says this was probably not the best time to ask. Tracey immediately volunteers, and thus the Society for the Promotion of Heroic Equality for Witches is born.",
+    "translation_fa": "سکوت دیگری بود.\n\n«این،» دافنه گفت، «احتمالاً بهترین زمان برای پرسیدن آن سؤال از من نبود ـــ»\n\n«قبولش می‌کنم!» تریسی دیویس فریاد زد و از کاناپه‌اش پرید.\n\nو این‌طور بود که انجمن ترویج برابری قهرمانانه برای جادوگران زن زاده شد.",
+    "summary_fa": "دافنه می‌گوید این احتمالاً بهترین زمان برای پرسیدن آن سؤال نبود. تریسی بی‌درنگ داوطلب می‌شود، و این‌طور انجمن ترویج برابری قهرمانانه برای جادوگران زن زاده می‌شود.",
+    "verbatim_html": [
+      "There was another silence.",
+      "\"This,\" said Daphne, \"was probably <em>not</em> the best time to ask me that question -\"",
+      "\"<em>I'll take it!</em> \" shouted Tracey Davis, leaping off her sofa.",
+      "And thus was born the Society for the Promotion of Heroic Equality for Witches."
+    ]
+  }
+]
