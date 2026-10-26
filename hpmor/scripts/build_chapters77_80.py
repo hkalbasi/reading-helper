@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build chapter pages 77–80 from their archived source and annotated batches."""
+"""Build chapter pages from archived sources and annotated batches."""
 import hashlib
 import html as htmllib
 import json
@@ -13,6 +13,11 @@ CHAPTERS = {
     78: ("Taboo Tradeoffs Prelude: Cheating", "20261003224403"),
     79: ("Taboo Tradeoffs, Pt 1", "20260605011850"),
     80: ("Taboo Tradeoffs, Pt 2, The Horns Effect", "20260605011850"),
+    81: ("Taboo Tradeoffs, Pt 3", "20260330103949"),
+    82: ("Taboo Tradeoffs, Final", "20261003224410"),
+    83: ("Taboo Tradeoffs, Aftermath 1", "20261003224359"),
+    84: ("Taboo Tradeoffs, Aftermath 2", "20261003224410"),
+    85: ("Taboo Tradeoffs, Aftermath 3, Distance", "20260718152904"),
 }
 
 

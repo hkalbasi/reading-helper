@@ -1,0 +1,848 @@
+[
+  {
+    "paras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "summary_en": "Hermione wakes in the infirmary, sick and exhausted after the trial. McGonagall says the staff believe her memories were altered and advises her not to tell her Muggle parents about the danger.",
+    "translation_fa": "وقتی هرماینی گرنجر بیدار شد، خود را در تختی نرم و راحت در درمانگاه هاگوارتز دید؛ مربعِ نورِ غروب روی شکمش افتاده بود و از زیر پتوی نازک گرمش می‌کرد. حافظه‌اش می‌گفت باید ملحفه‌ای جداکننده بالای سرش باشد، چه دور تختش کشیده شده باشد و چه کنار رفته باشد؛ و آن‌سویش باقی قلمرو مادام پامفری: تخت‌های دیگر، خالی یا اشغال‌شده، و پنجره‌های روشن در دل سنگ‌های پرنقش‌ونگار هاگوارتز.\n\nوقتی هرماینی چشم باز کرد، نخستین چیزی که دید چهرهٔ پروفسور مک‌گوناگال بود که سمت چپ تختش نشسته بود. پروفسور فلیت‌ویک آنجا نبود، اما این قابل درک بود؛ تمام صبح در سلول بازداشت کنارش مانده بود، کلاغ نقره‌ای‌اش نگهبانی مضاعفی در برابر دیوانه‌ساز می‌داد و چهرهٔ کوچک و جدی‌اش همیشه رو به آورورها بود. رئیس ریونکلاو حتماً بیش از حد برای او وقت گذاشته بود و احتمالاً باید به تدریس کلاس‌هایش برمی‌گشت، به‌جای آنکه مراقب قاتلِ نافرجامی باشد که محکوم شده بود.\n\nحال هرماینی وحشتناک، وحشتناک بد بود و گمان نمی‌کرد علتش هیچ معجونی باشد. شاید دوباره می‌زد زیر گریه، اما گلویش درد می‌کرد، چشمانش هنوز می‌سوخت و ذهنش فقط خسته بود. تابِ گریستن دوباره را نداشت؛ نیرویی برای اشک ریختن در خود نمی‌یافت.\n\nهرماینی آهسته از رئیس خانهٔ گریفیندور پرسید: «پدر و مادرم کجا هستند؟» به‌نحوی روبه‌رو شدن با آن‌ها بدترین چیز دنیا به نظر می‌رسید، بدتر از همه‌چیز دیگر؛ و با این حال هنوز می‌خواست آن‌ها را ببیند.\n\nنگاه مهربان چهرهٔ پروفسور مک‌گوناگال به چیزی اندوهگین‌تر دگرگون شد. «متأسفم، خانم گرنجر. هرچند همیشه چنین نبوده، در سال‌های اخیر دریافته‌ایم عاقلانه‌تر است که والدین مشنگ‌زاده‌ها را از خطری که فرزندشان با آن روبه‌رو شده باخبر نکنیم. اگر می‌خواهی بی‌دردسر در هاگوارتز بمانی، به تو هم توصیه می‌کنم سکوت کنی.»\n\nدختر نجوا کرد: «قرار نیست اخراجم کنند؟ برای کاری که کردم؟»\n\nپروفسور مک‌گوناگال گفت: «نه. خانم گرنجر... حتماً شنیدی... امیدوارم وقتی آقای پاتر گفت بی‌گناهی، شنیده باشی؟»\n\nاو بی‌روح گفت: «فقط این را گفت که آزادم کند، منظورم همین است.»",
+    "summary_fa": "هرماینی در درمانگاه بیدار می‌شود و مک‌گوناگال به او می‌گوید کارکنان باور دارند خاطراتش دستکاری شده است. او که بیمار و خسته است، نگران اخراج و واکنش والدینش می‌شود.",
+    "id": 1,
+    "verbatim_html": [
+      "When Hermione Granger woke, she found herself lying in a soft,\ncomfortable bed of the Hogwarts infirmary, with a square of setting\nsunlight falling on her midriff, warm through the thin blanket.\nMemory said that there would be a screen-sheet above her, either\ndrawn around her bed or open, and that the rest of Madam Pomfrey's\ndomain would lie beyond: the other beds, occupied or unoccupied,\nand bright windows set in the curvily-carven stone of Hogwarts.",
+      "When Hermione opened her eyes, the first thing she saw was the\nface of Professor McGonagall, sitting on the left side of her bed.\nProfessor Flitwick wasn't there, but that was understandable, he'd\nstayed by her side all morning in the detention cell, his silver\nraven standing extra guard against the Dementor and his stern\nlittle face always turned outward toward the Aurors. The Head of\nRavenclaw had surely spent way too much time on her, and probably\nhad to get back to teaching his classes, instead of keeping watch\non a convicted attempted-murderess.",
+      "She felt horribly, horribly sick and she didn't think it was\nbecause of any potions. Hermione would've started crying again,\nonly her throat hurt, her eyes still burned, and her mind just felt\ntired. She couldn't have borne to weep again, couldn't find the\nstrength for tears.",
+      "\"Where are my parents?\" Hermione whispered to the Head of House\nGryffindor. Somehow it seemed like the worst thing in the world to\nface them, even worse than everything else; and yet she still\nwanted to see them.",
+      "The gentle look on Professor McGonagall's face Transfigured into\nsomething sadder. \"I'm sorry, Miss Granger. Though it was not\nalways so, we have found in recent years that it is wiser not to\ntell the parents of Muggleborns about any danger their child has\nfaced. I should advise you also to remain silent, if you wish to\nstay at Hogwarts without trouble from them.\"",
+      "\"I'm not being expelled?\" the girl whispered. \"For what I\ndid?\"",
+      "\"No,\" said Professor McGonagall. \"Miss Granger... surely you\nheard... I hope you heard Mr. Potter, when he said that you were\ninnocent?\"",
+      "\"He was just saying that,\" she said dully. \"To get me free, I\nmean.\""
+    ]
+  },
+  {
+    "paras": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "summary_en": "McGonagall explains that Harry, Dumbledore, and even Snape doubt Hermione's memories. She offers a reversible Memory Charm, but Hermione's guilt makes her hesitate to accept it.",
+    "translation_fa": "جادوگر سالخورده محکم سر تکان داد. «نه، خانم گرنجر. آقای پاتر باور دارد خاطراتت با طلسم حافظه تغییر کرده‌اند و آن دوئل اصلاً رخ نداده است. مدیر مدرسه گمان می‌کند جادوهای تاریک‌تری هم دخیل بوده‌اند؛ شاید دست خودت طلسم را اجرا کرده، اما ارادهٔ خودت در کار نبوده. حتی پروفسور اسنیپ هم ماجرا را کاملاً باورنکردنی می‌داند، هرچند شاید نتواند علناً چنین چیزی بگوید. او فکر می‌کرد شاید مواد مخدر مشنگی به تو داده باشند.»\n\nچشمان هرماینی همچنان از دور به استاد تغییرشکل خیره مانده بود؛ می‌دانست همین حالا چیزی مهم به او گفته‌اند، اما نیرویی نداشت تا تغییری را در ذهنش جا بیندازد.\n\nپروفسور مک‌گوناگال گفت: «حتماً خودت باور نداری؟ خانم گرنجر، نمی‌توانی دربارهٔ خودت باور داشته باشی که به قتل روی می‌آوری!»\n\nهرماینی گفت: «اما من ــ» حافظهٔ فوق‌العاده‌اش برای هزارمین بار با مهربانی آن صحنه را بازپخش کرد: دراکو مالفوی با پوزخند به او می‌گفت وقتی خسته نباشد هرگز شکستش نمی‌دهد، و بعد همان را ثابت می‌کرد؛ میان جام‌های محافظت‌شده چون دوئل‌گری می‌رقصید، در حالی که او هراسان تقلا می‌کرد، و ضربهٔ آخر را با طلسمی می‌زد که هرماینی را به دیوار می‌کوبید و گونه‌اش را خونین می‌کرد ــ و بعد ــ بعد او ــ\n\nجادوگر سالخورده که با درکی مهربان مراقبش بود گفت: «اما یادت هست که این کار را کردی. خانم گرنجر، لازم نیست دختر دوازده‌ساله‌ای چنین خاطرات هولناکی را به دوش بکشد. کافی است بگویی تا با کمال میل آن‌ها را برایت قفل کنم.»\n\nانگار لیوانی آب گرم به صورتش پاشیده باشند. «چی؟»\n\nپروفسور مک‌گوناگال چوبدستی‌اش را بیرون آورد؛ حرکتی آن‌قدر تمرین‌شده و سریع که به اشاره کردن با انگشت می‌مانست. استاد تغییرشکل با دقت همیشگی‌اش گفت: «نمی‌توانم پیشنهاد بدهم که خاطرات را به‌کلی از میان ببرم، خانم گرنجر. شاید واقعیت‌های مهمی در آن‌ها پنهان باشد. اما گونه‌ای از طلسم حافظه هست که برگشت‌پذیر است و با کمال میل آن را روی تو اجرا می‌کنم.»\n\nهرماینی به چوبدستی خیره شد و پس از نزدیک به دو روز، نخستین جوانه‌های امید را در خود احساس کرد.\n\n«کاش می‌شد کاری کرد که اتفاق نیفتاده باشد...» این آرزو را بارها و بارها کرده بود؛ کاش عقربه‌های زمان به عقب برمی‌گشتند و آن انتخاب هولناکی را پاک می‌کردند که هرگز، هرگز نمی‌شد جبرانش کرد. و اگر پاک کردن خاطره همان نبود، باز هم نوعی رهایی بود...",
+    "summary_fa": "مک‌گوناگال توضیح می‌دهد که هری، دامبلدور و حتی اسنیپ به خاطرات هرماینی شک دارند و طلسم حافظهٔ برگشت‌پذیری پیشنهاد می‌کند. هرماینی لحظه‌ای به رهایی می‌اندیشد، اما گناهش مانع پذیرش آسان آن می‌شود.",
+    "id": 2,
+    "verbatim_html": [
+      "The older witch shook her head firmly. \"No, Miss Granger. Mr.\nPotter believes you were Memory-Charmed, that the whole duel never\nhappened. The Headmaster suspects even Darker magics may have been\ninvolved - that your own hand might have cast the spell, but not\nyour own will. Even Professor Snape finds the affair completely\nunbelievable, though he may not be able to say so publicly. He was\nwondering if Muggle drugs might have been used on you.\"",
+      "Hermione's eyes went on staring distantly at the Transfiguration\nProfessor; she knew that she'd just been told something\nsignificant, but she couldn't find the energy to propagate any\nchanges through her mind.",
+      "\"Surely <em>you</em> don't believe it?\" said Professor\nMcGonagall. \"Miss Granger, you cannot believe of yourself that you\nwould turn to murder!\"",
+      "\"But I -\" Her excellent memory helpfully replayed it for the\nthousandth time, Draco Malfoy telling her with a sneer that she'd\nnever beat him when he wasn't tired, and then proceeding to prove\njust that, dancing like a duelist between the warded trophies while\nshe frantically scrambled, and dealing the ending blow with a hex\nthat sent her crashing against the wall and drew blood from her\ncheek - and then - then she'd -",
+      "\"But you remember doing it,\" said the older witch, who was\nwatching over her with kindly understanding. \"Miss Granger, there\nis no need for a twelve-year-old girl to bear such dreadful\nmemories. Say the word and I shall be happy to lock them away for\nyou.\"",
+      "It was like a glass of warm water thrown into her face.\n\"What?\"",
+      "Professor McGonagall took out her wand, a gesture so practiced\nand quick that it seemed like pointing a finger. \"I can't offer to\nrid you of the memories entirely, Miss Granger,\" the\nTransfiguration Professor said with her customary precision. \"There\nmay be important facts buried there. But there is a form of the\nMemory Charm which is reversible, and I shall be happy to cast that\non you.\"",
+      "Hermione stared at the wand, feeling the stirrings of hope for\nthe first time in almost two days.",
+      "<em>Make it didn't happen...</em> she'd wished that over and\nover again, for the hands of time to turn back and erase the\nhorrible choice that could never, ever be undone. And if erasing\nthe memory wasn't that, it was still a kind of release..."
+    ]
+  },
+  {
+    "paras": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "summary_en": "Hermione asks whether McGonagall and Harry truly believe she did not commit the murder. Hearing that Harry considers her memories fabricated, she sinks back into bed.",
+    "translation_fa": "او دوباره به چهرهٔ مهربان پروفسور مک‌گوناگال نگاه کرد.\n\nهرماینی با صدایی لرزان گفت: «واقعاً فکر نمی‌کنید من این کار را کرده‌ام؟»\n\n«کاملاً مطمئنم که با ارادهٔ خودت هرگز دست به چنین کاری نمی‌زدی.»\n\nدست‌های هرماینی زیر پتو ملحفه را چنگ زدند. «هری فکر نمی‌کند من این کار را کرده‌ام؟»\n\n«آقای پاتر بر این باور است که خاطراتت سراسر ساختگی‌اند. تا حدی می‌توانم نظرش را بفهمم.»\n\nآن‌گاه انگشتان چنگ‌زدهٔ هرماینی ملحفه را رها کردند و او دوباره روی تخت افتاد؛ از تخت نیم‌خیز شده بود.",
+    "summary_fa": "هرماینی می‌پرسد آیا مک‌گوناگال و هری واقعاً باور دارند او مرتکب قتل نشده است. وقتی می‌شنود هری خاطراتش را ساختگی می‌داند، دوباره روی تخت می‌افتد.",
+    "id": 3,
+    "verbatim_html": [
+      "She looked back at Professor McGonagall's kindly face.",
+      "\"You <em>really</em> don't think I did it?\" Hermione said, her\nvoice trembling.",
+      "\"I am <em>quite</em> certain you would never do such a thing of\nyour own will.\"",
+      "Beneath her blankets, Hermione's hands clutched at the sheets.\n\"<em>Harry</em> doesn't think I did it?\"",
+      "\"Mr. Potter is of the opinion that your memories are entire\nfabrications. I can rather see his point.\"",
+      "Then Hermione's clutching fingers let go of the sheet, and she\nslumped back into the bed, from which she'd partially risen."
+    ]
+  },
+  {
+    "paras": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "summary_en": "Hermione remembers choosing to hide Draco's death, even if the duel itself was fabricated. She blames herself, but McGonagall insists that the person who did this to her is the one at fault.",
+    "translation_fa": "نه.\n\nاو چیزی نگفته بود.\n\nبیدار شده و ماجرای شب قبل را به یاد آورده بود، و حسش مثل ــ مثل ــ حتی در فکر خودش هم واژه‌ای برایش پیدا نمی‌کرد. اما می‌دانست دراکو مالفوی دیگر مرده است و چیزی نگفته بود؛ نزد پروفسور فلیت‌ویک نرفته و اعتراف نکرده بود. فقط لباس پوشیده، برای صبحانه پایین رفته و «سعی کرده بود عادی رفتار کند» تا هیچ‌کس خبردار نشود؛ و می‌دانست کارش غلط بود، غلط و به‌شکلی وحشتناک غلط، اما آن‌قدر، آن‌قدر ترسیده بود ــ\n\nحتی اگر هری پاتر درست می‌گفت و دوئل با دراکو مالفوی دروغ بود، آن انتخاب را خودش به‌تنهایی کرده بود. سزاوار نبود آن را فراموش کند یا بابتش بخشیده شود.\n\nو اگر کار درست را کرده بود و بی‌درنگ پیش پروفسور فلیت‌ویک رفته بود، شاید آن کار ــ به‌نحوی ــ کمک می‌کرد؛ شاید همه می‌دیدند که پشیمان است و هری مجبور نمی‌شد برای نجاتش تمام پولش را بدهد ــ\n\nهرماینی چشم‌هایش را بست و محکم روی هم فشرد؛ طاقت نداشت دوباره گریه‌اش بگیرد. با صدایی لرزان گفت: «من آدم وحشتناکی‌ام. افتضاحم، اصلاً قهرمان نیستم ــ»\n\nصدای پروفسور مک‌گوناگال بسیار تند شد، انگار هرماینی همین حالا اشتباه هولناکی در تکلیف تغییرشکلش کرده باشد. «این‌قدر احمقانه حرف نزن، خانم گرنجر! آدم وحشتناک کسی است که این بلا را سرت آورده. و دربارهٔ قهرمان بودن ــ خب، خانم گرنجر، پیش‌تر نظرم را دربارهٔ دخترهای جوانی که پیش از چهارده‌سالگی خودشان را درگیر چنین چیزهایی می‌کنند گفته‌ام، پس دیگر موعظه‌ات نمی‌کنم. فقط می‌گویم همین حالا تجربه‌ای به‌غایت هولناک داشته‌ای و به بهترین شکلی که هر جادوگر هم‌سن‌وسالت می‌توانست از پسش برآید از آن جان به در برده‌ای. امروز هرقدر دلت می‌خواهد گریه کن. فردا به کلاس برمی‌گردی.»\n\nهمان‌جا بود که هرماینی فهمید پروفسور مک‌گوناگال نمی‌تواند کمکش کند. او به کسی نیاز داشت که سرزنشش کند؛ اگر تقصیری نداشت، نمی‌توانست تبرئه شود، و پروفسور مک‌گوناگال هرگز چنین کاری برایش نمی‌کرد، هرگز چنین بار سنگینی را بر دوش دختر کوچک ریونکلاوی نمی‌گذاشت.\n\nهری پاتر هم در این مورد کمکی به او نمی‌کرد.",
+    "summary_fa": "هرماینی به یاد می‌آورد که مرگ دراکو را پنهان کرده بود، حتی اگر خود دوئل ساختگی بوده باشد. او خودش را سرزنش می‌کند، اما مک‌گوناگال تأکید می‌کند مقصر کسی است که این بلا را بر سرش آورده.",
+    "id": 4,
+    "verbatim_html": [
+      "No.",
+      "She hadn't said anything.",
+      "She'd woken up and remembered what had happened last night, and\nit had been like - like - she couldn't find words even in her own\nthoughts for what it had been like. But she'd known that Draco\nMalfoy was already dead, and she hadn't said anything, hadn't gone\nto Professor Flitwick and confessed. She'd just dressed herself and\ngone down to breakfast and <em>tried to act normal</em> so that\nnobody would ever know, and she'd known it was wrong and Wrong and\nhorribly horribly WRONG but she'd been so, so scared -",
+      "Even if Harry Potter was right, even if the duel with Draco\nMalfoy was a lie, she'd made <em>that</em> choice all by herself.\nShe didn't deserve to forget that, or be forgiven for it.",
+      "And if she <em>had</em> done the right thing, gone straight to\nProfessor Flitwick, maybe that would've - helped, somehow, maybe\neveryone would've seen then that she regretted it, and Harry\nwouldn't have had to give away all his money to save her -",
+      "Hermione shut her eyes, squeezed them shut really tight, she\ncouldn't bear to start crying again. \"I'm a horrible person,\" she\nsaid in a wavering voice. \"I'm awful, I'm not heroic at all -\"",
+      "Professor McGonagall's voice was very sharp, like Hermione had\njust made some dreadful mistake on her Transfiguration homework.\n\"Stop being foolish, Miss Granger! <em>Horrible</em> is whoever did\nthis to you. And as for being heroic - well, Miss Granger, you have\nalready heard my opinion about young girls trying to involve\nthemselves in such things before they are even fourteen, so I shall\nnot lecture you on it again. I shall say only that you have just\nhad an absolutely dreadful experience, which you survived as well\nas any witch in your year possibly could. Today you are allowed to\ncry as much as you like. Tomorrow you are going back to class.\"",
+      "That was when Hermione knew that Professor McGonagall couldn't\nhelp her. She needed someone to scold her, she couldn't be absolved\nif she couldn't be blamed, and Professor McGonagall would never do\nthat for her, would never ask so much of a little Ravenclaw\ngirl.",
+      "It was something Harry Potter wouldn't help her with either."
+    ]
+  },
+  {
+    "paras": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "summary_en": "Hermione asks to see Dumbledore and apologizes for accepting Harry's protection. Dumbledore assures her that Harry would have attacked Azkaban to save her and says she has nothing to blame herself for.",
+    "translation_fa": "هرماینی در تخت درمانگاه غلت زد و خودش را جمع کرد و از پروفسور مک‌گوناگال رو برگرداند. آهسته گفت: «خواهش می‌کنم. می‌خواهم با مدیر ــ صحبت کنم ــ»\n\n«هرماینی.»\n\nوقتی هرماینی گرنجر بار دوم چشم گشود، چهرهٔ پرچین‌وچروک و نگران آلبوس دامبلدور را دید که بالای تختش خم شده بود؛ انگار خودش گریه کرده باشد، هرچند ناممکن بود. هرماینی از اینکه این‌قدر مزاحمش شده بود، بار دیگر احساس گناهی دردناک کرد.\n\nجادوگر پیر گفت: «مینروا گفت می‌خواستی با من صحبت کنی.»\n\n«من ــ» ناگهان هرماینی اصلاً نمی‌دانست چه بگوید. گلویش قفل شد و تنها توانست لکنت‌کنان بگوید: «من ــ متأسفم ــ»\n\nبه‌نحوی لحنش باید آن واژهٔ دیگر را رسانده باشد؛ همان واژه‌ای را که دیگر حتی نمی‌توانست به زبان بیاورد.\n\nدامبلدور گفت: «متأسفی؟ چرا، بابت چه چیزی باید متأسف باشی؟»\n\nباید واژه‌ها را به‌زور از گلویش بیرون می‌کشید. «به هری می‌گفتید ــ که نباید پول بدهد ــ پس من نباید ــ کاری را می‌کردم که پروفسور مک‌گوناگال گفت؛ نباید چوبدستی‌اش را لمس می‌کردم ــ»\n\nدامبلدور گفت: «عزیزم، اگر خودت را به خاندان پاتر سوگند نداده بودی، هری یک‌تنه به آزکابان حمله می‌کرد و احتمالاً هم پیروز می‌شد. آن پسر شاید کلماتش را با دقت انتخاب کند، اما تا امروز ندیده‌ام دروغ بگوید؛ و در پسرِ زنده‌مانده نیرویی هست که ارباب تاریکی هرگز نشناخت. او واقعاً می‌کوشید آزکابان را درهم بشکند، حتی اگر به بهای جانش تمام می‌شد.» صدای جادوگر پیر نرم‌تر و مهربان‌تر شد. «نه، هرماینی، هیچ چیزی نیست که بابتش خودت را سرزنش کنی.»\n\n«می‌توانستم وادارش کنم این کار را نکند.»\n\nدر چشمان دامبلدور برق کوچکی پدیدار شد، اما خستگی آن را خاموش کرد. «واقعاً، خانم گرنجر؟ شاید باید به جای من مدیر مدرسه شوی؛ چون من خودم چنین قدرتی بر بچه‌های یک‌دنده ندارم.»\n\n«هری قول داده بود ــ» صدایش برید. حقیقت هولناک به‌سختی بر زبان می‌آمد. «هری پاتر به من قول داده بود ــ اگر به او بگویم کمکم نکند ــ هرگز کمکم نکند.»",
+    "summary_fa": "هرماینی از دامبلدور می‌خواهد بیاید و بابت پذیرفتن حمایت هری عذرخواهی می‌کند. دامبلدور اطمینان می‌دهد که هری برای نجاتش به آزکابان حمله می‌کرد و او دلیلی برای سرزنش خود ندارد.",
+    "id": 5,
+    "verbatim_html": [
+      "Hermione turned over in the infirmary bed, huddling into\nherself, away from Professor McGonagall. \"Please,\" she whispered.\n\"I want to talk - to the Headmaster -\"",
+      "\"Hermione.\"",
+      "When Hermione Granger opened her eyes a second time, she saw the\ncare-lined face of Albus Dumbledore leaning over her bedside,\nlooking almost as though <em>he'd</em> been crying, though that was\nimpossible; and Hermione felt another stabbing pang of guilt for\nhaving bothered him so.",
+      "\"Minerva said you wished to speak with me,\" the old wizard\nsaid.",
+      "\"I -\" Suddenly Hermione didn't know at all what to say. Her\nthroat locked up, and all she could do was stammer, \"I - I'm -\"",
+      "Somehow her tone must have communicated the other word, the one\nshe couldn't even say anymore.",
+      "\"<em>Sorry?</em> \" said Dumbledore. \"Why, for what should you be\nsorry?\"",
+      "She had to force the words out of her throat. \"You were telling\nHarry - that he shouldn't pay - so <em>I</em> shouldn't - have done\nwhat Professor McGonagall said, I shouldn't have touched his wand\n-\"",
+      "\"My dear,\" said Dumbledore, \"had you not pledged yourself to the\nHouse of Potter, Harry would have attacked Azkaban singlehandedly,\nand quite possibly won. That boy may choose his words carefully,\nbut I have never yet known him to lie; and in the Boy-Who-Lived\nthere is power that the Dark Lord never knew. He would indeed have\ntried to break Azkaban, even at cost of his life.\" The old wizard's\nvoice grew gentler, and kinder. \"No, Hermione, you have nothing at\nall for which to blame yourself.\"",
+      "\"I could have <em>made</em> him not do it.\"",
+      "In Dumbledore's eyes a small twinkle appeared before it was lost\nto weariness. \"Really, Miss Granger? Perhaps you should be\nHeadmistress in my place, for I myself have no such power over\nstubborn children.\"",
+      "\"Harry promised -\" Her voice stopped. The awful truth was very\nhard to speak. \"Harry Potter promised me - that he would never help\nme - if I told him not to.\""
+    ]
+  },
+  {
+    "paras": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "summary_en": "Hermione regrets not going to Azkaban herself and asks why she could not be braver. Dumbledore tells her that he would have failed the same test as a first-year, and urges her to be as kind to herself as she is to others.",
+    "translation_fa": "لحظه‌ای سکوت شد. هرماینی فهمید وقتی دامبلدور بیدارش کرده بود، صداهای دورِ درمانگاه که هنگام حضور پروفسور مک‌گوناگال شنیده می‌شدند، خاموش شده بودند. از جایی که در تخت دراز کشیده بود فقط سقف و بالای پنجره‌های یکی از دیوارها را می‌دید؛ اما چیزی در میدان دیدش حرکت نمی‌کرد و اگر صدایی هم بود، نمی‌شنید.\n\nدامبلدور گفت: «آه.» جادوگر پیر آهی سنگین کشید. «گمانم ممکن است آن پسر به قولش عمل می‌کرد.»\n\n«باید ــ باید می‌رفتم ــ»\n\nدامبلدور پرسید: «با ارادهٔ خودت به آزکابان می‌رفتی؟ خانم گرنجر، این چیزی بیش از آن است که هرگز از کسی بخواهم بر دوش بگیرد.»\n\n«اما ــ» هرماینی آب دهانش را قورت داد. نمی‌توانست آن رخنهٔ منطقی را نبیند؛ هرکس می‌خواست از درِ قاب‌عکس‌دار خوابگاه ریونکلاو بگذرد، خیلی زود یاد می‌گرفت به عبارت‌بندی دقیق توجه کند. «اما چیزی نیست که خودتان حاضر نباشید بر دوش بگیرید.»\n\nجادوگر پیر گفت: «هرماینی ــ»\n\nصدای هرماینی انگار حالا بی‌نیاز از ذهنش به حرف زدن ادامه داد. «چرا؟ چرا نمی‌توانستم شجاع‌تر باشم؟ قرار بود قبلاً ــ در ژانویه، منظورم ــ برای هری جلوی دیوانه‌ساز بپرم، پس چرا ــ چرا ــ چرا نتوانستم ــ؟» چرا فکر فرستاده شدن به آزکابان کاملاً از هم گسیخته بودش؟ چرا همه‌چیز را دربارهٔ خوب بودن فراموش کرده بود ــ\n\nدامبلدور گفت: «دختر عزیزم.» چشمان آبی پشت عینک‌های نیم‌ماه، گناه او را کاملاً درک می‌کردند. «اگر خودم در سال اولم در هاگوارتز بودم، بهتر از تو عمل نمی‌کردم. همان‌قدر که با دیگران مهربانی، با خودت هم مهربان باش.»\n\n«پس واقعاً کار نادرستی کردم.» به‌نحوی نیاز داشت آن را بگوید و بشنود، با اینکه خودش از پیش می‌دانست.\n\nلحظه‌ای سکوت شد.",
+    "summary_fa": "هرماینی حسرت می‌خورد که خودش به آزکابان نرفته و می‌پرسد چرا شجاع‌تر نبوده است. دامبلدور می‌گوید خودش هم در سال اول هاگوارتز از این آزمون سربلند بیرون نمی‌آمد و از او می‌خواهد با خودش همان‌قدر مهربان باشد که با دیگران است.",
+    "id": 6,
+    "verbatim_html": [
+      "There was a pause. The distant noises of the infirmary that had\naccompanied Professor McGonagall had ceased, Hermione realized,\nwhen Dumbledore had awoken her. From where she lay in bed she could\nsee only the ceiling, and the top of one wall's windows, but\nnothing in her range of vision moved, and if there were sounds, she\ncould not hear them.",
+      "\"Ah,\" said Dumbledore. The old wizard sighed heavily. \"I suppose\nit <em>is</em> possible that the boy would have kept his\npromise.\"",
+      "\"I should - I should've -\"",
+      "\"Gone to Azkaban of your own will?\" Dumbledore said. \"Miss\nGranger, that is more than I would ever ask anyone to take upon\nthemselves.\"",
+      "\"But -\" Hermione swallowed. She couldn't help but notice the\nloophole, anyone who wanted to get through the portrait-door to the\nRavenclaw dorm quickly learned to pay attention to exact wordings.\n\"But it's not more than you'd take on <em>yourself</em>.\"",
+      "\"Hermione -\" the old wizard began.",
+      "\"Why?\" said Hermione's voice, it seemed to be running on without\nher mind, now. \"Why couldn't I be braver? I was going to run in\nfront of the Dementor - for Harry - before, I mean, in January - so\nwhy - why - why couldn't I -\" Why had the thought of being sent to\nAzkaban just completely <em>unglued</em> her, why had she forgotten\neverything about being Good -",
+      "\"My dear girl,\" Dumbledore said. The blue eyes behind the\nhalf-moon glasses showed a complete understanding of her guilt. \"I\nwould have done no better myself, in my first year in Hogwarts. As\nyou would be kind to others, be kinder to yourself as well.\"",
+      "\"So I <em>did</em> do the wrong thing.\" Somehow she needed to\nsay that, to be told that, even though she already knew.",
+      "There was a pause."
+    ]
+  },
+  {
+    "paras": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "summary_en": "Dumbledore explains that true evil knowingly hates and destroys what is good. He says Hermione's ordeal could have broken anyone, but what follows a breaking is also part of being a hero.",
+    "translation_fa": "جادوگر پیر گفت: «گوش کن، ریونکلاوی جوان، خوب به حرفم گوش کن، چون حقیقتی را برایت می‌گویم. بیشتر بدکاران خودشان را شرور نمی‌دانند؛ در واقع، بیشترشان خود را قهرمان داستان‌هایی می‌پندارند که برای خود تعریف می‌کنند. زمانی گمان می‌کردم بزرگ‌ترین شرارت‌های این جهان به نام خیر بزرگ‌تر انجام می‌شود. اشتباه می‌کردم. به‌طرزی هولناک اشتباه می‌کردم. در این جهان شرارتی هست که می‌داند شر است و با تمام توان از خیر نفرت دارد. خواهان نابود کردن هر چیز زیبایی است.»\n\nوقتی دامبلدور این را می‌گفت، هرماینی در تختش لرزید؛ به‌نحوی حرف‌هایش بسیار واقعی به نظر می‌رسید.\n\nجادوگر پیر ادامه داد: «هرماینی گرنجر، تو یکی از چیزهای زیبای این جهانی و آن شرارت هم از تو نفرت دارد. اگر حتی در این آزمون هم استوار می‌ماندی، باز هم ضربه‌های سخت‌تر و سخت‌تری به تو می‌زد تا خرد شوی. گمان نکن قهرمان‌ها شکست‌ناپذیرند! فقط شکستن ما دشوارتر است، هرماینی.» چشمان جادوگر پیر از هر زمانی که هرماینی دیده بود سخت‌گیرتر شده بودند. «وقتی ساعت‌ها از پا افتاده‌ای، وقتی درد و مرگ دیگر ترسی گذرا نیستند و قطعیت دارند، قهرمان ماندن دشوارتر است. اگر حقیقت را بگویم ــ بله، امروز در برابر آزکابان تردید نمی‌کردم. اما وقتی سال‌اولیِ هاگوارتز بودم، از دیوانه‌سازی‌ای که تو با آن روبه‌رو شدی می‌گریختم، چون پدرم در آزکابان مرده بود و من از آن‌ها می‌ترسیدم. این را بدان! شرارتی که به تو حمله کرد می‌توانست هرکسی را بشکند، حتی خودم را. فقط هری پاتر است که توان روبه‌رو شدن با آن وحشت را در خود دارد، وقتی قدرتش را به تمامی به دست آورده باشد.»\n\nگردن هرماینی دیگر تاب نداشت به جادوگر پیر خیره بماند؛ سرش را دوباره روی بالش گذاشت و به سقف نگریست و هرچه می‌توانست جذب کرد.\n\nصدایش دوباره لرزید. «چرا؟ چرا کسی باید تا این حد شرور باشد؟ نمی‌فهمم.»\n\nصدای دامبلدور که اندوهی عمیق در آن بود گفت: «من هم بارها از خودم پرسیده‌ام. سی سالِ سه‌برابرشده اندیشیده‌ام، و هنوز هم نمی‌فهمم. من و تو هرگز نخواهیم فهمید، هرماینی گرنجر. اما دست‌کم حالا می‌دانم شرارت واقعی، اگر می‌توانستیم با آن حرف بزنیم و بپرسیم چرا شرور است، چه پاسخی برای خودش می‌آورد. می‌گفت: چرا نه؟»\n\nدرون هرماینی جرقه‌ای کوتاه از خشم زبانه کشید. «حتماً یک میلیون دلیل هست که چرا نه!»\n\nصدای دامبلدور گفت: «البته. یک میلیون دلیل و بیشتر. من و تو همیشه آن دلیل‌ها را می‌دانیم. اگر اصرار داری این‌طور بیانش کنی ــ بله، هرماینی، آزمون امروز تو را شکست. اما آنچه پس از شکسته شدن رخ می‌دهد ــ آن هم بخشی از قهرمان بودن است. و تو قهرمانی، هرماینی گرنجر؛ و همیشه خواهی بود.»\n\nاو دوباره سر بلند کرد و به دامبلدور خیره شد.\n\nجادوگر پیر از کنار تختش برخاست. ریش نقره‌ای‌اش خم شد؛ دامبلدور با وقار به او تعظیم کرد و رفت.",
+    "summary_fa": "دامبلدور توضیح می‌دهد که شرارت واقعی آگاهانه از خیر نفرت دارد و آن را نابود می‌کند. او می‌گوید این رنج می‌توانست هرکسی را بشکند، اما آنچه پس از شکستن رخ می‌دهد نیز بخشی از قهرمان بودن است.",
+    "id": 7,
+    "verbatim_html": [
+      "\"Listen, young Ravenclaw,\" the old wizard said, \"hear me well,\nfor I shall speak to you a truth. Most ill-doers do not think of\nthemselves as evil; indeed, most conceive themselves the heroes of\nthe stories they tell. I once thought that the greatest evil in\nthis world was done in the name of the greater good. I was wrong.\nTerribly wrong. There is evil in this world which knows itself for\nevil, and hates the good with all its strength. All fair things\ndoes it desire to destroy.\"",
+      "Hermione shivered in her bed, somehow it seemed very real, when\nDumbledore said it.",
+      "The old wizard continued speaking. \"You are one of the fair\nthings of this world, Hermione Granger, and so that evil hates you\nas well. If you had stayed firm through even this trial, it would\nhave struck you harder and yet harder, until you shattered. Do not\nthink that heroes cannot be broken! We are only more difficult to\nbreak, Hermione.\" The old wizard's eyes had grown sterner than she\nhad ever seen. \"When you have been exhausted for many hours, when\npain and death is not a passing fear but a certainty, then it is\nharder to be a hero. If I must speak the truth - then today, yes, I\nwould not waver in the face of Azkaban. But when I was a first-year\nin Hogwarts - I would have fled from the Dementor that you\nconfronted, for my father had died in Azkaban, and I feared them.\nKnow this! The evil that struck at you could have broken anyone,\neven myself. Only Harry Potter has it within him to face that\nhorror, when he has come fully into his power.\"",
+      "Hermione's neck couldn't stare at the old wizard any longer; she\nlet her head fall back, back to the pillow, where she stared up at\nthe ceiling, absorbing what she could.",
+      "\"Why?\" Her voice trembled again. \"Why would anyone be that evil?\nI don't understand.\"",
+      "\"I, too, have wondered,\" said Dumbledore's voice, a deep sadness\nin it. \"For thrice ten years I wondered, and I still do not\nunderstand. You and I will never understand, Hermione Granger. But\nat least I know now what true evil would say for itself, if we\ncould speak to it and ask why it was evil. It would say, <em>Why\nnot?</em> \"",
+      "A brief flare of indignation inside her. \"There's got to be a\n<em>million</em> reasons why not!\"",
+      "\"Indeed,\" said Dumbledore's voice. \"A million reasons and more.\nWe will always know those reasons, you and I. If you insist on\nputting it that way - then yes, Hermione, this day's trial broke\nyou. But what happens <em>after</em> you break - that, too, is part\nof being a hero. Which you are, Hermione Granger, and will always\nbe.\"",
+      "She raised her head again, staring at him.",
+      "The old wizard got up from beside her bed. His silver beard\ndipped down, as Dumbledore bowed to her gravely, and left."
+    ]
+  },
+  {
+    "paras": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "summary_en": "Hermione feels nothing after Dumbledore calls her a hero. Outside the infirmary, he tells McGonagall he has warded Hermione and argues Hogwarts is safer than Beauxbatons.",
+    "translation_fa": "او همچنان به جایی که جادوگر پیر رفته بود خیره ماند.\n\nحرف‌هایش باید برای او معنایی می‌داشت، باید به دلش می‌نشست. باید درونش را بهتر می‌کرد که دامبلدور، کسی که پیش‌تر این‌قدر مردد به نظر می‌رسید، حالا او را قهرمان شناخته بود.\n\nهیچ احساسی نداشت.\n\nهرماینی سرش را دوباره روی تخت گذاشت؛ مادام پامفری آمد و وادارش کرد چیزی بنوشد که لب‌هایش را مانند سوزشِ پس از غذای تند می‌سوزاند، بوی تندتری داشت و اصلاً مزه‌ای نمی‌داد. برای هرماینی معنایی نداشت. همچنان به سنگ‌های دورِ سقف خیره ماند.\n\nمینروا کنار درهای دولنگهٔ درمانگاه هاگوارتز منتظر بود و می‌کوشید دوروبرش نپلکد. در کودکی، وقتی خودش در هاگوارتز بود، همیشه آن درها را «دروازه‌های شوم» می‌نامید و حالا نمی‌توانست از به یاد آوردن آن نام خودداری کند. خبرهای بد بسیاری اینجا گفته شده بود ــ\n\nآلبوس بیرون آمد. جادوگر پیر هنگام خروج از درمانگاه مکث نکرد و همچنان به سوی دفتر پروفسور فلیت‌ویک رفت؛ مینروا هم دنبالش راه افتاد.\n\nپروفسور مک‌گوناگال گلویش را صاف کرد. «تمام شد، آلبوس؟»\n\nجادوگر پیر به نشانهٔ تأیید سر تکان داد. «اگر جادوی خصمانه‌ای بر او اجرا شود، یا روحی لمسش کند، باخبر می‌شوم و می‌آیم.»\n\nپروفسور مک‌گوناگال گفت: «بعد از کلاس تغییرشکل با آقای پاتر صحبت کردم. عقیده‌اش این بود که از این به بعد خانم گرنجر به‌جای هاگوارتز به بوباتون برود.»\n\nجادوگر پیر سرش را تکان داد. «نه. اگر ولدمورت واقعاً بخواهد به خانم گرنجر ضربه بزند، پشتکارش حدی ندارد. خدمتگزارانش به سویش بازمی‌گردند؛ خودش به‌تنهایی نمی‌توانست بلاتریکس را بازیابد. حتی آزکابان هم از کینه‌توزی او در امان نیست، و بوباتون ــ نه، مینروا. گمان نمی‌کنم ولدمورت بتواند چنین تسخیرهایی را بارها انجام دهد یا سراغ هدف‌های نیرومندتر برود؛ وگرنه امسال بسیار متفاوت می‌گذشت. هری پاتر هم اینجاست؛ ولدمورت ناچار است از او بترسد، چه به این اعتراف کند و چه نکند. حالا که خانم گرنجر را محافظت کرده‌ام، داخل هاگوارتز از بیرونش امن‌تر خواهد بود.»",
+    "summary_fa": "هرماینی پس از آنکه دامبلدور او را قهرمان می‌خواند، هیچ احساسی ندارد. بیرون درمانگاه، دامبلدور به مک‌گوناگال می‌گوید هرماینی را محافظت کرده و استدلال می‌کند که هاگوارتز از بوباتون امن‌تر است.",
+    "id": 8,
+    "verbatim_html": [
+      "She went on looking at where the old wizard had gone.",
+      "It should have meant something to her, should have touched her.\nShould have made her felt better inside, that Dumbledore, who had\nseemed so reluctant before, had now acknowledged her as a hero.",
+      "She felt nothing.",
+      "Hermione let her head fall back to the bed, as Madam Pomfrey\ncame and made her drink something that seared her lips like the\nafterburn of spicy food, and smelled even hotter, and didn't taste\nlike anything at all. It meant nothing to her. She went on staring\nup at the distant stone tiles of the ceiling.",
+      "Minerva was waiting, doing her best not to hover, beside the\ndouble doors to the Hogwarts infirmary, she'd always thought of\nthose doors as \"the ominous gates\" as a child in Hogwarts, and\ncouldn't help but remember that now. Too much bad news had been\nspoken here -",
+      "Albus stepped out. The old wizard did not pause on the way out\nof the infirmary, only kept walking toward Professor Flitwick's\noffice; and Minerva followed him.",
+      "Professor McGonagall cleared her throat. \"Is it done,\nAlbus?\"",
+      "The old wizard nodded in affirmation. \"If any hostile magic is\ncast on her, or any spirit touches her, I shall know, and\ncome.\"",
+      "\"I spoke to Mr. Potter after Transfiguration class,\" said\nProfessor McGonagall. \"He was of the opinion that Miss Granger\nshould go to Beauxbatons, rather than Hogwarts, from now on.\"",
+      "The old wizard shook his head. \"No. If Voldemort truly desires\nto strike at Miss Granger - he is tenacious beyond measure. His\nservants are returning to him, he could not have retrieved\nBellatrix alone. Azkaban itself is not safe from his malice, and as\nfor Beauxbatons - no, Minerva. I do not think Voldemort can essay\nsuch possessions often, or against stronger targets, or this year\nwould have gone quite differently. And Harry Potter is here, whom\nVoldemort must fear whether he admits it or no. Now that I have\nwarded her, Miss Granger will be safer within Hogwarts than\nwithout.\""
+    ]
+  },
+  {
+    "paras": [
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "summary_en": "McGonagall agrees with Harry's concern about Hogwarts and relays his extensive safety measures for Neville and Hermione. Dumbledore accepts most precautions but refuses to move the Stone from Hogwarts.",
+    "translation_fa": "مینروا گفت: «به نظر آقای پاتر که این‌طور نمی‌رسید.» نتوانست لحن تند صدایش را پنهان کند؛ بخشی از وجودش هم قویاً با هری موافق بود. «به نظرش عقل سلیم می‌گوید خانم گرنجر باید تحصیلش را هر جایی جز هاگوارتز ادامه دهد.»\n\nجادوگر پیر آهی کشید. «می‌ترسم آن پسر زیادی میان مشنگ‌ها وقت گذرانده باشد. آن‌ها همیشه دنبال امنیت می‌گردند؛ همیشه خیال می‌کنند می‌شود به امنیت رسید. اگر خانم گرنجر در مرکز دژ ما امن نباشد، با بیرون رفتن هم امن‌تر نخواهد شد.»\n\nپروفسور مک‌گوناگال گفت: «ظاهراً همه چنین فکری نمی‌کنند.» این تقریباً نخستین نامه‌ای بود که با نگاهی گذرا روی میزش دیده بود: پاکتی از بهترین پوست بره، مهروموم‌شده با موم سبزفام و نقره‌ای که نقش ماری برجسته بر آن بود و به سویش می‌خزید و هیس‌هیس می‌کرد. «نامهٔ لرد مالفوی را دریافت کرده‌ام که پسرش را از هاگوارتز بیرون می‌برد.»\n\nجادوگر پیر سر تکان داد، اما از قدم برداشتن بازنایستاد. «هری خبر دارد؟»\n\n«بله.» صدایش برای لحظه‌ای لرزید؛ حالت چهرهٔ هری را به یاد آورد. «بعد از کلاس، آقای پاتر از عقل سلیم عالی لرد مالفوی تعریف کرد و گفت برای مشاور لانگ‌باتم نامه می‌نویسد تا او هم نوه‌اش را از هاگوارتز بیرون ببرد، مبادا هدف بعدی باشد. اگر سرپرست آقای لانگ‌باتم آن‌قدر سهل‌انگار باشد که او را در هاگوارتز نگه دارد، آقای پاتر می‌خواهد یک زمان‌برگردان، شنل نامرئی، جارو و کیفی برای حملشان داشته باشد؛ همچنین حلقه‌ای برای انگشت پا با دروازه‌بان اضطراری به مکانی امن، اگر کسی آقای لانگ‌باتم را برباید و او را از حفاظ‌های هاگوارتز بیرون ببرد. به آقای پاتر گفتم گمان نمی‌کنم وزارتخانه با چنین استفاده‌ای از زمان‌برگردان‌ها موافقت کند و او گفت نباید از آن‌ها اجازه بگیریم. اگر خانم گرنجر بماند، انتظار دارم بخواهد همین تجهیزات را داشته باشد. برای خودش هم جارویی سه‌نفره می‌خواهد که در کیفش حمل کند.» او از این فهرست احتیاط‌ها مبهوت نشده بود؛ از هوشمندی‌اش تحت تأثیر قرار گرفته بود، اما نه مبهوت ــ آخر، خودش استاد تغییرشکل بود. با این حال، این فکر که هری پاتر حالا هاگوارتز را به‌اندازهٔ پژوهش طلسم‌ها خطرناک می‌دانست، لرزه‌ای از نگرانی به جانش انداخت.\n\nآلبوس گفت: «سرپیچی از دپارتمان اسرار کار آسانی نیست. اما باقی موارد ــ» جادوگر پیر کمی در خود فرورفت. «بهتر است آنچه را می‌خواهد به پسر بدهیم. من هم از نویل محافظت می‌کنم و برای آگوستا می‌نویسم که تعطیلات را اینجا بماند.»\n\nمک‌گوناگال گفت: «و در آخر، آقای پاتر می‌گوید ــ آلبوس، این نقل‌قول مستقیم است ــ هر نوع طعمهٔ جادوگر تاریکی که مدیر مدرسه اینجا نگه داشته، باید همین حالا از مدرسه بیرون ببرد.» این بار نتوانست تندی را از صدایش بزداید.\n\nآلبوس با دردی آشکار در صدا گفت: «از فلامل هم همین را خواستم. اما استاد فلامل گفته ــ حتی او هم دیگر نمی‌تواند سنگ را امن نگه دارد؛ باور دارد ولدمورت راهی برای یافتنش دارد، هر جا پنهانش کنند؛ و راضی نیست جایی جز هاگوارتز از آن نگهبانی شود. مینروا، متأسفم، اما باید انجام شود ــ باید!»",
+    "summary_fa": "مک‌گوناگال نگرانی هری دربارهٔ امنیت هاگوارتز را بازگو می‌کند و تدابیر مفصل او برای نویل و هرماینی را شرح می‌دهد. دامبلدور بیشترشان را می‌پذیرد، اما نمی‌تواند سنگ را از هاگوارتز خارج کند.",
+    "id": 9,
+    "verbatim_html": [
+      "\"Mr. Potter seemed to doubt that,\" Minerva said. She couldn't\nquite keep the edge from her voice; there was a part of her that\nagreed rather strongly. \"He seemed to feel that common sense said\nMiss Granger should continue her education anywhere but\nHogwarts.\"",
+      "The old wizard sighed. \"I fear the boy has spent too much time\namong the Muggles. Always they reach for safety; always they\nimagine that safety can be reached. If Miss Granger is not safe\nwithin the center of our fortress, she shall be no safer for\nleaving it.\"",
+      "\"Not everyone seems to think so,\" said Professor McGonagall. It\nhad been almost the first letter she'd seen when she'd taken a\nquick look at her desk; an envelope of the finest sheepskin, sealed\nin greenish-silver wax, pressed into the image of a snake that rose\nand hissed at her. \"I have received Lord Malfoy's owl withdrawing\nhis son from Hogwarts.\"",
+      "The old wizard nodded, but did not break stride. \"Does Harry\nknow?\"",
+      "\"Yes.\" Her voice faltered, for a moment, remembering Harry's\nexpression. \"After class, Mr. Potter complimented Lord Malfoy's\nexcellent good sense, and said that he would be writing Madam\nLongbottom advising her to do the same with her grandson, in case\nhe was the next target. In the event that Mr. Longbottom's guardian\nwas so negligent as to keep him in Hogwarts, Mr. Potter wanted him\nto have a Time-Turner, an invisibility cloak, a broomstick, and a\npouch in which to carry them; also a toe-ring with an emergency\nportkey to a safe location, in case someone kidnaps Mr. Longbottom\nand takes him outside Hogwarts's wards. I told Mr. Potter that I\ndid not think the Ministry would consent to such use of our\nTime-Turners, and he said that we should not ask. I expect he will\nwant Miss Granger to receive the same, if she stays. And for\nhimself Mr. Potter wants a three-person broomstick to carry in his\npouch.\" She wasn't awed by the list of precautions. Impressed with\nthe cleverness, but not awed; she was a Transfiguration Mistress,\nafter all. But it still sent shivers of disquiet through her, that\nHarry Potter now thought Hogwarts as dangerous as spell\nresearch.",
+      "\"The Department of Mysteries is not lightly defied,\" said Albus.\n\"But for the rest -\" The old wizard seemed to slump in on himself\nslightly. \"We may as well give the boy what he wishes. And I will\nward Neville also, and write Augusta to say that he should stay\nhere over holiday.\"",
+      "\"And finally,\" she said, \"Mr. Potter says - this is a direct\nquote, Albus - whatever kind of Dark Wizard attractant the\nHeadmaster is keeping here, he needs to get it out of this school,\n<em>now</em>.\" She couldn't stop the edge in her own voice, that\ntime.",
+      "\"I asked as much of Flamel,\" Albus said, the pain clear in his\nvoice. \"But Master Flamel has said - that even <em>he</em> can no\nlonger keep safe the Stone - that he believes Voldemort has means\nof finding it wherever it is hidden - and that he does not consent\nfor it to be guarded anywhere but Hogwarts. Minerva, I am sorry,\nbut it must be done - <em>must!</em> \""
+    ]
+  },
+  {
+    "paras": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ],
+    "summary_en": "McGonagall tells Dumbledore that Harry is right on every count. Dumbledore fears he may have succumbed to darkness, and wonders whether evil done for good is worse than evil done for evil; he then suggests Harry's prophesied enemy may not be Voldemort.",
+    "translation_fa": "پروفسور مک‌گوناگال گفت: «بسیار خوب. اما من شخصاً فکر می‌کنم آقای پاتر در تک‌تک موارد حق دارد.»\n\nجادوگر پیر نگاهی به او انداخت و هنگام گفتن این حرف صدایش لرزید: «مینروا، تو مدت‌هاست مرا می‌شناسی، به‌اندازهٔ هر کسی که هنوز زنده است ــ به من بگو، آیا همین حالا هم به تاریکی باخته‌ام؟»\n\nپروفسور مک‌گوناگال با شگفتی واقعی گفت: «چی؟» بعد افزود: «آه، آلبوس، نه!»\n\nلب‌های جادوگر پیر پیش از آنکه سخن بگوید محکم به هم فشرده شد. «برای خیر بزرگ‌تر. چه بسیار کسانی را برای خیر بزرگ‌تر قربانی کرده‌ام. امروز نزدیک بود هرماینی گرنجر را به‌خاطر خیر بزرگ‌تر به آزکابان محکوم کنم. و می‌بینم که ــ امروز، دیدم که ــ دارم کم‌کم به بی‌گناهی‌ای که دیگر از آنِ من نیست رشک می‌برم ــ» صدای جادوگر پیر برید. «شرارتی که به نام خیر انجام شود. شرارتی که به نام شر انجام شود. کدام بدتر است؟»\n\n«داری احمقانه رفتار می‌کنی، آلبوس.»\n\nجادوگر پیر دوباره نگاهی به او انداخت و سپس چشمش را به راه پیش رو دوخت. «بگو، مینروا ــ پیش از آنکه به خانم گرنجر بگویی چطور خودش را به خاندان پاتر مقید کند، لحظه‌ای ایستادی تا پیامدهایش را بسنجی؟»\n\nوقتی فهمید چه کرده بود، بی‌اختیار نفسی کشید ــ\n\nآلبوس گفت: «پس مکث نکردی.» در چشمانش اندوه بود. «نه، مینروا، نباید عذرخواهی کنی. همین خوب است. با توجه به آنچه امروز از من دیده‌ای، اگر از این پس وفاداری نخستت به هری پاتر باشد و نه به من، درست و بجاست.» مک‌گوناگال لب گشود تا اعتراض کند، اما آلبوس پیش از آنکه حرفی بزند ادامه داد: «در واقع، اگر ارباب تاریکی‌ای که هری باید شکست دهد تا به قدرت برسد، اصلاً ولدمورت نباشد، این کار ضروری خواهد بود؛ حتی بیش از ضروری ــ»\n\nمینروا گفت: «باز هم نه! آلبوس، این تو-که-نامش-را-نباید-برد بود، نه تو، که هری را همتای خود نشانه‌گذاری کرد. هیچ راه ممکنی وجود ندارد که پیش‌گویی دربارهٔ تو باشد!»\n\nجادوگر پیر سر تکان داد، اما چشمانش همچنان دوردست می‌نگریستند و تنها به راه پیش رو خیره مانده بودند.",
+    "summary_fa": "مک‌گوناگال می‌گوید هری در همهٔ موارد حق دارد. دامبلدور می‌ترسد تسلیم تاریکی شده باشد و می‌پرسد شرارت به نام خیر بدتر است یا شر؛ سپس احتمال می‌دهد دشمنِ پیش‌گویی‌شدهٔ هری ولدمورت نباشد.",
+    "id": 10,
+    "verbatim_html": [
+      "\"Very well,\" said Professor McGonagall. \"But for myself, I think\nthat Mr. Potter is right on every single count.\"",
+      "The old wizard glanced at her, and his voice caught as he said,\n\"Minerva, you have known me long, and as well as any soul still\nliving - tell me, have I lost myself to darkness already?\"",
+      "\"What?\" said Professor McGonagall in genuine surprise. Then,\n\"Oh, Albus, no!\"",
+      "The old wizard's lips pressed together tightly before he spoke.\n\"For the greater good. I have sacrificed so many, for the greater\ngood. Today I almost condemned Hermione Granger to Azkaban for the\ngreater good. And I find myself - today, I found myself - beginning\nto resent the innocence that is no longer mine -\" The old wizard's\nvoice halted. \"Evil done in the name of good. Evil done in the name\nof evil. Which <em>is</em> worse?\"",
+      "\"You are being silly, Albus.\"",
+      "The old wizard glanced at her again, before turning his eyes\nback to their way. \"Tell me, Minerva - did you pause to weigh the\nconsequences, before you told Miss Granger how to bind herself to\nthe Potter family?\"",
+      "She took an involuntary breath as she understood what she had\ndone -",
+      "\"So you did not.\" Albus's eyes were saddened. \"No, Minerva, you\nmust not apologize. It is well. For what you have seen of me this\nday - if your first loyalty is now to Harry Potter, and not to me,\nthen that is right and proper.\" She opened her lips to protest, but\nAlbus went on before she could say a word. \"Indeed - indeed - that\nwill be necessary and more than necessary, if the Dark Lord that\nHarry must defeat to come into his power is not Voldemort after all\n-\"",
+      "\"Not <em>this</em> again!\" Minerva said. \"Albus, it was\nYou-Know-Who, not you, who marked Harry as his equal. There is no\n<em>possible</em> way that the prophecy could be talking about\nyou!\"",
+      "The old wizard nodded, but his eyes still seemed distant, fixed\nonly on the road ahead."
+    ]
+  },
+  {
+    "paras": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "summary_en": "The Hogwarts Defense Professor is being held, not charged, in a surprisingly comfortable cell because investigators cannot identify him and suspect he may be linked to the latest crime. The narration repeats the absurdity for emphasis.",
+    "translation_fa": "سلول بازداشت در مرکز ادارهٔ اجرای قانون جادویی، مجلل مبله شده بود؛ چیزی که بیشتر نشان می‌داد جادوگران بزرگسال چه چیزهایی را بدیهی می‌دانند تا اینکه حاکی از توجه ویژه‌ای به زندانیان باشد. صندلی‌ای بود که خودبه‌خود خم می‌شد و تاب می‌خورد و بالشتک‌های نرم، پرنقش‌ونگار و گرم‌شونده داشت. قفسه‌ای هم بود با کتاب‌های تصادفی که از سطل حراج نجات یافته بودند و یک ردیف کامل مجله‌های قدیمی، از جمله یکی متعلق به سال ۱۸۸۳. از نظر دستشویی و این حرف‌ها، خب، دقیقاً مجلل نبود؛ اما طلسمی در اتاق بود که آن کارها را متوقف می‌کرد: نباید به جایی می‌رفتی که آوروِ نگهبان نتواند تو را ببیند. به‌جز این، سلول کوچکی کاملاً دلپذیر بود. استاد دفاع هاگوارتز در بازداشت بود، نه دستگیر شده بود و نه حتی مرعوب. مدرکی برای متهم کردنش وجود نداشت... جز اینکه جنایتی هولناک و نامعمول در مدرسهٔ علوم و فنون جادوگری هاگوارتز رخ داده بود و با توجه به دفعات پیشین، احتمال اینکه استاد دفاع فعلی به‌نحوی درگیر آن باشد پنج به یک بود. باید این را هم افزود که هیچ‌کس در ادارهٔ اجرای قانون جادویی حتی نمی‌دانست استاد دفاع کیست، و آن مرد به معنای واقعی کلمه به همهٔ تلاش‌ها برای کشف هویتش «عطسه» کرده بود. نه، «کویرینوس کوییرل» را هنوز به هاگوارتز برنگردانده بودند.\n\nبگذارید برای تأکید تکرارش کنیم:\n\nاستاد دفاع.\n\nدر بازداشت بود.\n\nدر یک سلول.\n\nاستاد دفاع به آوروِ نگهبان خیره شده بود و زیرلب آهنگ می‌خواند.",
+    "summary_fa": "استاد دفاع هاگوارتز در سلولی به‌طرز عجیبی راحت نگه داشته شده، بی‌آنکه اتهامی داشته باشند؛ چون مأموران هویتش را نمی‌دانند و گمان می‌کنند شاید به جنایت اخیر مرتبط باشد. روایت این وضعیت مضحک را برای تأکید تکرار می‌کند.",
+    "id": 11,
+    "verbatim_html": [
+      "The holding cell, well to the center of Magical Law Enforcement,\nwas luxuriously appointed; more a remark on what adult wizards took\nfor granted, than any special feeling toward prisoners. There was a\nself-reclining, self-rocking chair with plush, richly textured,\nself-warming cushions. There was a bookcase containing random books\nrescued from a bargain bin, and a full shelf of ancient magazines,\nincluding one from 1883. As for toiletries, well, it wasn't exactly\nluxurious, but there was a spell on the room which put all that\nbusiness on hold; you weren't to go anywhere that the watching\nAuror couldn't see you. But aside from that, it was quite a\npleasant little cell. The Defense Professor of Hogwarts was being\ndetained, not arrested, not even intimidated. There was no evidence\nto indict him... except that a terrible and unusual crime had been\ncommitted at the Hogwarts School of Witchcraft and Wizardry, and\ngoing by previous occasions the odds were five to one that the\ncurrent Defense Professor was tangled up in it <em>somehow</em>. To\nthis must be added the fact that nobody in the D.M.L.E. even knew\nwho the Defense Professor <em>was</em>, and that the man had\nliterally <em>sneezed</em> at all attempts to uncover his true\nidentity. Why, no, they <em>hadn't</em> released 'Quirinus\nQuirrell' back to Hogwarts just yet.",
+      "Let us repeat this for emphasis:",
+      "The Defense Professor.",
+      "Was being detained.",
+      "In a cell.",
+      "The Defense Professor was staring at the watching Auror and\nhumming."
+    ]
+  },
+  {
+    "paras": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "summary_en": "The Defense Professor torments his Auror guard with a lullaby hummed in deliberately unbearable, unpredictable anti-pitch. After four hours, the sound's calculated pattern has become impossible to ignore.",
+    "translation_fa": "استاد دفاع از وقتی پا به این سلول گذاشته بود حتی یک کلمه هم نگفته بود. فقط زیرلب آهنگ می‌خواند.\n\nآواز با لالایی ساده‌ای از بچه‌ها شروع شده بود؛ همان که در بریتانیای مشنگی با «لالایی و شب‌به‌خیر...» آغاز می‌شود.\n\nاین نغمه را هفت دقیقه، بارها و بارها و بی‌هیچ تغییری، زمزمه کرد تا الگوی پایه را جا بیندازد.\n\nبعد بسط‌دادن آن مضمون آغاز شد. عبارت‌ها بیش از حد آهسته زمزمه می‌شدند و میانشان مکث‌های طولانی می‌افتاد، طوری که ذهن شنونده درمانده‌وار منتظر نت بعدی می‌ماند و باز منتظر می‌ماند، منتظر عبارت بعدی. بعد که آن عبارت می‌آمد، آن‌قدر خارج از گام بود، آن‌قدر به‌نحو باورنکردنی و هولناکی خارج از گام ــ نه فقط نسبت به عبارت‌های قبلی، بلکه با زیر و بمی‌ای که با هیچ گامی جور درنمی‌آمد ــ که باید باور می‌کردی این شخص ساعت‌ها عمداً زمزمه‌کردنش را تمرین کرده تا چنین ضدآهنگی بی‌نقصی به دست آورد.\n\nاین صدا همان‌قدر به موسیقی شباهت داشت که صدای مرده و هولناک دیوانه‌ساز به گفتار انسان.\n\nنادیده‌گرفتن این زمزمهٔ هولناک، واقعاً ناممکن بود. به لالایی شناخته‌شده‌ای شباهت داشت، اما بی‌هیچ پیش‌بینی‌پذیری از الگویش منحرف می‌شد. انتظار ایجاد می‌کرد و بعد آن را نقض می‌کرد، نه با الگویی ثابت که اجازه دهد زمزمه در پس‌زمینه محو شود. مغز شنونده نمی‌توانست جلوی خودش را بگیرد که انتظار کامل‌شدن عبارت‌های ضدآهنگ را نکشد یا غافلگیری‌ها را نبیند.\n\nتنها توضیح ممکن برای پیدایش چنین شیوه‌ای از زمزمه این بود که نابغه‌ای بی‌حد و مرز بیرحم آن را عمداً طراحی کرده؛ کسی که یک روز از شکنجه‌های معمولی خسته شده و تصمیم گرفته برای خودش محدودیت بگذارد و ببیند آیا می‌تواند فقط با زمزمه‌کردن برای کسی، عقلش را از او بگیرد یا نه.\n\nآوروِ نگهبان چهار ساعت بود که به این زمزمهٔ وصف‌ناشدنی وحشتناک گوش می‌داد، در حالی که حضوری عظیم، سرد و مرگبار به او خیره شده بود؛ حضوری که چه مستقیم نگاهش می‌کرد و چه در گوشهٔ دیدش شناور می‌ماند، به یک اندازه هولناک بود ــ",
+    "summary_fa": "استاد دفاع با زمزمهٔ لالایی‌ای عمداً غیرقابل‌تحمل و غیرقابل‌پیش‌بینی، آوروِ نگهبانش را آزار می‌دهد. پس از چهار ساعت، الگوی حساب‌شدهٔ این صدا دیگر نادیده‌گرفتنی نیست.",
+    "id": 12,
+    "verbatim_html": [
+      "The Defense Professor has not spoken a single word since he\narrived in this particular cell. He has <em>only</em> been\nhumming.",
+      "The humming started as a simple children's lullaby, the one that\nin Muggle Britain begins, <em>Lullaby, and goodnight...</em>",
+      "This tune was hummed, without variation, over and over, for\nseven minutes, to establish the underlying pattern.",
+      "Then began the elaborations upon the theme. Phrases hummed too\nslow, with long pauses in between, so that the listener's mind\nhelplessly waits and waits for the next note, the next phrase. And\nthen, when that next phrase comes, it is so out of key, so\nunbelievably awfully out of key, not just out of key for the\nprevious phrases but sung at a pitch which does not correspond to\n<em>any</em> key, that you would have to believe this person had\nspent hours deliberately practicing their humming just to acquire\nsuch perfect anti-pitch.",
+      "It bears the same semblance to music as the awful dead voice of\na Dementor bears to human speech.",
+      "And this horrible, horrible humming is <em>impossible</em> to\nignore. It is similar to a known lullaby, but it departs from that\npattern unpredictably. It sets up expectations and then violates\nthem, never in any constant pattern that would permit the humming\nto fade into the background. The listener's brain cannot prevent\nitself from expecting the anti-musical phrases to complete, nor\nprevent itself from noticing the surprises.",
+      "The only possible explanation for how this mode of humming came\nto exist is that it was deliberately designed by some unspeakably\ncruel genius who woke up one day, feeling bored with ordinary\ntorture, who decided to handicap himself and find out whether he\ncould break someone's sanity <em>just by humming at them</em>.",
+      "The Auror has been listening to this unimaginably dreadful\nhumming for four hours, while being stared at by a huge, cold,\nlethal presence that feels equally horrible whether he looks at it\ndirectly or lets it hover at the corner of his vision -"
+    ]
+  },
+  {
+    "paras": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "summary_en": "The humming stops, lets the Auror's hope build, then starts again and breaks him. He calls for relief under an emergency code, even as the commander initially questions whether the request is legitimate.",
+    "translation_fa": "زمزمه قطع شد.\n\nانتظار طولانی‌ای پیش آمد؛ آن‌قدر طولانی که امیدی کاذب سر برآورد و خاطرهٔ ناامیدی‌های قبلی آن را سرکوب کند. سپس هرچه فاصله طولانی‌تر و طولانی‌تر شد، آن امید دوباره بی‌مهار بالا آمد ــ\n\nزمزمه دوباره شروع شد.\n\nآورو از پا درآمد.\n\nآورو از کمربندش آینه‌ای بیرون آورد، یک بار به آن زد و گفت: «اینجا آرجون آلتونای، آوروِ تازه‌کار است. برای سلول سه، کد RJ-L20 را اعلام می‌کنم.»",
+    "summary_fa": "زمزمه قطع می‌شود تا امید آورو بالا بگیرد، بعد دوباره آغاز می‌شود و او را می‌شکند. او با کد اضطراری درخواست تعویض می‌کند، هرچند فرمانده در آغاز اعتبار درخواست را زیر سؤال می‌برد.",
+    "id": 13,
+    "verbatim_html": [
+      "The humming stopped.",
+      "There was a long wait. Time enough for false hope to rise, and\nbe squashed down by the memory of previous disappointments. And\nthen, as the interval lengthened, and lengthened, that hope rose\nagain unstoppably -",
+      "The humming began once more.",
+      "The Auror cracked.",
+      "From his belt, the Auror took a mirror, tapped it once, and then\nsaid, \"This is Junior Auror Arjun Altunay, I'm calling in code\nRJ-L20 on cell three.\""
+    ]
+  },
+  {
+    "paras": [
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "summary_en": "The mirror operator doubts that a prisoner humming can justify relief, while the narration notes Amelia Bones's intelligence and the procedural loophole. Bones steps in and orders the guard replaced without demanding an explanation.",
+    "translation_fa": "آینه با لحنی متعجب گفت: «کد RJ-L20؟» صدای ورق‌خوردن صفحه‌هایی آمد و بعد پرسید: «می‌خواهی تعویض شوی چون زندانی‌ای دارد جنگ روانی به راه می‌اندازد و موفق هم شده؟»\n\n(آملیا بونز واقعاً بسیار باهوش است.)\n\nآینه پرسید: «زندانی به تو چه گفت؟»\n\n(این پرسش جزو رویهٔ RJ-L20 نیست، اما افسوس که آملیا بونز دستور صریحی نگنجانده که افسر فرمانده نباید آن را بپرسد.)\n\nآورو گفت: «او ــ» و نگاهی به سلول انداخت. استاد دفاع حالا به صندلی‌اش تکیه داده بود و کاملاً آسوده به نظر می‌رسید. «داشت به من خیره می‌شد! و زیرلب آواز می‌خواند!»\n\nلحظه‌ای سکوت شد.\n\nآینه دوباره حرف زد: «و برای همین داری کد RJ-L20 اعلام می‌کنی؟ مطمئنی فقط نمی‌خواهی از نگهبانی‌اش خلاص شوی؟»\n\n(آملیا بونز دوروبرش پر از احمق است.)\n\nآورو آلتونای فریاد زد: «نمی‌فهمید! زمزمه‌اش واقعاً افتضاح است!»\n\nآینه صدای خنده‌ای خفه را از پس‌زمینه منتقل کرد؛ انگار چند نفر با هم می‌خندیدند. بعد دوباره صدایی گفت: «آقای آلتونای، اگر نمی‌خواهید به آوروِ تازه‌کار درجهٔ دو تنزل پیدا کنید، پیشنهاد می‌کنم خودتان را جمع‌وجور کنید و برگردید سر کار ــ»\n\nصدایی رسا گفت: «پسش می‌گیرم.» از دورتر به گوش می‌رسید، چون از آینه فاصله داشت.\n\n(به همین دلیل است که آملیا بونز اغلب هنگام انجام کاغذبازی‌هایی که وزارتخانه از او می‌خواهد، در مرکز هماهنگی ادارهٔ اجرای قانون جادویی می‌نشیند.)\n\nصدای رسا که انگار به آینه نزدیک‌تر می‌شد گفت: «آورو آلتونای، به‌زودی جایگزین می‌شوید. آورو بن گوتیرز، رویهٔ RJ-L20 نمی‌گوید بپرسی چرا؛ می‌گوید آوروئی را که آن را اعلام کرده جایگزین کنی. اگر ببینم آوروها دارند از آن سوءاستفاده می‌کنند، خودم رویه را طوری تغییر می‌دهم که جلوی سوءاستفاده را بگیرد ــ» آینه ناگهان خاموش شد.",
+    "summary_fa": "اپراتور آینه باور نمی‌کند زمزمهٔ زندانی دلیل کافی برای تعویض نگهبان باشد؛ روایت هم به هوشمندی آملیا بونز و خلأ رویه اشاره می‌کند. بونز وارد عمل می‌شود و بی‌آنکه توضیح بخواهد دستور تعویض نگهبان را می‌دهد.",
+    "id": 14,
+    "verbatim_html": [
+      "\"Code RJ-L20?\" the mirror said in surprised tones. There was a\nsound of pages being flipped, then, \"You want to be relieved\nbecause a prisoner is attempting psychological warfare and\nsucceeding?\"",
+      "(Amelia Bones really is quite intelligent.)",
+      "\"What'd the prisoner say to you?\" said the mirror.",
+      "(This question is <em>not</em> part of procedure RJ-L20, but\nunfortunately Amelia Bones has failed to include an explicit\ninstruction that the commanding officer should not ask.)",
+      "\"He's -\" said the Auror, and glanced back at the cell. The\nDefense Professor was now leaning in back in his chair, looking\nquite relaxed. \"He was <em>staring</em> at me! And\n<em>humming!</em> \"",
+      "There was a pause.",
+      "The mirror spoke again. \"And you're calling in an RJ-L20 over\nthat? You're sure you're not just trying to get out of watching\nhim?\"",
+      "(Amelia Bones is surrounded by idiots.)",
+      "\"You don't understand!\" yelled Auror Altunay. \"It's really awful\nhumming!\"",
+      "The mirror transmitted a sound of muffled laughter in the\nbackground, sounding like it was coming from more than one person.\nThen speech again. \"Mr. Altunay, if you don't want to be busted to\nJunior Auror Second Class, I suggest you buckle down and get back\nto work -\"",
+      "\"Strike that,\" a crisp voice said, sounding slightly remote due\nto its distance from the mirror.",
+      "(Which is why Amelia Bones often sits in on a coordination\ncenter of the D.M.L.E. while doing her Ministry-required\npaperwork.)",
+      "\"Auror Altunay,\" said the crisp voice, seeming to approach\ncloser to the mirror, \"you will be relieved shortly. Auror Ben\nGutierrez, the procedure for RJ-L20 does <em>not</em> say that you\nask why. It says that you relieve the Auror who calls it in.\n<em>If</em> I find that Aurors seem to be abusing it, <em>I</em>\nwill modify the procedure to prevent its abuse -\" The mirror cut\noff abruptly."
+    ]
+  },
+  {
+    "paras": [
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "summary_en": "After the guard leaves, Amelia Bones confronts the Defense Professor with evidence pointing to his past: a Slytherin upbringing, a mysterious disappearance, and a return as a celebrated opponent of Voldemort before vanishing again.",
+    "translation_fa": "آورو برگشت و با پیروزمندی به جایی نگاه کرد که استاد دفاع فعلی هاگوارتز در صندلی بالشتک‌دارش لم داده بود.\n\nآن مرد نخستین کلماتی را بر زبان آورد که از لحظهٔ ورودش به سلول گفته بود.\n\nاستاد دفاع گفت: «خداحافظ، آقای آلتونای.»\n\nچند دقیقه بعد، درِ سلول بازداشت باز شد و زنی خاکستری‌موی وارد شد؛ ردای سرخ‌فامِ آوروها را پوشیده بود، بی‌هیچ نشانی از درجه یا نشان دیگری، و پوشه‌ای از چرم سیاه زیر بغل چپش داشت. زن سالخورده بی‌مقدمه گفت: «تعویض شدی.»\n\nآورو آلتونای لحظه‌ای کوشید توضیح دهد چه اتفاقی افتاده بود. این کار با سری تکان‌دادن و اشارهٔ انگشتی خشک و ساده به سوی در متوقف شد.\n\nاستاد دفاع گفت: «عصر به‌خیر، بانوی مدیر.»\n\nآملیا بونز به این حرف اعتنا نکرد و ناگهان روی صندلی خالی نشست. ساحرهٔ سالخورده پوشهٔ سیاه را باز کرد و نگاهش بر طومارهای درونش لغزید. «سرنخ‌های احتمالی هویت استاد دفاع فعلی هاگوارتز، گردآوری‌شده به دست آورو راباردز.» برگهٔ عنوان را برگرداند و کنار گذاشت. «استاد دفاع گفته در اسلیترین گروه‌بندی شده. ادعا کرده ولدمورت خانواده‌اش را کشته. گفته در مرکز هنرهای رزمی‌ای در آسیای مشنگی درس خوانده که ولدمورت ویرانش کرده. درخواستی که به ادارهٔ همکاری جادویی بین‌المللی فرستاده شده، این رویداد را ماجرای اُنیِ سال ۱۹۶۹ شناسایی می‌کند.» برگهٔ دیگری را کنار زد. «همچنین به نظر می‌رسد این استاد دفاع درست پیش از کریسمس پارسال سخنرانی بسیار پرشوری برای شاگردانش کرده و نسل پیشین را به‌خاطر ناهماهنگی‌شان در برابر مرگ‌خواران نکوهیده.» جادوگر پیر از پوشهٔ چرمی سر بلند کرد. «بانو لانگباتم از آن بسیار خوشش آمد و اصرار کرد تمامش را بخوانم. استدلالش برایم آشنا بود، اما آن موقع نتوانستم به یاد بیاورم از کجا. البته آن زمان فکر می‌کردم مرده‌ای.»\n\nرئیس نیروی اجرای قانون جادویی بریتانیا حالا با تیزبینی از پشت شیشهٔ تقویت‌شده با طلسم که آن‌ها را جدا می‌کرد به استاد دفاع فعلی هاگوارتز خیره شده بود. مردِ سلول بی‌هیچ نگرانی آشکاری، آرام نگاهش را پاسخ داد.\n\nجادوگر پیر گفت: «اسم کسی را نمی‌آورم، اما داستانی تعریف می‌کنم تا ببینم برایت آشناست یا نه.» آملیا بونز دوباره به برگهٔ بعدی نگاه کرد. «متولد ۱۹۲۷، ورود به هاگوارتز در ۱۹۳۸، گروه‌بندی در اسلیترین، فارغ‌التحصیلی در ۱۹۴۵. برای سفر پس از فارغ‌التحصیلی به خارج رفت و هنگام دیدار از آلبانی ناپدید شد. تا ۱۹۷۰ مرده فرض می‌شد؛ آن سال ناگهان به بریتانیای جادویی بازگشت، بی‌آنکه برای بیست‌وپنج سال گم‌شدنش توضیحی بدهد. از خانواده و دوستانش فاصله گرفت و در انزوا زندگی کرد. در ۱۹۷۱، هنگام دیدار از کوچهٔ دیاگون، جلوی تلاش بلاتریکس بلک برای ربودن دختر وزیر سحر و جادو را گرفت و با نفرین مرگ دو نفر از سه مرگ‌خواری را که همراهش بودند کشت. باقی‌اش را تمام بریتانیا می‌داند؛ لازم است ادامه بدهم؟» جادوگر پیر بار دیگر از پوشه سر بلند کرد. «بسیار خوب. محاکمه‌ای در ویزنگاموت برگزار شد و این جوان به‌خاطر استفاده از نفرین مرگ تبرئه شد؛ تا حد زیادی به‌لطف تلاش‌های مادربزرگش، بانوی خاندانش. با خانواده‌اش آشتی کرد و آن‌ها گردهمایی‌ای برای خوشامدگویی به بازگشتش برگزار کردند. مهمان افتخاری به آن گردهمایی رسید و تمام خانواده‌اش را دید که مرگ‌خواران قتل‌عام کرده بودند، حتی جن‌های خانگی را؛ و خود او، از شاخهٔ فرعی خاندان، آخرین بازماندهٔ یک خاندان بسیار کهن شده بود.»\n\nاستاد دفاع هیچ واکنشی به این حرف‌ها نشان نداده بود، جز اینکه چشم‌هایش نیمه‌بسته شده بودند، گویی خسته است.\n\nجادوگر پیر ادامه داد: «آن جوان جایگاه خانوادگی‌اش را در ویزنگاموت گرفت و به یکی از سرسخت‌ترین صداها علیه آن‌که-نامش-را-نباید-برد بدل شد. چند بار نیروهایی را علیه مرگ‌خواران رهبری کرد و با تاکتیک‌هایی ماهرانه و قدرتی خارق‌العاده جنگید. مردم کم‌کم از او به‌عنوان دامبلدور بعدی یاد کردند و گمان می‌رفت پس از سقوط ارباب تاریکی وزیر سحر و جادو شود. سوم ژوئیهٔ ۱۹۷۳، به رأی‌گیری مهمی در ویزنگاموت نیامد و دیگر خبری از او نشد. گمان کردیم آن‌که-نامش-را-نباید-برد او را کشته است. ضربه‌ای سخت به همهٔ ما بود و از آن روز به بعد اوضاع به‌مراتب بدتر شد.» نگاه جادوگر پیر پرسشگر بود. «خودم برایت عزاداری کردم. چه اتفاقی افتاد؟»\n\nشانه‌های استاد دفاع اندکی بالا رفت و پایین آمد. او آهسته گفت: «فرض‌های زیادی می‌کنید. من خودم باور می‌کردم آن مرد سال‌ها پیش مرده است. اما اگر بااین‌حال هنوز زنده باشد، روشن است که نمی‌خواهد این موضوع اعلام شود و برای سکوتش دلیل کافی دارد. ظاهراً آن مرد زمانی کمکی به شما کرده بود.» لب‌های استاد دفاع به لبخندی بدبینانه خم شد. «اما دیگر از زودگذر بودن سپاسگزاری تعجب نمی‌کنم. هنوز هم چیزی هست که بخواهید از او مطالبه کنید؟»",
+    "summary_fa": "پس از رفتن نگهبان، آملیا بونز با استاد دفاع روبه‌رو می‌شود و شواهدی از گذشته‌اش می‌آورد: اسلیترین، ناپدیدشدنی مرموز و بازگشتش به‌عنوان دشمنی نامدار برای ولدمورت، پیش از آنکه دوباره ناپدید شود.",
+    "id": 15,
+    "verbatim_html": [
+      "The Auror turned back to look triumphantly at where the current\nDefense Professor of Hogwarts was leaning back in his cushioned\nchair.",
+      "That man then spoke the first words that had left his lips since\nhe entered the cell.",
+      "\"Goodbye, Mr. Altunay,\" said the Defense Professor.",
+      "A few minutes later, the door to the detention cell opened, and\nin walked a grey-haired woman, dressed in the crimson-tinged robes\nof an Auror without any sign of rank or other ornamentation,\ncarrying a black leather folder under her left arm. \"You're\nrelieved,\" the old woman said abruptly.",
+      "There was a brief delay while Auror Altunay tried to explain\nwhat had been happening. This was cut short by a nod and a stark,\nsimple finger pointing out the door.",
+      "\"Good evening, Madam Director,\" said the Defense Professor.",
+      "Amelia Bones did not acknowledge this statement, but sat down\nabruptly in the vacated chair. The old witch opened the black\nfolder and her gaze moved down to the parchments therein. \"Possible\nhints to the identity of the current Hogwarts Defense Professor, as\ncompiled by Auror Robards.\" The title parchment was turned, flipped\naside. \"The Defense Professor said that he was Sorted into\nSlytherin. Claimed that his family was killed by Voldemort. Said he\nhad studied at a martial arts center in Muggle Asia which was\ndestroyed by Voldemort. A request filed with the Department of\nInternational Magical Cooperation identifies this incident as the\nOni Affair of 1969.\" Another parchment was flipped aside. \"It also\nseems this Defense Professor gave a most stirring speech to his\nstudents, just before last Yule, castigating the previous\ngeneration for their disunity against the Death Eaters.\" The old\nwitch looked up from the leather folder. \"Madam Longbottom was\nrather taken with it, and insisted that I read the entire thing.\nThe argument struck me as familiar, though I could not place it at\nthe time. But then, of course, I had thought you dead.\"",
+      "The chief law enforcement officer of Magical Britain was now\ngazing sharply at the current Defense Professor of Hogwarts, across\nthe pane of spell-reinforced glass separating them. The man in the\ncell returned the gaze equably, without apparent alarm.",
+      "\"I shall not name any names,\" said the old witch. \"But I shall\ntell a story, and see if it sounds familiar.\" Amelia Bones looked\nback down, turning to the next parchment. \"Born 1927, entered\nHogwarts in 1938, sorted into Slytherin, graduated 1945. Went on a\ngraduation tour abroad and disappeared while visiting Albania.\nPresumed dead until 1970, when he returned to magical Britain just\nas suddenly, without any explanation for the missing twenty-five\nyears. He remained estranged from his family and friends, living in\nisolation. In 1971, while visiting Diagon Alley, he fended off an\nattempt by Bellatrix Black to kidnap the daughter of the Minister\nof Magic, and used the Killing Curse to slay two of the three Death\nEaters accompanying her. Beyond this all Britain knows the story;\nneed I continue it?\" The old witch looked up from her folder again.\n\"Very well. There was a trial in the Wizengamot, during which this\nyoung man was exonerated for his use of the Killing Curse, not\nleast due to the efforts of his grandmother, the Lady of his House.\nHe was reconciled with his family, and they held a House gathering\nto welcome his return. The guest of honor arrived at that gathering\nto find his entire family slain by Death Eaters, even to the house\nelves; and that he himself, of cadet line, was now the last\nremaining scion of a Most Ancient House.\"",
+      "The Defense Professor had not reacted at all to any of this,\nexcept that his eyes had half-closed, as though in weariness.",
+      "\"The young man took up his family's seat in the Wizengamot,\nbecoming among the most steadfast voices against You-Know-Who.\nSeveral times he led forces against the Death Eaters, fighting with\nskillful tactics and extraordinary power. People began to speak of\nhim as the next Dumbledore, it was thought that he might become\nMinister of Magic after the Dark Lord fell. On the third of July,\n1973, he failed to appear at a key Wizengamot vote, and was never\nheard from again. We assumed You-Know-Who had killed him. It was a\ngrave blow to all of us, and matters went much the worse from that\nday on.\" The old witch's gaze was questioning. \"I mourned you\nmyself. What happened?\"",
+      "The Defense Professor's shoulders moved lightly, a small shrug.\n\"You make many assumptions,\" the Defense Professor said softly.\n\"For myself, I would believe that man died years ago. But if that\nman is nonetheless alive - then it is clear he does not wish the\nfact announced, and has reasons enough for silence. That man was\nonce of some help to you, it seems.\" The Defense Professor's lips\ncurved in a cynical smile. \"But I am no longer surprised when\ngratitude is fleeting. Is there yet more that you would demand from\nhim?\""
+    ]
+  },
+  {
+    "paras": [
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "summary_en": "Bones asks about the man's House, Dumbledore, and his worsening periods of unusual rest, offering a healer's help. He refuses to reveal his identity, says Dumbledore promised not to ask, and insists that he return to teach his remaining Defense classes.",
+    "translation_fa": "جادوگر پیر به صندلی نظارت آوروها تکیه داد و به نظر رسید جا خورده، شاید حتی دلخور شده باشد. لحظه‌ای بعد گفت: «نه ــ» انگشتانش به پوشهٔ چرمی ضرب گرفتند؛ اگر باور می‌کردی آملیا بونز ممکن است عصبی شود، شاید این حرکت را عصبی می‌دانستی. «اما خاندان تو ــ خاندان‌های کهن زیادی باقی نمانده‌اند ــ»\n\n«برای این کشور فرق چندانی ندارد که هشت خاندان کهن باقی بمانند یا هفت تا.»\n\nجادوگر پیر آهی کشید. «دامبلدور دربارهٔ این موضوع چه فکر می‌کند؟»\n\nمردِ سلول بازداشت سرش را تکان داد. «نمی‌داند من کیستم و قول داده پرس‌وجو نکند.»\n\nابروهای جادوگر پیر بالا رفت. «پس چطور تو را به حفاظ‌های هاگوارتز معرفی کرد؟»\n\nلبخندی خفیف زد. «مدیر مدرسه دایره‌ای کشید و به هاگوارتز گفت کسی که درونش ایستاده استاد دفاع است. راستی ــ» لحنش پایین‌تر و یکنواخت‌تر شد. «کلاس‌هایم را از دست می‌دهم، مدیر بونز.»\n\n«گزارش شده که گاهی به شیوه‌ای عجیب ــ استراحت می‌کنی. و به نظر می‌رسد هرچه زمان می‌گذرد، دفعات این استراحت‌ها بیشتر می‌شود.» انگشتان جادوگر پیر دوباره به پوشهٔ چرمی ضرب گرفتند. «یادم نمی‌آید چنین نشانه‌ای خوانده باشم، اما وقتی چنین چیزی را می‌شنوی، به فکرت می‌رسد... جادوگران تاریکی جنگیده‌اند و نفرین‌های هولناکی خورده‌اند...»\n\nاستاد دفاع بی‌هیچ تغییری در چهره ماند.\n\nآملیا بونز پرسید: «به کمک درمانگر نیاز داری؟» نقاب خودش کنار رفته بود و درد در چشمانش آشکار بود. «هیچ کاری هست که بشود برایت کرد؟»\n\nمردِ سلول صاف گفت: «قبول کردم در هاگوارتز دفاع درس بدهم. خودتان نتیجه بگیرید، بانو. کلاس‌هایم را هم از دست می‌دهم و تعداد زیادی از آن‌ها باقی نمانده. حالا به هاگوارتز برمی‌گردم.»",
+    "summary_fa": "بونز دربارهٔ خاندان مرد، دامبلدور و دوره‌های استراحت عجیب و فزاینده‌اش می‌پرسد و پیشنهاد کمک درمانگر می‌دهد. او هویتش را فاش نمی‌کند، می‌گوید دامبلدور قول داده نپرسد، و اصرار دارد برای تدریس کلاس‌های باقی‌مانده‌اش به هاگوارتز برگردد.",
+    "id": 16,
+    "verbatim_html": [
+      "The old witch leaned back in her Auror's monitoring-chair,\nlooking rather startled, maybe even hurt. \"No -\" she said after a\nmoment. Her fingers tapped the leather folder; <em>nervously,</em>\nyou might have thought, if you had believed that Amelia Bones could\never be nervous. \"But your <em>House</em> - there are not many\nAncient Houses remaining -\"",
+      "\"It shall matter little to this country whether eight Ancient\nHouses remain, or seven.\"",
+      "The old witch sighed. \"What does Dumbledore think of this?\"",
+      "The man in the detention cell shook his head. \"He does not know\nwho I am, and promised not to inquire.\"",
+      "The old witch's eyebrows rose. \"How did he identify you to the\nHogwarts wards, then?\"",
+      "A slight smile. \"The Headmaster drew a circle, and told Hogwarts\nthat he who stood within was the Defense Professor. Speaking of\nwhich -\" The tone went lower, flatter. \"I am missing my classes,\nDirector Bones.\"",
+      "\"You seem to - <em>rest</em>, sometimes, in a peculiar manner.\nThis has also been reported. And you seem to be <em>resting</em>\nmore and more frequently, as time goes on.\" The old witch's fingers\ntapped the leather folder again. \"I cannot recall reading of such a\nsymptom, but when one hears of such a thing, one imagines... Dark\nWizards fought, and terrible curses received...\"",
+      "The Defense Professor remained expressionless.",
+      "\"Do you require a healer's help?\" said Amelia Bones. Her own\nmask had slipped, clearly showing the pain in her eyes. \"Is there\nanything at all that can be done for you?\"",
+      "\"I agreed to teach Defense at Hogwarts,\" the man in the cell\nsaid flatly. \"Draw your own conclusions, Madam. And I am missing my\nclasses, of which there are not many left. I would return to\nHogwarts, now.\""
+    ]
+  },
+  {
+    "paras": [
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156
+    ],
+    "summary_en": "Hermione wakes again near sunset, eats after missing dinner, and tries not to ask whether Flitwick believes her memories. Outside the infirmary, Harry is waiting to take her back.",
+    "translation_fa": "وقتی هرماینی برای بار سوم بیدار شد ــ هرچند حس می‌کرد فقط لحظه‌ای چشم‌هایش را بسته بود ــ خورشید پایین‌تر آمده و تقریباً غروب کرده بود. کمی زنده‌تر، و به‌شکلی عجیب خسته‌تر، احساس می‌کرد. این بار پروفسور فلیت‌ویک کنار تختش ایستاده بود و شانه‌اش را تکان می‌داد؛ سینی غذای بخارداری در هوا کنار او شناور بود. به دلیلی فکر کرده بود هری پاتر باید بالای تختش خم شده باشد، اما او آنجا نبود. خوابش را دیده بود؟ به یاد نمی‌آورد که خواب دیده باشد.\n\n(به گفتهٔ پروفسور فلیت‌ویک) معلوم شد هرماینی شام را در تالار بزرگ از دست داده بود و حالا بیدارش می‌کردند تا غذا بخورد. بعد می‌توانست به خوابگاه ریونکلاو و تخت خودش برگردد و بقیهٔ شب را بخوابد.\n\nدر سکوت غذا خورد. بخشی از وجودش می‌خواست از پروفسور فلیت‌ویک بپرسد آیا او هم فکر می‌کند طلسم حافظه خورده بود، یا با ارادهٔ خودش کوشیده بود دراکو مالفوی را بکشد ــ\n\n«ــ همان‌طور که به یاد می‌آورم انجام داده‌ام ــ»\n\nــ اما بیشتر وجودش از فهمیدن پاسخ می‌ترسید. طبق کتاب‌های هری پاتر، «ترس از فهمیدن» نشانهٔ هشدار بود؛ اما ذهنش خسته و «کبود» بود و توانی نداشت که بر آن غلبه کند.\n\nوقتی او و پروفسور فلیت‌ویک از درمانگاه بیرون آمدند، هری پاتر را دیدند که بیرون در چهارزانو نشسته و آرام کتاب درسی روان‌شناسی می‌خواند.\n\nپسر زنده‌مانده گفت: «از اینجا به بعد من همراهش می‌روم. پروفسور مک‌گوناگال گفت اشکالی ندارد.»\n\nبه نظر می‌رسید پروفسور فلیت‌ویک این را پذیرفت و پس از نگاهی سخت‌گیرانه به هر دوی آن‌ها رفت. هرماینی نمی‌توانست تصور کند آن نگاه سخت‌گیرانه قرار بود چه بگوید، مگر اینکه منظورش این بود: «دیگر سعی نکنید شاگردی را بکشید.»\n\nصدای قدم‌های پروفسور فلیت‌ویک محو شد و آن دو بیرون درهای درمانگاه تنها ماندند.\n\nهرماینی به چشم‌های سبز پسر زنده‌مانده و موهای ژولیده‌ای که کاملاً جای زخم پیشانی‌اش را نمی‌پوشاند نگاه کرد؛ به چهرهٔ پسری که بی‌درنگ تمام پولش را برای نجات او داده بود. درونش احساس‌هایی بود ــ گناه، شرم، خجالت و چیزهای دیگری هم ــ اما کلمه‌ای نداشت. نمی‌دانست چه بگوید.",
+    "summary_fa": "هرماینی نزدیک غروب دوباره بیدار می‌شود، پس از جا ماندن از شام غذا می‌خورد و می‌کوشد نپرسد که آیا فلیت‌ویک خاطراتش را باور دارد. بیرون درمانگاه، هری منتظر است تا همراهش برگردد.",
+    "id": 17,
+    "verbatim_html": [
+      "When Hermione woke the third time (though it felt like she'd\nonly closed her eyes for a moment) the Sun was even lower in the\nsky, almost fully set. She felt a little more alive and, strangely,\neven more exhausted. This time it was Professor Flitwick who was\nstanding next to her bed and shaking her shoulder, a tray of\nsteaming food floating next to him. For some reason she'd thought\nHarry Potter ought to be leaning over her bedside, but he wasn't\nthere. Had she dreamed that? She couldn't remember dreaming.",
+      "It developed (according to Professor Flitwick) that Hermione had\nmissed dinner in the Great Hall, and was being woken to eat. And\nthen she could go back to the Ravenclaw dorm, and her own bed, to\nsleep the rest of the night.",
+      "She ate in silence. There was a part of her that wanted to ask\nProfessor Flitwick whether <em>he</em> thought she'd been\nMemory-Charmed or she'd tried to kill Draco Malfoy of her own will\n-",
+      "<em>- like she remembered doing -</em>",
+      "- but most of her was afraid to find out. <em>Afraid to find\nout</em> was a warning sign, according to Harry Potter and his\nbooks; but her mind felt tired, <em>bruised,</em> and she couldn't\nmuster the strength to override it.",
+      "When she and Professor Flitwick left the infirmary they found\nHarry Potter sitting cross-legged outside the door, quietly reading\na psychology textbook.",
+      "\"I'll take her from here,\" said the Boy-Who-Lived. \"Professor\nMcGonagall said it would be all right.\"",
+      "Professor Flitwick seemed to accept this, and departed after a\nstern look at both of them. She couldn't imagine what the stern\nlook was supposed to say, unless it was <em>don't try to kill any\nmore students.</em>",
+      "The footsteps of Professor Flitwick faded, and the two of them\nstood alone outside the doors of the infirmary.",
+      "She looked at the green eyes of the Boy-Who-Lived, the mess of\nhair that didn't quite obscure the scar on his forehead; she looked\nupon the face of the boy who'd given all his money to save her\nwithout a second thought. There were feelings inside her - guilt,\nshame, embarrassment, other things as well - but no words. There\nwas nothing she knew how to say."
+    ]
+  },
+  {
+    "paras": [
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164
+    ],
+    "summary_en": "Harry explains that newer research discourages forcing people to discuss trauma immediately. He describes how the public turned against Hermione after accepting Draco's testimony, while she asks how bad the situation has become.",
+    "translation_fa": "هری ناگهان گفت: «خب، سریع کتاب‌های روان‌شناسی‌ام را ورق زدم ببینم دربارهٔ اختلال استرس پس از سانحه چه گفته‌اند. کتاب‌های قدیمی می‌گفتند باید بلافاصله بعدش با مشاوری دربارهٔ تجربه حرف بزنی. پژوهش‌های جدید می‌گویند وقتی واقعاً آزمایش کردند، معلوم شد حرف زدن درباره‌اش بلافاصله بعد از رویداد اوضاع را بدتر می‌کند. ظاهراً بهتر است با میل طبیعی ذهنت به سرکوب خاطرات همراه شوی و مدتی اصلاً به آن فکر نکنی.»\n\nحرفش آن‌قدر با شیوهٔ معمول گفت‌وگوی او و هری «عادی» بود که ناگهان گلوی هرماینی سوخت.\n\n«لازم نیست درباره‌اش حرف بزنیم.» هری کمابیش همین را گفته بود. به نظرش نوعی تقلب بود، شاید حتی دروغ. هیچ‌چیز «عادی» نبود. هر چیز نادرستی هنوز به‌شکلی هولناک نادرست بود و هر حرف نگفته‌ای هنوز باید گفته می‌شد...\n\nهرماینی گفت: «باشه.» چون دیگر چیزی برای گفتن نداشت؛ اصلاً هیچ چیز دیگری.\n\nهری گفت: «ببخشید وقتی بیدار شدی منتظرت نبودم.» راه افتادند. «مادام پامفری نگذاشت بیایم داخل، برای همین همین بیرون ماندم.» شانه‌ای کوچک و غمگین بالا انداخت. «فکر کنم باید بیرون باشم و روابط عمومی را سر و سامان بدهم، اما... راستش هیچ‌وقت در این کار خوب نبوده‌ام؛ آخرش فقط با تندی با مردم حرف می‌زنم.»\n\n«اوضاع چقدر بد است؟» هرماینی فکر می‌کرد صدایش باید نجوا یا خس‌خس باشد، اما چنین نشد.\n\nهری با تردیدی آشکار گفت: «خب ــ چیزی که باید بفهمی، هرماینی، این است که صبحانهٔ امروز طرفداران زیادی داشتی، اما همهٔ طرفداران تو... داشتند چیزهایی از خودشان درمی‌آوردند. اینکه دراکو اول سعی کرده بود تو را بکشد و حرف‌هایی از این قبیل. مردم ماجرا را هرماینی در برابر مالفوی می‌دیدند؛ مثل الاکلنگی که پایین بردن یک طرفش یعنی بالا بردن طرف دیگر. من به آن‌ها گفتم احتمالاً هر دوتان بی‌گناهید و هر دوتان طلسم حافظه خورده‌اید. گوش نکردند؛ هر دو طرف با من مثل خائنی رفتار کردند که می‌خواهد وسط را بگیرد. بعد مردم شنیدند دراکو زیر طلسم وریتاستریوم شهادت داده که پیش از نبرد می‌خواسته کمکت کند ــ این قیافه را نگیر، هرماینی، واقعاً هیچ کاری با او نکردی. به‌هرحال چیزی که همه فهمیدند این بود که هواداران مالفوی حق داشتند و طرفداران گرنجر اشتباه می‌کردند.» هری آه کوچکی کشید. «بهشان گفته بودم وقتی حقیقت بعداً روشن شود خجالت‌زده خواهند شد ــ»\n\nهرماینی دوباره گفت: «اوضاع چقدر بد است؟» این بار صدایش ضعیف‌تر درآمد.",
+    "summary_fa": "هری می‌گوید پژوهش‌های تازه حرف‌زدن اجباری دربارهٔ تروما را بلافاصله پس از رویداد توصیه نمی‌کنند. او توضیح می‌دهد مردم پس از شنیدن شهادت دراکو علیه هرماینی برگشته‌اند و او می‌پرسد اوضاع چقدر بد شده است.",
+    "id": 18,
+    "verbatim_html": [
+      "\"So,\" Harry said abruptly, \"I did a quick skim through my\npsychology books to see what they said about post-traumatic stress\ndisorder. The old books said you should talk about the experience\nimmediately afterward with a counselor. The newer research says\nthat when they actually ran experiments, it turned out that talking\nabout it immediately afterward made it worse. Apparently what you\nreally ought to do is run with your mind's natural impulse to\nrepress the memories and just not think about it for a while.\"",
+      "It was so <em>normal</em> for the way she and Harry usually\ntalked that she felt a sudden burning in her throat.",
+      "<em>We don't have to talk about it.</em> That was what Harry had\njust said, more or less. It felt like cheating, maybe even like a\nlie. Nothing <em>was</em> normal. Everything wrong was still\nhorribly wrong, everything left unsaid still needed to be\nsaid...",
+      "\"Okay,\" said Hermione, because there wasn't anything else to\nsay, anything else at all.",
+      "\"I'm sorry I wasn't waiting when you woke up,\" Harry said, as\nthey started to walk. \"Madam Pomfrey wouldn't let me in, so I just\nstayed out here.\" He gave a small, sad-looking shrug. \"I suppose I\nshould be out there trying to run damage control on public\nrelations, but... honestly I've never been good at that, I just end\nup speaking sharply at people.\"",
+      "\"How bad is it?\" She thought her voice should have come out in a\nwhisper, a croak, but it didn't.",
+      "\"Well -\" Harry said with obvious hesitation. \"The thing you've\ngot to understand, Hermione, is that you had a lot of defenders at\nbreakfast-time today, but everyone on your side was... <em>making\nstuff up</em>. Draco tried to kill you first, things like that. It\nwas Granger versus Malfoy, that's how people saw it, like a seesaw\nwhere pushing his side down meant pushing your side up. I told them\nyou were probably <em>both</em> innocent, that you'd both been\nMemory-Charmed. They didn't listen, both sides treated me like a\ntraitor trying to play the middle. And then people heard that Draco\nhad testified under Veritaserum that he'd been trying to help you\nbefore the battle - stop making that expression, Hermione, you\ndidn't actually do anything to him. Anyway, all people understood\nwas that the pro-Malfoy faction had been right and the pro-Granger\nfaction had been wrong.\" Harry gave a small sigh. \"I <em>told</em>\nthem that when the truth came out later they'd be\nembarrassed...\"",
+      "\"How bad is it?\" she said again. This time her voice did come\nout weaker."
+    ]
+  },
+  {
+    "paras": [
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174
+    ],
+    "summary_en": "Harry invokes Asch's conformity experiment and reminds Hermione that only the Chaos Legion has trained to resist social pressure. She realizes that nearly everyone, including much of Britain, now believes she tried to murder Draco.",
+    "translation_fa": "هری سرش را چرخاند تا جدی به او نگاه کند. «آزمایش همنوایی اَش را یادت هست؟»\n\nذهنش چند ثانیه «دیر به یاد آورد» و همین ترساندش، اما بعد مرجع به یادش برگشت. در سال ۱۹۵۱، سولومون اَش چند آزمودنی گرفته بود و هر کدام را میان ردیفی از آدم‌هایی گذاشته بود که شبیه خودشان بودند و به نظر آزمودنی‌های دیگری می‌آمدند، اما در واقع همدستان آزمایشگر بودند. خط مرجعی روی صفحه نشان داده بودند که برچسب X داشت و کنار آن سه خط دیگر با برچسب‌های A و B و C. آزمایشگر پرسیده بود X هم‌اندازهٔ کدام خط است. پاسخ درست آشکارا C بود. «آزمودنی‌های» دیگر، همان همدستان، یکی‌یکی گفته بودند X هم‌اندازهٔ B است. آزمودنی واقعی را یکی مانده به آخر قرار داده بودند تا آخرین نفر بودنش شک‌برانگیز نشود. آزمایش می‌خواست ببیند آیا او با پاسخ نادرستِ معیار، یعنی B، «همنوا» می‌شود یا پاسخ آشکارا درست، یعنی C، را می‌گوید.\n\n۷۵ درصد آزمودنی‌ها دست‌کم یک بار «همنوایی» کرده بودند. یک‌سومشان بیش از نیمی از دفعات همنوایی کرده بودند. بعضی‌ها بعداً گزارش داده بودند که واقعاً باور کرده‌اند X هم‌اندازهٔ B است. تازه، آن‌ها هیچ‌یک از همدستان آزمایشگر را نمی‌شناختند. اگر آدم‌ها را میان افراد گروه خودشان بگذاری ــ مثلاً کسی را که روی صندلی چرخ‌دار است کنار افراد دیگری روی صندلی چرخ‌دار ــ اثر همنوایی حتی قوی‌تر هم می‌شود...\n\nهرماینی حس تهوع‌آوری داشت از اینکه می‌دانست حرف به کجا می‌رسد. نجوا کرد: «یادم هست.»\n\nهری گفت: «می‌دانی که من به لژیون آشوب آموزش ضدهمنوایی دادم. از هر لژیونر می‌خواستم وسط بایستد و بگوید “دو دو تا می‌شود چهار!” یا “چمن سبز است!” و بقیهٔ لژیون آشوب او را احمق خطاب کنند یا مسخره‌اش کنند ــ آلن فلینت حسابی خوب مسخره می‌کرد ــ یا حتی فقط با چهره‌ای بی‌حالت نگاهش کنند و بعد بروند. چیزی که باید یادت باشد این است که فقط لژیون آشوب چنین چیزی را تمرین کرده. هیچ‌کس دیگری در هاگوارتز حتی نمی‌داند همنوایی چیست.»\n\nصدای هرماینی لرزید. «هری! اوضاع واقعاً چقدر بد است؟»\n\nهری دوباره شانه‌ای غمگین بالا انداخت. «همهٔ سال‌دومی‌ها و بزرگ‌ترها، چون تو را نمی‌شناسند. همهٔ ارتش اژدها. البته تمام اسلیترین. و خب، فکر کنم بیشتر باقی بریتانیای جادویی هم. یادت باشد لوسیوس مالفوی روزنامهٔ دیلی پرافت را کنترل می‌کند.»\n\nهرماینی آهسته گفت: «همه؟» دست‌وپایش سرد شده بود، انگار تازه از استخری بی‌گرما بیرون آمده باشد.\n\nهری گفت: «چیزی که مردم واقعاً باور دارند، برایشان مثل “باور” حس نمی‌شود؛ مثل “واقعیتِ جهان” حس می‌شود. من و تو در حباب خصوصی کوچکی از جهان ایستاده‌ایم که در آن هرماینی گرنجر طلسم حافظه خورده. بقیه در جهانی زندگی می‌کنند که هرماینی گرنجر سعی کرده دراکو مالفوی را بکشد. اگر اِرنی مک‌میلان ــ»\n\nنفس هرماینی در گلویش گیر کرد. «سَروان مک‌میلان ــ»",
+    "summary_fa": "هری به آزمایش همنوایی اَش اشاره می‌کند و یادآور می‌شود فقط لژیون آشوب در برابر فشار اجتماعی تمرین کرده است. هرماینی درمی‌یابد تقریباً همه، از جمله بیشتر بریتانیای جادویی، باور دارند او قصد کشتن دراکو را داشته است.",
+    "id": 19,
+    "verbatim_html": [
+      "\"Remember Asch's conformity experiment?\" Harry said, turning his\nhead to give her a serious look.",
+      "Her mind was <em>slow to remember</em> for a few seconds, which\nfrightened her, but then the reference came back. In 1951, Solomon\nAsch had taken some experimental subjects, and each one had been\nput among a row of other people who looked like them, seeming like\nother experimental subjects, but actually confederates of the\nexperimenter. They'd shown a reference line on a screen, labeled X,\nnext to three other lines, labeled A, B, and C. The experimenter\nhad asked which line X was the same length as. The correct answer\nhad obviously been C. The other 'subjects', the confederates, had\none after another said that X was the same length as B. The real\nsubject had been put second-to-last in the order, so as not to\narouse suspicion by being last. The test had been to see whether\nthe real subject would 'conform' to the standard wrong answer of B,\nor voice the obviously correct answer of C.",
+      "75% of the subjects had 'conformed' at least once. A third of\nthe subjects had conformed more than half the time. Some had\nreported afterward actually believing that X was the same length as\nB. And that had been in a case where the subjects hadn't known any\nof the confederates. If you put people around others who belonged\nto the same group as them, like someone in a wheelchair next to\nother people in a wheelchair, the conformity effect got even\nstronger...",
+      "Hermione had a sickening feeling where this was going. \"I\nremember,\" she whispered.",
+      "\"I gave the Chaos Legion anti-conformity training, you know. I\nhad each Legionnaire stand in the middle and say 'Twice two is\nfour!' or 'Grass is green!' while everyone else in the Chaos Legion\ncalled them idiots or sneered at them - Allen Flint did really good\nsneers - or even just gave them blank looks and then walked away.\nThe thing you've got to remember is, <em>only</em> the Chaos Legion\nhas ever practiced anything like that. Nobody else in Hogwarts even\nknows what conformity <em>is.</em>\"",
+      "\"Harry!\" Her voice was wobbling. \"How bad <em>is</em> it?\"",
+      "Harry gave another sad-looking shrug. \"Everyone in the second\nyear and above, since they don't know you. Everyone in Dragon Army.\nAll of Slytherin, of course. And, well, most of the rest of magical\nBritain too, I think. Remember, Lucius Malfoy controls the\n<em>Daily Prophet</em>.\"",
+      "\"Everyone?\" she whispered. Her limbs had started to feel cold,\nlike she'd just gotten out of an unheated swimming pool.",
+      "\"What people really believe doesn't feel like a <em>belief</em>,\nit feels like the way the world <em>is.</em> You and I are standing\nin a private little bubble of the universe where Hermione Granger\ngot Memory-Charmed. Everyone else is living in the world where\nHermione Granger tried to murder Draco Malfoy. If Ernie Macmillian\n-\"",
+      "Her breath caught in her throat. <em>Captain Macmillian\n-</em>"
+    ]
+  },
+  {
+    "paras": [
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184
+    ],
+    "summary_en": "Harry says students are acting according to the world they believe they inhabit and are not equipped to understand their own cognitive biases. He suggests Hermione could leave Hogwarts for Salem if the culprit is never caught, and relays Ron's apology—though Ron still does not think her innocent.",
+    "translation_fa": "هری با چشمانی بسیار جدی گفت: «ــ فکر می‌کند از نظر اخلاقی دیگر نباید دوستت باشد؛ خب، دارد می‌کوشد در دنیایی که خیال می‌کند در آن زندگی می‌کند، آنچه را درست می‌فهمد انجام دهد.» «هرماینی، بارها به من گفته‌ای که بیش از حد به دیگران از بالا نگاه می‌کنم. اما اگر از آن‌ها انتظار زیادی داشتم ــ اگر انتظار داشتم مردم کارها را “درست” انجام دهند ــ واقعاً از آن‌ها متنفر می‌شدم. جدا از آرمان‌گرایی، شاگردان هاگوارتز واقعاً دانش شناختی کافی ندارند تا مسئولیت کارکرد ذهن خودشان را بر عهده بگیرند. دیوانه بودنشان تقصیر خودشان نیست.» صدای هری به‌طرزی عجیب ملایم بود، تقریباً مثل صدای یک بزرگسال. «می‌دانم برای تو سخت‌تر از من خواهد بود. اما یادت باشد سرانجام مجرم واقعی گیر می‌افتد. حقیقت روشن می‌شود و هرکس با اطمینان اشتباه کرده باشد خجالت می‌کشد.»\n\nهرماینی با صدایی لرزان گفت: «و اگر مجرم واقعی گیر نیفتد؟»\n\n«...یا اگر معلوم شود بالاخره خودم بودم؟»\n\nهری گفت: «آن‌وقت می‌توانی هاگوارتز را ترک کنی و به مؤسسهٔ جادوگران سالم در آمریکا بروی.»\n\n«هاگوارتز را ترک کنم؟» جز به‌عنوان مجازاتی نهایی، هرگز حتی به این امکان فکر نکرده بود.\n\n«من... هرماینی، فکر می‌کنم شاید در هر صورت بخواهی این کار را بکنی. هاگوارتز قلعه نیست؛ جنون است با دیوارهایی دورش. گزینه‌های دیگری هم داری.»\n\nبا لکنت گفت: «باید... درباره‌اش... فکر کنم...»\n\nهری سر تکان داد. «دست‌کم پس از حرف‌هایی که مدیر مدرسه امشب سر شام زد، دیگر کسی سعی نمی‌کند طلسمی به سویت بزند. آه، و ران ویزلی پیشم آمد، خیلی جدی به نظر می‌رسید، و گفت اگر زودتر از او دیدمت، به تو بگویم بابت بد فکر کردن درباره‌ات متأسف است و دیگر هرگز پشت سرت بد نمی‌گوید.»\n\nهرماینی پرسید: «ران باور دارد بی‌گناهم؟»\n\n«خب... دقیقاً فکر نمی‌کند “بی‌گناهی”...»",
+    "summary_fa": "هری می‌گوید شاگردان بر اساس جهانی رفتار می‌کنند که باور دارند در آن زندگی می‌کنند و برای شناخت سوگیری‌های ذهنی‌شان آموزش ندیده‌اند. اگر مجرم پیدا نشود، رفتن هرماینی به سالم را پیشنهاد می‌دهد و عذرخواهی ران را می‌رساند، هرچند ران هنوز او را بی‌گناه نمی‌داند.",
+    "id": 20,
+    "verbatim_html": [
+      "\"- thinks he's ethically prohibited from being your friend now,\nwell, he's trying to do the right thing as he understands it, in\nthe world he thinks he lives in.\" Harry's eyes were very serious.\n\"Hermione, you've told me a lot of times that I look down too much\non other people. But if I expected too much of them - if I expected\npeople to get things <em>right</em> - I really would hate them,\nthen. Idealism aside, Hogwarts students don't <em>actually</em>\nknow enough cognitive science to take responsibility for how their\nown minds work. It's not their fault they're crazy.\" Harry's voice\nwas strangely gentle, almost like an adult's. \"I know it's going to\nbe harder on you than it would be on me. But remember, eventually\nthe real culprit gets nailed. The truth comes out, everyone who was\nconfidently wrong gets embarrassed.\"",
+      "\"And if the real culprit doesn't get caught?\" she said in a\ntrembling voice.",
+      "<em>...or if it turns out to be me after all?</em>",
+      "\"Then you can leave Hogwarts and go to the Salem Witches'\nInstitute in America.\"",
+      "\"<em>Leave Hogwarts?</em> \" She'd never even thought of that\npossibility except as an ultimate punishment.",
+      "\"I... Hermione, I think you might want to do that anyway.\nHogwarts isn't a castle, it's insanity with walls. You\n<em>have</em> got other options.\"",
+      "\"I'll...\" she stammered. \"I'll have... to think about it...\"",
+      "Harry nodded. \" At least nobody's going to try hexing you, not\nafter what the Headmaster said at dinner tonight. Oh, and Ron\nWeasley came up to me, looking very serious, and told me that if I\nsaw you first, I should tell you that he's sorry for having thought\nbadly of you, and he'll never speak ill of you again.\"",
+      "\"<em>Ron</em> believes I'm innocent?\" said Hermione.",
+      "\"Well... he doesn't think you're <em>innocent,</em> per\nse...\""
+    ]
+  },
+  {
+    "paras": [
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194
+    ],
+    "summary_en": "Hermione enters Ravenclaw dormitory to a wall of silence and averted eyes. Even classmates and younger students she helped avoid her, and she keeps from crying only because she had rehearsed this rejection in her mind.",
+    "translation_fa": "تمام خوابگاه ریونکلاو با ورود آن دو ساکت شد.\n\nبه آن‌ها خیره بودند.\n\nبه هرماینی خیره بودند.\n\n(چنین کابوس‌هایی دیده بود.)\n\nبعد، یکی‌یکی، نگاه‌ها را از او گرفتند.\n\nپنه‌لوپه کلیر‌واتر، دخترپرفکتِ سال‌پنجمی که مسئول سال‌اولی‌ها بود، آهسته و عامدانه رویش را برگرداند و به سوی دیگری نگاه کرد.\n\nسو لی، لیزا تورپین و مایکل کورنر که همگی دور یک میز نشسته بودند و هرماینی زمانی به هر سه‌شان در انجام تکالیف کمک کرده بود، همین که کوشید نگاهشان را بگیرد، روی برگرداندند؛ چهره‌هایشان ناگهان مضطرب شده بود.\n\nجادوگر سال‌سومی به نام لاتی‌شا رَندل، که اِس.پی.هِیو دو بار نجاتش داده بود تا قلدرهای اسلیترین اذیتش نکنند، به‌سرعت دوباره روی میز خم شد و وانمود کرد مشغول تکالیف است.\n\nمندی بروکلهرست نگاهش را از هرماینی گرفت.\n\nاگر هرماینی به گریه نیفتاد، فقط به این دلیل بود که انتظارش را داشت و بارها و بارها در ذهنش از پیش تجربه‌اش کرده بود. دست‌کم کسی سرش فریاد نمی‌کشید، هلش نمی‌داد یا طلسمی به سویش نمی‌فرستاد. فقط روی برمی‌گرداندند ــ",
+    "summary_fa": "هرماینی در خوابگاه ریونکلاو با سکوت و نگاه‌های گریزان روبه‌رو می‌شود. حتی همکلاسی‌ها و شاگردان کم‌سن‌تری که کمکشان کرده بود از او دوری می‌کنند؛ فقط چون این طردشدن را در ذهنش بارها تمرین کرده بود، گریه نمی‌کند.",
+    "id": 21,
+    "verbatim_html": [
+      "The whole Ravenclaw dorm went silent as the two of them walked\nin.",
+      "Staring at them.",
+      "Staring at her.",
+      "(She'd had nightmares like this.)",
+      "And then, one by one, people looked away from her.",
+      "Penelope Clearwater, the 5th-year prefect in charge of\nfirst-years, looked away slowly and deliberately, turning her head\nto face in another direction.",
+      "Su Li and Lisa Turpin and Michael Corner, all sitting at a table\ntogether, all of whom she'd helped with their homework at one time\nor another, all looked away, their faces suddenly nervous, the\nmoment she tried to catch their eyes.",
+      "A third-year witch named Latisha Randle, whom S.P.H.E.W. had\ntwice saved from Slytherin bullies, quickly bent back over her desk\nand started doing homework again.",
+      "Mandy Brocklehurst looked away from her.",
+      "If Hermione didn't burst into tears, then, it was only because\nshe'd expected it, had played it out in her mind over and over\nagain. At least people weren't screaming at her or shoving her or\nhexing her. They were just looking away -"
+    ]
+  },
+  {
+    "paras": [
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210
+    ],
+    "summary_en": "Hermione heads for her dorm but realizes she cannot return to bed with the other girls there. She slips onto a balcony and stares at the grounds, exhausted, afraid of facing people, while fragments of thought circle until a door opens behind her.",
+    "translation_fa": "هرماینی با قامتی راست به سوی پلکانی رفت که به خوابگاه دختران سال‌اولی می‌رسید. (ندید پادما پاتیل و آنتونی گلدستاین نگاهش می‌کنند؛ آن دو سرِ تنها چرخیدند تا رفتنش را دنبال کنند.) از پشت سرش صدای آرام هری پاتر را شنید: «خب، بالاخره حقیقت روشن می‌شود. پس اگر این‌قدر مطمئنید که گناهکار است، می‌توانم از همه‌تان بخواهم همین‌جا این کاغذ را امضا کنید و بنویسید اگر بعداً معلوم شد بی‌گناه بوده، می‌تواند بگوید “دیدید گفتم” و تا آخر عمر این را به رختان بکشد؟ جلو بیایید، تک‌تک‌تان؛ ترسو نباشید، اگر واقعاً باور دارید، نباید از شرط‌بندی بترسید ــ»\n\nنیمهٔ راه پله‌ها بود که فهمید دخترهای دیگری هم در اتاق خوابش خواهند بود.\n\nستاره‌ها هنوز کاملاً بیرون نیامده بودند؛ فقط یکی‌دو تا از درخشان‌ترینشان از میان مهِ سرخ‌ـ‌بنفش افق دیده می‌شدند، با اینکه خورشید کاملاً غروب کرده بود.\n\nدست‌های هرماینی به سنگ زبر جان‌پناه بالکن کوچکی چنگ زد که پس از فهمیدن اینکه ــ از راه‌پله بیرون آمده و به آن پناه برده بود ــ\n\nــ «نمی‌تواند همین‌طوری به تختش برگردد» ــ\n\nــ کلمات در ذهنش بازتاب می‌یافتند، آن‌طور که عبارت «دیگر نمی‌توانی به خانه برگردی» باید طنین داشته باشد.\n\nبه محوطهٔ خالی، غروبِ رو به خاموشی و چمن‌های جوانه‌زده‌ای که آن پایین بودند خیره شد.\n\nخسته بود، خسته؛ حالا نمی‌توانست فکر کند، باید می‌خوابید. پروفسور فلیت‌ویک گفته بود باید بخوابد و با شامش یک معجون دیگر خورده بود. شاید جامعهٔ جادوگری با تروماهای هولناک دختران جوان و بی‌گناه همین‌طور رفتار می‌کرد: بعدش فقط می‌گذاشتند زیاد بخوابند.\n\nباید به اتاقش می‌رفت و می‌خوابید، اما می‌ترسید به جایی برود که آدم‌های دیگری آنجا باشند. می‌ترسید بدانند چه نگاهی به او می‌اندازند، یا چطور روی برمی‌گردانند.\n\nتکه‌های فکر در ذهنی که از فرط خستگی نمی‌توانست آن‌ها را تمام یا به هم وصل کند، دنبال هم می‌دویدند و شب کاملاً فرومی‌رسید.\n\n«چرا ــ»\n\n«چرا همهٔ این‌ها اتفاق افتاد ــ»\n\n«یک هفته پیش همه‌چیز خوب بود ــ»\n\n«چرا ــ»\n\nاز پشت سرش صدای جیرجیر درِ در حال باز شدن آمد.\n\nسرش را چرخاند و نگاه کرد.",
+    "summary_fa": "هرماینی به سوی خوابگاه می‌رود، اما می‌فهمد نمی‌تواند با دخترهای دیگر به تختش برگردد. به بالکنی پناه می‌برد و خسته و هراسان به محوطه خیره می‌شود تا اینکه دری پشت سرش باز می‌شود.",
+    "id": 22,
+    "verbatim_html": [
+      "Hermione walked very straight up to the staircaise that led\ntoward the first-year girl's dorms. (She didn't see Padma Patil or\nAnthony Goldstein looking at her, those two lone heads turning to\ntrack her as she left.) From behind her, she heard Harry Potter\nsaying in a very calm tone, \"Now eventually the truth's going to\ncome out, you all. So if you're all that confident she's guilty,\ncan I ask you all to sign this paper right here, saying that if she\nlater turns out to be innocent, she gets to say 'I told you so' and\nthen hold it over you for the rest of your lives? Step on up, one\nand all, don't be cowards, if you really believe you shouldn't be\nafraid to bet -\"",
+      "She was halfway up the stairs when she realized that there would\nbe other girls inside her dorm room, too.",
+      "The stars hadn't quite come out yet, only one or two of the\nbrightest ones visible through the reddish-purple haze of the\nhorizon, though the sun had fully sunk.",
+      "Hermione's hands dug into the harsh stone of the parapet\nguarding the small balcony, where she'd ducked out of the stairwell\nafter realizing that -",
+      "- <em>she couldn't just go back to bed</em> -",
+      "- the words echoed in her mind like 'You can't go home again'\nought to sound.",
+      "She stared out at the empty grounds, the fading sunset, the\nsprouting grass so far below.",
+      "Tired, she was tired, she couldn't think now, she needed to\nsleep. Professor Flitwick had told her that she needed to sleep,\nand there'd been yet another potion with her dinner. Maybe that was\nhow wizarding society treated horrible traumas to innocent young\ngirls, just made them sleep a lot afterward.",
+      "She should go to her room and sleep, but she was afraid to go\nsomeplace where other people were. Afraid of how they might look at\nher, or look away.",
+      "Fragments of thought chased themselves around a mind too\nexhausted to finish or connect them, as the night fully set in.",
+      "<em>Why -</em>",
+      "<em>Why did all this happen -</em>",
+      "<em>Everything was fine a week ago -</em>",
+      "<em>Why -</em>",
+      "From behind her came the creaky sound of an opening door.",
+      "She turned her head and looked."
+    ]
+  },
+  {
+    "paras": [
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223
+    ],
+    "summary_en": "Hermione finds Quirrell silhouetted in the doorway and fears he has come to kill her. When he approaches, she casts Stupefy; he stops the bolt, praises her response as a Defense teacher, and sends the spell harmlessly away.",
+    "translation_fa": "پروفسور کوییرل به چهارچوب دری که هرماینی از آن گذشته بود تکیه داده بود؛ نور مشعل‌های هاگوارتز که پشت سرش درِ باز را روشن می‌کردند، او را مانند پیکره‌ای مقوایی سایه‌وار نشان می‌داد. با اینکه چهارچوب پشت سرش روشن بود، نمی‌توانست حالت چهره‌اش را ببیند؛ چشم‌ها و صورتش و هر چیزی که از اینجا می‌شد دید، در سایهٔ شب قرار داشت.\n\nاستاد دفاع هاگوارتز؛ شمارهٔ یک فهرست آدم‌هایی که ممکن بود این کار را کرده باشند. هرماینی تا همان لحظه نفهمیده بود اصلاً فهرست مظنونی دارد.\n\nمرد در چهارچوب ایستاده بود و چیزی نمی‌گفت؛ هرماینی هم چشم‌هایش را نمی‌دید. اصلاً آنجا چه کار می‌کرد ــ\n\nهرماینی گرنجر گفت: «آمده‌اید مرا بکشید؟»\n\nسر پروفسور کوییرل کج شد.\n\nآن‌گاه استاد دفاع به سویش راه افتاد و شبح تیره یک دستش را آهسته و عامدانه بالا آورد، انگار می‌خواست او را از برج ریونکلاو پایین هل بدهد ــ\n\n«استوپفای!»\n\nهجوم آدرنالین بر همه‌چیز چیره شد. بی‌آنکه فکر کند چوبدستی‌اش را کشید؛ لب‌هایش خودبه‌خود واژه را ساختند و گلولهٔ گیج‌کننده از چوبدستی‌اش جهید و ــ\n\nــ جلوی دستِ بالاآمدهٔ پروفسور کوییرل آهسته ایستاد؛ در هوا موج می‌زد، انگار هنوز می‌کوشید پرواز کند، و صدای هیس خفیفی داشت.\n\nدرخشش سرخ برای نخستین بار صورت پروفسور کوییرل را روشن کرد و لبخندی عجیب و مهربان نشان داد.\n\nپروفسور کوییرل گفت: «بهتر شد. خانم گرنجر، هنوز شاگرد کلاس دفاع من هستی. پس اگر مرا تهدیدی می‌دانی، انتظار ندارم فقط با اندوه نگاهم کنی و بپرسی آمده‌ام تو را بکشم یا نه. دو امتیاز از کوییرل کم می‌شود.»\n\nهرماینی مطلقاً نمی‌توانست کلمه‌ای بر زبان بیاورد.\n\nاستاد دفاع انگشت اشاره‌اش را بی‌خیال به سوی گلولهٔ گیج‌کنندهٔ معلق تکان داد و طلسم را از بالای سر هرماینی به دوردستِ شب فرستاد؛ آن‌ها دوباره در تاریکی ایستادند. بعد پروفسور کوییرل از در بیرون آمد و در پشت سرش بسته شد؛ نوری سفید و ملایم پیرامونشان روشن شد تا بار دیگر صورتش را ببیند، هنوز با همان لبخند عجیب و مهربان.",
+    "summary_fa": "هرماینی کوییرل را سایه‌وار در چهارچوب در می‌بیند و می‌ترسد آمده باشد او را بکشد. وقتی نزدیک می‌شود، استوپفای می‌زند؛ او طلسم را متوقف می‌کند، مثل معلم دفاع واکنش هرماینی را می‌ستاید و طلسم را بی‌خطر دور می‌فرستد.",
+    "id": 23,
+    "verbatim_html": [
+      "Professor Quirrell was leaning against the doorway she'd walked\nthrough, silhouetted like a cardboard cutout by the light of the\nHogwarts torches lit behind him, in the open door. She couldn't see\nhis expression, though the doorway behind him was bright; his eyes,\nhis face, everything she could see from here lay within night's\nshadow.",
+      "The Defense Professor of Hogwarts, number one on the list of\npeople who might've done this. She hadn't even realized she\n<em>had</em> a suspect list until that moment.",
+      "The man stood within that doorway, saying nothing; and she\ncouldn't see his eyes. What was he even <em>doing</em> there in the\nfirst place -",
+      "\"Are you here to kill me?\" said Hermione Granger.",
+      "Professor Quirrell's head tilted at that.",
+      "Then the Defense Professor started toward her, the dark\nsilhouette raising one hand slowly and deliberately, as though to\npush her off the Ravenclaw tower -",
+      "\"<em>Stupefy!</em> \"",
+      "The burst of adrenaline overrode everything, she drew her wand\nwithout thinking, her lips formed the word of their own accord, the\nstunbolt leapt out of her wand and -",
+      "- <em>slowed to a stop</em> in front of Professor Quirrell's\nraised hand, rippling in midair like it was still trying to fly and\nmaking a slight hissing sound.",
+      "The red glow illuminated Professor Quirrell's face for the first\ntime, showing a strange fond smile.",
+      "\"Better,\" said Professor Quirrell. \"Miss Granger, you are still\na student in my Defense class. As such, if you consider me a\nthreat, I do not expect you to just look at me sadly and ask if I\nam there to kill you. Minus two Quirrell points.\"",
+      "She was entirely unable to form words.",
+      "The Defense Professor flicked his forefinger casually at the\nsuspended stunbolt, sending the hex shooting back over her head,\nfar into the night, so that they stood again in darkness. Then\nProfessor Quirrell walked out of the doorway, which swung shut\nbehind him; and a soft white light sprung up around the two of\nthem, so that she could see his face once more, still with that\nstrange fond smile."
+    ]
+  },
+  {
+    "paras": [
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235
+    ],
+    "summary_en": "Quirrell says he came as Hermione's teacher, responsible for his student. He agrees with Harry that the murder was planned to frame an innocent person, denies Hermione could have done it, and begins telling her how he once intended to become a hero.",
+    "translation_fa": "هرماینی پرسید: «اینجا چه‌کار می‌کنید ــ چه‌کار می‌کنید؟»\n\nپروفسور کوییرل چند قدم دیگر برداشت و به بخش بلندتری از باروی بالکن رسید؛ آرنج‌هایش را روی سنگ گذاشت و سنگین به آن تکیه داد و به آسمان شب نگاه کرد.\n\nپروفسور کوییرل با صدایی آرام گفت: «همین که آوروها آزادم کردند، درست پس از آنکه گزارش کارم را به مدیر مدرسه دادم، مستقیم به اینجا آمدم؛ چون من معلم توام، تو شاگرد منی، و مسئولیتت با من است.»\n\nحالا هرماینی فهمید؛ حرفی را به یاد آورد که پروفسور کوییرل در دومین درس دفاع سال به هری دربارهٔ مهار خشمش گفته بود. سرخی شرم را تا سینه‌اش احساس کرد. لحظه‌ای طول کشید تا دانسته‌هایش بر خجالتش غلبه کنند و بتواند به‌زور کلمه‌ها را بیرون بدهد ــ\n\nهرماینی گفت: «من ــ هری فکر می‌کند ــ که من عصبانی نشدم، منظورم این است ــ»\n\nپروفسور کوییرل با لحنی نسبتاً خشک گفت: «این را شنیده‌ام.» سرش را تکان داد، گویی از خود ستاره‌ها دلخور باشد. «پسر خوش‌اقبال است که دلخوری‌ام از خودویرانگری‌اش جای خود را به کنجکاوی محض دربارهٔ کاری که بعد می‌کند داده. اما با ارزیابی آقای پاتر از واقعیت‌ها موافقم. این قتل خوب برنامه‌ریزی شده بود تا هم از حفاظ‌های هاگوارتز بگریزد و هم از دید به‌موقع مدیر مدرسه پنهان بماند. طبیعی است که در چنین قتل سنجیده‌ای، بی‌گناهی را برای انداختن تقصیر به گردنش انتخاب کنند.» لبخندی کوتاه و تلخ از لب‌های استاد دفاع گذشت، هرچند به هرماینی نگاه نمی‌کرد. «اما اینکه خودت این کار را کرده باشی ــ خودم را معلمی بااستعداد می‌دانم، ولی حتی من هم نمی‌توانستم چنین قصد قتلی را به شاگردی یک‌دنده و بی‌استعداد مثل هرماینی گرنجر یاد بدهم.»\n\nبخشی از مغزش که با خشم می‌گفت «چی؟» اصلاً آن‌قدر بلند نبود که به لب‌هایش برسد.\n\nپروفسور کوییرل گفت: «نه... برای همین اینجا نیامده‌ام. خانم گرنجر، تلاشی نکرده‌ای که بیزاری‌ات از من را پنهان کنی. بابت این دورویی نکردنت از تو ممنونم؛ چون نفرت واقعی را بسیار به عشق دروغین ترجیح می‌دهم. اما هنوز شاگرد منی و حرفی برای گفتن به تو دارم، اگر بخواهی بشنوی.»\n\nهرماینی که هنوز می‌کوشید اثر آدرنالین قبلی را مهار کند به او نگاه کرد. به نظر می‌رسید استاد دفاع فقط به آسمان تاریکی خیره شده که ستاره‌هایش کم‌کم نمایان می‌شدند.\n\nپروفسور کوییرل، همچنان رو به بالا، گفت: «یک‌بار قرار بود قهرمان شوم. می‌توانی باور کنی، خانم گرنجر؟»\n\n«نه.»\n\n«باز هم از تو ممنونم، خانم گرنجر. بااین‌حال حقیقت دارد. مدت‌ها پیش، خیلی پیش از زمان تو و هری پاتر، مردی بود که او را منجی می‌خواندند؛ وارثی برگزیده، از همان‌ها که در قصه‌ها همه می‌شناسند، که عدالت و انتقام را چون دو چوبدستی در برابر دشمن هولناکش به دست گرفته بود.» پروفسور کوییرل آهسته و تلخ خندید و به آسمان شب نگاه کرد. «می‌دانی، خانم گرنجر، آن زمان فکر می‌کردم خودم دیگر بدبین شده‌ام، اما... خب.»",
+    "summary_fa": "کوییرل می‌گوید به‌عنوان معلم و مسئول هرماینی آمده است. او با هری موافق است که قتل برای متهم‌کردن بی‌گناهی طراحی شده و هرماینی نمی‌توانسته آن را انجام دهد؛ سپس از زمانی می‌گوید که می‌خواست قهرمان شود.",
+    "id": 24,
+    "verbatim_html": [
+      "\"What are you - what are you <em>doing</em> here?\"",
+      "A few more steps took Professor Quirrell to a higher part of the\nbalcony's ramparts, where he put his elbows down on the stone, and\nleaned over heavily, looking up into the night.",
+      "\"I came here straight upon being released by the Aurors, the\nmoment I finished reporting to the Headmaster,\" said Professor\nQuirrell in a quiet voice, \"because I am your teacher, and you are\nmy student, and I am responsible for you.\"",
+      "Hermione understood, then; remembering what Professor Quirrell\nhad said to Harry in the second Defense lesson of the year, about\ncontrolling his anger. She felt the flush of shame all the way down\nher chest. It took a moment after that for knowledge to override\nmortification, for her to force out the words -",
+      "\"I -\" said Hermione. \"Harry thinks - that I <em>didn't</em> -\nlose my temper, I mean -\"",
+      "\"So I heard,\" said Professor Quirrell in rather dry tones. He\nshook his head, as though at the stars themselves. \"The boy is\nfortunate that I have crossed the line from annoyance with his\nself-destructiveness, into sheer curiosity as to what he shall do\nnext. But I agree with Mr. Potter's assessment of the facts. This\nmurder was well-planned to evade detection both by the wards of\nHogwarts and the Headmaster's timely eye. Naturally, in such a\nthoughtful murder, some innocent would be placed to take the\nblame.\" A brief, wry smile crossed the Defense Professor's lips,\nthough he wasn't looking at her. \"As for the notion that you did it\nyourself - I consider myself a talented teacher, but even I could\nnot teach such murderous intent to a student as obstinate and\nuntalented as Hermione Granger.\"",
+      "The part of her brain that said <em>What?</em> in indignation\nwasn't anywhere near loud enough to reach her lips.",
+      "\"No...\" said Professor Quirrell. \"That is not why I am here. You\nhave made no effort to hide your dislike for me, Miss Granger. I\nthank you for that lack of pretense, for I much prefer true hate to\nfalse love. But you are still my student, and I have a word to say\nto you, if you will hear it.\"",
+      "Hermione looked at him, still fighting down the aftereffects of\nthe adrenaline from before. The Defense Professor seemed to be just\nstaring up at the dark sky, in which the stars were becoming\nvisible.",
+      "\"I was going to be a hero, once,\" said Professor Quirrell, still\nlooking upward. \"Can you believe that, Miss Granger?\"",
+      "\"No.\"",
+      "\"Thank you again, Miss Granger. It is true nonetheless. Long\nago, long before your time or Harry Potter's, there was a man who\nwas hailed as a savior. The destined scion, such a one as anyone\nwould recognize from tales, wielding justice and vengeance like\ntwin wands against his dreadful nemesis.\" Professor Quirrell gave a\nsoft, bitter laugh, looking up at the night sky. \"Do you know, Miss\nGranger, at that time I thought myself already cynical, and yet...\nwell.\""
+    ]
+  },
+  {
+    "paras": [
+      236,
+      237,
+      238,
+      239,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245
+    ],
+    "summary_en": "Quirrell recounts how the people a hero sought to protect obstructed him while eagerly following the Dark Wizard. He eventually stopped trying to be a hero, and challenges Hermione to judge him against those who never tried at all.",
+    "translation_fa": "سکوت در سرما و شب کش آمد.\n\nپروفسور کوییرل، در حالی که به ستاره‌ها نگاه می‌کرد، گفت: «راستش را بخواهی، هنوز هم نمی‌فهمم. باید می‌دانستند زندگی‌شان به موفقیت آن مرد وابسته است. بااین‌حال انگار هر کاری از دستشان برمی‌آمد می‌کردند تا زندگی او را ناخوشایند کنند؛ هر مانعی را که می‌شد سر راهش بگذارند. خانم گرنجر، ساده‌لوح نبودم؛ انتظار نداشتم صاحبان قدرت بی‌درنگ با من هم‌سو شوند، نه بدون اینکه نفعی برای خودشان داشته باشد. اما قدرت خودشان هم در خطر بود؛ برای همین شوکه شدم که چطور به‌نظر می‌رسید راضی‌اند کنار بایستند و تمام بار مسئولیت را به دوش آن مرد بگذارند. عملکردش را مسخره می‌کردند و میان خودشان می‌گفتند اگر جای او بودند بهتر عمل می‌کردند، اما خودشان حتی آن‌قدر زحمت نمی‌کشیدند که جلو بیایند.» استاد دفاع سرش را با حالتی مبهوت تکان داد. «و عجیب‌ترین بخش ماجرا این بود ــ جادوگر تاریکی، دشمن هولناک آن مرد ــ کسانی که به او خدمت می‌کردند مشتاقانه به کارهایشان می‌شتافتند. جادوگر تاریکی با خدمتگزارانش بی‌رحم‌تر می‌شد و آن‌ها بیشتر دنبالش می‌رفتند. مردم برای فرصتی که بتوانند به او خدمت کنند می‌جنگیدند، در حالی که کسانی که زندگی‌شان به آن مرد دیگر وابسته بود، آزادانه زندگی‌اش را دشوار می‌کردند... نمی‌توانستم بفهمم، خانم گرنجر.» چهرهٔ پروفسور کوییرل در سایه بود و به بالا نگاه می‌کرد. «شاید با بر دوش گرفتن نفرینِ دست به عمل زدن، آن مرد آن را از دوش دیگران برداشت؟ آیا برای همین آزادانه در نبردش با جادوگر تاریکی‌ای که همه‌شان را به بردگی می‌کشید مانع‌تراشی می‌کردند؟ باور به اینکه مردم در راستای منافع خود عمل می‌کنند بدبینی نبود؛ معلوم شد خوش‌بینیِ محض است. در واقع مردم به آن معیار بلند نمی‌رسند. و سرانجام آن مرد فهمید شاید بتواند به‌تنهایی بهتر از زمانی بجنگد که چنین پیروانی پشت سرش باشند.»\n\nصدای هرماینی در شب غریب می‌نمود. «پس دوستانت را جایی امن پشت سر گذاشتی و خودت تنهایی به جادوگر تاریکی حمله کردی؟»\n\nپروفسور کوییرل گفت: «نه، چرا. دست از قهرمان بودن کشیدم و رفتم کار دیگری بکنم که برایم لذت‌بخش‌تر بود.»\n\nهرماینی بی‌آنکه اصلاً فکر کند گفت: «چی؟ این وحشتناک است!»\n\nاستاد دفاع سرش را از آسمان پایین آورد و به او نگاه کرد؛ در روشنایی چهارچوب در دید که لبخند می‌زد ــ یا دست‌کم نیمی از صورتش لبخند می‌زد. «خانم گرنجر، می‌خواهی به من بگویی آدم افتضاحی هستم؟ شاید هم باشم. اما کسانی که اصلاً برای قهرمان شدن تلاش نمی‌کنند، بدتر نیستند؟ اگر من هم هیچ کاری نمی‌کردم، مثل آن‌ها، نظرت درباره‌ام بهتر می‌شد؟»\n\nهرماینی دهان باز کرد، اما دوباره فهمید چیزی برای گفتن ندارد. درست نبود از قهرمان بودن دست بکشی؛ نمی‌شد همین‌طوری چنین کاری کرد، اما نمی‌خواست بگوید هرکس قهرمان نیست هیچ‌چیز نیست؛ این دیگر طرز فکر کوییرل بود...\n\nلبخند، یا نیم‌لبخند، ناپدید شد. استاد دفاع آهسته گفت: «احمق بودی که انتظار داشته باشی وقتی خودت را قهرمان نامیدی، کسانی که می‌خواستی از آن‌ها محافظت کنی تا ابد از تو سپاسگزار بمانند. درست مثل اینکه انتظار داشتی آن مرد هم به قهرمان بودن ادامه دهد و وقتی دست کشید به او گفتی وحشتناک است، در حالی که هزار نفر دیگر حتی انگشت هم تکان ندادند. از تو انتظار می‌رفت با قلدرها بجنگی. مالیاتی بود که بدهکار بودی و آن‌ها مثل شاهزادگان پذیرفتنش؛ با تمسخرِ دیر رسیدن پرداختت. شرط می‌بندم خودت هم دیده‌ای که مهرشان مثل غبار در باد محو شد، همین که دیگر به سودشان نبود با تو نشست‌وبرخاست کنند...»\n\nاستاد دفاع آرام از روی جان‌پناه صاف شد، تقریباً راست ایستاد و تمام‌قد به او نگاه کرد.\n\nپروفسور کوییرل گفت: «اما لازم نیست قهرمان باشی، خانم گرنجر. هر وقت بخواهی می‌توانی دست بکشی.»",
+    "summary_fa": "کوییرل می‌گوید مردمی که قهرمان می‌خواست نجاتشان دهد مانعش می‌شدند، اما مشتاقانه از جادوگر تاریکی پیروی می‌کردند. خودش سرانجام قهرمان بودن را کنار گذاشت و هرماینی را به سنجش خود در برابر کسانی فرامی‌خواند که هرگز تلاش نکردند.",
+    "id": 25,
+    "verbatim_html": [
+      "The silence stretched, in the cold and the night.",
+      "\"In all honesty,\" said Professor Quirrell, looking up at the\nstars, \"I still don't understand it. They should have known that\ntheir lives depended on that man's success. And yet it was as if\nthey tried to do everything they could to make his life\n<em>unpleasant.</em> To throw every possible obstacle into his way.\nI was not naive, Miss Granger, I did not expect the power-holders\nto align themselves with me so quickly - not without something in\nit for themselves. But their power, too, was threatened; and so I\nwas shocked how they seemed content to step back, and leave to that\nman all burdens of responsibility. They sneered at his performance,\nremarking among themselves how they would do better in his place,\nthough they did not condescend to step forward.\" Professor Quirrell\nshook his head as though in bemusement. \"And it was the strangest\nthing - the Dark Wizard, that man's dread nemesis - why, those who\nserved <em>him</em> leapt eagerly to their tasks. The Dark Wizard\ngrew crueler toward his followers, and they followed him all the\nmore. Men fought for the chance to serve <em>him</em>, even as\nthose whose lives depended on that other man made free to render\nhis life difficult... I could not understand it, Miss Granger.\"\nProfessor Quirrell's face was in shadow, as he looked upward.\n\"Perhaps, by taking on himself the curse of action, that man\nremoved it from all others? Was that why they felt free to hinder\nhis battle against the Dark Wizard who would have enslaved them\nall? Believing men would act in their own interest was not\ncynicism, it turned out, but sheerest optimism; in reality men do\nnot meet so high a standard. And so in time that one realized he\nmight do better fighting the Dark Wizard alone, than with such\nfollowers at his back.\"",
+      "\"So -\" Hermione's voice sounded strange in the night. \"You left\nyour friends behind where they'd be safe, and tried to attack the\nDark Wizard all by yourself?\"",
+      "\"Why, no,\" said Professor Quirrell. \"I stopped trying to be a\nhero, and went off to do something else I found more pleasant.\"",
+      "\"<em>What?</em> \" said Hermione without thinking at all. \"That's\n<em>horrible!</em> \"",
+      "The Defense Professor turned his head down from the sky to\nregard her; and she saw, in the light of the doorway, that he was\nsmiling - or at least half his face was smiling. \"Are you going to\ntell me, Miss Granger, that I am an awful person? Well, perhaps I\nam. But then are people who never even try to be heroes still\nworse? If I had never done anything at all, like them, would you\nhave thought better of me?\"",
+      "Hermione opened her mouth and then found that, once again, she\ndidn't have anything to say. It wasn't right to walk away from\nbeing a hero, you couldn't just <em>do</em> that, but she didn't\n<em>want</em> to say that everyone who wasn't a hero was nothing,\nthat was Quirrell-thinking...",
+      "The smile, or half-smile, had disappeared. \"You were foolish,\"\nthe Defense Professor said quietly, \"to expect any lasting\ngratitude from those you tried to protect, once you named yourself\na heroine. Just as you expected that man to go on being a hero, and\ncalled him horrible for stopping, when a thousand others never\nlifted a finger. It was only <em>expected</em> that you should\nfight bullies. It was a tax you owed, and they accepted it like\nprinces, with a sneer for the lateness of your payment. And you\nhave already witnessed, I wager, that their fondness vanished like\ndust in the wind once it was no longer in their interest to\nassociate with you...\"",
+      "The Defense Professor slowly straightened off the balcony,\nstanding almost straight, turning to regard her fully.",
+      "\"But you don't have to be a hero, Miss Granger,\" said Professor\nQuirrell. \"You can stop anytime you please.\""
+    ]
+  },
+  {
+    "paras": [
+      246,
+      247,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256
+    ],
+    "summary_en": "Hermione recognizes that leaving heroism behind has tempted her, but feels torn between remaining at Hogwarts and protecting herself. Quirrell says she has other options, offers to take her safely to Beauxbatons, and argues that Harry's House bond makes him her master under British law.",
+    "translation_fa": "این فکر...\n\n...قبلاً هم به ذهنش آمده بود، چند بار طی دو روز گذشته.\n\n«آدم‌ها با انجام کار درست به کسانی بدل می‌شوند که مقدر است باشند،» مدیر مدرسه دامبلدور به او گفته بود. مشکل این بود که به نظر می‌رسید دو کار درست متفاوت وجود دارد. بخشی از وجودش می‌گفت کار درست این است که به قهرمان بودن ادامه دهد و در هاگوارتز بماند؛ نمی‌دانست چه خبر است، اما یک قهرمان همین‌طوری فرار نمی‌کند.\n\nو صدای عقل سلیم هم بود که می‌گفت بچه‌های خردسال هرگز نباید نزدیک خطر بمانند؛ این کارِ بزرگ‌ترهاست. همان صدای پوسترهای مدرسه که می‌گفتند از غریبه‌ها آب‌نبات نگیرید. آن هم درست بود.\n\nهرماینی گرنجر همان‌جا روی بالکن ایستاده بود و به پروفسور کوییرل که در برابر ستاره‌های نوظهور سایه‌وار شده بود نگاه می‌کرد؛ نمی‌فهمید. نمی‌فهمید چرا استاد دفاع با چهره‌ای نگران به او نگاه می‌کند؛ نمی‌فهمید چرا آهنگ‌های درد در صدایش به دلش چنگ می‌زند؛ نمی‌فهمید اصلاً چرا این حرف‌ها را به او می‌زند.\n\nهرماینی گفت: «شما حتی از من خوشتان هم نمی‌آید، استاد.»\n\nلبخند کوچکی بر چهرهٔ پروفسور کوییرل لرزید. «گمانم می‌توانم از اینکه این ماجرا وقت ارزشمندم را گرفته و کلاس‌های دفاعم را مختل کرده شکایت کنم. اما بیش از هر چیز، خانم گرنجر، تو شاگرد منی و هر شغل دیگری که زمانی داشته‌ام، گمان می‌کنم در هاگوارتز معلم خوبی بوده‌ام، مگر نه؟» ناگهان چشم‌های پروفسور کوییرل بسیار خسته به نظر رسید. «پس به‌عنوان معلمت می‌گویم که گزینه‌های شغلی دیگری هم داری. دوست ندارم کس دیگری راه مرا در پیش بگیرد.»\n\nهرماینی آب دهانش را قورت داد. این رویی از پروفسور کوییرل بود که هرگز ندیده یا تصور نکرده بود و داشت پیش‌فرض‌هایش را می‌فرسود.\n\nپروفسور کوییرل لحظه‌ای نگاهش کرد، بعد دوباره روی از او گرفت و به ستاره‌ها نگریست. این بار آرام‌تر سخن گفت. «کسی اینجا تو را هدف گرفته، خانم گرنجر، و نمی‌توانم مثل آقای مالفوی از تو محافظت کنم. مدیر مدرسه به دلایلی که خودش خوب می‌داند مانعش شده. می‌دانم دلبستهٔ هاگوارتز شدن آسان است؛ خودم هم دوستش دارم. اما در فرانسه نگاه متفاوتی به خاندان‌های کهن دارند و فکر نمی‌کنم بوباتون با تو بدرفتاری کند. هر تصور دیگری که از من داری، قسم می‌خورم اگر از من بخواهی تو را سالم به بوباتون برسانم، با تمام توانم این کار را می‌کنم.»\n\nهرماینی گفت: «نمی‌توانم همین‌طوری ــ»\n\n«اما می‌توانی، خانم گرنجر.» حالا چشم‌های آبی کم‌رنگ با دقت زیر نظرش داشتند. «هرچه می‌خواهی از زندگی‌ات بسازی، دیگر نمی‌توانی آن را در هاگوارتز به دست بیاوری. اینجا دیگر برایت ویران شده، حتی اگر همهٔ تهدیدهای دیگر را کنار بگذاریم. فقط از هری پاتر بخواه فرمان دهد به بوباتون بروی و بقیهٔ عمرت را در آرامش بگذرانی. اگر اینجا بمانی، در چشم بریتانیا و قوانینش او اربابت است!»",
+    "summary_fa": "هرماینی می‌داند ترک قهرمان‌بودن وسوسه‌اش کرده، اما میان ماندن در هاگوارتز و حفظ امنیتش مردد است. کوییرل می‌گوید گزینه‌های دیگری دارد، پیشنهاد می‌کند سالم به بوباتون ببردش و یادآور می‌شود پیوندش با خاندان پاتر از نظر قانون بریتانیا هری را ارباب او می‌کند.",
+    "id": 26,
+    "verbatim_html": [
+      "That idea...",
+      "...<em>had</em> occurred to her before, several times over the\nlast two days.",
+      "<em>People become who they are meant to be, by doing what is\nright,</em> Headmaster Dumbledore had told her. The trouble was\nthat there seemed to be two different right things to do. There was\nthe part of her which said that <em>right</em> was to go on being a\nheroine, and stay at Hogwarts, she didn't know what was going on\nbut a heroine wouldn't just run away.",
+      "And there was also the voice of common sense saying that young\nchildren shouldn't ever stay around danger, that was what adults\nwere for; the voice of every school poster that said not to take\ncandy from strangers. That was also right.",
+      "Hermione Granger stood there on that balcony, looking at\nProfessor Quirrell silhouetted by the emerging stars, and she\ndidn't understand; she didn't understand how the Defense Professor\ncould be gazing at her with his face showing concern; she didn't\nunderstand the notes of pain in the Defense Professor's voice that\ncaught at her; she didn't understand <em>why</em> she was being\ntold all this.",
+      "\"You don't even like me, Professor,\" said Hermione.",
+      "A small smile flickered on Professor Quirrell's face. \"I suppose\nI could go on about how I am angered that this affair has taken up\nmy valuable time and disrupted my Defense classes. But mostly, Miss\nGranger, you are my student, and whatever other professions I may\nhave once held, I think I have been a good teacher at Hogwarts,\nhave I not?\" Suddenly Professor Quirrell's eyes seemed very tired.\n\"As your teacher, then, I am advising you that you have other\ncareer options. I should not like to see anyone else going down my\npath.\"",
+      "Hermione swallowed. It was a side of Professor Quirrell she'd\nnever seen or imagined, and it was eating away at her\npreconceptions.",
+      "Professor Quirrell watched her for a moment, and then looked\naway from her again, back up at the stars. When he spoke this time\nhis voice was quieter. \"Someone here is targeting you, Miss\nGranger, and I cannot ward you as I warded Mr. Malfoy. The\nHeadmaster has prevented it, for what he claims to be good reasons.\nIt is easy to become fond of Hogwarts, I know, for I am fond of it\nas well. But in France they take a different view of the Ancient\nHouses than in Britain; and Beauxbatons would not mistreat you, I\nthink. Whatever else you imagine of me, I swear that if you asked\nme to see you safely in Beauxbatons, I would do all in my power to\nconvey you there.\"",
+      "\"I can't just -\" Hermione said.",
+      "\"But you <em>can,</em> Miss Granger.\" Now the pale blue eyes\nwatched her intently. \"Whatever you wish to make of your life, you\ncannot attain it at Hogwarts, not anymore. This place is ruined for\nyou now, even leaving aside all other threats. Simply ask Harry\nPotter to command you to go to Beauxbatons and live out your life\nin peace. If you stay here, he is your master in the eyes of\nBritain and its laws!\""
+    ]
+  },
+  {
+    "paras": [
+      257,
+      258,
+      259,
+      260,
+      261,
+      262,
+      263,
+      264,
+      265,
+      266
+    ],
+    "summary_en": "Quirrell warns that Harry's attachment makes him dangerous and presses Hermione to leave. She begins to suspect Quirrell engineered the crisis to remove her from Harry's path; he accepts her suspicion but urges her to escape him regardless.",
+    "translation_fa": "هرماینی حتی به این موضوع فکر هم نکرده بود؛ در برابر خورده شدن به دست دیوانه‌سازها آن‌قدر بی‌اهمیت شده بود. پیش‌تر برایش مهم بود، اما حالا همه‌چیز بچگانه و بی‌اهمیت و بیهوده به نظر می‌رسید؛ پس چرا چشم‌هایش می‌سوخت؟\n\nپروفسور کوییرل گفت: «اگر این هم قانعت نمی‌کند، خانم گرنجر، این را هم در نظر بگیر که آقای پاتر همین امروز ظهر، چون نمی‌تواند وقتی چیزی تهدید می‌کند تو را از او بگیرد عاقلانه فکر کند، لوسیوس مالفوی، آلبوس دامبلدور و تمام ویزنگاموت را تهدید کرده. از اینکه بعدش چه خواهد کرد نمی‌ترسی؟»\n\nمعقول بود. به‌شکلی هولناک معقول بود. وحشتناک، افتضاح، معقول بود.\n\nبیش از حد معقول بود ــ\n\nنمی‌توانست با کلمات توضیح دهد چه چیزی باعث این آگاهی شد، مگر اینکه فشار محضی بود که استاد دفاع بر او وارد می‌کرد.\n\nاگر استاد دفاع پشت تمام این ماجرا بود ــ پس پروفسور کوییرل همه‌اش را انجام داده بود «فقط برای اینکه او را از سر راه نقشه‌هایش برای هری بردارد».\n\nبی‌آنکه آگاهانه تصمیم بگیرد، وزنش را روی پای دیگر انداخت و بدنش را از استاد دفاع دور کرد ــ\n\nپروفسور کوییرل گفت: «پس فکر می‌کنی من مسئول این ماجرا هستم؟» هنگام گفتن این حرف صدایش کمی اندوهگین به نظر می‌رسید و شنیدنش نزدیک بود قلب هرماینی را از تپش بازدارد. «گمانم نمی‌توانم سرزنشت کنم؛ بالاخره استاد دفاع هاگوارتز هستم. اما خانم گرنجر، حتی اگر فرض کنیم دشمنت هستم، عقل سلیم باید بگوید خیلی سریع از من دور شوی. نمی‌توانی از نفرین مرگ استفاده کنی، پس تاکتیک درست این است که آپارات کنی و بروی. اگر روشن‌تر شدن ماجرا باعث می‌شود مرا شرور خیالت بدانی، برایم مهم نیست. هاگوارتز را ترک کن و مرا به کسانی بسپار که از پس من برمی‌آیند. ترتیب می‌دهم خانواده‌ای خوش‌نام تو را ببرد و اگر سالم نرسی، هری پاتر می‌داند مرا مقصر بداند.»\n\n«من ــ» احساس سرما می‌کرد؛ هوای شب پوستش را می‌گزید، یا شاید پوستش از آن سرد شده بود. «باید درباره‌اش فکر کنم ــ»\n\nپروفسور کوییرل سر تکان داد. «نه، خانم گرنجر. ترتیب دادن رفتنت زمان می‌برد و من کمتر از آنچه فکر می‌کنی وقت دارم. این تصمیم ممکن است برایت دردناک باشد، اما نباید مبهم باشد؛ چیزهای زیادی در دو کفهٔ ترازوست، اما وزنشان برابر نیست. باید امشب بدانم قصد رفتن داری یا نه.»",
+    "summary_fa": "کوییرل هشدار می‌دهد دلبستگی هری او را خطرناک می‌کند و هرماینی را برای رفتن تحت فشار می‌گذارد. او کم‌کم شک می‌کند که کوییرل بحران را برای کنار زدنش از مسیر هری ساخته؛ کوییرل این احتمال را می‌پذیرد، اما به هر حال به او می‌گوید فرار کند.",
+    "id": 27,
+    "verbatim_html": [
+      "She hadn't even been thinking about that, it paled so much in\ncomparison to being eaten by Dementors; it had been important to\nher before, but now it all seemed childish, unimportant, pointless,\nso why were her eyes burning?",
+      "\"And if that fails to move you, Miss Granger, consider also that\nMr. Potter has, just today at lunchtime, threatened Lucius Malfoy,\nAlbus Dumbledore, and the entire Wizengamot because he cannot think\nsensibly when something threatens to take you from him. Are you not\nfrightened of what he will do next?\"",
+      "It made sense. Terrible sense. Dreadful awful sense.",
+      "It made <em>too much</em> sense -",
+      "She couldn't have described it in words, what triggered the\nrealization, unless it was the sheer <em>pressure</em> that the\nDefense Professor was exerting on her.",
+      "That if the Defense Professor <em>was</em> behind this whole\nthing - then Professor Quirrell had done it all <em>just to get her\nout of the way of his plans for Harry.</em>",
+      "Without any conscious decision, she shifted her weight to the\nother foot, her body moving away from the Defense Professor -",
+      "\"So you think I am the one responsible?\" said Professor\nQuirrell. His voice sounded a little sad as he said it, and her own\nheart almost stopped from hearing it. \"I suppose I cannot blame\nyou. I am the Defense Professor of Hogwarts, after all. But Miss\nGranger, even <em>assuming</em> that I am your enemy, common sense\nshould still tell you to get away from me <em>very quickly</em>.\nYou cannot use the Killing Curse, so the correct tactic is to\nApparate away. I do not mind being the villain of your imagination\nif it makes matters clearer. Leave Hogwarts, and leave me to those\nwho can handle me. I will arrange for the transportation to be\nthrough some family of good repute, and Mr. Potter will know to\nblame me if you do not arrive safely.\"",
+      "\"I -\" She was feeling cold, the night air chilling her skin, or\nmaybe being chilled by it. \"I've got to think about it -\"",
+      "Professor Quirrell shook his head. \"No, Miss Granger. Your\ndeparture will take time for me to arrange, and I have less time\nleft than you may think. This decision may be painful for you, but\nit should not be ambiguous; much weighs in the balance of these\nscales, but not evenly. I must know tonight whether you intend to\ngo.\""
+    ]
+  },
+  {
+    "paras": [
+      267,
+      268,
+      269,
+      270,
+      271,
+      272,
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      281,
+      282,
+      283
+    ],
+    "summary_en": "Hermione cannot decide under Quirrell's pressure. Remembering Dumbledore's warning about what could happen if events around Harry go wrong, she recognizes the danger and the unfair burden placed on a twelve-year-old. Quirrell leaves without an answer; Hermione later returns to the dormitory and finally lets herself cry.",
+    "translation_fa": "«و اگر نه ــ»\n\nآیا استاد دفاع عمداً به او هشدار می‌داد؟ اینکه اگر فرار نکند دوباره ضربه خواهد زد؟\n\nچرا این‌قدر مهم بود؛ پروفسور کوییرل می‌خواست با هری «چه‌کار» کند؟\n\n«هرماینی گرنجر، می‌خواهم کمتر از یک جادوگر پیر مرموزِ معمول حرفم را سربسته بزنم و صریح بگویم که نمی‌توانی «تصور کنی» اگر ماجراهای مربوط به هری پاتر بد پیش بروند اوضاع چقدر بد می‌شود.»\n\nقدرتمندترین جادوگر جهان این را وقتی به او گفته بود که توضیح می‌داد چقدر مهم است «دست از دوستی با هری برندارد».\n\nهرماینی آب دهانش را قورت داد و روی بالکن سنگی قلعهٔ جادویی کمی تلوتلو خورد. ناگهان تمام پوچی مرگبار اوضاع به نظرش آمد و گلویش را فشرد: دختران دوازده‌ساله «نباید» در خطر باشند، «نباید» دربارهٔ چنین چیزهایی فکر کنند؛ مادرش می‌خواست «فرار کند» و پدرش اگر می‌فهمید با این پرسش روبه‌رو شده، سکتهٔ قلبی می‌کرد.\n\nو همان‌وقت فهمید، همان‌طور که هری و دامبلدور هر دو کوشیده بودند به او هشدار دهند، هرچه دربارهٔ قهرمان بودن فکر می‌کرده اشتباه بوده است. بیرون از داستان‌ها اصلاً چیزی به نام قهرمان وجود نداشت. فقط خطر هولناک بود و دستگیری به دست آوروها و انداختن در سلول‌هایی کنار دیوانه‌سازها، درد و ترس و ــ\n\nاستاد دفاع گفت: «خانم گرنجر؟»\n\nچیزی نگفت. همهٔ کلمات در گلویش گیر کرده بودند.\n\n«باید تصمیمی بگیری، خانم گرنجر.»\n\nفکش را بسته نگه داشت و نگذاشت کلمه‌ای بیرون بیاید.\n\nسرانجام استاد دفاع آهی کشید. نور سفید آهسته خاموش شد و درِ پشت سرش آرام باز شد تا بار دیگر در برابر چهارچوب، شبحی سیاه شود. گفت: «شب‌به‌خیر، خانم گرنجر.» پشت به او کرد و به هاگوارتز برگشت.\n\nمدتی طول کشید تا نفس‌کشیدنش دوباره آرام شود. هرچه آن شب اتفاق افتاده بود، هیچ شباهتی به پیروزی نداشت. آن‌قدر جنگیده بود تا در برابر فشار استاد دفاع «بله» نگوید و حالا حتی نمی‌دانست کار درستی کرده یا نه.\n\nوقتی خودش به سوی روشنایی برگشت ــ پس از آنکه خستگی بر همه‌چیز غلبه کرد و خواب بار دیگر ممکن شد ــ گمان کرد وقتی نزدیک چهارچوب در بود، صدای قارقار دوری از پشت سر و بالای سرش شنید.\n\nاما می‌دانست برای او نبود؛ پس از پله‌ها به سوی اتاق خوابش بالا رفت.\n\nاحتمالاً دخترهای دیگر حالا خوابیده بودند و نگاهش نمی‌کردند یا روی برنمی‌گرداندند ــ\n\nاحساس کرد اشک‌ها دارند می‌آیند و این بار جلوشان را نگرفت.",
+    "summary_fa": "هرماینی زیر فشار کوییرل نمی‌تواند تصمیم بگیرد. هشدار دامبلدور دربارهٔ پیامدهای بدِ ماجراهای هری را به یاد می‌آورد و می‌فهمد چه خطر و بار ناعادلانه‌ای بر دوش یک دختر دوازده‌ساله گذاشته‌اند. کوییرل بی‌آنکه پاسخی بگیرد می‌رود؛ هرماینی بعدتر به خوابگاه برمی‌گردد و سرانجام می‌گذارد گریه کند.",
+    "id": 28,
+    "verbatim_html": [
+      "<em>And if not -</em>",
+      "Was the Defense Professor warning her deliberately? That if she\ndidn't run, he would strike again?",
+      "Why would it matter so much, what did Professor Quirrell want to\n<em>do</em> with Harry?",
+      "<em>Hermione Granger, I shall be less subtle than is usual for a\nmysterious old wizard, and tell you outright that you cannot</em>\n<em>imagine</em> <em>how badly things could go if the events\nsurrounding Harry Potter turn to ill.</em>",
+      "The most powerful wizard in the world had told her that, when he\nwas talking about how important it was that she <em>not</em> stop\nbeing Harry's friend.",
+      "Hermione swallowed, she swayed a little where she stood, on the\nstone balcony of a magical castle. Suddenly the whole deadly\nabsurdity of the situation seemed to rise up and grab her by the\nthroat, that twelve-year-old girls <em>shouldn't</em> be in danger,\n<em>shouldn't</em> be thinking about such things, that Mum would\nwant her to RUN AWAY and her father would have a heart attack if he\neven knew she was being faced with the question.",
+      "And she knew, then, as Harry and Dumbledore had both tried to\nwarn her, that everything she'd ever thought about being a heroine\nhad been mistaken. That there wasn't really any such thing as\nheroes, outside of stories. There was just horrible danger, and\nbeing arrested by Aurors and put in cells next to Dementors, pain\nand fear and -",
+      "\"Miss Granger?\" said the Defense Professor.",
+      "She said nothing. All the words were blocked in her throat.",
+      "\"I need a decision, Miss Granger.\"",
+      "She kept her jaw locked, didn't let any words come out.",
+      "Finally the Defense Professor sighed. Slowly the white light\nfailed, and slowly the door behind him swung open, so that he was\nonce again a black silhouette against the opening. \"Good night,\nMiss Granger,\" he said, and turned his back to her, and walked away\ninto Hogwarts.",
+      "It took a while for her breathing to slow down again. Whatever\nhad happened here tonight, it didn't feel anything like victory.\nShe'd fought so hard just to stop herself from saying <em>Yes</em>\nin the face of the Defense Professor's pressure, and now she didn't\neven know if she'd done the right thing.",
+      "When she walked back into the light herself (after exhaustion\nhad overtaken everything and sleep was once more a possibility),\nshe thought she heard it as she was within the doorway, from behind\nher and above her, a distant cawing cry.",
+      "But it wasn't meant for her, she knew, so she started climbing\nup the stairs toward her dorm room.",
+      "The other girls were probably asleep by now, and wouldn't look\nat her, or look away -",
+      "She felt the tears start, and this time she didn't stop\nthem."
+    ]
+  }
+]
