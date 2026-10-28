@@ -18,6 +18,11 @@ CHAPTERS = {
     83: ("Taboo Tradeoffs, Aftermath 1", "20261003224359"),
     84: ("Taboo Tradeoffs, Aftermath 2", "20261003224410"),
     85: ("Taboo Tradeoffs, Aftermath 3, Distance", "20260718152904"),
+    86: ("Multiple Hypothesis Testing", "20260926164735"),
+    87: ("Hedonic Awareness", "20260420221213"),
+    88: ("Time Pressure, Pt 1", "20260330213751"),
+    89: ("Time Pressure, Pt 2", "20261003224425"),
+    90: ("Roles, Pt 1", "20261003224441"),
 }
 
 
