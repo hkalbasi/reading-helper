@@ -56,11 +56,16 @@ def build(chapter):
     if covered != expected:
         raise ValueError(f"chapter {chapter} batches must cover source paragraphs 1–{len(expected)} in order")
 
+    has_translation = all("translation_fa" in section for section in sections)
+    if any("translation_fa" in section for section in sections) != has_translation:
+        raise ValueError(f"chapter {chapter} must include translations for all sections or none")
+
     data = []
     for section in sections:
-        translated = [part.strip() for part in section["translation_fa"].split("\n\n") if part.strip()]
-        if len(translated) != len(section["paras"]):
-            raise ValueError(f"chapter {chapter} section {section['id']}: translation paragraph count mismatch")
+        if has_translation:
+            translated = [part.strip() for part in section["translation_fa"].split("\n\n") if part.strip()]
+            if len(translated) != len(section["paras"]):
+                raise ValueError(f"chapter {chapter} section {section['id']}: translation paragraph count mismatch")
         data.append({
             **section,
             "verbatim_html": [source_by_num[number] for number in section["paras"]],
@@ -84,26 +89,48 @@ def build(chapter):
     for section in data:
         verbatim = "".join(f"<p>{item}</p>" for item in section["verbatim_html"])
         summary_en = f"<p>{htmllib.escape(section['summary_en'])}</p>"
-        translated = text_paras(section["translation_fa"])
         summary_fa = text_paras(section["summary_fa"])
         para_numbers = ",".join(map(str, section["paras"]))
+        translation_cell = (
+            f'<td data-label="3. Persian translation (verbatim)" class="trans" dir="rtl" lang="fa">'
+            f'{text_paras(section["translation_fa"])}</td>'
+            if has_translation else ""
+        )
+        summary_label = "4. Persian summary" if has_translation else "3. Persian summary"
         rows.append(
             f'<tr id="sec-{section["id"]}">'
             f'<td data-label="Section"><span class="sec-id">§{section["id"]}</span><br>'
             f'<span class="para-nums">¶{para_numbers}</span></td>'
             f'<td data-label="1. Verbatim English" class="verbatim" dir="ltr" lang="en">{verbatim}</td>'
             f'<td data-label="2. Summarized English" dir="ltr" lang="en">{summary_en}</td>'
-            f'<td data-label="3. Persian translation (verbatim)" class="trans" dir="rtl" lang="fa">{translated}</td>'
-            f'<td data-label="4. Persian summary" dir="rtl" lang="fa">{summary_fa}</td>'
+            f'{translation_cell}'
+            f'<td data-label="{summary_label}" dir="rtl" lang="fa">{summary_fa}</td>'
             "</tr>"
         )
 
+    title_suffix = "4-column" if has_translation else "3-column"
+    toolbar_columns = (
+        "1. Verbatim English &nbsp;|&nbsp; 2. Summarized English &nbsp;|&nbsp; "
+        "3. Persian translation (close to verbatim) &nbsp;|&nbsp; 4. Persian summary"
+        if has_translation else
+        "1. Verbatim English &nbsp;|&nbsp; 2. Summarized English &nbsp;|&nbsp; 3. Persian summary"
+    )
+    table_columns = (
+        '<col class="c-sec"><col class="c-en"><col class="c-sum"><col class="c-fa"><col class="c-fasum">'
+        if has_translation else
+        '<col class="c-sec"><col class="c-en"><col class="c-sum"><col class="c-fasum">'
+    )
+    translation_header = (
+        '<th dir="rtl" lang="fa">۳. ترجمهٔ فارسی (نزدیک به متن)</th>'
+        if has_translation else ""
+    )
+    summary_header = "۴. خلاصهٔ فارسی" if has_translation else "۳. خلاصهٔ فارسی"
     page = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Chapter {chapter}: {title} — 4-column parallel summary</title>
+<title>Chapter {chapter}: {title} — {title_suffix} parallel summary</title>
 <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
@@ -114,16 +141,16 @@ def build(chapter):
 <span class="badge">✓ verbatim verified · sha {sha} · {paragraph_count}/{paragraph_count} exact</span>
 </div></header>
 <div class="toolbar"><div class="wrap">
-<strong>Columns:</strong> 1. Verbatim English &nbsp;|&nbsp; 2. Summarized English &nbsp;|&nbsp; 3. Persian translation (close to verbatim) &nbsp;|&nbsp; 4. Persian summary
+<strong>Columns:</strong> {toolbar_columns}
 <span style="margin-inline-start:auto">Source: <a href="https://web.archive.org/web/{capture}/http://hpmor.com/chapter/{chapter}">Wayback capture of hpmor.com/chapter/{chapter}</a> ·
 <a href="data/ch{chapter}_source.json">source JSON</a> · run <code>python3 scripts/verify.py</code></span>
 </div></div>
 <main class="wrap">
 <table class="parallel">
-<colgroup><col class="c-sec"><col class="c-en"><col class="c-sum"><col class="c-fa"><col class="c-fasum"></colgroup>
+<colgroup>{table_columns}</colgroup>
 <thead><tr>
 <th>§</th><th>1. Verbatim English content</th><th>2. Summarized English content</th>
-<th dir="rtl" lang="fa">۳. ترجمهٔ فارسی (نزدیک به متن)</th><th dir="rtl" lang="fa">۴. خلاصهٔ فارسی</th>
+{translation_header}<th dir="rtl" lang="fa">{summary_header}</th>
 </tr></thead>
 <tbody>
 {''.join(rows)}

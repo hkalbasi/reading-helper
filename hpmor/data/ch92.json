@@ -5,8 +5,8 @@
       1
     ],
     "summary_en": "Harry had nothing left to do.",
-    "translation_fa": "هری چیزی برای انجام نمانده بود.",
-    "summary_fa": "هری کار باقی نداشته بود.",
+    "translation_fa": "دیگر کاری برای انجام دادن نمانده بود.",
+    "summary_fa": "هری دیگر کاری برای انجام دادن نداشت.",
     "verbatim_html": [
       "There was nothing left to do."
     ]
@@ -17,8 +17,8 @@
       2
     ],
     "summary_en": "Nothing remained to plan.",
-    "translation_fa": "هیچ چیزی برای برنامه‌ریزی باقی نمانده بود.",
-    "summary_fa": "برنامه‌ای برای پیش رفتن باقی نمانده بود.",
+    "translation_fa": "دیگر چیزی برای برنامه‌ریزی نمانده بود.",
+    "summary_fa": "دیگر چیزی برای برنامه‌ریزی باقی نمانده بود.",
     "verbatim_html": [
       "There was nothing left to plan."
     ]
@@ -29,8 +29,8 @@
       3
     ],
     "summary_en": "He had nothing left to think about.",
-    "translation_fa": "چیز برای فکر کردن باقی نمانده بود.",
-    "summary_fa": "فکری برای فکر کردن باقی نمانده بود.",
+    "translation_fa": "دیگر چیزی برای فکر کردن نمانده بود.",
+    "summary_fa": "دیگر فکری برای مشغول کردن ذهنش نداشت.",
     "verbatim_html": [
       "There was nothing left to think."
     ]
@@ -41,8 +41,8 @@
       4
     ],
     "summary_en": "The new worst memory surfaced in that emptiness.",
-    "translation_fa": "در آن خالی،{yād-e} جدیدی بدترین{Yād} به سطح آمد.",
-    "summary_fa": "{yād-e} جدیدی بدترین{Yād} به سطح آمد.",
+    "translation_fa": "در آن خلأ، بدترین خاطرهٔ تازه سر برآورد—",
+    "summary_fa": "در آن خلأ، خاطره‌ای تازه و بدتر از همه به ذهنش هجوم آورد.",
     "verbatim_html": [
       "Into that emptiness rose the new worst memory -"
     ]
@@ -53,8 +53,8 @@
       5
     ],
     "summary_en": "Exhausted, Harry walked toward the Great Hall, haunted by thoughts of Hermione and regret over his talks with McGonagall and his parents.",
-    "translation_fa": "هری خسته از فکر به طرف سالن بزرگ رفت. ذهنّشAFKAR…",
-    "summary_fa": "هری خسته به طرف سالن بزرگ رفت.",
+    "translation_fa": "پسرِ زنده‌مانده‌ای که برخلاف بهترین دوستش زنده بود، در راهروهای دراز و پژواک‌دار به‌سوی تالار بزرگ قدم‌های سنگینی برمی‌داشت. همهٔ توان فکری‌اش ته کشیده بود و ذهنش کم‌کم تصویرهایی مثل راه‌رفتن هرماینی در کنارش و مفهوم‌های بی‌کلامی مثل «دیگر هرگز چنین نخواهد شد» را پیش می‌کشید؛ تا این‌که بخش دیگری از ذهنش فریاد می‌زد «نه» و با عزم بازگرداندن او آن فکر را خاموش می‌کرد. اما صدای آن بخش داشت خسته می‌شد، درحالی‌که بخش دیگر انگار خستگی‌ناپذیر بود. بخش دیگری از ذهنش اصرار داشت حرف‌هایی را که به پروفسور مک‌گونگال و پدر و مادرش زده بود مرور کند، بااین‌که فقط می‌خواست هرچه زودتر آن‌ها را از آن‌جا بیرون ببرد و توان ذهنی محدودی داشت. انگار با ارادهٔ معیوبش می‌توانست بهتر از آن عمل کند. هری نمی‌دانست حالا از رابطه‌اش با پدر و مادرش چه باقی می‌ماند.",
+    "summary_fa": "هری خسته به‌سوی تالار بزرگ می‌رود؛ فکر هرماینی و پشیمانی از حرف‌هایی که به مک‌گونگال و والدینش زده، رهایش نمی‌کند.",
     "verbatim_html": [
       "The Boy-Who-Lived-Unlike-His-Best-Friend trudged the long,\nechoing corridors toward the Great Hall. With all his energies of\nthought exhausted, his mind was starting to throw out thoughts like\nan image of Hermione walking beside him and wordless concepts like\n<em>That will never happen again</em> until another part yelled\n<em>No</em> and shouted it down with determination to bring her\nback, only that part's voice was getting tired and the other part\nseemed tireless. Another part of his mind insisted on reviewing\nwhat he'd said to Professor McGonagall and Dad and Mum, even though\nhe'd only been trying to get them out of there as quickly as\npossible and had been running on limited mental energy. As though\nsomehow he could have done better, by an act of his defective will.\nWhat would be left of his relationship with his parents now, Harry\ncouldn't guess."
     ]
@@ -65,8 +65,8 @@
       6
     ],
     "summary_en": "Harry reached a junction where an older Slytherin boy waited in green-fringed black robes.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "سرانجام به چهارراهی رسید. پسری بزرگ‌تر با ردای سیاهی که حاشیهٔ سبز داشت، آن‌جا ایستاده بود و بی‌صدا کتاب درسی می‌خواند؛ درست در مسیری که هرکس برای رهگیری کسی از درمانگاه تا تالار بزرگ انتخاب می‌کرد.",
+    "summary_fa": "هری در چهارراهی با پسری بزرگ‌تر از اسلیترین روبه‌رو می‌شود که ردای سیاهِ سبزحاشیه به تن دارد.",
     "verbatim_html": [
       "He came finally to a junction where there waited a older boy in\ngreen-fringed black robes, silently reading a textbook, on the path\nthat anyone would pick if they wanted to intercept someone going\nfrom the healer's chambers to the Great Hall."
     ]
@@ -77,8 +77,8 @@
       7
     ],
     "summary_en": "Harry recognized the Slytherin boy's face while wearing his Cloak of Invisibility.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "البته هری شنل نامرئی را به تن داشت؛ پس از ترک دفتر آن را پوشیده بود و به این ترتیب از تقریباً همهٔ روش‌های جادوییِ شناسایی مصون شده بود. دلیلی نداشت کار را برای کسی که می‌خواست پیدایش کند و بکشد آسان کند. نزدیک بود بی‌آن‌که برای فهمیدن ماجرا مکثی کند از کنار پسر بگذرد که چهرهٔ پسر اسلیترین را شناخت.",
+    "summary_fa": "هری، درحالی‌که شنل نامرئی به تن دارد، چهرهٔ پسر اسلیترین را می‌شناسد.",
     "verbatim_html": [
       "Harry was wearing the Cloak of Invisibility, of course, he'd put\nit on after leaving the office, rendering himself immune to almost\nall forms of magical detection. There was no point in making it\neasy for anyone trying to find him and kill him. And Harry was\nalmost set to continue past without bothering to find out what was\ngoing on, when he recognized the Slytherin boy's face."
     ]
@@ -89,8 +89,8 @@
       8
     ],
     "summary_en": "Harry realized who had been waiting for him.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "آن‌وقت بود که هری متوجه شد. البته یکی از دانش‌آموزانی که تعطیلات عید پاک را در مدرسه مانده بود، طبعاً می‌توانست همان کسی باشد که—",
+    "summary_fa": "هری می‌فهمد چه کسی منتظرش بوده است.",
     "verbatim_html": [
       "Realization dawned on Harry then. Of course, one of the students\nwho had stayed in school over the Easter holiday would naturally\nhave been -"
     ]
@@ -101,8 +101,8 @@
       9
     ],
     "summary_en": "Harry told the boy he had been waiting for him.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری بی‌آن‌که شنل را از تنش درآورد، با صدای بلند گفت: «منتظرم بودی.»",
+    "summary_fa": "هری به پسر می‌گوید که می‌داند منتظرش بوده است.",
     "verbatim_html": [
       "\"You were waiting for me,\" Harry said out loud, without removing\nthe Cloak."
     ]
@@ -113,8 +113,8 @@
       10
     ],
     "summary_en": "The Slytherin boy jerked back and dropped his textbook.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "پسر اسلیترینی از جا پرید و سرش به دیوار خورد؛ کتاب درسیِ طلسم‌های سال پنجم از دستش افتاد و بعد با چشم‌هایی گشاد به بالا نگاه کرد.",
+    "summary_fa": "پسر اسلیترینی وحشت‌زده عقب می‌پرد و کتابش را می‌اندازد.",
     "verbatim_html": [
       "The Slytherin boy jerked back, hitting his head against the\nwall, his fifth-year Charms textbook dropping from his hands,\nbefore he looked up with wide eyes."
     ]
@@ -125,8 +125,8 @@
       11
     ],
     "summary_en": "The boy started to speak, saying \"You're-\".",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«تو—»",
+    "summary_fa": "پسر می‌خواهد چیزی بگوید، اما جمله‌اش نیمه‌کاره می‌ماند.",
     "verbatim_html": [
       "\"You're -\""
     ]
@@ -137,8 +137,8 @@
       12
     ],
     "summary_en": "Harry told him to say what he meant.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«نامرئی‌ام. بله. منظورت را بگو.»",
+    "summary_fa": "هری می‌گوید نامرئی است و از او می‌خواهد حرفش را بزند.",
     "verbatim_html": [
       "\"Invisible. Yes. Say what you mean to say.\""
     ]
@@ -149,8 +149,8 @@
       13
     ],
     "summary_en": "Lesath Lestrange asked if he had done the right thing by not stepping forward.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "لسات لسترنج با شتاب از جا برخاست و خبردار ایستاد. بعد با عجله گفت: «سرورم، کار درستی کردم؟ فکر کردم نمی‌خواهید جلوی آن‌همه آدم پا پیش بگذارم، مبادا به ارتباطمان شک کنند. با خودم گفتم اگر به کمکم نیاز داشتید، حتماً صدایم می‌کردید—»",
+    "summary_fa": "لسات لسترنج می‌پرسد که آیا با جلو نیامدن، کار درستی کرده است.",
     "verbatim_html": [
       "Lesath Lestrange scrambled to his feet, a position of attention,\nthen blurted out, \"My lord, did I do the right thing - I thought\nyou would not wish me to step forward before all those others, that\nthey might suspect our connection - I thought, surely if you wished\nmy help you would call on me -\""
     ]
@@ -161,8 +161,8 @@
       14
     ],
     "summary_en": "Harry reflected on how many ways he could kill his best friend by being stupid.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "واقعاً شگفت‌آور بود که آدم با حماقتش چند جور مختلف می‌توانست بهترین دوستش را به کشتن بدهد.",
+    "summary_fa": "هری به راه‌های گوناگونی فکر می‌کند که حماقتش می‌توانست بهترین دوستش را به کشتن بدهد.",
     "verbatim_html": [
       "It was amazing how many different ways there were to kill your\nbest friend by being stupid."
     ]
@@ -173,8 +173,8 @@
       15
     ],
     "summary_en": "Lesath asked if he had been wrong.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«من—» لسات مکث کرد و بعد با صدایی آهسته گفت: «اشتباه کردم، نه؟»",
+    "summary_fa": "لسات با تردید می‌پرسد که آیا اشتباه کرده است.",
     "verbatim_html": [
       "\"I -\" Lesath hesitated, then said in a small voice, \"I was\nwrong, wasn't I?\""
     ]
@@ -185,8 +185,8 @@
       16
     ],
     "summary_en": "Harry said Lesath had acted correctly and that he himself was the fool.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«با توجه به اوضاع، دقیقاً همان‌طور رفتار کردی که باید می‌کردی. این من بودم که احمقانه عمل کردم.»",
+    "summary_fa": "هری می‌گوید لسات درست عمل کرده و خودش احمق بوده است.",
     "verbatim_html": [
       "\"You acted exactly as you should have, under the circumstances.\nIt is I who was a fool.\""
     ]
@@ -197,8 +197,8 @@
       17
     ],
     "summary_en": "Lesath apologized to his lord.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "لسات زمزمه کرد: «ببخشید، سرورم.»",
+    "summary_fa": "لسات از هری عذرخواهی می‌کند.",
     "verbatim_html": [
       "\"I'm sorry, my lord,\" whispered Lesath."
     ]
@@ -209,8 +209,8 @@
       18
     ],
     "summary_en": "Harry asked whether Lesath could have killed the troll.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«اگر با من می‌آمدی، می‌توانستی ترول را بکشی؟» حتی این هم پرسش درستی نبود؛ پرسش درست این بود که آیا هری لسات را نیرویی به‌اندازهٔ کافی مؤثر می‌دانست و شصت ثانیه زودتر پرواز می‌کرد یا نه. بااین‌حال…",
+    "summary_fa": "هری می‌پرسد آیا لسات می‌توانست ترول را بکشد، هرچند می‌داند پرسش اصلی چیز دیگری است.",
     "verbatim_html": [
       "\"If you <em>had</em> come with me, would you have been able to\nkill the troll?\" It wasn't even the correct question, the correct\nquestion was whether Harry himself would have considered Lesath as\nsufficient and flown out sixty seconds earlier, but still..."
     ]
@@ -221,8 +221,8 @@
       19
     ],
     "summary_en": "Lesath asked whether he should study the Killing Curse.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«من… مطمئن نیستم، سرورم… در اسلیترین چندان اجازه ندارم در تمرین‌های دوئل شرکت کنم و حرکات لازم برای نفرین مرگ را یاد نگرفته‌ام. برای این‌که بهتر به شما خدمت کنم، باید آن فنون را یاد بگیرم؟»",
+    "summary_fa": "لسات می‌پرسد برای خدمت بهتر به هری، باید نفرین مرگ را یاد بگیرد یا نه.",
     "verbatim_html": [
       "\"I... I'm not sure, my lord... I am not much welcome to duelling\npractices in Slytherin, I have not learned the gestures to the\nKilling Curse - should I study those arts to better serve you, my\nlord?\""
     ]
@@ -233,8 +233,8 @@
       20
     ],
     "summary_en": "Harry insisted he was not Lesath's lord.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری گفت: «باز هم تأکید می‌کنم که سرور تو نیستم.»",
+    "summary_fa": "هری دوباره تأکید می‌کند که سرور لسات نیست.",
     "verbatim_html": [
       "\"I continue to insist that I am not your lord,\" Harry said."
     ]
@@ -245,8 +245,8 @@
       21
     ],
     "summary_en": "Lesath replied yes, my lord.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«بله، سرورم.»",
+    "summary_fa": "لسات با «بله، سرورم» پاسخ می‌دهد.",
     "verbatim_html": [
       "\"Yes, my lord.\""
     ]
@@ -257,8 +257,8 @@
       22
     ],
     "summary_en": "Harry suggested Lesath learn to defend himself with the Defense Professor's help.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری گفت: «البته، این دستور نیست، فقط یک یادآوری است: هرکسی باید بلد باشد از خودش دفاع کند، مخصوصاً تو. مطمئنم اگر از استاد دفاع بخواهی، اصولاً کمکت می‌کند.»",
+    "summary_fa": "هری پیشنهاد می‌کند لسات از استاد دفاع بخواهد دفاع شخصی را به او یاد بدهد.",
     "verbatim_html": [
       "\"Although,\" Harry said, \"and this is not any kind of order, just\na remark, anyone ought to know how to defend themselves, especially\nyou. I'm sure the Defense Professor would help you with that on\ngeneral principles, if you asked.\""
     ]
@@ -269,8 +269,8 @@
       23
     ],
     "summary_en": "Lesath bowed and said he would follow Harry's orders.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "لسات تعظیم کرد و گفت: «بله، سرورم. اگر بتوانم از دستورهایتان پیروی می‌کنم، سرورم.»",
+    "summary_fa": "لسات تعظیم می‌کند و می‌گوید از دستورهای هری پیروی خواهد کرد.",
     "verbatim_html": [
       "Lesath Lestrange bowed and said, \"Yes, my lord, I will follow\nyour orders if I can, my lord.\""
     ]
@@ -281,8 +281,8 @@
       24
     ],
     "summary_en": "Harry would have complained about being misunderstood, if he hadn't been understood perfectly.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "اگر لسات او را کاملاً درست نفهمیده بود، هری از این‌که بد فهمیده شده شکایت می‌کرد.",
+    "summary_fa": "هری نمی‌تواند از بدفهمیده‌شدن شکایت کند، چون لسات منظورش را کاملاً فهمیده است.",
     "verbatim_html": [
       "Harry would have complained about being misunderstood, if he\nhadn't been understood perfectly."
     ]
@@ -293,8 +293,8 @@
       25
     ],
     "summary_en": "Lesath left.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "لسات رفت.",
+    "summary_fa": "لسات آن‌جا را ترک می‌کند.",
     "verbatim_html": [
       "Lesath left."
     ]
@@ -305,8 +305,8 @@
       26
     ],
     "summary_en": "Harry stared at the wall.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری به دیوار خیره شد.",
+    "summary_fa": "هری به دیوار خیره می‌شود.",
     "verbatim_html": [
       "Harry stared at the wall."
     ]
@@ -317,8 +317,8 @@
       27
     ],
     "summary_en": "Harry thought he had already figured out all the ways he had been stupid.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری واقعاً فکر می‌کرد بعد از نیم‌روز فکرکردن، همهٔ راه‌هایی را که احمقانه رفتار کرده بود پیدا کرده است.",
+    "summary_fa": "هری خیال کرده بود پس از نیم‌روز فکرکردن، همهٔ اشتباهاتش را فهمیده است.",
     "verbatim_html": [
       "He'd honestly thought that he'd already figured out all the\ndifferent ways that he'd been stupid, after spending half a day\nthinking about it."
     ]
@@ -329,8 +329,8 @@
       28
     ],
     "summary_en": "This had just been more overconfidence.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "ظاهراً این هم فقط نمونهٔ دیگری از اعتمادبه‌نفس بیش‌ازحدش بود.",
+    "summary_fa": "این هم نمونهٔ دیگری از اعتمادبه‌نفس بیش‌ازحد هری بود.",
     "verbatim_html": [
       "Apparently this had just been more overconfidence on his\npart."
     ]
@@ -341,8 +341,8 @@
       29
     ],
     "summary_en": "Harry's Slytherin side asked coldly if they understood what they did wrong.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "بخش اسلیترینیِ ذهنش سرد و بی‌احساس گفت: «فهمیده‌ایم چه اشتباهی کردیم؟»",
+    "summary_fa": "بخش اسلیترینی ذهن هری سرد می‌پرسد آیا اشتباهشان را فهمیده‌اند.",
     "verbatim_html": [
       "<em>Do we understand what we did wrong?</em> his Slytherin side\nsaid coldly."
     ]
@@ -353,8 +353,8 @@
       30
     ],
     "summary_en": "Harry answered yes.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری در ذهنش گفت: «بله.»",
+    "summary_fa": "هری در ذهنش پاسخ مثبت می‌دهد.",
     "verbatim_html": [
       "<em>Yes,</em> Harry thought."
     ]
@@ -365,8 +365,8 @@
       31
     ],
     "summary_en": "Slytherin said Harry's qualms made no sense and asked why he forgot Lesath.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«این ملاحظه‌های اخلاقی‌ات اصلاً منطقی نیست. تو لسات را فریب نداده‌ای؛ دقیقاً همان کاری را کردی که لسات فکر می‌کند کرده‌ای. لازم نبود برای توضیح کمکش بهانه بیاوری؛ کافی بود بگویی داری دِینِ نجات‌دادنش از دست قلدرها را پس می‌گیری، و شش شاهد هم برایش داشتی. هرماینی مرد چون تو منبعی بسیار ارزشمند را فراموش کردی؛ و لسات را چرا از یاد بردی؟»",
+    "summary_fa": "بخش اسلیترینی می‌گوید تردید اخلاقی هری بی‌معناست و می‌پرسد چرا لسات را از یاد برده بود.",
     "verbatim_html": [
       "<em>Your ethical qualms don't even make sense. You're not\ntricking Lesath. You did exactly what Lesath thinks you did. You\nwouldn't have to make excuses for why Lesath was helping you, you\ncould just say you were calling in the debt from rescuing him from\nbullies, there were six witnesses to that. Hermione died because\nyou forgot about an extremely valuable resource, and you forgot\nabout Lesath because... why?</em>"
     ]
@@ -377,8 +377,8 @@
       32
     ],
     "summary_en": "Hufflepuff said having Lesath as a minion seemed Dark-Lordish.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هافلپاف با صدایی ضعیف و ذهنی گفت: «چون داشتنِ لسات لسترنج به‌عنوان نوچه، کمی شبیه ارباب تاریکی‌ها به نظر می‌رسید؟ منظورم این است که… احتمالاً این تصمیم را بیشتر من گرفته بودم…»",
+    "summary_fa": "بخش هافلپافی می‌گوید نوچه‌داشتنِ لسات کمی ارباب‌تاریکی‌وار به نظر می‌رسید.",
     "verbatim_html": [
       "<em>Because having Lesath Lestrange for a minion seemed sort of\nDark-Lordish?</em> Hufflepuff said in a small mental voice. <em>I\nmean... that decision was probably mostly me...</em>"
     ]
@@ -389,8 +389,8 @@
       33
     ],
     "summary_en": "Slytherin radiated contempt and showed an image of Hermione's corpse.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "بخش اسلیترینی در پاسخ، چیزی به زبان نیاورد؛ فقط تحقیر را به ذهنش تاباند و تصویر جسد هرماینی را پیش چشمش آورد.",
+    "summary_fa": "بخش اسلیترینی به‌جای پاسخ، تحقیر و تصویر جسد هرماینی را به ذهنش می‌تاباند.",
     "verbatim_html": [
       "Harry's Slytherin side didn't answer that in words, just\nradiated contempt and flashed an image of Hermione's corpse."
     ]
@@ -401,8 +401,8 @@
       34
     ],
     "summary_en": "Harry screamed internally to stop it.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری در ذهنش فریاد زد: «بس کن!»",
+    "summary_fa": "هری در ذهنش فریاد می‌زند که این کار را متوقف کند.",
     "verbatim_html": [
       "<em>Stop it!</em> Harry screamed internally."
     ]
@@ -413,8 +413,8 @@
       35
     ],
     "summary_en": "Slytherin suggested focusing on efficiency rather than seeming Dark-Lordish.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "بخش اسلیترینی سرد و یخی گفت: «دفعهٔ بعد پیشنهاد می‌کنم وقت بیشتری را صرف فکرکردن به کارآمدی و اثربخشی کنیم و کمتر نگران این باشیم که کاری کمی ارباب‌تاریکی‌وار به نظر می‌رسد.»",
+    "summary_fa": "بخش اسلیترینی می‌گوید دفعهٔ بعد به‌جای ظاهر ارباب‌تاریکی‌وار، بر کارآمدی تمرکز کنند.",
     "verbatim_html": [
       "<em>Next time,</em> Slytherin said icily, <em>I suggest that we\nspend more time worrying about what is efficient and effective, and\nless time worrying about what seems sort of Dark-Lordish.</em>"
     ]
@@ -425,8 +425,8 @@
       36
     ],
     "summary_en": "Harry conceded the point.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری در ذهنش گفت: «قبول، حرفت را فهمیدم. این کار را می‌کنم.»",
+    "summary_fa": "هری می‌پذیرد که حرف بخش اسلیترینی‌اش درست است.",
     "verbatim_html": [
       "<em>Point made,</em> Harry thought, <em>I will.</em>"
     ]
@@ -437,8 +437,8 @@
       37
     ],
     "summary_en": "Slytherin said Harry would only listen after his next friend dies.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "اسلیترین گفت: «نه، نمی‌کنی. باز هم برای تردیدهای حقیرت توجیه می‌تراشی. وقتی دوست بعدی‌ات بمیرد، تازه شروع می‌کنی به گوش‌دادن به من.»",
+    "summary_fa": "اسلیترین پیش‌بینی می‌کند هری فقط پس از مرگ دوست بعدی‌اش به حرف او گوش دهد.",
     "verbatim_html": [
       "<em>No, you won't,</em> said Slytherin. <em>You'll come up with\nmore rationalisations for your petty qualms. You'll start listening\nto me after your</em> next <em>friend dies.</em>"
     ]
@@ -449,8 +449,8 @@
       38
     ],
     "summary_en": "Harry worried he was going insane from the voices in his head.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری کم‌کم نگران می‌شد که نکند دارد دیوانه می‌شود. گفت‌وگوهایی که با صداهای درون سرش داشت معمولاً این‌طور نبودند.",
+    "summary_fa": "هری از این گفت‌وگوهای غیرمعمول با صداهای ذهنش می‌ترسد که شاید دیوانه شده باشد.",
     "verbatim_html": [
       "Harry was starting to worry that he was going insane. The\nconversations he had with the voices in his head weren't usually\nlike this."
     ]
@@ -461,8 +461,8 @@
       39
     ],
     "summary_en": "The Boy-Who-Lived.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "پسری که زنده ماند",
+    "summary_fa": "پسری که زنده ماند.",
     "verbatim_html": [
       "The Boy-Who-Lived"
     ]
@@ -473,8 +473,8 @@
       40
     ],
     "summary_en": "Pain.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "درد",
+    "summary_fa": "درد.",
     "verbatim_html": [
       "<em>pain</em>"
     ]
@@ -485,8 +485,8 @@
       41
     ],
     "summary_en": "Harry Verres trudged on alone.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری ورِس تنها به راهش ادامه داد.",
+    "summary_fa": "هری ورِس تنها به راهش ادامه می‌دهد.",
     "verbatim_html": [
       "Harry Verres trudged on alone"
     ]
@@ -497,8 +497,8 @@
       42
     ],
     "summary_en": "Hurts.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "درد دارد",
+    "summary_fa": "درد دارد.",
     "verbatim_html": [
       "<em>hurts</em>"
     ]
@@ -509,8 +509,8 @@
       43
     ],
     "summary_en": "Harry walked on through the silent corridors.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "هری در راهروهای خاموش به راهش ادامه داد.",
+    "summary_fa": "هری در راهروهای ساکت پیش می‌رود.",
     "verbatim_html": [
       "Harry walked on through the silent corridors."
     ]
@@ -521,8 +521,8 @@
       44
     ],
     "summary_en": "Professor Quirrell demanded to know how Mr. Potter was doing.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "پروفسور کوییرل با لحنی مطالبه‌گر پرسید: «حال آقای پاتر چطور است؟» در وجودش تنشی بود که نمی‌شد دقیقاً «نگرانی» نامید؛ بیشتر شبیه کمین‌گری بود که زمان حمله را می‌سنجد. گرنجرها تازه از کنار مادام پامفری رفته بودند که استاد دفاع درِ دفترش را زد و پیش از شنیدن پاسخ وارد شد و پیش از آن‌که او کلمه‌ای بگوید، حرفش را آغاز کرد. بخشی از ذهن مینروا به‌دور از توجه اصلی‌اش می‌پرسید آیا هری این عادتِ بی‌اعتنایی به رنج دیگران، وقتی فکر دیگری ذهنش را مشغول کرده، از استاد دفاعش آموخته یا فقط نقصی کودکانه است که آن مرد هرگز از آن دست نکشیده.",
+    "summary_fa": "کوییرل با اضطرابی پنهان سراغ حال هری را می‌گیرد و مک‌گونگال از بی‌ملاحظگی او می‌اندیشد.",
     "verbatim_html": [
       "\"How is Mr. Potter doing?\" demanded Professor Quirrell. There\nwas a tension about the man, you could not quite call it\n<em>concern,</em> more like an ambusher measuring the time to\nstrike. The Grangers had hardly left with Madam Pomfrey before the\nDefense Professor had knocked upon the door to her office and then\nentered without waiting for her answer, and spoken before she could\nsay a word. Part of Minerva wondered distantly whether Harry Potter\nhad picked up that habit from his Defense Professor, being unaware\nof others' pain when there was something else on his mind, or if it\nwas only a childish flaw which this man had somehow failed to grow\nout of."
     ]
@@ -533,8 +533,8 @@
       45
     ],
     "summary_en": "McGonagall said Potter had stopped guarding Granger's body and gone to dinner.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "او بخشی از سرمایی را که در دل داشت به صدایش راه داد و گفت: «آقای پاتر دیگر نگهبانی از پیکر دوشیزهٔ گرنجر را ادامه نمی‌دهد. گمان می‌کنم برای شام پایین رفته باشد.» مطمئن بود استاد دفاع به‌اندازهٔ او اندوهگین نیست؛ آن مرد حتی یک کلمه هم دربارهٔ هرماینی گرنجر نگفته بود. این‌که حالا از او مطالبه‌ای داشته باشد—",
+    "summary_fa": "مک‌گونگال می‌گوید هری دیگر کنار پیکر هرماینی نیست و احتمالاً برای شام رفته است.",
     "verbatim_html": [
       "\"Mr. Potter has ceased guarding Miss Granger's body,\" she said,\nputting some of the chill she felt into her voice. She felt certain\nthat the Defense Professor was not experiencing as much grief as\nshe was, the man had spoken not a single word of Hermione Granger.\nFor <em>him</em> to put demands on her - \"I believe he has gone\ndown to dinner.\""
     ]
@@ -545,8 +545,8 @@
       46
     ],
     "summary_en": "Quirrell demanded to know the boy's state, not physical.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«من دربارهٔ وضعیت جسمیِ پسر نمی‌پرسم! آیا— آیا او—» پروفسور کوییرل با حرکتی تند دستش را تکان داد، گویی می‌خواست به مفهومی اشاره کند که برایش واژه‌ای نداشت.",
+    "summary_fa": "کوییرل روشن می‌کند که منظورش وضعیت جسمی هری نیست.",
     "verbatim_html": [
       "\"I am not asking after the boy's <em>physical</em> state! Have\nyou - has he -\" Professor Quirrell made a sharp gesture, as though\nto indicate a concept for which he had no words."
     ]
@@ -557,8 +557,8 @@
       47
     ],
     "summary_en": "McGonagall said she was about to order Quirrell out of her office.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "مک‌گونگال گفت: «نه، به‌خصوص.» حدود سی ثانیه مانده بود تا استاد دفاع را از دفترش بیرون کند.",
+    "summary_fa": "مک‌گونگال می‌گوید نزدیک است کوییرل را از دفترش بیرون کند.",
     "verbatim_html": [
       "\"Not particularly,\" she said. She was around thirty seconds away\nfrom ordering the Defense Professor out of her office."
     ]
@@ -569,8 +569,8 @@
       48
     ],
     "summary_en": "Quirrell paced and argued that only Lupin might reach Potter now.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "پروفسور کوییرل در فضای تنگ دفترش قدم می‌زد. «دوشیزهٔ گرنجر تنها کسی بود که نگرانی‌هایش را واقعاً جدی می‌گرفت؛ حالا که او نیست، دیگر کسی جلوی بی‌پروایی پسر را نمی‌گیرد. حالا می‌بینم. چه کسی مانده؟ آقای لانگ‌باتم؟ پاتر وانمود نمی‌کند که هم‌تراز اوست. فلیت‌ویک؟ خون گابلینی‌اش فقط انتقام می‌طلبد. آقای مالفوی، اگر برگردد؟ چه فایده؟ اسنیپ؟ فاجعه‌ای متحرک. دامبلدور؟ پوف. اوضاع از همین حالا به‌سوی فاجعه می‌رود و باید آن را به مسیری کشاند که خودبه‌خود در پیش نمی‌گیرد. پاتر به حرف چه کسی گوش می‌دهد که معمولاً با او صحبت نمی‌کند؟ سدریک دیگوری به او درس داده، اما چه توصیه‌ای می‌کند؟ معلوم نیست. پاتر مدت زیادی با ریموس لوپین حرف زد. من چندان به او توجه نکرده‌ام. آیا لوپین می‌داند در لحظهٔ سوگ چه بگوید، یا چطور کسی را که در آستانهٔ کاری نسنجیده است آرام کند؛ چه فداکاری‌ای لازم است تا مسیر پسر عوض شود؟» پروفسور کوییرل ناگهان به‌سوی او چرخید. «لوپین در دوران عضویتش در محفل ققنوس، داغ‌دیدگان را تسلی می‌داد یا جلوی کارهای شتاب‌زده را می‌گرفت؟»",
+    "summary_fa": "کوییرل می‌گوید با مرگ هرماینی کسی جلوی بی‌پروایی هری را نمی‌گیرد و شاید لوپین بتواند بر او اثر بگذارد.",
     "verbatim_html": [
       "Professor Quirrell began to pace within the small confines of\nher office. \"Miss Granger was the only one whose worries he truly\nheeded - with her gone - all checks on the boy's recklessness are\nremoved. I see it now. Who else is there? Mr. Longbottom? Mr.\nPotter does not pretend that they are peers. Flitwick? His goblin\nblood would only cry for vengeance. Mr. Malfoy, if he were\nreturned? To what end? Snape? A walking disaster. Dumbledore? Pfah.\nEvents are already set for catastrophe, they must be steered along\nsome course they would not naturally go. Who might Mr. Potter heed,\nwho would not ordinarily speak to him? Cedric Diggory has taught\nhim, but what would Mr. Diggory say in advice? An unknown. Mr.\nPotter spent long in speech with Remus Lupin. To him I have paid\nlittle heed. Would Lupin know the words to speak, the act which\nmust be done, the sacrifice which must be made to change the boy's\ncourse?\" Professor Quirrell whirled on her. \"Did Remus Lupin\ncomfort those in grief or stay those moved to rash deeds, during\nhis time with the Order of the Phoenix?\""
     ]
@@ -581,8 +581,8 @@
       49
     ],
     "summary_en": "McGonagall said Lupin had restrained James Potter in Hogwarts days.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "او آهسته گفت: «فکر بدی نیست. تا جایی که می‌دانم، لوپین در دوران هاگوارتزش اغلب جیمز پاتر را مهار می‌کرد.»",
+    "summary_fa": "مک‌گونگال به یاد می‌آورد که لوپین در هاگوارتز اغلب جیمز پاتر را آرام می‌کرد.",
     "verbatim_html": [
       "\"It is not a poor thought,\" she said slowly. \"I believe that Mr.\nLupin was often a voice of restraint to James Potter in his\nHogwarts days.\""
     ]
@@ -593,8 +593,8 @@
       50
     ],
     "summary_en": "Quirrell said the disaster path must be averted at every point.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "پروفسور کوییرل با چشمان تنگ‌شده گفت: «جیمز پاتر… پسر چندان شبیه جیمز پاتر نیست. مطمئنید این نقشه موفق می‌شود؟ نه، پرسش را اشتباه مطرح کردم؛ به یک نقشه محدود نیستیم. مطمئنید این نقشه کافی است و لازم نیست نقشه‌های دیگری بیازماییم؟ وقتی این‌طور بپرسیم، پاسخ روشن است. باید در هر نقطهٔ ممکن، مسیر منتهی به فاجعه را منحرف کرد.» استاد دفاع دوباره در اتاق قدم زد؛ به دیوار رسید، روی پاشنه چرخید و تا دیوار دیگر رفت.",
+    "summary_fa": "کوییرل می‌گوید برای جلوگیری از فاجعه باید در همهٔ فرصت‌های ممکن مداخله کرد.",
     "verbatim_html": [
       "\"James Potter,\" said Professor Quirrell, his eyes narrowing.\n\"The boy is not much like James Potter. Are you confident in the\nsuccess of this plan? No, that is the wrong question, we are not\nlimited to a single plan. Are you certain that this plan will be\n<em>enough,</em> that we need essay no others? Asked in such\nfashion, the question answers itself. The path leading to disaster\nmust be averted along every possible point of intervention.\" The\nDefense Professor had resumed pacing the confines of her office,\nreaching one wall, turning on his heel, pacing to the other."
     ]
@@ -605,8 +605,8 @@
       51
     ],
     "summary_en": "McGonagall told Quirrell she had reached her limits and he should go.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«ببخشید، پروفسور،» او حتی زحمت پنهان‌کردن تندی صدایش را به خود نداد، «اما واقعاً دیگر توانم تمام شده. می‌توانید بروید.»",
+    "summary_fa": "مک‌گونگال می‌گوید دیگر طاقت ندارد و از کوییرل می‌خواهد برود.",
     "verbatim_html": [
       "\"My apologies, Professor,\" she did not bother keeping the\nsharpness from her voice, \"but I have quite reached my limits for\nthe day. You may go.\""
     ]
@@ -617,8 +617,8 @@
       52
     ],
     "summary_en": "Quirrell said she would be the first he thought of after Granger.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "پروفسور کوییرل چرخید و او خود را خیره به چشمان آبیِ یخی یافت. «شما. بعد از دوشیزهٔ گرنجر، اولین کسی هستید که به ذهنم می‌رسد تا جلوی خطای پسر را بگیرد. آیا واقعاً هر کاری از دستتان برمی‌آمده انجام داده‌اید؟ البته که نه.»",
+    "summary_fa": "کوییرل می‌گوید مک‌گونگال پس از هرماینی بهترین کسی است که می‌تواند جلوی خطای هری را بگیرد.",
     "verbatim_html": [
       "\"<em>You</em>.\" Professor Quirrell spun, and she found herself\ngazing directly into eyes of icy blue. \"<em>You</em> would be the\nfirst one I would think of after Miss Granger, to stay the boy from\na folly. Have you already done your utmost? Of course you have\nnot.\""
     ]
@@ -629,8 +629,8 @@
       53
     ],
     "summary_en": "McGonagall told Quirrell to leave if he had nothing more to say.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "چطور جرئت می‌کرد چنین چیزی بگوید؟ «اگر حرف دیگری ندارید، پروفسور، باید بروید.»",
+    "summary_fa": "مک‌گونگال از گستاخی او خشمگین می‌شود و می‌گوید اگر حرفی ندارد برود.",
     "verbatim_html": [
       "How <em>dare</em> he suggest that. \"If you have nothing more to\nsay, Professor, then you <em>will</em> go.\""
     ]
@@ -641,8 +641,8 @@
       54
     ],
     "summary_en": "Quirrell asked if her confederacy had deduced who he really was.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "واژه‌ها با ملایمتی فریبنده ادا شدند: «هم‌پیمانانتان فهمیده‌اند من واقعاً چه کسی هستم؟»",
+    "summary_fa": "کوییرل می‌پرسد آیا هم‌پیمانان مک‌گونگال هویت واقعی او را کشف کرده‌اند.",
     "verbatim_html": [
       "\"Has your confederacy deduced who I really am?\" The words were\nspoken with deceptive mildness."
     ]
@@ -653,8 +653,8 @@
       55
     ],
     "summary_en": "McGonagall said yes, in fact.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«بله، درواقع. حالا—»",
+    "summary_fa": "مک‌گونگال می‌گوید بله، هویت او را فهمیده‌اند.",
     "verbatim_html": [
       "\"Yes, in fact. Now -\""
     ]
@@ -665,8 +665,8 @@
       56
     ],
     "summary_en": "Pure magic and power crashed into the room.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "جادوی ناب و نیروی محض، همچون برق و آذرخشی کوبنده، به اتاق هجوم آورد. غرش آن حواس دیگرش را کر کرد و کاغذهای روی میز نه با بادی جادوشده، که با فشار خامِ نیروی رازآمیز به اطراف پرتاب شدند.",
+    "summary_fa": "موجی از جادوی نیرومند اتاق را درمی‌نوردد و کاغذها را به اطراف می‌پراکند.",
     "verbatim_html": [
       "Pure magic, pure power crashed into the room like a flash of\nlightning, like a thunderclap echoing about her ears that deafened\nher other senses, the papers on her desk blown aside not by any\nconjured wind but by the sheer raw force of arcane might."
     ]
@@ -677,8 +677,8 @@
       57
     ],
     "summary_en": "Hermione Granger's death certificates drifted to the floor.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "بعد نیرو فروکش کرد و فقط گواهی‌های مرگ هرماینی گرنجر در هوا شناور ماندند و آرام روی زمین افتادند.",
+    "summary_fa": "پس از فروکش‌کردن نیرو، گواهی‌های مرگ هرماینی روی زمین می‌افتند.",
     "verbatim_html": [
       "Then the power subsided, leaving only Hermione Granger's death\ncertificates drifting down through the air to the floor."
     ]
@@ -689,8 +689,8 @@
       58
     ],
     "summary_en": "David Monroe warned McGonagall that Potter could become dangerous.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "مرد با همان لحن ملایم گفت: «من دیوید مونرو هستم؛ با ولدمورت جنگیده‌ام. به حرفم گوش کنید. نباید گذاشت حال روحی پسر همین‌طور ادامه پیدا کند. خطرناک خواهد شد. ممکن است واقعاً هر کاری از دستتان برمی‌آمده انجام داده باشید. بااین‌حال، چنین چیزی به‌ندرت پیش می‌آید و بیشتر از آن‌که انجام شود، ادعایش را می‌شنویم. گمان می‌کنم فقط همان کارهایی را کرده‌اید که همیشه می‌کنید. من نمی‌توانم واقعاً بفهمم چه چیزی دیگران را وادار می‌کند از حد و مرزشان بگذرند؛ خودم هیچ‌وقت چنین حدومرزی نداشته‌ام. آدم‌ها در برابر احتمال مرگ به‌طرز شگفت‌آوری منفعل می‌مانند. ترس از تمسخر عمومی یا از دست‌دادن معاش، بیشتر ممکن است آن‌ها را به افراط وادارد و از عادت‌های همیشگی‌شان بیرون بکشد. آن‌سوی جنگ، ارباب تاریکی‌ها با نفرین کروشیو نتایج درخشانی می‌گرفت: آن را حساب‌شده بر خدمتگزاران نشان‌دارش به کار می‌برد؛ کسانی که جز با موفقیت نمی‌توانستند از مجازات بگریزند و هیچ تلاشی بهانهٔ پذیرفته‌شده‌ای نبود. خودتان را در وضعیت ذهنی آن‌ها تصور کنید و از خود بپرسید آیا واقعاً هر کاری را که می‌توانید برای بیرون‌کشیدن هری پاتر از این مسیر انجام داده‌اید؟»",
+    "summary_fa": "دیوید مونرو هشدار می‌دهد که هری ممکن است خطرناک شود و مک‌گونگال را به تلاشی فراتر از عادت‌هایش فرامی‌خواند.",
     "verbatim_html": [
       "\"I am David Monroe, who fought Voldemort,\" the man said, still\nin mild tones. \"Heed my words. The boy cannot be allowed to\ncontinue in this state of mind. He will become <em>dangerous</em>.\nIt is possible that you have already done everything you can. Yet I\nfind this a very rare event indeed, and more often said than done.\nI suspect rather that you have only done what you customarily do. I\ncannot truly comprehend what drives others to break their bounds,\nsince I never had them. People remain surprisingly passive when\nfaced with the prospect of death. Fear of public ridicule or losing\none's livelihood is more likely to drive men to extremes and the\nbreaking of their customary habits. On the other side of the war,\nthe Dark Lord had excellent results from the Cruciatus Curse,\njudiciously used on Marked servants who cannot escape punishment\nexcept by success, with no reasonable efforts accepted. Imagine\ntheir state of mind within yourself, and ask yourself whether you\nhave truly done <em>all that you can</em> to wrench Harry Potter\nfrom his course.\""
     ]
@@ -701,8 +701,8 @@
       59
     ],
     "summary_en": "McGonagall snapped that he would exercise courtesy in her office.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "او تند جواب داد: «من گریفیندوری‌ام و به‌سادگی با ترس از جا نمی‌زنم. شما باید در دفتر من مؤدب باشید!»",
+    "summary_fa": "مک‌گونگال می‌گوید ترس بر او چیره نمی‌شود و کوییرل باید در دفترش مؤدب باشد.",
     "verbatim_html": [
       "\"I am a Gryffindor and not much given to being moved by fear,\"\nshe snapped back. \"<em>You</em> will exercise courtesy within my\noffice!\""
     ]
@@ -713,8 +713,8 @@
       60
     ],
     "summary_en": "Quirrell said fear moved him and Potter could join rituals inscribed on tombstones.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«ترس را انگیزه‌ای عالی می‌دانم و راستش همین حالا ترس است که مرا به حرکت واداشته. کسی که می‌دانید، با همهٔ وحشتناکی‌اش، باز هم به بعضی مرزها پایبند بود. از نظر حرفه‌ای، به‌عنوان جادوگری دانشمند که تقریباً هم‌تراز دامبلدور یا کسی است که نباید نامش برده شود، می‌گویم این پسر ممکن است به جمع کسانی بپیوندد که آیین‌هایشان بر سنگ‌قبر کشورها حک شده است. این نگرانی بیهوده‌ای نیست، مک‌گونگال؛ حرف‌هایی شنیده‌ام که دلیل جدی‌ترین نگرانی‌هاست.»",
+    "summary_fa": "کوییرل می‌گوید هری ممکن است به‌سبب بی‌پروایی به فاجعه‌ای در مقیاس یک کشور بینجامد.",
     "verbatim_html": [
       "\"I find fear an excellent motivation, and indeed it is fear that\nmoves me now. You-Know-Who, for all his horror, still abided by\ncertain boundaries. It is my professional judgment, speaking as a\nlearned wizard almost on par with Dumbledore or\nHe-Who-Must-Not-Be-Named, that the boy could join the ranks of\nthose whose rituals are inscribed upon the tombstones of countries.\nThis is not an idle worry, McGonagall, I have already heard words\nto produce the gravest apprehensions.\""
     ]
@@ -725,8 +725,8 @@
       61
     ],
     "summary_en": "McGonagall said the idea was ridiculous.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«دیوانه شده‌اید؟ فکر می‌کنید آقای پاتر ممکن است— این مضحک است. آقای پاتر محال است—»",
+    "summary_fa": "مک‌گونگال احتمال چنین کاری را از سوی هری مضحک می‌داند.",
     "verbatim_html": [
       "\"Are you mad? You think that Mr. Potter could - this is\nridiculous. Mr. Potter cannot possibly -\""
     ]
@@ -737,8 +737,8 @@
       62
     ],
     "summary_en": "A wordless image of a patch of glass on a steel ball crossed her mind.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "تصویری بی‌کلام از تکه‌ای شیشه بر سطح یک گوی فولادی از ذهنش گذشت.",
+    "summary_fa": "تصویری بی‌کلام از تکه‌شیشه‌ای بر گوی فولادی به ذهنش می‌آید.",
     "verbatim_html": [
       "A wordless image crossed her mind of a patch of glass on a steel\nball."
     ]
@@ -749,8 +749,8 @@
       63
     ],
     "summary_en": "McGonagall said Potter would not do such a thing.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«—آقای پاتر چنین کاری نمی‌کند!»",
+    "summary_fa": "مک‌گونگال می‌گوید هری هرگز چنین کاری نخواهد کرد.",
     "verbatim_html": [
       "\"- Mr. Potter <em>would</em> not do such a thing!\""
     ]
@@ -760,9 +760,9 @@
     "paras": [
       64
     ],
-    "summary_en": "Quirrell said Potter may be reckless once resolved on a goal.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "summary_en": "Quirrell said Potter may be reckless once resolved upon a goal.",
+    "translation_fa": "«لازم نیست خودش آگاهانه چنین کاری را انتخاب کند. جادوگران به‌ندرت برای نابودی خودشان قدم برمی‌دارند. شاید آقای پاتر بدخواه به نظر نرسد؛ اما وقتی هدفی را برمی‌گزیند، بی‌پروا نیست؟ باز می‌گویم که دلیل مشخصی برای جدی‌ترین نگرانی ممکن دارم!»",
+    "summary_fa": "کوییرل می‌گوید بی‌پروایی هری پس از مصمم‌شدن به هدفی، حتی بدون قصد بد، خطرناک است.",
     "verbatim_html": [
       "\"His deliberate choice is not required. Wizards rarely set out\nto invoke their own dooms. Mr. Potter may not strike you as\nmalicious. Does he strike you as reckless once he is resolved upon\na goal? I say again that I have specific reason for the gravest\n<em>possible</em> concerns!\""
     ]
@@ -773,8 +773,8 @@
       65
     ],
     "summary_en": "McGonagall asked if Quirrell had spoken to the Headmaster.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "او آهسته پرسید: «این را با مدیر مدرسه در میان گذاشته‌اید؟»",
+    "summary_fa": "مک‌گونگال می‌پرسد آیا کوییرل با مدیر صحبت کرده است.",
     "verbatim_html": [
       "\"Have you spoken to the Headmaster of this?\" she said\nslowly."
     ]
@@ -785,8 +785,8 @@
       66
     ],
     "summary_en": "Quirrell said Dumbledore could not reach Potter and he would consult Snape.",
-    "translation_fa": "هریAFKAR…",
-    "summary_fa": "هریAFKAR…",
+    "translation_fa": "«این کار از بی‌فایده هم بدتر است. دامبلدور نمی‌تواند به پسر دسترسی پیدا کند. در بهترین حالت آن‌قدر خردمند هست که این را بداند و اوضاع را بدتر نکند. خودم هم ذهنیت لازم را ندارم. شما هستید که باید— اما می‌بینم هنوز هم منتظرید دیگران نجاتتان دهند.» استاد دفاع از او روی برگرداند و به‌سوی در رفت. «فکر می‌کنم با سوروس اسنیپ مشورت کنم. شاید فاجعه‌ای متحرک باشد، اما دست‌کم خودش این را می‌داند و شاید حال‌وهوای پسر را بهتر بفهمد. اما شما، بانو، خودتان را در پایان عمرتان تصور کنید؛ وقتی بریتانیا— نه، بریتانیا کشور واقعی شما نیست، درست است؟ خودتان را در پایان عمر تصور کنید، وقتی تاریکی دیوارهای رو به فرسودگی هاگوارتز را می‌بلعد و می‌دانید دانش‌آموزانتان همراه شما خواهند مرد؛ آن روز را به یاد می‌آورید و می‌فهمید کار دیگری هم از دستتان برمی‌آمد.»",
+    "summary_fa": "کوییرل می‌گوید دامبلدور نمی‌تواند به هری برسد و برای کمک به او سراغ اسنیپ می‌رود؛ مک‌گونگال را نیز با احتمال فاجعه روبه‌رو می‌کند.",
     "verbatim_html": [
       "\"That would be worse than pointless. Dumbledore cannot reach the\nboy. At best he is wise enough to know this and make things no\nworse. I lack the requisite frame of mind. <em>You</em> are the one\nwho - but I see that you still look for others to save you.\" The\nDefense Professor turned from her, and strode to the door. \"I think\nI shall consult with Severus Snape. The man may be a walking\ndisaster, but he knows the fact, and he may possess a greater\nunderstanding of that boy's mood. As for you, madam, imagine\nyourself at the end of your life, knowing that Britain - but no,\nBritain is not your true country, is it? Imagine yourself at the\nend of your life as the darkness eats through the fading walls of\nHogwarts, knowing that your students will die with you, remembering\nthis day and realizing there was something else you could have\ndone.\""
     ]
