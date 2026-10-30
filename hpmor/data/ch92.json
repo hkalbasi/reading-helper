@@ -485,8 +485,8 @@
       41
     ],
     "summary_en": "Harry Verres trudged on alone.",
-    "translation_fa": "هری ورِس تنها به راهش ادامه داد.",
-    "summary_fa": "هری ورِس تنها به راهش ادامه می‌دهد.",
+    "translation_fa": "هری ورس تنها به راهش ادامه داد.",
+    "summary_fa": "هری ورس تنها به راهش ادامه می‌دهد.",
     "verbatim_html": [
       "Harry Verres trudged on alone"
     ]
@@ -522,7 +522,7 @@
     ],
     "summary_en": "Professor Quirrell demanded to know how Mr. Potter was doing.",
     "translation_fa": "پروفسور کوییرل با لحنی مطالبه‌گر پرسید: «حال آقای پاتر چطور است؟» در وجودش تنشی بود که نمی‌شد دقیقاً «نگرانی» نامید؛ بیشتر شبیه کمین‌گری بود که زمان حمله را می‌سنجد. گرنجرها تازه از کنار مادام پامفری رفته بودند که استاد دفاع درِ دفترش را زد و پیش از شنیدن پاسخ وارد شد و پیش از آن‌که او کلمه‌ای بگوید، حرفش را آغاز کرد. بخشی از ذهن مینروا به‌دور از توجه اصلی‌اش می‌پرسید آیا هری این عادتِ بی‌اعتنایی به رنج دیگران، وقتی فکر دیگری ذهنش را مشغول کرده، از استاد دفاعش آموخته یا فقط نقصی کودکانه است که آن مرد هرگز از آن دست نکشیده.",
-    "summary_fa": "کوییرل با اضطرابی پنهان سراغ حال هری را می‌گیرد و مک‌گونگال از بی‌ملاحظگی او می‌اندیشد.",
+    "summary_fa": "کوییرل با لحنی مطالبه‌گر می‌پرسد حال آقای پاتر چطور است.",
     "verbatim_html": [
       "\"How is Mr. Potter doing?\" demanded Professor Quirrell. There\nwas a tension about the man, you could not quite call it\n<em>concern,</em> more like an ambusher measuring the time to\nstrike. The Grangers had hardly left with Madam Pomfrey before the\nDefense Professor had knocked upon the door to her office and then\nentered without waiting for her answer, and spoken before she could\nsay a word. Part of Minerva wondered distantly whether Harry Potter\nhad picked up that habit from his Defense Professor, being unaware\nof others' pain when there was something else on his mind, or if it\nwas only a childish flaw which this man had somehow failed to grow\nout of."
     ]
@@ -557,7 +557,7 @@
       47
     ],
     "summary_en": "McGonagall said she was about to order Quirrell out of her office.",
-    "translation_fa": "مک‌گونگال گفت: «نه، به‌خصوص.» حدود سی ثانیه مانده بود تا استاد دفاع را از دفترش بیرون کند.",
+    "translation_fa": "مک‌گونگال گفت: «نه چندان.» حدود سی ثانیه مانده بود تا استاد دفاع را از دفترش بیرون کند.",
     "summary_fa": "مک‌گونگال می‌گوید نزدیک است کوییرل را از دفترش بیرون کند.",
     "verbatim_html": [
       "\"Not particularly,\" she said. She was around thirty seconds away\nfrom ordering the Defense Professor out of her office."
@@ -714,7 +714,7 @@
     ],
     "summary_en": "Quirrell said fear moved him and Potter could join rituals inscribed on tombstones.",
     "translation_fa": "«ترس را انگیزه‌ای عالی می‌دانم و راستش همین حالا ترس است که مرا به حرکت واداشته. کسی که می‌دانید، با همهٔ وحشتناکی‌اش، باز هم به بعضی مرزها پایبند بود. از نظر حرفه‌ای، به‌عنوان جادوگری دانشمند که تقریباً هم‌تراز دامبلدور یا کسی است که نباید نامش برده شود، می‌گویم این پسر ممکن است به جمع کسانی بپیوندد که آیین‌هایشان بر سنگ‌قبر کشورها حک شده است. این نگرانی بیهوده‌ای نیست، مک‌گونگال؛ حرف‌هایی شنیده‌ام که دلیل جدی‌ترین نگرانی‌هاست.»",
-    "summary_fa": "کوییرل می‌گوید هری ممکن است به‌سبب بی‌پروایی به فاجعه‌ای در مقیاس یک کشور بینجامد.",
+    "summary_fa": "کوییرل می‌گوید ترس او را به حرکت درآورده و هری ممکن است به جمع کسانی بپیوندد که آیین‌هایشان بر سنگ‌قبر کشورها حک شده است.",
     "verbatim_html": [
       "\"I find fear an excellent motivation, and indeed it is fear that\nmoves me now. You-Know-Who, for all his horror, still abided by\ncertain boundaries. It is my professional judgment, speaking as a\nlearned wizard almost on par with Dumbledore or\nHe-Who-Must-Not-Be-Named, that the boy could join the ranks of\nthose whose rituals are inscribed upon the tombstones of countries.\nThis is not an idle worry, McGonagall, I have already heard words\nto produce the gravest apprehensions.\""
     ]
