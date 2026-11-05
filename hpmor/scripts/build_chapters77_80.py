@@ -33,6 +33,11 @@ CHAPTERS = {
     98: ("Roles, Final", "20210125204052"),
     99: ("Roles, Aftermath", "20210125204052"),
     100: ("Precautionary Measures, Pt 1", "20210125204052"),
+    101: ("Precautionary Measures, Pt 2", "20260809073352"),
+    102: ("Caring", "20260703154400"),
+    103: ("Tests", "20260703063913"),
+    104: ("The Truth, Pt 1, Riddles and Answers", "20261009085954"),
+    105: ("The Truth, Pt 2", "20261010232329"),
 }
 
 

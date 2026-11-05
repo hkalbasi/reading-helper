@@ -1,0 +1,560 @@
+[
+  {
+    "paras": [
+      1
+    ],
+    "summary_en": "A scene header dates the chapter to June 4th, 1992.",
+    "summary_fa": "سربرگ صحنه، این فصل را به ۴ ژوئن ۱۹۹۲ منتسب می‌کند.",
+    "translation_fa": "۴ ژوئن ۱۹۹۲.",
+    "id": 1,
+    "verbatim_html": [
+      "<em>June 4th, 1992.</em>"
+    ]
+  },
+  {
+    "paras": [
+      2,
+      3
+    ],
+    "summary_en": "In the Slytherin common room Daphne writes to her mother when Draco staggers in with a dozen books, Vincent and Gregory behind him, and an Auror briefly looks in.",
+    "summary_fa": "در اتاق مشترک اسلیترین، دافنه به مادرش نامه می‌نویسد که دراکو با دوازده کتاب تلوتلوخوران وارد می‌شود، وینسنت و گریگوری پشت سرش، و آوروری کوتاه سرک می‌کشد.",
+    "translation_fa": "دافنه گرینگرس در اتاق مشترک اسلیترین بود و نامهای به بانو مادرش مینوشت (که بهطور غافلگیرکنندهای دربارهٔ تقسیم قدرت سرسخت بود، با اینکه حتی در هاگوارتز نبود تا کنترلی اعمال کند)، که دید دراکو مالفوی از در نقاشیها تلوتلوخوران وارد شد و چیزی را حمل میکرد که باید دوازده کتاب میبود، وینسنت و گریگوری پشت سرش که هر یک دوازده کتاب دیگر داشتند. آوروری که همراه مالفوی بود سرش را کوتاه داخل کرد، سپس به جایی نامعلوم عقب کشید.\n\nدراکو دوری نگاه کرد، سپس در حالی که تلوتلوخوران به سوی او میرفت و وینسنت و گریگوری در پیاش بودند، گویی فکر درخشانی به سرش زد.",
+    "id": 2,
+    "verbatim_html": [
+      "Daphne Greengrass was in the Slytherin common room, writing a\nletter to her Lady Mother (who was surprisingly intransigent about\npower-sharing, despite not even <em>being</em> in Hogwarts to\nexercise control) when she saw Draco Malfoy stagger in through the\nportrait door carrying what must have been a dozen books, Vincent\nand Gregory behind him each carrying a dozen more. The Auror who'd\naccompanied Malfoy stuck his head in briefly, then withdrew to\nwho-knew-where.",
+      "Draco looked around, then seemed to be struck by a bright idea\nas he staggered toward her, Vincent and Gregory following\nafter."
+    ]
+  },
+  {
+    "paras": [
+      4,
+      5,
+      6
+    ],
+    "summary_en": "Draco asks Daphne to help him read the books Miss Granger borrowed between April 1st and 16th, reasoning that she knew Granger better.",
+    "summary_fa": "دراکو از دافنه می‌خواهد کمکش کند کتاب‌هایی را بخواند که خانم گرنجر بین ۱ و ۱۶ آوریل امانت گرفت، چون او گرنجر را بهتر می‌شناخته.",
+    "translation_fa": "«میتوانی کمکم کنی اینها را بخوانم؟» دراکو گفت، در حالی که نزدیک میشد کمی نفسبریده به نظر میرسید.\n\n«چه؟» درسها تمام شده بودند، فقط امتحانها مانده بودند، و از کی مالفویها برای تکالیفشان از گرینگرسها کمک میخواستند؟\n\n«اینها،» دراکو مالفوی با اهمیت گفت، «همهٔ کتابهای کتابخانهایاند که خانم گرنجر بین ۱ آوریل و ۱۶ آوریل امانت گرفت. فکر کردم آنها را بررسی کنم در صورتی که سرنخی آنجا باشد، فقط بعد فکر کردم شاید بهتر باشد تو کمک کنی چون خانم گرنجر را بهتر میشناختی.»",
+    "id": 3,
+    "verbatim_html": [
+      "\"Can you help me read these?\" said Draco, sounding slightly out\nof breath as he approached.",
+      "\"What.\" Lessons were over<em>,</em> only the exams were left\nnow, and since when did <em>Malfoys</em> ask <em>Greengrasses</em>\nfor help with their homework?",
+      "\"These,\" Draco Malfoy said importantly, \"are all the library\nbooks Miss Granger borrowed between April 1st and April 16th. I\nthought I'd go through them in case there are any Clues there, only\nthen I thought, maybe <em>you</em> should help because you knew\nMiss Granger better.\""
+    ]
+  },
+  {
+    "paras": [
+      7,
+      8
+    ],
+    "summary_en": "Daphne wonders that 'the General' read all that in two weeks; Draco cautions that they only know the ledger says she checked them out.",
+    "summary_fa": "دافنه حیران است که «ژنرال» همه را در دو هفته خوانده؛ دراکو هشدار می‌دهد که فقط می‌دانند دفتر می‌گوید آنها را امانت گرفته.",
+    "translation_fa": "دافنه به کتابها خیره شد. «ژنرال همهٔ اینها را در دو هفته خواند؟» تکان دردی از قلبش گذشت، اما آن را سرکوب کرد.\n\n«خب، نمیدانم خانم گرنجر همه را تمام کرد،» دراکو گفت. انگشتی هشداردهنده بالا گرفت. «در واقع، نمیدانیم اصلاً هر کدام را خوانده، یا واقعاً امانت گرفته، یعنی، تنها چیزی که مشاهده کردهایم این است که دفتر کتابخانه میگوید آنها را امانت گرفته —»",
+    "id": 4,
+    "verbatim_html": [
+      "Daphne stared at the books. \"The General read all that in\n<em>two weeks?</em> \" A twinge of pain went through her heart, but\nshe suppressed it.",
+      "\"Well, I don't know if Miss Granger finished them all,\" Draco\nsaid. He held up a cautioning finger. \"In fact, we don't know if\nshe read any of them, or if she really borrowed them, I mean, all\nwe've <em>observed</em> is that the library ledger says she checked\nthem out -\""
+    ]
+  },
+  {
+    "paras": [
+      9
+    ],
+    "summary_en": "Daphne suppresses a groan; Malfoy has talked like this for weeks, the strangeness of a murder suspect's mind.",
+    "summary_fa": "دافنه ناله‌ای را سرکوب می‌کند؛ مالفوی هفته‌ها این‌طور حرف زده است، عجیبی ذهنی درگیر قتل.",
+    "translation_fa": "دافنه نالهای را سرکوب کرد. مالفوی هفتهها بود اینطور حرف میزد. بعضی افراد آشکارا برای درگیر شدن با قتلهای مرموز ساخته نشده بودند، چون کار عجیبی با ذهنشان میکرد. «آقای مالفوی، اگر تمام تابستان را بیکار بمانم هم نمیتوانم همهٔ اینها را بخوانم.»",
+    "id": 5,
+    "verbatim_html": [
+      "Daphne suppressed a groan. Malfoy had been talking like this for\nweeks. There were some people who clearly were not meant to be\ninvolved with mysterious murders because it did <em>strange things\nto their minds</em>. \"Mr. Malfoy, I couldn't read all these if I\nspent my whole summer doing nothing else.\""
+    ]
+  },
+  {
+    "paras": [
+      10,
+      11
+    ],
+    "summary_en": "Draco asks her to skim for clues like mysterious words or bookmarks; Daphne rolls her eyes and notes they have Aurors now.",
+    "summary_fa": "دراکو می‌خواهد سطحی مرور کند برای سرنخ‌هایی مثل واژه‌های مرموز یا نشان؛ دافنه چشمانش را می‌چرخاند و می‌گوید اکنون آورور دارند.",
+    "translation_fa": "«پس فقط سطحی مرورشان کن، خواهش میکنم؟» دراکو گفت. «خصوصاً اگر واژههای مرموزی با دستخط او داخلش خطخورده، یا نشانی جا مانده، یا —»\n\n«من هم آن نمایشها را دیدهام، آقای مالفوی.» دافنه چشمانش را چرخاند. «آیا ما الان برای این کار آورور نداریم که —»",
+    "id": 6,
+    "verbatim_html": [
+      "\"Then just skim through them, please?\" Draco said. \"Especially\nif there's, you know, mysterious words scribbled in her\nhandwriting, or a bookmark left inside, or -\"",
+      "\"I've seen those plays too, Mr. Malfoy.\" Daphne rolled her eyes.\n\"Don't we have <em>Aurors</em> now for -\""
+    ]
+  },
+  {
+    "paras": [
+      12,
+      13,
+      14
+    ],
+    "summary_en": "Millicent Bulstrode bursts into the common room shrieking that they are doomed and that it is Professor Quirrell.",
+    "summary_fa": "میلیسنت بالسترود جیغ‌کشان وارد اتاق مشترک می‌شود که محکوم به فنا شده‌اند و پروفسور کوییرل است.",
+    "translation_fa": "«محکوم به فنا هستیم!» میلیسنت بالسترود جیغ کشید، در حالی که از اتاقهای پایین به اتاق مشترک اسلیترین بالا میآمد.\n\nمردم برای نگاه کردن به او مکث کردند.\n\n«پروفسور کوییرل است!»",
+    "id": 7,
+    "verbatim_html": [
+      "\"<em>We're doomed!</em> \" shrieked Millicent Bulstrode, as she\nburst up from the lower chambers into the Slytherin common\nroom.",
+      "People paused to look at her.",
+      "\"<em>It's Professor Quirrell!</em> \""
+    ]
+  },
+  {
+    "paras": [
+      15,
+      16,
+      17
+    ],
+    "summary_en": "The room stirs with bets about when Quirrell will 'go bad'; Millicent says he has improved and will summon the first-years for the Defense final by surprise in fifty minutes.",
+    "summary_fa": "اتاق با شرط‌بندی دربارهٔ زمان «بد شدن» کوییرل به جنبش می‌آید؛ میلیسنت می‌گوید بهتر شده و سال‌اولی‌ها را بیهشدار در پنجاه دقیقه به امتحان دفاع فرا می‌خواند.",
+    "translation_fa": "هوایی ناگهانی از توجه، مانند دعواهای دیرینه که در آستانهٔ حل شدناند. «خب، بالاخره،» کسی گفت، در حالی که میلیسنت میکوشید نفسش را بگیرد. «او تنها، چه، ده روز تا بد شدنش مانده؟»\n\n«یازده روز،» سالهفتمی که صندوق شرطبندی را میگرداند گفت.\n\n«او ناگهان کمی بهتر شده و میخواهد سالاولیها را برای امتحان دفاعمان فرا بخواند! بیهشدار! در پنجاه دقیقه!»",
+    "id": 8,
+    "verbatim_html": [
+      "A sudden air of attentiveness, as of long-standing disputes\nabout to be settled. \"Well, finally,\" someone said, as Millicent\ntried to catch her breath. \"He's only got, what, ten days left to\ngo bad?\"",
+      "\"Eleven days,\" said the seventh-year who was running the betting\npool.",
+      "\"<em>He's gotten a little better suddenly and he's going to\nsummon the first-years for our Defense final! By surprise! In fifty\nminutes!</em> \""
+    ]
+  },
+  {
+    "paras": [
+      18,
+      19,
+      20
+    ],
+    "summary_en": "Pansy objects that Quirrell gives no exams and teaches nothing from the Ministry curriculum; Millicent shrieks that it is the Ministry Defense final.",
+    "summary_fa": "پنسی اعتراض می‌کند که کوییرل امتحان نمی‌گیرد و از برنامهٔ وزارت درس نمی‌دهد؛ میلیسنت جیغ می‌زند که امتحان دفاع وزارت است.",
+    "translation_fa": "«امتحان دفاع؟» پنسی بیمعنا گفت. «اما پروفسور کوییرل امتحان نمیگیرد.»\n\n«امتحان دفاع وزارت!» میلیسنت جیغ زد.\n\n«اما پروفسور کوییرل هیچ چیزی از برنامهٔ درسی وزارت درس نمیدهد،» پنسی اعتراض کرد.",
+    "id": 9,
+    "verbatim_html": [
+      "\"A Defense final?\" Pansy said blankly. \"But Professor Quirrell\ndoesn't give exams.\"",
+      "\"The <em>Ministry</em> Defense final!\" shrieked Millicent.",
+      "\"But Professor Quirrell doesn't teach anything from the Ministry\ncurriculum,\" objected Pansy."
+    ]
+  },
+  {
+    "paras": [
+      21
+    ],
+    "summary_en": "Daphne flees to her room for a textbook untouched since September, cursing inwardly.",
+    "summary_fa": "دافنه به سوی اتاقش می‌گریزد برای کتاب درسی‌ای که از سپتامبر لمسش نکرده، و در دل فحش می‌دهد.",
+    "translation_fa": "دافنه از قبل به سوی اتاقش میگریخت، به طرف کتاب درسی دفاع سال اول که از سپتامبر لمسش نکرده بود و در ذهنش فحش میداد.",
+    "id": 10,
+    "verbatim_html": [
+      "Daphne was already fleeing to her room, racing for the\nfirst-year Defense textbook that she hadn't touched since September\nand screaming curses inside her mind."
+    ]
+  },
+  {
+    "paras": [
+      22
+    ],
+    "summary_en": "One desk back someone cries softly; Daphne turns expecting a Hufflepuff and is surprised to see a Ravenclaw.",
+    "summary_fa": "یک میز پشت‌تر کسی آرام گریه می‌کند؛ دافنه برمی‌گردد و انتظار هافلپاف دارد و از دیدن ریونکلاو شگفت‌زده می‌شود.",
+    "translation_fa": "یک میز پشت سرش، کسی گریه میکرد و هقهقهای آرامش آواز پسزمینهای از نومیدی برای کلاس فراهم میکرد. دافنه برگشت، انتظار داشت یک هافلپاف ببیند و امیدوار بود هانا نباشد، و در ابتدا (هرچند با تأمل بیشتر نه) شگفتزده شد که دید یک ریونکلاو است.",
+    "id": 11,
+    "verbatim_html": [
+      "One desk back of her, someone was crying, their soft sobs\nproviding a background chant of despair for the classroom. Daphne\nlooked back, expecting to see a Hufflepuff and hoping it wasn't\nHannah, and was surprised at first (though not on further\nreflection) to see it was a Ravenclaw."
+    ]
+  },
+  {
+    "paras": [
+      23,
+      24
+    ],
+    "summary_en": "Exam parchments lie face down awaiting the bell; Daphne is ashamed she did not warn the other Houses, though House Points resumed three days ago.",
+    "summary_fa": "پوسته‌های امتحان واژگون در انتظار زنگ‌اند؛ دافنه شرمنده است که خانه‌های دیگر را هشدار نداده، هرچند سه روز پیش امتیازهای خانگی از سر گرفته شد.",
+    "translation_fa": "پیش رویشان پوستهای امتحان گذاشته شده بود، واژگون، در انتظار زنگ.\n\nپنجاه دقیقه زمان آمادگی بههیچوجه کافی نبود، اما چیزی بود، و دافنه اکنون از اینکه فکر نکرده بود پیامآورانی برای هشدار دادن به خانههای هافلپاف، ریونکلاو و گریفیندور بفرستد شرمنده بود. فقط سه روز پیش، در آغاز ژوئن، دادن امتیاز خانگی را دوباره شروع کرده بودند، اما کمیتهٔ ویژهٔ محافظت کمکی هنوز باید اتحاد خانهها را ترویج میکرد.",
+    "id": 12,
+    "verbatim_html": [
+      "Before them were set the exam parchments, turned over, waiting\nfor the bell.",
+      "Fifty minutes hadn't been nearly enough preparation time, but it\nwas something, and Daphne was now feeling ashamed that she hadn't\nthought to send messengers to warn the Hufflepuff, Ravenclaw, and\nGryffindor Houses. They'd started giving House Points again just\nthree days ago, at the beginning of June, but the Auxiliary\nProtective Special Committee still ought to promote House\nunity."
+    ]
+  },
+  {
+    "paras": [
+      25
+    ],
+    "summary_en": "Katherine Tung of Dragon Army, who once faced three Sunshine Soldiers without flinching, also begins to cry.",
+    "summary_fa": "کاترین تانگ از ارتش اژدها، که یک بار بی‌تکان با سه سرباز آفتاب روبه‌رو شد، هم گریه می‌کند.",
+    "translation_fa": "ریونکلاو دیگری، چهار میز به سمت چپ او، هم شروع به گریه کرد. اگر درست به یاد میآورد، آن کاترین تانگ از ارتش اژدها بود، که یک بار دیده بود بی هیچ تکان خوردن همزمان با سه سرباز آفتاب درگیر شود.",
+    "id": 13,
+    "verbatim_html": [
+      "Another Ravenclaw, sitting four desks to her left, also started\nto cry. That was Katherine Tung of Dragon Army, if she recalled\ncorrectly, whom she'd once seen take on three Sunshine Soldiers\nsimultaneously without a flinch."
+    ]
+  },
+  {
+    "paras": [
+      26
+    ],
+    "summary_en": "Daphne calms down: it is only a test, and if nearly everyone turns in blank parchments nobody will be shamed, though Ravenclaws and Hufflepuffs may see it differently.",
+    "summary_fa": "دافنه آرام می‌شود: فقط یک آزمون است و اگر تقریباً همه پوسته‌های خالی بدهند کسی شرمنده نمی‌شود، هرچند ریونکلاوها و هافلپاف‌ها شاید جور دیگری ببینند.",
+    "translation_fa": "دافنه پس از یکی دو دقیقهٔ خواندن دیوانهوار آرام شده بود. فقط یک امتحان بود، نه قتل یا چیز دیگری؛ و اگر تقریباً همهٔ سالاولیها پوستههای عمدتاً خالی تحویل میدادند، پس منطقی بود که هیچکس شرمنده نمیشد. اما دافنه میتوانست بفهمد، اگر نه دقیقاً همدلی کند، که ریونکلاوها و هافلپافها شاید اینطور نبینند.",
+    "id": 14,
+    "verbatim_html": [
+      "Daphne had calmed down after the first couple of minutes of\nfrantic reading. It was just a test, not a <em>murder</em> or\nanything; and if almost all the first-year students turned in\nmostly blank parchments then it stood to reason that nobody would\nbe shamed. But Daphne could understand, if not exactly sympathize,\nthat Ravenclaws and Hufflepuffs might not see it that way."
+    ]
+  },
+  {
+    "paras": [
+      27
+    ],
+    "summary_en": "A Ravenclaw witch calls Quirrell a pure Dark Wizard worse than You-Know-Who and says even Grindelwald would not do this to children.",
+    "summary_fa": "جادوگر ریونکلاو کوییرل را جادوگر تاریکی خالص و بدتر از تو-می‌دانی-کی می‌نامد و می‌گوید حتی گرینلواالد هم با بچه‌ها این کار را نمی‌کرد.",
+    "translation_fa": "«او شر است،» جادوگر ریونکلاو دیگری با صدایی لرزان گفت. «صد درصد جادوگر تاریک خالص تا مغز استخوان. لرد تاریکی گرینلواالد این کار را نمیکرد، نه با بچهها، او از تو-میدانی-کی بدتر است.»",
+    "id": 15,
+    "verbatim_html": [
+      "\"He's evil,\" another Ravenclaw witch said in a shaking voice.\n\"One hundred percent pure Dark Wizard to the bone. The Dark Lord\nGrindelwald wouldn't do this, not to children, he's worse than\nYou-Know-Who.\""
+    ]
+  },
+  {
+    "paras": [
+      28
+    ],
+    "summary_en": "Daphne glances at Quirrell and thinks she sees him smile for an instant, then dismisses it as imagination.",
+    "summary_fa": "دافنه نگاهی به کوییرل می‌اندازد و گمان می‌کند لحظه‌ای لبخندش را می‌بیند، سپس آن را خیال می‌پندارد.",
+    "translation_fa": "دافنه بهطور بازتابی به جایی که پروفسور کوییرل نشسته بود نگاه کرد، به یک طرف افتاده اما چشمانش هوشیار؛ و گمان کرد برای لحظهای کوچک دید که استاد دفاع لبخند زد. نه، آن باید خیال او میبود، هیچ راهی نبود که استاد دفاع آن را شنیده باشد.",
+    "id": 16,
+    "verbatim_html": [
+      "Daphne looked reflexively at where Professor Quirrell was\nsitting, slumped to one side but his eyes alert; and she thought\nshe saw the Defense Professor smile for one tiny instant. No, that\nhad to be her imagination, there was no way the Defense Professor\ncould have heard that."
+    ]
+  },
+  {
+    "paras": [
+      29,
+      30,
+      31
+    ],
+    "summary_en": "The bell rings; Daphne flips the parchment and finds Ministry, Board and Department seals, cheating-detection runes, a name line, rules, and a picture of Director Lindsay Gagnon.",
+    "summary_fa": "زنگ می‌خورد؛ دافنه پوسته را برمی‌گرداند و مهرهای وزارت، هیئت مدیره و اداره، رونهای کشف تقلب، خط نام، قوانین و تصویر مدیر لیندزی گاگنون را می‌بیند.",
+    "translation_fa": "زنگ خورد.\n\nدافنه پوسته را برگرداند.\n\nبالای آن با مهرهای وزارت، هیئت مدیرهٔ هاگوارتز و ادارهٔ آموزش جادویی مهر شده بود، و رونهایی برای کشف تقلب. زیرش خطی برای نوشتن نامش بود، و فهرستی از قوانین امتحان با تصویری از لیندزی گاگنون، مدیر ادارهٔ آموزش جادویی، که انگشتی هشداردهنده به همه تکان میداد.",
+    "id": 17,
+    "verbatim_html": [
+      "The bell rang.",
+      "Daphne flipped the parchment over.",
+      "The top was stamped with the seals for the Ministry, the\nHogwarts Board of Governors, and the Department of Magical\nEducation, and runes to detect cheating. Below that was a line for\nher to write her name, and a list of exam rules with a picture of\nLindsay Gagnon, the Director of the Department of Magical\nEducation, shaking an admonishing finger at everyone."
+    ]
+  },
+  {
+    "paras": [
+      32,
+      33
+    ],
+    "summary_en": "Halfway down is the first question: why is it important for children to stay away from strange creatures?",
+    "summary_fa": "نیمهٔ پایین صفحه نخستین پرسش است: چرا مهم است که کودکان از موجودات عجیب دوری کنند؟",
+    "translation_fa": "نیمهٔ پایین صفحه اولین پرسش امتحان بود.\n\nاین بود: چرا مهم است که کودکان از موجودات عجیب دوری کنند؟",
+    "id": 18,
+    "verbatim_html": [
+      "Halfway down the page was the first exam question.",
+      "It was, <em>Why is it important for children to stay away from\nstrange creatures?</em>"
+    ]
+  },
+  {
+    "paras": [
+      34,
+      35,
+      36
+    ],
+    "summary_en": "After a stunned pause, a Gryffindor laughs; Quirrell does not censor it, the laughter spreads, and the students all turn to look at his benevolent smile.",
+    "summary_fa": "پس از مکثی بهت‌زده، یک گریفیندوری می‌خندد؛ کوییرل سانسورش نمی‌کند، خنده می‌گسترد و دانش‌آموزان همگی به لبخند خیرخواهانهٔ او نگاه می‌کنند.",
+    "translation_fa": "مکثی بهتزده بود.\n\nیک دانشآموز شروع به خندیدن کرد، او گمان کرد از بخش گریفیندور کلاس است. پروفسور کوییرل هیچ حرکتی برای سانسور آن نکرد و خنده گسترش یافت.\n\nهیچکس بلند حرف نزد، اما دانشآموزان به اطراف نگاه کردند و با فروکش کردن خنده نگاههایی ردوبدل کردند، و سپس گویی با توافقی ناگفته همه به پروفسور کوییرل نگاه کردند، که با خیرخواهی به آنها لبخند میزد.",
+    "id": 19,
+    "verbatim_html": [
+      "There was a stunned pause.",
+      "One student began laughing, she thought it was from the\nGryffindor section of the class. Professor Quirrell made no motion\nto censor it, and the laughter spread.",
+      "Nobody spoke aloud, but the students looked around at each\nother, exchanging glances as the laughter died down, and then as if\nby some unspoken agreement they all looked at Professor Quirrell,\nwho was smiling down at them benevolently."
+    ]
+  },
+  {
+    "paras": [
+      37
+    ],
+    "summary_en": "Daphne answers with a defiant smile: because her Stunning Hex, Most Ancient Blade and Patronus Charm will not work against everything.",
+    "summary_fa": "دافنه با لبخندی سرکش پاسخ می‌دهد: چون طلسم فلج‌کننده، تیغ باستانی‌ترین و پاترونوسش در برابر همه چیز کار نمی‌کنند.",
+    "translation_fa": "دافنه روی امتحانش خم شد، با لبخندی سرکش و شرارتبار که مایهٔ افتخار گودریک گریفیندور یا گرینلواالد میشد؛ و نوشت: چون طلسم فلجکنندهٔ من، تیغ باستانیترین من و طلسم پاترونوس من در برابر همه چیز کار نمیکنند.",
+    "id": 20,
+    "verbatim_html": [
+      "Daphne bent over her exam, wearing a defiant evil smile that\nwould have done proud to either Godric Gryffindor or Grindelwald;\nand she wrote down, <em>Because my Stunning Hex, my Most Ancient\nBlade, and my Patronus Charm won't work against\neverything.</em>"
+    ]
+  },
+  {
+    "paras": [
+      38,
+      39
+    ],
+    "summary_en": "Harry turns the last page of his exam; after quashing some nervousness at the trivia, he answers the Shrieking Eel question with 'Quieting Charm' and its directions.",
+    "summary_fa": "هری آخرین صفحهٔ امتحانش را برمی‌گرداند؛ پس از خاموش کردن کمی اضطراب در برابر دانستنی‌ها، به پرسش مارماهی جیغ‌زن با «طلسم سکوت» و دستوراتش پاسخ می‌دهد.",
+    "translation_fa": "هری پاتر آخرین صفحهٔ امتحان دفاعش را برگرداند.\n\nحتی هری هنگام خواندن نخستین پرسش واقعی («چگونه میتوانی یک مارماهی جیغزن را ساکت کنی؟») لازم دیده بود کمی از اضطراب، تکهای کوچک از کودکیاش، را خاموش کند. درسهای پروفسور کوییرل تقریباً صفر وقت صرف دانستنیهای شگفتانگیز اما بیفایدهای کرده بود که برخی احمقها تصور کرده بودند «کلاس دفاع» باید شبیه آن باشد. در اصل، هری میتوانست پس از آگاه شدن از امتحان غافلگیرکننده از گردنآویز زمانش استفاده کند و کتاب دفاع سال اول را بخواند؛ اما آن شاید بهناحق منحنی نمرهدهی را برای دیگران منحرف میکرد. پس از چند ثانیه خیره شدن به پرسش، هری نوشت «طلسم سکوت» و دستورات اجرایش را هم افزود، در صورتی که نمرهده وزارت باور نکند هری آن را میداند.",
+    "id": 21,
+    "verbatim_html": [
+      "Harry Potter turned over the last page of his Defense exam.",
+      "Even Harry had needed to quash a small bit of nervousness, some\ntiny remnant of his childhood, upon reading the first real question\n('How can you make a Shrieking Eel be silent?'). Professor\nQuirrell's lessons had spent roughly zero time on the surprising\nyet useless trivia that some idiot had imagined a 'Defense class'\nshould look like. In principle, Harry could have used his\nTime-Turner to read through the first-year Defense book after being\nnotified of the surprise exam; but that might have unfairly skewed\nthe grading curve for others. After staring at the question for a\ncouple of seconds, Harry had written down 'Quieting Charm', and\nincluded the casting directions in case the Ministry grader didn't\nbelieve that Harry knew it."
+    ]
+  },
+  {
+    "paras": [
+      40
+    ],
+    "summary_en": "Answering correctly goes quickly: most answers are 'Stunning Hex', others 'walk the other way' or 'throw away the cheese and buy new shoes'.",
+    "summary_fa": "پاسخ درست دادن سریع پیش می‌رود: بیشتر پاسخ‌ها «طلسم فلج‌کننده» است، و بقیه «در جهت مخالف برو» یا «پنیر را دور بینداز و کفش نو بخر».",
+    "translation_fa": "وقتی هری تصمیم گرفت صرفاً به همهٔ پرسشها درست پاسخ دهد، امتحان خیلی سریع گذشت. واقعبینانهترین پاسخ به بیش از نیمی از پرسشها «طلسم فلجکننده» بود، و بسیاری از پرسشهای دیگر راهحلهای بهینهای در مایهٔ «بچرخ و در جهت مخالف قدم بزن» یا «پنیر را دور بینداز و یک جفت کفش نو بخر» داشتند.",
+    "id": 22,
+    "verbatim_html": [
+      "Once Harry had decided to just answer all the questions\n<em>correctly,</em> the exam had gone by very quickly. The most\nrealistic answer to more than half the questions was 'Stunning\nHex', and many of the other questions had optimal solutions along\nthe lines of 'Turn around and walk in the opposite direction' or\n'Throw away the cheese and buy a new pair of shoes.'"
+    ]
+  },
+  {
+    "paras": [
+      41
+    ],
+    "summary_en": "The last question asks what to do about a suspected Bogeysnake under the bed; the textbook answer is 'tell your parents'.",
+    "summary_fa": "آخرین پرسش می‌پرسد اگر گمان کنی مار بوگِی زیر تختت هست چه می‌کنی؛ پاسخ کتاب درسی «به والدینت بگو» است.",
+    "translation_fa": "آخرین پرسش امتحان این بود: «اگر گمان کنی ممکن است یک مار بوگِی زیر تختت باشد چه میکنی؟» پاسخ مورد تأیید وزارت، هری در واقع از خواندن کتاب در آغاز سال به یاد میآورد، «به والدینت بگو» بود. مشکل این مطلب بیدرنگ به ذهن هری رسیده بود، و همین بود که آن را به یاد آورده بود.",
+    "id": 23,
+    "verbatim_html": [
+      "The last question on the test was \"What would you do if you\nsuspected there might be a Bogeysnake underneath your bed?\" The\nMinistry-approved answer, Harry could in fact recall from his\nread-through of the textbook at the start of the year, was <em>Tell\nyour parents.</em> The problem with this had occurred to Harry\nright away, which was why Harry had remembered it."
+    ]
+  },
+  {
+    "paras": [
+      42,
+      43,
+      44
+    ],
+    "summary_en": "Harry writes a letter to the Ministry grader calling the answer a secret, comparing a Bogeysnake to a troll or Dementor, and calling the standard answer prejudicial to Muggleborns.",
+    "summary_fa": "هری نامه‌ای به نمره‌ده وزارت می‌نویسد و پاسخ را راز می‌خواند، مار بوگِی را با ترول یا دیوانه‌ساز مقایسه می‌کند و پاسخ استاندارد را تبعیض‌آمیز نسبت به ماگل‌زاده‌ها می‌نامد.",
+    "translation_fa": "پس از کمی اندیشیدن، هری نوشت:\n\nنمرهده محترم وزارت: متأسفانه پاسخ راستین آن یک راز است، اما مطمئن باش که یک مار بوگِی برای من بیشتر از یک ترول کوهستان، یک دیوانهساز یا تو-میدانی-کی دردسری ایجاد نخواهد کرد. لطفاً به مافوقهایت اطلاع بده که پاسخ استاندارد شما را نسبت به ماگلزادهها تبعیضآمیز میدانم و انتظار دارم این کاستی بیدرنگ و بی نیاز به مداخلهٔ مستقیم من اصلاح شود.\n\nبا احترام، پسر-که-زنده-ماند.",
+    "id": 24,
+    "verbatim_html": [
+      "After some pondering, Harry wrote down:",
+      "<em>Dear Ministry grader: I'm afraid the real answer to that is\na secret, but rest assured that a Bogeysnake would present no more\ntrouble to me than a mountain troll, a Dementor, or You-Know-Who.\nPlease inform your superiors that I find your standard answer\nprejudicial to Muggleborns, and that I expect this failing will be\ncorrected at once without any need for my direct\nintervention.</em>",
+      "<em>Sincerely, the Boy-Who-Lived.</em>"
+    ]
+  },
+  {
+    "paras": [
+      45
+    ],
+    "summary_en": "Harry signs the last parchment with a flourish, stacks it and puts down his quill.",
+    "summary_fa": "هری آخرین پوسته را با تموجی فراخ امضا می‌کند، آن را به پشته‌اش می‌گذارد و قلمش را زمین می‌گذارد.",
+    "translation_fa": "هری آخرین پوسته را با تموجی فراخ امضا کرد، آن را به پشتهاش برگرداند، قلمش را گذاشت و راست نشست.",
+    "id": 25,
+    "verbatim_html": [
+      "Harry signed the last parchment with a broad flourish, turned it\nover into his stack, put down his quill, and sat up."
+    ]
+  },
+  {
+    "paras": [
+      46
+    ],
+    "summary_en": "Quirrell seems to look his way though his head has nodded aside; the other students keep writing even as some cry silently — fighting on was also a lesson.",
+    "summary_fa": "کوییرل به نظر می‌رسد به سوی او نگاه می‌کند هرچند سرش کج افتاده؛ بقیهٔ دانش‌آموزان با اینکه برخی بی‌صدا گریه می‌کنند همچنان می‌نویسند — ادامه دادن به جنگیدن هم درسی بود.",
+    "translation_fa": "هری دوری نگاه کرد و دید پروفسور کوییرل ظاهراً در جهت او را نگاه میکرد، هرچند سر استاد دفاع به یک سو افتاده بود. دانشآموزان دیگر هنوز مینوشتند. برخی بیصدا گریه میکردند، اما هنوز مینوشتند. ادامه دادن به جنگیدن هم درسی بود که پروفسور کوییرل آموخته بود.",
+    "id": 26,
+    "verbatim_html": [
+      "Looking around, Harry saw that Professor Quirrell seemed to be\nlooking in his rough direction, though the Defense Professor's head\nhad nodded to one side. The other students were still writing. Some\nof them were silently crying, but they were still writing.\n<em>Continuing to fight</em> was also a lesson Professor Quirrell\nhad taught."
+    ]
+  },
+  {
+    "paras": [
+      47,
+      48
+    ],
+    "summary_en": "When time is up a seventh-year collects the exams in Quirrell's place, and Quirrell sits up straight.",
+    "summary_fa": "وقتی زمان تمام می‌شود سالهفتمی‌ای امتحان‌ها را به‌جای کوییرل جمع می‌کند و کوییرل راست می‌نشیند.",
+    "translation_fa": "بینهایت بعد، زمان رسمی امتحان تمام شد. دانشآموزی سالهفتم میز به میز رفت و بهجای پروفسور کوییرل امتحانها را جمع کرد.\n\nآخرین پوستهٔ امتحان جمع شد و پروفسور کوییرل راست نشست.",
+    "id": 27,
+    "verbatim_html": [
+      "Interminably later, the official exam time was up. A\nseventh-year student went from desk to desk, collecting the exams\nin Professor Quirrell's place.",
+      "The last exam parchment was collected, and Professor Quirrell\nsat up straight."
+    ]
+  },
+  {
+    "paras": [
+      49
+    ],
+    "summary_en": "Quirrell explains, through the seventh-year's amplifying wand, that though Hogwarts grades usually come in June, he has magically graded this exam and written their full-year grades on parchments to be handed out.",
+    "summary_fa": "کوییرل با چوبدستی تقویت‌کنندهٔ سالهفتمی توضیح می‌دهد که هرچند نمره‌های هاگوارتز معمولاً در ژوئن می‌آید، او این امتحان را جادویی نمره داده و نمره‌های سال کامل را روی پوسته‌هایی نوشته که تحویل داده می‌شود.",
+    "translation_fa": "«دانشآموزان جوان من،» آرام گفت. دانشآموز سالهفتم چوبدستیاش را به سوی دهان استاد دفاع گرفته بود، تا همه صدایش را درست کنار خود حس کنند. «میدانم... که احتمالاً برای برخی از شما بسیار هولناک به نظر میرسید... این نوع ترس با روبهرو شدن با چوبدستی دشمن تفاوت دارد... باید جداگانه بر آن چیره شوید. پس من... این را اکنون به شما میگویم. رسم هاگوارتز این است... که نمرهها در هفتهٔ دوم ژوئن داده شوند. اما در مورد من... گمانم بتوانند استثنا قائل شوند.» استاد دفاع لبخند خشک آشنایش را زد، که اکنون آشکارا با گریماس سرکوبشدهای آمیخته بود. «میدانم نگران هستید... که برای این امتحان آماده نبودید... که درسهای من این مطالب را پوشش نداده... و کاملاً فراموش کردم اشاره کنم... که نزدیک است... هرچند باید میدانستید... که بهموقع میآید. اما همین حالا بهصورت جادویی پاسخهای دادهاید روی آن... بسیار بسیار مهم... را بررسی کردم... هرچند البته فقط نمرهٔ وزارت رسمی است... و نمرههای سال کامل شما را با در نظر گرفتن نتایج تعیین کردم... و نمرههای کاملتان را بهصورت جادویی روی این پوستهها نوشتم،» پروفسور کوییرل به پشتهٔ پوستهای کنار میزش زد، «که اکنون تحویل داده میشود... طلسمی باورنکردنی... نه؟»",
+    "id": 28,
+    "verbatim_html": [
+      "\"My young students,\" he said softly. The seventh-year student\nhad her wand trained on the Defense Professor's mouth, so that they\nall heard his voice seeming to come from right beside them. \"I\nknow... that probably seemed very fearsome to some of you... it is\na different kind of fear from facing the enemy's wand... you must\nconquer it separately. So I... shall tell you this now. It is the\ncustom of Hogwarts... that grades are given in the second week of\nJune. But for my case... they can make an exception, I think.\" The\nDefense Professor smiled his familiar dry smile, tinged now as\nthough by a suppressed grimace. \"I know you are worried... that you\nwere not prepared for this exam... that my lessons have not covered\nthis material... and I quite forgot to mention... that it was\napproaching... though you should have known... it would come in\ntime. But I have just now magically checked... the answers you have\ngiven on that... terribly, terribly important final exam... though\nof course only the Ministry grade is official... and assigned your\nfull-year grades taking the results into account... and magically\nwritten your full grades down on these parchments,\" Professor\nQuirrell tapped a stack of parchments on the side of his desk,\n\"which will now be handed out... an incredible spell... is it\nnot?\""
+    ]
+  },
+  {
+    "paras": [
+      50
+    ],
+    "summary_en": "Some Ravenclaws look indignant but most are relieved, some Slytherins chuckle; Harry would laugh if not for the pain of watching Quirrell gasp the words.",
+    "summary_fa": "برخی ریونکلاوها خشمگین به نظر می‌رسند اما بیشتر آسوده‌اند و برخی اسلیترین‌ها زیر لب می‌خندند؛ هری می‌خندید اگر درد تماشای نفس‌بریدگی کوییرل نبود.",
+    "translation_fa": "چند دانشآموز در بخش ریونکلاو خشمگین به نظر میرسیدند، اما بیشتر دانشآموزان فقط آسوده شدند و برخی اسلیترینها زیر لب میخندیدند. هری هم میخندید، اگر درد تماشای کوییرل که این واژهها را با نفسبریدگی بیرون میداد نبود.",
+    "id": 29,
+    "verbatim_html": [
+      "A few students on the Ravenclaw side were looking indignant, but\nfor the most part the students just looked relieved, and some\nSlytherins were chuckling. Harry would have laughed too, if not for\nthe pain of watching Professor Quirrell gasp out the words."
+    ]
+  },
+  {
+    "paras": [
+      51
+    ],
+    "summary_en": "The seventh-year points her wand, speaks pseudo-Latin, and the parchments drift through the air to each student.",
+    "summary_fa": "سالهفتمی چوبدستی‌اش را نشانه می‌گیرد، لاتین دروغین می‌خواند و پوسته‌ها در هوا به سوی هر دانش‌آموز شناور می‌شوند.",
+    "translation_fa": "دانشآموز سالهفتمی که کنار پروفسور کوییرل ایستاده بود چوبدستیاش را نشانه گرفت و وردی به لاتین جادویی دروغین گفت. پوستهها بالا آمدند و شروع کردند در هوا شناور شوند، در میان راه جدا شده و به سوی هر دانشآموز رانده شدند.",
+    "id": 30,
+    "verbatim_html": [
+      "The seventh-year student standing beside Professor Quirrell\npointed her wand and spoke an incantation in magical pseudo-Latin.\nThe parchments rose up and started to drift through the air,\nseparating in mid-flow to drift toward each student."
+    ]
+  },
+  {
+    "paras": [
+      52,
+      53
+    ],
+    "summary_en": "Harry's parchment reads EE+, Exceeds Expectations, the second-highest grade after Outstanding.",
+    "summary_fa": "پوستهٔ هری EE+ می‌خواند، «فراتر از انتظارات»، دومین نمرهٔ بالاتر پس از «برجسته».",
+    "translation_fa": "هری صبر کرد تا پوستهاش روی میزش رسید، سپس بازش کرد.\n\nپوسته میگفت EE+، که مخفف «فراتر از انتظارات» بود. دومین نمرهٔ بالاترین بود، و بالاترین «برجسته» بود.",
+    "id": 31,
+    "verbatim_html": [
+      "Harry waited until his parchment had arrived on his desk, and\nthen unfolded it.",
+      "The parchment said EE+, which stood for Exceeds Expectations. It\nwas the second-highest grade letter, the highest being\nOutstanding."
+    ]
+  },
+  {
+    "paras": [
+      54
+    ],
+    "summary_en": "In another vanished world young Harry would have raged at the second-highest grade; this Harry wonders whether Quirrell means he did well but not his best, or that he literally exceeded expectations.",
+    "summary_fa": "در جهانی دیگر و ناپدیدشده، هری کوچک از دومین نمرهٔ بالاتر خشمگین می‌شد؛ این هری می‌اندیشد آیا کوییرل می‌گوید خوب عمل کرده اما نه در حد تمام توانش، یا واقعاً از انتظارات فراتر رفته.",
+    "translation_fa": "در جهانی دیگر، جهانی دور و ناپدیدشده، پسرکی به نام هری از اینکه فقط دومین نمرهٔ بالاتر را گرفته با خشم فریاد میکشید. این هری آرام نشست و اندیشید. پروفسور کوییرل داشت نکتهای را میرساند، و حرف دقیق نمره در هیچ شکل دیگری اهمیت نداشت. آیا پروفسور کوییرل میگفت هری نسبتاً خوب عمل کرده اما به تمام توانش نرسیده؟ یا نمره را باید تحتاللفظی خواند، که هری در واقع از انتظارات استاد دفاع فراتر رفته بود؟",
+    "id": 32,
+    "verbatim_html": [
+      "In another world, a distant vanished world, a little boy named\nHarry would have shouted with indignation about receiving only the\nsecond-highest grade. This Harry sat quietly and thought. Professor\nQuirrell was making some point, and it wasn't as though the exact\ngrade letter mattered in any other way. Was Professor Quirrell\nsaying that Harry had done relatively well, but not lived up to his\nfull potential? Or was the grade meant to be read literally, that\nHarry had in fact exceeded the Defense Professor's\nexpectations?"
+    ]
+  },
+  {
+    "paras": [
+      55
+    ],
+    "summary_en": "Quirrell announces that every first-year Battle Magic student passed except one.",
+    "summary_fa": "کوییرل اعلام می‌کند که هر دانش‌آموز سال اول نبرد جادویی قبول شده جز یکی.",
+    "translation_fa": "«همهٔ شما... قبول میشوید،» پروفسور کوییرل گفت، در حالی که دانشآموزان به نمرههای نهاییشان نگاه میکردند و آههای آسودگی از میزها برمیخاست و لاوندر براون پوستهاش را در مشتی گرهکرده بالا میبرد. «هر دانشآموز سال اول نبرد جادویی قبول شده... جز یکی.»",
+    "id": 33,
+    "verbatim_html": [
+      "\"All of you... pass,\" Professor Quirrell said, as the students\nall looked at their final grades, as sighs of relief rose from\ndesks and Lavender Brown raised her parchment in a clenched fist\nheld high with triumph. \"Every student in first-year Battle Magic\nhas passed... except for one.\""
+    ]
+  },
+  {
+    "paras": [
+      56,
+      57
+    ],
+    "summary_en": "Students look up in terror; Harry knows the point and that Quirrell will never be talked out of making it.",
+    "summary_fa": "دانش‌آموزان با ترس سر برمی‌دارند؛ هری نکته را می‌داند و می‌داند کوییرل هرگز از رساندنش منصرف نمی‌شود.",
+    "translation_fa": "شماری از دانشآموزان با ترسی ناگهانی سر برداشتند.\n\nهری بیصدا نشست. او نکته را بیدرنگ دیده بود، و حتی اگر نکتهٔ نادرستی بود، میدانست پروفسور کوییرل هرگز، هرگز از رساندنش منصرف نمیشود.",
+    "id": 34,
+    "verbatim_html": [
+      "A number of students looked up in sudden terror.",
+      "Harry sat there silently. He had seen the point immediately, and\neven if it was a wrong point, he knew Professor Quirrell would\nnever, ever be talked out of making it."
+    ]
+  },
+  {
+    "paras": [
+      58
+    ],
+    "summary_en": "All present earned at least Acceptable; Neville, tested at the Longbottom home, earned Outstanding; but the absent student — Granger — got a Dreadful for failing the only important test.",
+    "summary_fa": "همهٔ حاضرین دست‌کم «قابل قبول» گرفتند؛ نویل که در خانهٔ لانگباتم آزمون داد «برجسته» گرفت؛ اما دانش‌آموز غایب — گرنجر — برای شکست در تنها آزمون مهم نمرهٔ «هولناک» گرفت.",
+    "translation_fa": "«همهٔ حضار در این اتاق... نمرهٔ دستکم «قابل قبول» گرفتهاند. نویل لانگباتم... که این آزمون را در خانهٔ لانگباتم داد... نمرهٔ «برجسته» گرفت. اما دانشآموز دیگر که اینجا نیست... در کارنامهاش نمرهٔ «هولناک» ثبت شده... برای شکست در تنها آزمون مهمی... که امسال به او داده شد. نمرهٔ حتی پایینتری به او میدادم... اما آن بیتذوق میبود.»",
+    "id": 35,
+    "verbatim_html": [
+      "\"All of you in this room... have received grades of at least\nAcceptable. Neville Longbottom... who took this test in the\nLongbottom home... received a grade of Outstanding. But the other\nstudent who is not here... has had a Dreadful grade entered on her\nrecord... for failing the only important test... that was given her\nthis year. I would have marked her even lower... but that would\nhave been in poor taste.\""
+    ]
+  },
+  {
+    "paras": [
+      59
+    ],
+    "summary_en": "The room is very quiet, though some students stare angrily at the Professor.",
+    "summary_fa": "اتاق بسیار ساکت است، هرچند برخی دانش‌آموزان خشمگین به پروفسور خیره می‌شوند.",
+    "translation_fa": "اتاق بسیار ساکت بود، هرچند شماری از دانشآموزان با خشم به پروفسور خیره شده بودند.",
+    "id": 36,
+    "verbatim_html": [
+      "The room was very quiet, though a number of students were\nstaring angrily at the Professor."
+    ]
+  },
+  {
+    "paras": [
+      60
+    ],
+    "summary_en": "Quirrell anticipates the objection: they may think a Dreadful unfair, since Granger's lessons had not prepared her and she was not told the exam was coming.",
+    "summary_fa": "کوییرل اعتراض را پیش‌بینی می‌کند: شاید «هولناک» را ناعادلانه بدانند، چون درس‌های گرنجر آماده‌اش نکرده و به او گفته نشده بود امتحان می‌آید.",
+    "translation_fa": "«ممکن است بپندارید نمرهٔ هولناک... منصفانه نیست. که خانم گرنجر با آزمونی روبهرو شد... که درسهایش برایش آماده نکرده بودند. که به او گفته نشد... که آن روز امتحان میآید.»",
+    "id": 37,
+    "verbatim_html": [
+      "\"You may think that a grade of Dreadful... is not fair. That\nMiss Granger was faced with a test... for which her lessons... had\nnot prepared her. That she was not told... that the exam was coming\non that day.\""
+    ]
+  },
+  {
+    "paras": [
+      61,
+      62
+    ],
+    "summary_en": "'Such is realism,' Quirrell says: the important test may come anytime. Those with EE or above get his letters of recommendation to organizations beyond Britain; the rest must train themselves, for they cannot rely on future Defense professors.",
+    "summary_fa": "کوییرل می‌گوید «واقع‌گرایی چنین است»: آزمون مهم هر زمان ممکن است بیاید. کسانی که «فراتر از انتظارات» یا بالاتر دارند نامهٔ توصیهٔ او به سازمان‌هایی فراتر از بریتانیا را می‌گیرند؛ بقیه باید خودشان را آموزش دهند، چون نمی‌توان به استادان دفاع آینده تکیه کرد.",
+    "translation_fa": "استاد دفاع نفسی لرزان درون کشید.\n\n«واقعگرایی چنین است،» پروفسور کوییرل گفت. «تنها آزمون مهم... ممکن است هر زمان بیاید... بهتر از او برایش آماده باشید. و در مورد بقیهٔ شما... کسانی که «فراتر از انتظارات» یا بالاتر دریافت کردهاند... نامههای توصیهٔ من را دریافت کردهاند... به سازمانهایی خاص فراتر از کرانههای بریتانیا... که در آنجا آموزشتان میتواند کامل شود. آنها وقتی به سن کافی رسیدید با شما تماس میگیرند... اگر هنوز شایسته به نظر برسید... و در آزمون مهمی شکست نخورده باشید. و به یاد داشته باشید... از امروز... باید خودتان را آموزش دهید... نمیتوانید به استادان دفاع آینده تکیه کنید. سال اول نبرد جادویی شما تمام شد... مرخصید.»",
+    "id": 38,
+    "verbatim_html": [
+      "The Defense Professor drew in a shaking breath.",
+      "\"Such is realism,\" said Professor Quirrell. \"The only important\ntest... may come at any time... be better prepared for it... than\nshe was. As for the rest of you... those who have received Exceeds\nExpectations or above... have received my letters of\nrecommendation... to certain organizations beyond Britain's\nshores... where your training might be completed. They will contact\nyou... when you are old enough... if you still appear worthy... and\nif you have not failed an important test. And remember... from this\nday... you must train yourselves... you cannot rely... on future\nDefense professors. Your first year of Battle Magic is over... you\nare dismissed.\""
+    ]
+  },
+  {
+    "paras": [
+      63
+    ],
+    "summary_en": "Quirrell sits back with closed eyes, seeming to ignore the excited babble.",
+    "summary_fa": "کوییرل با چشمان بسته به عقب می‌نشیند و به نظر می‌رسد غوغا را نادیده می‌گیرد.",
+    "translation_fa": "پروفسور کوییرل با چشمان بسته به عقب نشست و به نظر رسید غوغای هیجانی که حولش برخاست را نادیده میگیرد.",
+    "id": 39,
+    "verbatim_html": [
+      "Professor Quirrell sat back with his eyes closed, seeming to\nignore the excited babble that broke out around him."
+    ]
+  },
+  {
+    "paras": [
+      64,
+      65
+    ],
+    "summary_en": "Eventually most students leave, and one remains at the prescribed distance; Quirrell opens his eyes.",
+    "summary_fa": "سرانجام بیشتر دانش‌آموزان می‌روند و یکی در فاصلهٔ مقرر می‌ماند؛ کوییرل چشمانش را باز می‌کند.",
+    "translation_fa": "با گذر زمان بیشتر دانشآموزان رفتند و یکی ماند، در فاصلهٔ مقرر از استاد دفاع.\n\nاستاد دفاع چشمانش را باز کرد.",
+    "id": 40,
+    "verbatim_html": [
+      "In time most of the students had departed, and one remained,\nstaying a prescribed distance from the Defense Professor.",
+      "The Defense Professor opened his eyes."
+    ]
+  },
+  {
+    "paras": [
+      66,
+      67,
+      68
+    ],
+    "summary_en": "Harry silently raises the EE+ parchment; Quirrell smiles to his tired eyes and says it is the same grade he received in his own first year.",
+    "summary_fa": "هری بی‌صدا پوستهٔ EE+ را بالا می‌گیرد؛ کوییرل تا چشمان خسته‌اش لبخند می‌زند و می‌گوید همان نمره‌ای است که خودش در سال اولش گرفت.",
+    "translation_fa": "هری پوسته را با EE+ بال گرفت، همچنان بیصدا.\n\nاستاد دفاع لبخند زد و لبخند تا آن چشمان خسته رفت.\n\n«همان نمرهای است... که خودم در سال اولم گرفتم.»",
+    "id": 41,
+    "verbatim_html": [
+      "Harry raised the parchment with its <em>EE+,</em> still\nsilent.",
+      "The Defense Professor smiled, and it went all the way to those\ntired eyes.",
+      "\"It is the same grade... that I received in my own first\nyear.\""
+    ]
+  },
+  {
+    "paras": [
+      69
+    ],
+    "summary_en": "The words 'thank you' stick in Harry's closed throat; Quirrell stares inquiringly, so Harry bows jerkily and leaves.",
+    "summary_fa": "واژه‌های «متشکرم» در گلوی بستهٔ هری گیر می‌کند؛ کوییرل پرسشگر نگاه می‌کند، پس هری تکان خشکی تعظیم می‌کند و می‌رود.",
+    "translation_fa": "«ت، ت، ت،» هری نمیتوانست واژههای «متشکرم» را بیرون بیاورد، در گلوی ناگهان بستهاش گیر کرده بودند، استاد دفاع سرش را کج کرد و نگاهی پرسشگر به او انداخت، پس هری فقط تکانهای خشکی تعظیم کرد و سپس اتاق را ترک کرد.",
+    "id": 42,
+    "verbatim_html": [
+      "\"Th, th, th,\" Harry couldn't make the words <em>thank you</em>\ncome out, they were stuck in his suddenly closed throat, the\nDefense Professor tilting his head and giving him an inquiring\nstare, so Harry just bowed jerkily and then left the room."
+    ]
+  }
+]
