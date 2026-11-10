@@ -38,6 +38,11 @@ CHAPTERS = {
     103: ("Tests", "20260703063913"),
     104: ("The Truth, Pt 1, Riddles and Answers", "20261009085954"),
     105: ("The Truth, Pt 2", "20261010232329"),
+    106: ("The Truth, Pt 3", "20261011035202"),
+    107: ("The Truth, Pt 4", "20261011080120"),
+    108: ("The Truth, Pt 5, Answers and Riddles", "20261021121926"),
+    109: ("Reflections", "20261010225917"),
+    110: ("Reflections, Pt 2", "20261021121926"),
 }
 
 
