@@ -48,6 +48,13 @@ CHAPTERS = {
     113: ("Final Exam", "20261003224343"),
     114: ("Shut Up and Do The Impossible", "20261003224354"),
     115: ("Shut Up and Do The Impossible, Pt 2", "20260604170459"),
+    116: ("Aftermath, Something to Protect, Pt 0", "20260720011354"),
+    117: ("Something to Protect: Minerva McGonagall", "20260926165651"),
+    118: ("Something to Protect: Professor Quirrell", "20260604173103"),
+    119: ("Something to Protect: Albus Dumbledore", "20261003224412"),
+    120: ("Something to Protect: Draco Malfoy", "20261003224401"),
+    121: ("Something to Protect: Severus Snape", "20260801154841"),
+    122: ("Something to Protect: Hermione Granger", "20260926165650"),
 }
 
 
